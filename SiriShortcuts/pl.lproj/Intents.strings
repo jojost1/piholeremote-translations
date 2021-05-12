@@ -1,38 +1,37 @@
-"52ZpIp" = "Enable blocking of all Pi-hole instances.";
+"52ZpIp" = "Włącz blokowanie wszystkich instancji Pi-hole.";
 
-"5NF9k6" = "Blocking is disabled.";
+"5NF9k6" = "Blokowanie jest wyłączone.";
 
-"5ojS3R" = "Disable Blocking";
+"5ojS3R" = "Wyłącz blokowanie";
 
-"9FPMmR" = "${displayName} can’t be negative.";
+"9FPMmR" = "${displayName} nie może być ujemne.";
 
-"DV9FMe" = "${displayName} can’t be lower than ${minimumValue}.";
+"DV9FMe" = "${displayName} nie może być mniejsze niż ${minimumValue}.";
 
-"DWtISX" = "Disable Pi-hole blocking for ${duration} seconds on all instances";
+"DWtISX" = "Wyłącz blokowanie Pi-hole na ${duration} sekund dla wszystkich instancji";
 
-"M5KC9R" = "${displayName} can’t be higher than ${maximumValue}.";
+"M5KC9R" = "${displayName} nie może być większe niż ${maximumValue}.";
 
-"NCc7a7" = "Duration (seconds)";
+"NCc7a7" = "Czas trwania (sekundy)";
 
-"ONPW00" = "Something went wrong.";
+"ONPW00" = "Coś poszło nie tak.";
 
-"Q3m6RA" = "Enable Blocking";
+"Q3m6RA" = "Włącz blokowanie";
 
-"ReHHsS" = "For what duration (in seconds)?";
+"ReHHsS" = "Na jaki czas (w sekundach)?";
 
-"ReQD4w" = "Enable Pi-hole blocking on all instances";
+"ReQD4w" = "Włącz blokowanie Pi-hole we wszystkich instancjach";
 
-"WEZcVp" = "Something went wrong.";
+"WEZcVp" = "Coś poszło nie tak.";
 
-"ZGxE4l" = "Blocking is enabled.";
+"ZGxE4l" = "Blokowanie jest włączone.";
 
-"bsYmWU" = "Blocking is enabled.";
+"bsYmWU" = "Blokowanie jest włączone.";
 
-"fh8rEK" = "Disable blocking of all Pi-hole instances for a certain duration.";
+"fh8rEK" = "Wyłącz blokowanie wszystkich instancji Pi-hole na określony czas.";
 
-"qJR6Qa" = "Result";
+"qJR6Qa" = "Wynik";
 
-"y2Dkc8" = "Result";
+"y2Dkc8" = "Wynik";
 
-"zI7r5m" = "Blocking is disabled.";
-
+"zI7r5m" = "Blokowanie jest wyłączone.";
