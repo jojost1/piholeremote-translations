@@ -1,0 +1,518 @@
+/* 
+  Localizable.strings
+  Pi-hole Remote
+
+  Created by Joost van den Akker on 10/05/2021.
+  Copyright © 2021 RocketScience. All rights reserved.
+*/
+
+// MARK: - TabView
+"tab_home" = "Home";
+"tab_statistics" = "Statistieken";
+"tab_querylog" = "Query Log";
+"tab_lists" = "Lijsten";
+"tab_settings" = "Instellingen";
+
+// MARK: - Home-tab
+"home_navbar" = "Pi-hole Remote";
+"home_total_queries" = "Queries Totaal";
+"home_queries_blocked" = "Queries Geblokkeerd";
+"home_percent_blocked" = "Percentage Geblokkeerd";
+"home_blocklist" = "Blokkeerlijst";
+"home_refreshing_dots" = "Laden...";
+"home_no_response" = "Geen Reactie";
+"home_not_responding" = "Geen Reactie";
+"home_disable" = "Schakel uit";
+"home_disable_all" = "Schakel allen uit";
+"home_disable_blocking" = "Schakel blokkeren uit";
+"home_disable_blocking_pihole" = "Schakel Pi-hole blokkeren uit";
+"home_disable_blocking_alert_%@" = "Hoe lang wil je blokkeren uitschakelen voor %@?";
+"home_enable" = "Schakel in";
+"home_enable_all" = "Schakel allen in";
+"home_enable_blocking" = "Schakel blokkeren in";
+"home_enable_blocking_pihole" = "Schakel Pi-hole blokkeren in";
+"home_enable_blocking_alert_%@" = "Weet je zeker dat je blokkeren wil inschakelen voor %@?";
+"home_enable_%@_disabled_until_%@" = "Schakel in (%@uitgeschakeld tot %@)";
+"home_data_from_%@" = "Data van %@";
+"home_update_gravity" = "Update Gravity";
+"home_update_gravity_explainer" = "Ga naar /admin/gravity voor welke instance?";
+"home_update_gravity_alert_body_%@" = "Gravity is laatst geüpdatet op %@";
+"home_update_gravity_alert_button" = "Update Gravity (Web Interface)";
+"home_update_available" = "Update beschikbaar!";
+"home_update_available_alert_body" = "Je kan updaten met de command line interface met dit commando:\n\npihole -up";
+
+// MARK: Usage Metrics
+"usage_metrics_navbar" = "Gebruiksstatistieken";
+"usage_metrics_temperature" = "Temperatuur";
+"usage_metrics_cpu" = "CPU";
+"usage_metrics_cpu_usage" = "CPU Gebruik";
+"usage_metrics_cpu_core" = "1 core";
+"usage_metrics_cpu_cores_%lld" = "%lld cores";
+"usage_metrics_cpu_1min" = "Laatste 1 minuut";
+"usage_metrics_cpu_5min" = "Laatste 5 minuten";
+"usage_metrics_cpu_15min" = "Laatste 15 minuten";
+"usage_metrics_cpu_usage_alert" = "Deze percentages laten het gemiddelde CPU gebruik zien van de laatste paar minuten.\n\nDe standaard regel is dat 70% 'gezond' is. Als je consistent boven die 70% zit, kan het slim zijn om je hardware te upgraden.";
+"usage_metrics_memory" = "Werkgeheugen";
+"usage_metrics_data_from_%@" = "\nData van: %@";
+"usage_metrics_error" = "Fout bij het ophalen van data.";
+
+// MARK: Custom Disable
+"disable_navbar" = "Blokkeren Uitschakelen";
+"disable_duration" = "Duur";
+"disable_duration_placeholder_%@" = "Duur in %@";
+"disable_until" = "Tot";
+"disable_until_dots" = "Tot...";
+"disable_time_unit" = "Tijdseenheid";
+"disable_notifications" = "Notificaties";
+"disable_alert_on_blocking_enabled" = "Melding bij blokkeren ingeschakeld";
+
+// MARK: - Statistics-tab
+"statistics_navbar" = "Statistieken";
+"statistics_queries" = "Queries";
+"statistics_segments_10min" = "Segmenten van 10min";
+"statistics_loading_graph" = "Grafiek laden...";
+"statistics_now" = "nu";
+"statistics_top_allowed" = "Top Toegestaan";
+"statistics_top_allowed_navbar" = "Toegestane domeinen";
+"statistics_top_blocked" = "Top Geblokeerd";
+"statistics_top_blocked_navbar" = "Geblokkeerde domeinen";
+"statistics_top_clients" = "Top Cliënten";
+"statistics_top_clients_navbar" = "Cliënten";
+"statistics_unique_domains_%@" = "Unieke domeinen: %@";
+"statistics_unique_clients_%@" = "Unieke cliënten: %@";
+"statistics_unique_clients_ever_seen_%@" = "Cliënten ooit gezien: %@";
+"statistics_version" = "Versie";
+"statistics_pihole" = "Pi-hole";
+"statistics_pihole_colon" = "Pi-hole:";
+"statistics_adminlte" = "AdminLTE";
+"statistics_adminlte_colon" = "AdminLTE:";
+"statistics_ftl" = "FTL";
+"statistics_ftl_colon" = "FTL:";
+"statistics_api" = "API";
+"statistics_api_type" = "API Type";
+"statistics_api_type_colon" = "API Type:";
+"statistics_api_version" = "API Versie";
+"statistics_api_version_colon" = "API Versie:";
+"statistics_dns_cache" = "DNS Cache";
+"statistics_dns_cache_size" = "Cache grootte:";
+"statistics_dns_cache_evictions" = "Cache verwijderingen:";
+"statistics_dns_cache_inserted" = "Cache invoegingen:";
+"statistics_github" = "Github";
+"statistics_update_explainer" = "Je kan updaten met de command line interface met het commando 'pihole -up'.";
+"statistics_update_explainer_%@" = "Je kan updaten met de command line interface met het commando %@ .";
+
+// MARK: Graphs
+"graphs_navbar" = "Grafieken";
+"graphs_allowed" = "Toegestaan";
+"graphs_blocked" = "Geblokkeerd";
+"graphs_query_types" = "Query Types";
+
+// MARK: - QueryLog-tab
+"querylog_navbar" = "Query Log";
+"querylog_filter" = "Filter";
+"querylog_filtered" = "Gefilterd";
+"querylog_sidebar_explainer" = "Selecteer een query links om details te zien.";
+"querylog_status_unknown" = "Onbekend";
+"querylog_status_gravity" = "Gravity";
+"querylog_status_upstream" = "Upstream Server";
+"querylog_status_local" = "Lokale Cache";
+"querylog_status_blacklist_regex" = "Regex Blacklist";
+"querylog_status_blacklist_regex_cname" = "Regex Blacklist (CNAME)";
+"querylog_status_blacklist_exact" = "Exacte Blacklist";
+"querylog_status_blacklist_exact_cname" = "Exacte Blacklist (CNAME)";
+"querylog_status_upstream_ip" = "Upstream Server (IP)";
+"querylog_status_upstream_0000" = "Upstream Server (0.0.0.0 or ::)";
+"querylog_status_upstream_nxdomain" = "Upstream Server (NXDOMAIN)";
+"querylog_status_gravity_cname" = "Gravity (CNAME)";
+"querylog_status_retried" = "Opnieuw Geprobeerd";
+"querylog_status_retried_dnssec" = "Opnieuw Geprobeerd (DNSSEC)";
+"querylog_status_already_forwarded" = "Al Doorgestuurd";
+"querylog_min" = "Min:";
+"querylog_max" = "Max:";
+"querylog_avg" = "Gem:";
+"querylog_type" = "Type:";
+"querylog_reply" = "Antwoord:";
+
+// MARK: QueryLog Filter
+"querylog_filter_number_of_queries" = "Aantal Queries";
+"querylog_filter_number_of_queries_footer" = "Voor elke instantie. Zoeken kan langer duren bij een groter aantal queries.";
+"querylog_filter_status" = "Status";
+"querylog_filter_status_all" = "Alle";
+"querylog_filter_status_allowed" = "Toegestaan";
+"querylog_filter_status_allowed_only" = "Alleen Toegestaan";
+"querylog_filter_status_blocked" = "Geblokkeerd";
+"querylog_filter_status_blocked_only" = "Alleen Geblokkeerd";
+"querylog_filter_sort" = "Sorteer";
+"querylog_filter_sort_new_old" = "Nieuw > Oud";
+"querylog_filter_sort_old_new" = "Oud > Nieuw";
+"querylog_filter_other" = "Overig";
+"querylog_filter_other_footer" = "Laat query type, antwoord en reactietijd (ms) zien.";
+"querylog_filter_show_detail" = "Laat detail zien";
+"querylog_filter_hide_detail" = "Verberg detail";
+"querylog_filter_preserve_filter_footer" = "Sla filter opties op bij het herstarten van de app.";
+"querylog_filter_save_filters" = "Filters opslaan";
+
+// MARK: QueryLog Detail
+"querylog_detail_navbar" = "Query";
+"querylog_detail_client" = "Cliënt";
+"querylog_detail_request" = "Request";
+"querylog_detail_type" = "Type";
+"querylog_detail_response" = "Reply";
+"querylog_detail_reply" = "Antwoord";
+"querylog_detail_responsetime" = "Reactietijd";
+"querylog_detail_upstream" = "Upstream";
+"querylog_detail_cname" = "CNAME Domein";
+"querylog_detail_id_blocking_regex" = "ID van Blocking Regex";
+
+// MARK: QueryLog LiveLog
+"livelog" = "Live Log";
+"livelog_navbar" = "Live Log";
+"livelog_noqueriesfoundyet" = "Nog geen queries gevonden...";
+
+// MARK: - Lists-tab
+"lists_navbar" = "Lijsten";
+"lists_entry" = "Item";
+"lists_list" = "Lijst";
+"lists_blacklist" = "Blacklist";
+"lists_blacklist_regex" = "Blacklist (Regex)";
+"lists_whitelist" = "Whitelist";
+"lists_whitelist_regex" = "Whitelist (Regex)";
+"lists_domain" = "Domein";
+"lists_domains" = "Domeinen";
+"lists_regex" = "RegEx";
+"lists_regular_expression" = "Reguliere expressie";
+"lists_added_%@" = "Toegevoegd %@";
+"lists_added_%@_modified_%@" = "Toegevoegd %@ (Bewerkt %@)";
+"lists_disabled" = "Uitgeschakeld";
+"lists_sync_instances" = "Sync Instanties";
+"lists_sort" = "Sorteer";
+"lists_sorting_options" = "Sorteer opties";
+"lists_alphabetically" = "Alfabetisch";
+"lists_date" = "Datum";
+"lists_add_entry" = "Voeg item toe";
+"lists_add_entries_bulk" = "Voeg items toe (bulk)";
+"lists_export_lists" = "Exporteer lijsten";
+"lists_remove_from_list" = "Verwijder van lijst";
+"lists_no_entries_found" = "Geen items gevonden.";
+"lists_no_entries_found_subtitle" = "Je hebt geen items in je lijst.\n\nAls je dat wel zou verwachten: draait je Pi-hole versie 5.1 of nieuwer?";
+
+// MARK: Add Entry
+"lists_addentry_navbar" = "Voeg item toe";
+"lists_addentry_save" = "Voeg Toe";
+"lists_addentry_domain_or_regex" = "Domein of RegEx";
+"lists_addentry_add_as_wildcard" = "Voeg toe als Wildcard";
+"lists_addentry_regex_tutorial_click" = "Klik hier voor een RegEx tutorial.";
+"lists_addentry_regex_tutorial_tap" = "Tap hier voor een RegEx tutorial.";
+"lists_addentry_wildcard_%@" = "Wildcard: %@";
+"lists_addentry_wildcard_alert" = "Voeg domein toe als Wildcard";
+"lists_addentry_wildcard_alert_body" = "Gebruik deze optie als je alle sub-domeinen ook wil meetellen. Het domein dat je invult wordt geconverteerd naar een RegEx filter na het toevoegen.";
+
+// MARK: Add Entry Bulk
+"lists_bulk_navbar" = "Voeg items toe";
+"lists_bulk_save" = "Voeg Toe";
+"lists_bulk_settings" = "Instellingen";
+"lists_bulk_settings_footer" = "Deze instellingen zijn van toepassing op alle nieuwe items.";
+"lists_bulk_domains_or_regex" = "Domeinen of RegEx";
+"lists_bulk_add_as_wildcards" = "Voeg alle toe als Wildcards";
+"lists_bulk_new_entries_%lld" = "Nieuwe items (%lld)";
+"lists_bulk_new_entries_footer" = "Je kan ook meerdere entries toevoegen door een lijst van domeinen te plakken, gescheiden met een nieuwe regel, spatie of komma.";
+"lists_bulk_start" = "Start toevoegen van items";
+"lists_bulk_add_another_entry" = "Voeg nog een item toe";
+"lists_bulk_add_list_entries" = "Voeg lijst items toe";
+"lists_bulk_add_list_entries_alert_%lld_%@" = "Deze actie zal %lld items toevoegen aan je %@. Het toevoegen van veel items tegelijk kan na een tijdje fout gaan, maar na het toevoegen geef ik een optie om de gefaalde items opnieuw te proberen.\n\nWeet je zeker dat je de items toe wil voegen? Hou dit scherm open tijdens het proces!";
+"lists_bulk_add_list_entries_start_adding" = "Start";
+"lists_bulk_adding_entries" = "Items toevoegen...";
+"lists_bulk_adding_entries_%lld_%lld" = "Items toevoegen (%lld/%lld)";
+"lists_bulk_completion_log" = "Log";
+"lists_bulk_keep_screen_open" = "Hou dit scherm open tijdens het proces!";
+"lists_bulk_move_failed" = "Verplaats de gefaalde items opnieuw naar 'Nieuwe items'";
+"lists_bulk_done_added_%lld" = "Klaar! Er zijn %lld items toegevoegd.";
+
+// MARK: Sync Lists
+"lists_sync_navbar" = "Sync Instanties";
+"lists_sync_start_sync" = "Start Sync";
+"lists_sync_start_sync_alert" = "Deze actie zal lijst items van je eerste instantie toevoegen aan je tweede instantie en vice versa. Weet je zeker dat je dit wil doen?";
+"lists_sync_explainer" = "Met deze functie kan je je lijst items synchroniseren tussen twee van je instanties.\n\nBekijk de onderstaande lijsten om er zeker van te zijn dat de synchronisatie doet wat je zou verwachten. Het proces zelf kan even duren of mislukken als u veel items synchroniseert, houd dit scherm open tijdens de synchronisatie.";
+"lists_sync_calculating" = "Uitrekenen...";
+"lists_sync_lists_are_in_sync" = "Lijsten zijn In Sync.";
+"lists_sync_activity_log" = "Log";
+"lists_sync_out_of_sync" = "Out of Sync";
+"lists_sync_in_sync" = "In Sync";
+"lists_sync_none" = "Geen.";
+"lists_sync_entry" = "Sync 1 lijst item";
+"lists_sync_entries_%lld" = "Sync %lld lijst items";
+"lists_sync_cancel_progress_%lld_%lld" = "Annuleer Sync (Voortgang: %lld/%lld)";
+"lists_sync_one_entry" = "1 item";
+"lists_sync_%lld_entries" = "%lld items";
+
+// MARK: Export Lists
+"lists_export_navbar" = "Exporteer Lijsten";
+"lists_export_options" = "Opties";
+"lists_export_separator" = "Scheidingsteken";
+"lists_export_separator_newline" = "Nieuwe regel";
+"lists_export_separator_space" = "Spatie";
+"lists_export_separator_comma" = "Komma ,";
+"lists_export_separator_semicolon" = "Puntkomma ;";
+"lists_export_separator_point" = "Punt .";
+"lists_export_separator_colon" = "Dubbele punt :";
+"lists_export_separator_tab" = "Tab";
+"lists_export_blacklist" = "Blacklist";
+"lists_export_blacklist_regex" = "Blacklist Regex";
+"lists_export_whitelist" = "Whitelist";
+"lists_export_whitelist_regex" = "Whitelist Regex";
+"lists_export_successful" = "Export gelukt";
+"lists_export_successful_copied_%@" = "%@ items zijn gekopieerd naar je klembord.";
+
+// MARK: - Settings-tab
+"settings_navbar" = "Instellingen";
+"settings_add_pihole" = "Voeg Pi-hole toe";
+"settings_add_primary" = "Voeg primaire Pi-hole toe";
+"settings_manage_primary" = "Beheer primaire Pi-hole";
+"settings_add_secondary" = "Voeg secondaire Pi-hole toe";
+"settings_manage_secondary" = "Beheer secondaire Pi-hole";
+"settings_add_third" = "Voeg derde Pi-hole toe";
+"settings_manage_third" = "Beheer Third Pi-hole";
+"settings_add_fourth" = "Voeg vierde Pi-hole toe";
+"settings_manage_fourth" = "Beheer Fourth Pi-hole";
+"settings_combine_in_home" = "Combineer in Home";
+"settings_preferences" = "Voorkeuren";
+"settings_support_development" = "Support Ontwikkeling";
+"settings_home" = "Home";
+"settings_statistics" = "Statistieken";
+"settings_lists" = "Lijsten";
+"settings_design" = "Design";
+"settings_other" = "Overig";
+"settings_force_watch_sync" = "Forceer Apple Watch Sync";
+"settings_force_icloud_sync" = "Forceer iCloud Sync";
+"settings_whats_new" = "Wat is er nieuw?";
+"settings_help" = "Help & Feedback";
+"settings_advanced" = "Geavanceerd";
+"settings_twitter" = "Volg op Twitter";
+"settings_tipjar" = "Fooienpot";
+"settings_tipjar_thankyou" = "Bedankt!";
+"settings_rate" = "Beoordeel Pi-hole Remote";
+"settings_leave_review" = "Laat een beoordeling achter";
+"settings_share" = "Deel Pi-hole Remote";
+"settings_made_by_rocketscience" = "Gemaakt door RocketScience";
+
+// MARK: Edit Instance
+"instance_new_navbar" = "Nieuwe instantie";
+"instance_edit_navbar" = "Bewerk instantie";
+"instance_display_name" = "Weergavenaam";
+"instance_display_name_placeholder" = "Pi-hole";
+"instance_ip_or_hostname" = "IP adres of hostnaam";
+"instance_ip_or_hostname_placeholder" = "raspberrypi";
+"instance_ssl_explainer" = "Gebruik http (standaard) of https?";
+"instance_ssl_http" = "http (standaard)";
+"instance_ssl_https" = "https";
+"instance_port" = "Poort";
+"instance_port_placeholder" = "80";
+"instance_token" = "API Token";
+"instance_token_placeholder" = "a1b2c3d4...";
+"instance_token_explainer" = "Vereist voor in/uitschakelen & statistieken. Als je geen wachtwoord hebt, kan je dit leeglaten.\nJe kan je token vinden in de Web Interface > Settings > API.";
+"instance_token_alert_title" = "Pi-hole API Token";
+"instance_token_alert_body" = "Je kan je Pi-hole API token vinden in de Web Interface.\n\nLog in en ga naar 'Settings > API / Web Interface > Show API token' en je ziet een QR Code die je kan scannen!";
+"instance_token_scan_navbar" = "Scan API Token";
+"instance_token_scan_permission" = "Geef toestemming om de camera te gebruiken in de pop-up of in iOS  Instellingen > Privacy > Camera.";
+"instance_other" = "Overig";
+"instance_reverseproxy" = "Reverse Proxy";
+"instance_reverseproxy_explainer" = "Het aanzetten van 'Reverse Proxy' zal '/admin' weglaten van alle API verzoeken.";
+"instance_hideerrors" = "Verberg Foutmeldingen";
+"instance_test_connection" = "Test verbinding";
+"instance_remove" = "Verwijder instantie";
+"instance_remove_alert_title" = "Verwijder Pi-hole instantie";
+"instance_remove_alert_body" = "Weet je zeker dat je deze instantie wil verwijderen?";
+
+// MARK: Preferences
+"preferences_home_navbar" = "Home";
+"preferences_home_display" = "Weergave";
+"preferences_home_check_for_updates" = "Check voor updates";
+"preferences_home_data_from_label" = "'Data van' label";
+"preferences_home_usage_metrics" = "Gebruiksstatistieken";
+"preferences_home_usage_metrics_vertical" = "Laat statistieken verticaal zien";
+"preferences_home_temperature_unit" = "Temperatuureenheid";
+"preferences_home_disable_blocking_presets" = "Blokkeren instellingen";
+"preferences_home_notifications" = "Notificaties";
+"preferences_home_notifications_footer" = "Stuurt een notificatie zodra blokkeren weer ingeschakeld is (na het uitschakelen van blokkeren).";
+"preferences_home_blocking_enabled" = "Blokkeren ingeschakeld";
+"preferences_home_refresh" = "Ververs";
+"preferences_home_refresh_footer" = "Ververs automatisch iedere 10 seconden wanneer het Home-tab open staat en de app in de voorgrond is.";
+"preferences_home_auto_refresh" = "Ververs automatisch";
+"preferences_statistics_navbar" = "Statistieken";
+"preferences_statistics_graphs" = "Grafieken";
+"preferences_statistics_show_recent_queries" = "Laat 'Recente Queries' zien";
+"preferences_statistics_hours_visible" = "Uren zichtbaar";
+"preferences_statistics_animate_graphs" = "Animatie";
+"preferences_statistics_animation_duration" = "Animatieduur";
+"preferences_statistics_top_domains" = "Top domeinen";
+"preferences_statistics_show_top_allowed" = "Laat 'Top Toegestaan' zien";
+"preferences_statistics_show_top_blocked" = "Laat 'Top Geblokkeerd' zien";
+"preferences_statistics_number_of_domains" = "Aantal domeinen";
+"preferences_statistics_top_clients" = "Top Cliënten";
+"preferences_statistics_show_top_clients" = "Laat 'Top Cliënten' zien";
+"preferences_statistics_number_of_clients" = "Aantal cliënten";
+"preferences_statistics_other" = "Overig";
+"preferences_statistics_other_footer" = "Laat Pi-hole versie, API versie en DNS cache informatie zien.";
+"preferences_statistics_show_other" = "Laat 'Overige' info zien";
+"preferences_lists_navbar" = "Lijsten";
+"preferences_lists_display" = "Weergave";
+"preferences_lists_sort_by" = "Sorteer op";
+"preferences_lists_alphabet" = "Alfabet";
+"preferences_lists_date" = "Datum";
+"preferences_other_navbar" = "Overig";
+"preferences_other_language" = "Taal";
+
+// MARK: Design
+"design_navbar" = "Design";
+"design_colorscheme" = "Kleurenschema";
+"design_tint" = "App Tint";
+"design_tint_blue" = "Blauw";
+"design_tint_indigo" = "Indigo";
+"design_tint_purple" = "Paars";
+"design_tint_teal" = "Teal";
+"design_tint_green" = "Groen";
+"design_tint_yellow" = "Geel";
+"design_tint_orange" = "Oranje";
+"design_tint_pink" = "Roze";
+"design_tint_red" = "Rood";
+"design_icon" = "App Icoon";
+"design_theme" = "Thema";
+"design_system" = "Systeem";
+"design_light_mode" = "Light Mode";
+"design_dark_mode" = "Dark Mode";
+
+// MARK: Tip Jar
+"tipjar_navbar" = "Fooienpot";
+"tipjar_header" = "De fooienpot helpt me direct om Pi-hole Remote te blijven onderhouden en nieuwe features te ontwikkelen.";
+"tipjar_header_2" = "Als je de app tof vindt en deze indie developer (hoi! 👋) wil steunen, kan je een donatie geven. Ik waardeer het enorm!";
+"tipjar_header_3" = "Bedankt voor je steun.\n- Joost";
+"tipjar_tip_coffee" = "Koffie fooi";
+"tipjar_tip_whiskey" = "Whiskey fooi";
+"tipjar_tip_ramen" = "Ramen fooi";
+"tipjar_tip_sushi" = "Sushi fooi";
+"tipjar_blush" = "*bloos*";
+"tipjar_thankyou_tip" = "Bedankt voor je genereuze fooi!";
+"tipjar_thankyou_tips" = "Bedankt voor je genereuze fooien!";
+"tipjar_thankyou_loveyou" = "I love you! ❤️";
+"tipjar_testflight_explainer" = "Note: you're running a TestFlight Build, therefore payments run in Sandbox mode and do not actually process.\n\nIf you want to tip, please download the app from the App Store! After that you can download the beta again. Thanks!";
+"tipjar_payment_success" = "Aankoop Geslaagd!";
+"tipjar_thankyou_alert" = "Super erg bedankt, ik waardeer het echt enorm dat je de app zo goed vindt dat je er zelfs nog een donatie voor wil geven. Super motiverend, bedankt!\n\nJoost";
+
+// MARK: Help & Feedback
+"help_navbar" = "Support";
+"help_faq" = "Veelgestelde vragen";
+"help_faq_short" = "FAQ";
+"help_contact" = "Contacteer me";
+"help_actions" = "Acties";
+"help_actions_icloud" = "Forceer iCloud Sync";
+"help_actions_watch" = "Forceer Watch Sync";
+"help_actions_widgets" = "Forceer Widgets Sync";
+"help_logs" = "Logs";
+"help_logs_footer" = "Logs worden lokaal weggeschreven en verlaten nooit je device. Swipe naar beneden om de log-viewer te sluiten.";
+"help_logs_show" = "Open logs";
+
+// MARK: Changelog
+"changelog_navbar" = "Wat is er nieuw?";
+"changelog_just_updated" = "Net geüpdatet!";
+"changelog_current_version" = "Huidige versie";
+"changelog_continue" = "Ga door";
+"changelog_settings" = "Changelog";
+"changelog_settings_show" = "Laat zien bij app update";
+"changelog_settings_show_footer" = "De Changelog zal alleen getoond worden na een update met nieuwe features, niet voor updates met alleen bugfixes.";
+
+// MARK: Made by RocketScience
+"rocketscience_hi_title" = "Hi, ik ben Joost!";
+"rocketscience_hi_subtitle" = "In juni 2020 ben ik begonnen met het maken van m'n eigen apps als indie ontwikkelaar, onder de naam 'RocketScience IT'.\n\nMijn doel is om te leren: onwerpen, ontwikkelen, testen, support, marketing - misschien nog wel meer! Op dit moment heb ik twee apps in de App Store die ik continue verbeter. Daarnaast heb ik nog veel ideeën voor andere apps die ik wil maken in de toekomst!.";
+"rocketscience_website" = "Website";
+"rocketscience_twitter" = "Twitter";
+"rocketscience_tipjar" = "Fooienpot";
+"rocketscience_tipjar_thankyou" = "Bedankt!";
+"rocketscience_my_other_apps" = "Mijn andere apps";
+"rocketscience_adguardhomeremote_subtitle" = "Net als Pi-hole Remote, maar voor AdGuard Home!";
+"rocketscience_acknoledgements" = "Met dank aan";
+
+// MARK: - Disable Durations
+"seconds" = "seconden";
+"minutes" = "minuten";
+"hours" = "uren";
+"10_seconds" = "10 seconde";
+"30_seconds" = "30 seconde";
+"1_minute" = "1 minuut";
+"5_minutes" = "5 minuten";
+"15_minutes" = "15 minuten";
+"30_minutes" = "30 minuten";
+"1_hour" = "1 uur";
+"8_hours" = "8 uur";
+"24_hours" = "24 uur";
+"until_turned_on" = "Tot weer aangezet";
+"custom" = "Aangepast";
+"custom_dots" = "Aangepast...";
+
+// MARK: - Other
+
+// MARK: Context Menus
+"copy_domain" = "Kopieer domein";
+"copy_hostname" = "Kopieer hostnaam";
+"copy_ip" = "Kopieer IP";
+"copy_hostname_or_ip" = "Kopieer hostnaam / IP";
+"add_to_list_dots" = "Voeg aan lijst toe...";
+"view_queries_to_domain" = "Bekijk queries naar domein";
+"view_queries_from_client" = "Bekijk queries van cliënt";
+"visit_domain" = "Bezoek domein";
+
+// MARK: Miscellaneous
+"instances" = "Instanties";
+"instances_colon" = "Instanties:";
+"all_instances" = "Alle instanties";
+"all" = "Alle";
+"choose_instance" = "Kies instantie";
+"show_instance" = "Bekijk instantie:";
+"add_pihole" = "Voeg Pi-hole toe";
+"loading_dots" = "Laden...";
+"something_went_wrong" = "Iets is fout gegaan.";
+"please_check_api_token" = "Controleer je API token en privacy instellingen.";
+"could_not_get_data" = "Kon geen data ophalen.";
+"no_queries_found" = "Geen queries gevonden.";
+"search" = "Zoeken";
+"refresh" = "Verversen";
+"done" = "Klaar";
+"dismiss" = "Klaar";
+"ok" = "OK";
+"save" = "Opslaan";
+"apply" = "Pas Toe";
+"cancel" = "Annuleren";
+"edit" = "Bewerken";
+"remove" = "Verwijderen";
+"off" = "Uit";
+"on" = "Aan";
+"ms" = "ms";
+"dots" = "...";
+
+// MARK: - watchOS Specific
+"watchos_home_queries" = "Queries";
+"watchos_home_blocked" = "Geblokkeerd";
+"watchos_home_blocklist" = "Blocklist";
+"watchos_home_navbar" = "Pi-hole";
+"watchos_home_both" = "Beiden";
+"watchos_home_disable" = "Schakel uit";
+"watchos_home_disable_all" = "Schakel alle uit";
+"watchos_blocking_alert_title" = "Schakel blokkeren uit";
+"watchos_for_how_long" = "Voor hoe lang?";
+"watchos_no_instances_headline" = "Voeg een Pi-hole instantie toe in de iPhone app.";
+"watchos_no_instances_subheadline" = "Als je dat al gedaan hebt, ga dan op je iPhone naar Instellingen, tik op 'Bewerken', en tik opnieuw op 'Opslaan'. Daarna moet je de instantie kunnen zien in de Watch app. Als de statistieken niet laden, restart dan de Watch app. Bedankt!";
+
+// MARK: - tvOS Specific
+"tvos_blocking_alert_body" = "Schakel blokkeren uit";
+"tvos_for_how_long" = "Voor hoe lang?";
+"tvos_code" = "Code";
+"tvos_passcode" = "Code";
+"tvos_set_passcode" = "Stel code in";
+"tvos_remove_passcode" = "Verwijder code";
+"tvos_require_code" = "Vereis code bij uitschakelen";
+"tvos_unlock_by_entering_code" = "Ontgrendel de instellingen door de code in te vullen";
+"tvos_existing_code" = "Bestaande code";
+"tvos_enter_passcode" = "Vul code in";
+"tvos_go_back" = "Terug";
+"tvos_disable_%@" = "Schakel uit | %@";
+"tvos_no_instances_headline" = "Geen instanties gevonden.\n\nConfigureer je Pi-hole in de Pi-hole Remote app op iPhone of iPad, terwijl je bent ingelogd met hetzelfde iCloud account.";
+"tvos_no_instances_subheadline" = "Pi-hole Remote v2.8+ op iOS, iPadOS of macOS is vereist.";
