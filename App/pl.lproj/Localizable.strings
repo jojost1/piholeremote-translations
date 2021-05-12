@@ -80,7 +80,7 @@
 "statistics_top_clients_navbar" = "Klienci";
 "statistics_unique_domains_%@" = "Unikalne domeny: %@";
 "statistics_unique_clients_%@" = "Unikalni klienci: %@";
-"statistics_unique_clients_ever_seen_%@" = "Clients Ever Seen: %@";
+"statistics_unique_clients_ever_seen_%@" = "Jacykolwiek klienci: %@";
 "statistics_version" = "Wersja";
 "statistics_pihole" = "Pi-hole";
 "statistics_pihole_colon" = "Pi-hole:";
@@ -351,7 +351,7 @@
 "preferences_statistics_top_clients" = "Najczęstsi klienci";
 "preferences_statistics_show_top_clients" = "Pokazuj najczęstszych klientów";
 "preferences_statistics_number_of_clients" = "Liczba klientów";
-"preferences_statistics_other" = "Other";
+"preferences_statistics_other" = "Inne";
 "preferences_statistics_other_footer" = "Pokaż wersję Pi-hole, wersję API i informacje o pamięci podręcznej DNS.";
 "preferences_statistics_show_other" = "Pokaż inne informacje";
 "preferences_lists_navbar" = "Listy";
@@ -359,7 +359,7 @@
 "preferences_lists_sort_by" = "Sortuj listy według";
 "preferences_lists_alphabet" = "Alfabet";
 "preferences_lists_date" = "Data";
-"preferences_other_navbar" = "Other";
+"preferences_other_navbar" = "Inne";
 "preferences_other_language" = "Język";
 
 // MARK: Design
@@ -384,7 +384,7 @@
 // MARK: Tip Jar
 "tipjar_navbar" = "Napiwki";
 "tipjar_header" = "Napiwki pozwalają mi utrzymywać Pi-hole i bezpośrednio wspierają rozwój kolejnych wspaniałych funkcji.";
-"tipjar_header_2" = "If you enjoy using this app and want to support the indie developer (hi! 👋), please consider leaving a tip. I would greatly appreciate it!";
+"tipjar_header_2" = "Jeśli lubisz korzystać z tej aplikacji i chcesz wesprzeć dewelopera (to ja! 👋), proszę rozważ pozostawienie napiwka. Byłbym bardzo wdzięczny!";
 "tipjar_header_3" = "Dziękuje za wsparcie.\n- Joost";
 "tipjar_tip_coffee" = "Na kawusię";
 "tipjar_tip_whiskey" = "Na whiskey";
@@ -396,7 +396,7 @@
 "tipjar_thankyou_loveyou" = "Kocham Cię! ❤️";
 "tipjar_testflight_explainer" = "Uwaga: używasz kompilacji TestFlight, dlatego płatności są uruchamiane w trybie Sandbox i w rzeczywistości nie są przetwarzane.\n\nJeśli chcesz dać mi napiwek, pobierz aplikację ze sklepu App Store! Następnie możesz pobrać wersję beta ponownie. Dzięki!";
 "tipjar_payment_successful" = "Płatność zakończona pomyślnie";
-"tipjar_thankyou_alert" = "Thank you so much, I really appreciate the fact that you love the app so much you're willing to give a tip. It's extremely motivating as well. I love you!\n\nJoost";
+"tipjar_thankyou_alert" = "Dziękuję bardzo, naprawdę doceniam fakt, że uwielbiasz tę aplikację tak bardzo, że chcesz rzucić napiwkiem. Jest to na prawdę motywujące. Kocham Cię!\n\nJoost";
 
 // MARK: Help & Feedback
 "help_navbar" = "Wsparcie";
@@ -418,17 +418,17 @@
 "changelog_continue" = "Kontynuuj";
 "changelog_settings" = "Ustawienia dzienniczka zmian";
 "changelog_settings_show" = "Pokaż przy aktualizacji aplikacji";
-"changelog_settings_show_footer" = "The Changelog will only be shown for feature-updates, not for updates that only contain bugfixes.";
+"changelog_settings_show_footer" = "Lista zmian będzie wyświetlana tylko dla aktualizacji funkcji, nie dla aktualizacji zawierających tylko poprawki błędów.";
 
 // MARK: Made by RocketScience
 "rocketscience_hi_title" = "Cześć, jestem Joost!";
-"rocketscience_hi_subtitle" = "In June 2020 I started building my own apps as an independent developer, under the name 'RocketScience IT'.\n\nMy main goal is to learn: design, development, testing, support, promotion - maybe even more! Right now, I have two apps in the store which I'm continuously improving & have many ideas for other apps I might want to make in the future.";
+"rocketscience_hi_subtitle" = "W czerwcu 2020 roku zacząłem budować własne aplikacje jako niezależny deweloper, pod nazwą \"RocketScience IT”.\n\nMoim głównym celem jest rozwój w: projektowaniu, programowanie, testowanie, wsparcie, promowanie - może nawet więcej! W tej chwili Mam dwie aplikacje w sklepie, które stale udoskonalam i mam wiele pomysłów na inne projekty, które mógłbym zrobić w przyszłości.";
 "rocketscience_website" = "Strona internetowa";
 "rocketscience_twitter" = "Twitter";
 "rocketscience_tipjar" = "Napiwki";
 "rocketscience_tipjar_thankyou" = "Dziękuję!";
 "rocketscience_my_other_apps" = "Moje inne aplikacje";
-"rocketscience_adguardhomeremote_subtitle" = "It's like Pi-hole Remote, but for AdGuard Home!";
+"rocketscience_adguardhomeremote_subtitle" = "To jest jak Pi-hole Remote, ale dla AdGuard Home!";
 "rocketscience_acknoledgements" = "Specjalne podziękowania dla";
 
 // MARK: - Disable Durations
@@ -462,17 +462,17 @@
 
 // MARK: Miscellaneous
 "instances" = "Instancje";
-"instances_colon" = "Instances:";
+"instances_colon" = "Instancje:";
 "all_instances" = "Wszystkie instancje";
-"all" = "All";
-"choose_instance" = "Choose Instance";
-"show_instance" = "Show instance:";
+"all" = "Wszystkie";
+"choose_instance" = "Wybierz instancję";
+"show_instance" = "Pokaż instancję:";
 "add_pihole" = "Dodaj Pi-hole";
-"loading_dots" = "Loading...";
-"something_went_wrong" = "Something went wrong.";
-"please_check_api_token" = "Please check your API Token and Privacy Level settings.";
-"could_not_get_data" = "Couldn't get data.";
-"no_queries_found" = "No queries found.";
+"loading_dots" = "Ładowanie...";
+"something_went_wrong" = "Coś poszło nie tak.";
+"please_check_api_token" = "Sprawdź swój token API i ustawienia poziomów prywatności.";
+"could_not_get_data" = "Nie udało się pobrać danych.";
+"no_queries_found" = "Nie znaleziono zapytań.";
 "search" = "Szukaj";
 "refresh" = "Odśwież";
 "done" = "Gotowe";
@@ -493,7 +493,7 @@
 "watchos_home_blocked" = "Zablokowane";
 "watchos_home_blocklist" = "Bloklista";
 "watchos_home_navbar" = "Pi-hole";
-"watchos_home_both" = "Both";
+"watchos_home_both" = "Obydwa";
 "watchos_home_disable" = "Wyłącz";
 "watchos_home_disable_all" = "Wyłącz wszystkie";
 "watchos_blocking_alert_title" = "Wyłącz blokowanie";
