@@ -435,8 +435,8 @@
 "seconds" = "seconden";
 "minutes" = "minuten";
 "hours" = "uren";
-"10_seconds" = "10 seconde";
-"30_seconds" = "30 seconde";
+"10_seconds" = "10 seconden";
+"30_seconds" = "30 seconden";
 "1_minute" = "1 minuut";
 "5_minutes" = "5 minuten";
 "15_minutes" = "15 minuten";
@@ -444,7 +444,8 @@
 "1_hour" = "1 uur";
 "8_hours" = "8 uur";
 "24_hours" = "24 uur";
-"until_turned_on" = "Tot weer aangezet";
+"until_turned_on" = "Tot weer ingeschakeld";
+"indefinitely" = "Altijd";
 "custom" = "Aangepast";
 "custom_dots" = "Aangepast...";
 

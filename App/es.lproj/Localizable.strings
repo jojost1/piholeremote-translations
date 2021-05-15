@@ -445,6 +445,7 @@
 "8_hours" = "8 hours";
 "24_hours" = "24 hours";
 "until_turned_on" = "Until Turned On";
+"indefinitely" = "Indefinitely";
 "custom" = "Custom";
 "custom_dots" = "Custom...";
 
