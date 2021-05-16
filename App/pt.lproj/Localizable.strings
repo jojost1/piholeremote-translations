@@ -384,9 +384,9 @@
 
 // MARK: Tip Jar
 "tipjar_navbar" = "Pote de Gorjetas";
-## "tipjar_header" = "The Tip Jar helps keep Pi-hole Remote running and directly supports development of awesome features and improvements.";
-## "tipjar_header_2" = "If you enjoy using this app and want to support the indie developer (hi! 👋), please consider leaving a tip. I would greatly appreciate it!";
-## "tipjar_header_3" = "Thank you for your support.\n- Joost";
+"tipjar_header" = "O pote de gorjetas ajuda a manter o Pi-hole Remote rodando e suporta diretamente o desenvolvimento de melhoras e de funcionalidades super bacanas.";
+"tipjar_header_2" = "Se você está gostando de usar esse app e gostaria de ajudar um desenvolvedor independente (hi! 👋), Por favor considere deixar uma gorjeta. Eu ficaria muito agradecido!";
+"tipjar_header_3" = "Obrigado pela sua colaboração Thank you for your support.\n- Joost";
 "tipjar_tip_coffee" = "Gorjeta pro cafézinho";
 "tipjar_tip_whiskey" = "Gorjeta pro whiskey";
 "tipjar_tip_ramen" = "Gorjeta pro miojo";
@@ -424,7 +424,7 @@
 
 // MARK: Made by RocketScience
 "rocketscience_hi_title" = "Oi, eu sou o Joost!";
-## "rocketscience_hi_subtitle" = "In June 2020 I started building my own apps as an independent developer, under the name 'RocketScience IT'.\n\nMy main goal is to learn: design, development, testing, support, promotion - maybe even more! Right now, I have two apps in the store which I'm continuously improving & have many ideas for other apps I might want to make in the future.";
+"rocketscience_hi_subtitle" = "Em Junho 2020 eu comecei a fazer meus próprios apps como desenvolvedor independente usando o nome 'RocketScience IT'.\n\nMeu objetivo é aprender design, desenvolvimento, testes, suporte e promoções, e quem sabe até mais! Por agora, tenho dois apps na AppStore, os quais continuo frequentemente melhorando e adicionando funcionalidade. Eu já tenho algumas idéias para outros app que pretendo desenvolver no futuro.";
 "rocketscience_website" = "Website";
 "rocketscience_twitter" = "Twitter";
 "rocketscience_tipjar" = "Pote de Gorjetas";
