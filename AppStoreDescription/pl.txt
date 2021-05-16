@@ -1,0 +1,68 @@
+Pi-hole jest zewnętrzną aplikacją dla Pi-hole, która pozwala ci łatwo i szybko zarządzać twoim Pi-hole, dodawać domeny do list czy przeglądać statystyki takie jak najczęściej blokowoane domeny.
+
+*Wyłączanie blokowanie*
+Szybko wyłączaj blokowanie na parę minut przy paru kliknięciach. Możesz nawet użyć aplikacji "Skróty" by blokować Pi-hole używając poleceń głosowych dla Siri. Jeżeli masz wiele instancji możesz zablokować je wszystkie jednym ruchem.
+
+*Statystyki i zapytania*
+Przeglądaj, które domeny są najczęściej wyszukiwane oraz którzy klienci wykonują najczęściej wysyłają zapytania. Przeglądaj je przefiltrowane po domenie, kliecie lub typie zapytania. Możesz również ogląć w czasie rzczywistym!
+
+*Białe i czarne listy*
+Szybko dodawaj nowe domeny do twoich list, przy pomocy przycisku "Udostępnij" wbudowanego w iOS. Możesz również dodawać masowo wpisy do twoich list. Również jak masz dwie instację, możesz włączyć pomiędzy nimi automatyczą synchronizację!
+
+*Widżety (iOS 14)*
+Wybieraj spośród wielu widżetów, które będą ci w szybki sposób pokazywać aktualne statystyki lub wykresy.
+
+==
+
+Funkcje na iPhone, iPad, macOS:
+- Wyłączenie blokowania na Pi-hole
+- Przeglądanie uproszczonych i dokładnych statystyk
+- Dodawanie domen do twoich czarnych i białych list(również masowo)
+- Eksportowanie list
+- Synchronizacja pomiędzy instancjami
+- Pełny przegląd logów zapytań
+- Przegląd zapytańw w czasie rzeczywistym
+- Wsparcie do 4 instancji Pi-hole z zsumowanymi statystykami
+- Możliwość skanowanie tokenów w postaci kodu QR
+- Wsparcie dla SSL, reverse proxy i różnych poziomów prywatności
+- Widżety (iOS 14 & macOS 11)
+- Skróty Siri i szybkie akcje
+- Rozszerzenie udostępniania dla szybkioego dodawania do list
+- Wsparcie dla VoiceOver
+- Tryb ciemny, własne palety kolorów
+- Zoptymalizowany dla iPadów i Maców
+- W 100% stworzony przy użyciu SwiftUI
+
+Funkcje dla Apple Watch:
+- Przeglądaj uproszczone statystyki
+- Wyłączaj blokowanie Pi-hole
+- Complications (modyfikowanie elementów tarczy)
+
+Funkcje dla Apple TV:
+- Przeglądaj uproszczone statystyki
+- Wyłączaj blokowanie Pi-hole
+- Wymagaj hasła do wyłączenia
+
+Statistyki:
+- Wszystkie zapytania
+- Zapytania/Procent zapytań zablokowany
+- Liczba domen na blokliście i w Gravity
+- Temperatura i zużycia RAM
+- Wykresy zapytań w czasie
+- Najczęściej dopuszczane domeny
+- Najczęściej blokowane domeny
+- Najczęstsi klienci
+- Unikalne Domeny/Klienci
+- Wszyscy klienci sieci
+- Zapytania w zależności od domeny/klienta
+- Typy zapytań
+- Wersja Pi-hole
+- Informacje o API i cache DNS
+
+* The in-app-purchases are only there for the Tip Jar, to support future development of the app. This is completely optional.
+* Jedynymi zakupami w apliakcji są napiwiki, które wspierają przyszły rozwój aplikacji. Jest to wyłącznie opcjonalne.
+
+==
+
+Uwaga: 
+Potrzeba przynajmniej jednej pracującej instancji Pi-hole na innym urządzeniu, żeby ta aplikacja funkcjonowała. Wymagany jest Pi-hole w wersji 5.1 lub nowszy. Dowiedz się więcej na temat Pi-Hole na https://pi-hole.net/.
