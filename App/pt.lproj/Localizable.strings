@@ -18,7 +18,7 @@
 "home_total_queries" = "Total de consultas";
 "home_queries_blocked" = "Consultas Bloqueadas";
 "home_percent_blocked" = "Porcentagem Bloqueada";
-## "home_blocklist" = "Blocklist";
+"home_blocklist" = "Blocklist";
 "home_refreshing_dots" = "Atualizando...";
 "home_no_response" = "Sem Resposta";
 "home_not_responding" = "Não Respondendo"; #depends on context
@@ -396,7 +396,7 @@
 "tipjar_thankyou_tips" = "Obrigado por suas generosas contribuições!";
 "tipjar_thankyou_loveyou" = "Te amo! ❤️";
 "tipjar_testflight_explainer" = "Nota: você está rodando um build beta do TestFlight, portanto pagamentos não serão realmente processados.\n\nSe você deseja contribuir financeiramente por favor faça o download do app da AppStore! Depois disso você pode instalar o beta do TestFlight novamente. Obrigado!";
-## "tipjar_payment_successful" = "Pagamento realizado com êxito";
+"tipjar_payment_successful" = "Pagamento realizado com êxito";
 "tipjar_thankyou_alert" = "Muito obrigado! Fico muito agradecido pelo fato de ter feito algo que você realmente gosta e acha que vale a pena uma gorjeta! Isso é extremamente motivamente pra mim! Te amo!\n\nJoost";
 
 // MARK: Help & Feedback
@@ -478,10 +478,10 @@
 "search" = "Busca";
 "refresh" = "Atualizar"; #depends on context
 "done" = "Feito";
-## "dismiss" = "Dismiss";
+"dismiss" = "Recusar"; #depends on context
 "ok" = "OK";
 "save" = "Salvar";
-## "apply" = "Apply";
+"apply" = "Aplicar"; #depends on context
 "cancel" = "Cancelar";
 "edit" = "Editar";
 "remove" = "Remover";
