@@ -1,0 +1,520 @@
+/* 
+  Localizable.strings
+  Pi-hole Remote
+
+  Created by Joost van den Akker on 25/04/2021.
+  Copyright © 2021 RocketScience. All rights reserved.
+*/
+
+// MARK: - TabView
+"tab_home" = "Início";
+"tab_statistics" = "Estatísticas";
+"tab_querylog" = "Consultar Logs";
+"tab_lists" = "Listas";
+"tab_settings" = "Configurações";
+
+// MARK: - Home-tab
+"home_navbar" = "Pi-hole Remote";
+"home_total_queries" = "Total de consultas";
+"home_queries_blocked" = "Consultas Bloqueadas";
+"home_percent_blocked" = "Porcentagem Bloqueada";
+## "home_blocklist" = "Blocklist";
+"home_refreshing_dots" = "Atualizando...";
+"home_no_response" = "Sem Resposta";
+"home_not_responding" = "Não Respondendo"; #depends on context
+"home_disable" = "Desabilitar";
+"home_disable_all" = "Desabilitar Todos";
+"home_disable_blocking" = "Desabilitar Bloqueamento";
+"home_disable_blocking_pihole" = "Desabilitar Bloqueamento do Pi-hole";
+"home_disable_blocking_alert_%@" = "Por quanto tempo deseja desabilitar o bloqueamento de %@?";
+"home_enable" = "Habilitar";
+"home_enable_all" = "Habilitar Todos";
+"home_enable_blocking" = "Habilitar Bloqueamento";
+"home_enable_blocking_pihole" = "Habilitar Bloqueamento do Pi-hole";
+"home_enable_blocking_alert_%@" = "Tem certeza de que deseja habilitar o bloqueamento de %@?";
+"home_enable_blocking_alert_%@" = "Tem certeza de que deseja habilitar o bloqueamento de %@?";
+"home_enable_%@_disabled_until_%@" = "Habilitar (%@Desabilitado até %@)";
+"home_data_from_%@" = "Dados de %@";
+"home_update_gravity" = "Atualizar Gravity";
+"home_update_gravity_explainer" = "Ir até /admin/gravity em qual instância?";
+"home_update_gravity_alert_body_%@" = "Gravity foi mais recentemente atualizado em %@";
+"home_update_gravity_alert_button" = "Atualizar Gravity (Interface Web)";
+"home_update_available" = "Atualização Disponível!";
+"home_update_available_alert_body" = "Você pode atualizar a versão usando a linha de comando com esse comando:\n\npihole -up";
+
+// MARK: Usage Metrics
+"usage_metrics_navbar" = "Métricas de Utilização";
+"usage_metrics_temperature" = "Temperatura";
+"usage_metrics_cpu" = "CPU";
+"usage_metrics_cpu_usage" = "Utilização do CPU";
+"usage_metrics_cpu_core" = "1 core";
+"usage_metrics_cpu_cores_%lld" = "%lld cores";
+"usage_metrics_cpu_1min" = "Último 1 minuto";
+"usage_metrics_cpu_5min" = "Últimos 5 minutos";
+"usage_metrics_cpu_15min" = "Últimos 15 minutos";
+"usage_metrics_cpu_usage_alert" = "Essa porcentagem representa a utilização média do CPU durante os últimos minutos.\n\nPorcentagem de até 70% de utilização é considerada normal. Se a utilização ficar acima de 70% por longos períodos seria melhor planejar um upgrade do seu CPU.";
+"usage_metrics_memory" = "Memória";
+"usage_metrics_data_from_%@" = "\nDados de: %@";
+"usage_metrics_error" = "Erro durante captação de dados.";
+
+// MARK: Custom Disable
+"disable_navbar" = "Desabilitar Bloqueamento";
+"disable_duration" = "Duração";
+"disable_duration_placeholder_%@" = "Duração em %@";
+"disable_until" = "Até";
+"disable_until_dots" = "Até...";
+"disable_time_unit" = "Unidade de Tempo";
+"disable_notifications" = "Notificações";
+"disable_alert_on_blocking_enabled" = "Alerta ao Habilitar Bloqueamento";
+
+// MARK: - Statistics-tab
+"statistics_navbar" = "Estatísticas";
+"statistics_queries" = "Consultas";
+"statistics_segments_10min" = "Segmentos de 10min";
+"statistics_loading_graph" = "Carregando Gráfico...";
+"statistics_now" = "agora";
+"statistics_top_allowed" = "Top Permitido";
+"statistics_top_allowed_navbar" = "Domínios Permitidos";
+"statistics_top_blocked" = "Top Bloqueado";
+"statistics_top_blocked_navbar" = "Domínios Bloqueados";
+"statistics_top_clients" = "Top Clientes";
+"statistics_top_clients_navbar" = "Clientes";
+"statistics_unique_domains_%@" = "Domínios Únicos: %@";
+"statistics_unique_clients_%@" = "Clientes Únicos: %@";
+"statistics_unique_clients_ever_seen_%@" = "Clientes Conhecidos: %@";
+"statistics_version" = "Versão";
+"statistics_pihole" = "Pi-hole";
+"statistics_pihole_colon" = "Pi-hole:";
+"statistics_adminlte" = "AdminLTE";
+"statistics_adminlte_colon" = "AdminLTE:";
+"statistics_ftl" = "FTL";
+"statistics_ftl_colon" = "FTL:";
+"statistics_api" = "API";
+"statistics_api_type" = "API Type";
+"statistics_api_type_colon" = "API Type:";
+"statistics_api_version" = "API Version";
+"statistics_api_version_colon" = "API Version:";
+"statistics_dns_cache" = "DNS Cache";
+"statistics_dns_cache_size" = "Tamanho do Cache:";
+"statistics_dns_cache_evictions" = "Cache Evictions:";
+"statistics_dns_cache_inserted" = "Cache Inserido:";
+"statistics_github" = "Github";
+"statistics_update_explainer" = "Você pode atualizar a versão usando a linha de comando com o comando 'pihole -up'.";
+"statistics_update_explainer_%@" = "Você pode atualizar a versão usando a linha de comando com o comando %@ .";
+
+// MARK: Graphs
+"graphs_navbar" = "Gráficos";
+"graphs_allowed" = "Permitidos";
+"graphs_blocked" = "Bloqueados";
+"graphs_query_types" = "Tipos de consulta";
+
+// MARK: - QueryLog-tab
+"querylog_navbar" = "Consultar Logs";
+"querylog_filter" = "Filtro";
+"querylog_filtered" = "Filtrado";
+"querylog_sidebar_explainer" = "Selecione uma consulta a esquerda para ver mais detalhes.";
+"querylog_status_unknown" = "Desconhecido";
+"querylog_status_gravity" = "Gravity";
+"querylog_status_upstream" = "Servidor Upstream";
+"querylog_status_local" = "Cache Local";
+"querylog_status_blacklist_regex" = "Regex Blacklist";
+"querylog_status_blacklist_regex_cname" = "Regex Blacklist (CNAME)";
+"querylog_status_blacklist_exact" = "Exact Blacklist";
+"querylog_status_blacklist_exact_cname" = "Exact Blacklist (CNAME)";
+"querylog_status_upstream_ip" = "Servidor Upstream (IP)";
+"querylog_status_upstream_0000" = "Upstream Server (0.0.0.0 or ::)";
+"querylog_status_upstream_nxdomain" = "Servidor Upstream (NXDOMAIN)";
+"querylog_status_gravity_cname" = "Gravity (CNAME)";
+"querylog_status_retried" = "Tentado novamente";
+"querylog_status_retried_dnssec" = "Tentado novamente (DNSSEC)";
+"querylog_status_already_forwarded" = "Já Encaminhado";
+"querylog_min" = "Min:";
+"querylog_max" = "Max:";
+"querylog_avg" = "Méd:";
+"querylog_type" = "Tipo:";
+"querylog_reply" = "Resposta:";
+
+// MARK: QueryLog Filter
+"querylog_filter_number_of_queries" = "Quantidade de Consultas";
+"querylog_filter_number_of_queries_footer" = "Para cada instância. A busca pode demorar mais quanto maior for o número de consultas selecionadas.";
+"querylog_filter_status" = "Status";
+"querylog_filter_status_all" = "Todos"; #Depends on context
+"querylog_filter_status_allowed" = "Permitidos";
+"querylog_filter_status_allowed_only" = "Somente Permitidos";
+"querylog_filter_status_blocked" = "Bloqueados";
+"querylog_filter_status_blocked_only" = "Somente Bloqueados";
+"querylog_filter_sort" = "Ordenar";
+"querylog_filter_sort_new_old" = "Recente > Antigo";
+"querylog_filter_sort_old_new" = "Antigo > Recente";
+"querylog_filter_other" = "Outro";
+"querylog_filter_other_footer" = "Mostrar tipo de consulta, resposta e duração (ms).";
+"querylog_filter_show_detail" = "Mostrar Detalhes";
+"querylog_filter_hide_detail" = "Esconder Detalhes";
+"querylog_filter_preserve_filter_footer" = "Manter filtros mesmo depois de reiniciar o app.";
+"querylog_filter_save_filters" = "Salvar Filtros";
+
+// MARK: QueryLog Detail
+"querylog_detail_navbar" = "Consulta";
+"querylog_detail_client" = "Cliente";
+"querylog_detail_request" = "Requisição";
+"querylog_detail_type" = "Tipo";
+"querylog_detail_response" = "Resposta";
+"querylog_detail_reply" = "Resposta";
+"querylog_detail_responsetime" = "Tempo de Resposta";
+"querylog_detail_upstream" = "Upstream";
+"querylog_detail_cname" = "Domínio CNAME";
+"querylog_detail_id_blocking_regex" = "ID do Regex de Bloqueamento";
+
+// MARK: QueryLog LiveLog
+"livelog" = "Log em tempo real";
+"livelog_navbar" = "Log em tempo real";
+"livelog_noqueriesfoundyet" = "Nenhuma consulta encontrada ainda...";
+
+// MARK: - Lists-tab
+"lists_navbar" = "Listas";
+"lists_entry" = "Item";
+"lists_list" = "Lista";
+"lists_blacklist" = "Blacklist";
+"lists_blacklist_regex" = "Blacklist (RegEx)";
+"lists_whitelist" = "Whitelist";
+"lists_whitelist_regex" = "Whitelist (RegEx)";
+"lists_domain" = "Domínio";
+"lists_domains" = "dom";
+"lists_regex" = "RegEx";
+"lists_regular_expression" = "Expressão regular (RegEx)";
+"lists_added_%@" = "Adicionado %@";
+"lists_added_%@_modified_%@" = "Adicionado %@ (Modificado %@)";
+"lists_disabled" = "Desabilitado";
+"lists_sync_instances" = "Sincronizar Instâncias";
+"lists_sort" = "Ordenar";
+"lists_sorting_options" = "Ordenando opções";
+"lists_alphabetically" = "Alfabeticamente";
+"lists_date" = "Data";
+"lists_add_entry" = "Adicionar Entrada";
+"lists_add_entries_bulk" = "Adicionar Entrada (Várias)";
+"lists_export_lists" = "Exportar Listas";
+"lists_remove_from_list" = "Remover da lista";
+"lists_no_entries_found" = "Nenhuma entrada encontrada.";
+"lists_no_entries_found_subtitle" = "Você não tem nenhuma entrada em sua lista.\n\nSe você esperava entradas aqui, você está usando Pi-hole v5.1 ou mais atual?";
+
+// MARK: Add Entry
+"lists_addentry_navbar" = "Adicionar Entrada";
+"lists_addentry_save" = "Adicionar Entrada";
+"lists_addentry_domain_or_regex" = "Domínio ou RegEx";
+"lists_addentry_add_as_wildcard" = "Adicionar como curinga";
+"lists_addentry_regex_tutorial_click" = "Clique aqui para um tutorial de RegEx.";
+"lists_addentry_regex_tutorial_tap" = "Toque aqui para um tutorial de RegEx.";
+"lists_addentry_wildcard_%@" = "Curinga: %@";
+"lists_addentry_wildcard_alert" = "Adicionar domínio como curinga";
+"lists_addentry_wildcard_alert_body" = "Use essa opção se quiser incluir todos os sub-domínios. O domínio será convertido para um filtro RegEx quando adicionado.";
+
+// MARK: Add Entry Bulk
+"lists_bulk_navbar" = "Adicionar Entrada";
+"lists_bulk_save" = "Adicionar Entrada";
+"lists_bulk_settings" = "Configurações";
+"lists_bulk_settings_footer" = "Essas configurações serão aplicadas a todas novas entradas.";
+"lists_bulk_domains_or_regex" = "Domínios ou RegEx";
+"lists_bulk_add_as_wildcards" = "Adicionar todas como curinga"; #depends on context
+"lists_bulk_new_entries_%lld" = "Novas entradas (%lld)";
+"lists_bulk_new_entries_footer" = "Múltiplas entradas também podem ser adicionadas colando as listas e as separando com uma em cada linha, espáco ou vírgula.";
+"lists_bulk_start" = "Iniciar Adição de Entradas";
+"lists_bulk_add_another_entry" = "Adicionar Outra Entrada";
+"lists_bulk_add_list_entries" = "Adicionar Entradas de Listas";
+"lists_bulk_add_list_entries_alert_%lld_%@" = "Essa ação tentará adicionar entradas %lld a %@. Adicionar muitas entradas de uma só vez poderá falhar depois de um tempo mas haverá uma opção para tentar adicionar as entradas que falharam outra vez.\n\nTem certeza de que quer começar a adicionar as entradas? Por favor mantenha essa tela aberta durante o processo!";
+"lists_bulk_add_list_entries_start_adding" = "Iniciar Adição de Entradas";
+"lists_bulk_adding_entries" = "Adicionando entradas...";
+"lists_bulk_adding_entries_%lld_%lld" = "Adicionando Entradas (%lld/%lld)";
+"lists_bulk_completion_log" = "Log Final";
+"lists_bulk_keep_screen_open" = "Por favor mantenha essa tela aberta durante o processo!";
+"lists_bulk_move_failed" = "Transferência para 'Novas Entradas' falhou novamente";
+"lists_bulk_done_added_%lld" = "Feito! Foram adicionadas %lld entradas.";
+
+// MARK: Sync Lists
+"lists_sync_navbar" = "Sincronizar Instâncias";
+"lists_sync_start_sync" = "Iniciar Sincronização";
+"lists_sync_start_sync_alert" = "Essa ação adicionará entradas de listas da primeira instância para a segunda e vice-versa. Você está certo de que quer fazer isso?";
+"lists_sync_explainer" = "Essa funcionalidade sincronizará as entradas de lista entre duas de suas instâncias ao adicionar as entradas de lista de uma de suas instâncias para a outra e vice-versa.\n\nPor favor verifique as listas abaixo para ter certeza que a sincronização fará o que você espera.Os processos podem demorar um pouco ou falhar se você tentar sincronizar muitas entradas, mantenha essa tela aberta durante a sincronização.";
+"lists_sync_calculating" = "Calculando...";
+"lists_sync_lists_are_in_sync" = "Listas estão sincronizadas.";
+"lists_sync_activity_log" = "Log de Atividade";
+"lists_sync_out_of_sync" = "Fora de Sincronia";
+"lists_sync_in_sync" = "Em Sincronia";
+"lists_sync_none" = "Nenhum.";
+"lists_sync_entry" = "Sincronizar Uma Entrada de Lista";
+"lists_sync_entries_%lld" = "Sincronizar %lld Entrada de Lista";
+"lists_sync_cancel_progress_%lld_%lld" = "Cancelar Sincronização (Progresso: %lld/%lld)";
+"lists_sync_one_entry" = "Uma entrada";
+"lists_sync_%lld_entries" = "%lld entradas";
+
+// MARK: Export Lists
+"lists_export_navbar" = "Exportar Listas";
+"lists_export_options" = "Opções";
+"lists_export_separator" = "Separador";
+"lists_export_separator_newline" = "Nova Linha";
+"lists_export_separator_space" = "Espaço";
+"lists_export_separator_comma" = "Vírgula ,";
+"lists_export_separator_semicolon" = "Ponto e vírgula";
+"lists_export_separator_point" = "Ponto .";
+"lists_export_separator_colon" = "Dois Pontos :";
+"lists_export_separator_tab" = "Aba";
+"lists_export_blacklist" = "Blacklist";
+"lists_export_blacklist_regex" = "Blacklist RegEx";
+"lists_export_whitelist" = "Whitelist";
+"lists_export_whitelist_regex" = "Whitelist RegEx";
+"lists_export_successful" = "Exportado Com Sucesso";
+"lists_export_successful_copied_%@" = "%@ entradas copiadas a sua área de transferência.";
+
+// MARK: - Settings-tab
+"settings_navbar" = "Configurações";
+"settings_add_pihole" = "Adicionar Pi-hole";
+"settings_add_primary" = "Adicionar Primeiro Pi-hole";
+"settings_manage_primary" = "Gerenciar Primeiro Pi-hole";
+"settings_add_secondary" = "Adicionar Segundo Pi-hole";
+"settings_manage_secondary" = "Gerenciar Segundo Pi-hole";
+"settings_add_third" = "Adicionar Terceiro Pi-hole";
+"settings_manage_third" = "Gerenciar Terceiro Pi-hole";
+"settings_add_fourth" = "Adicionar Quarto Pi-hole";
+"settings_manage_fourth" = "Gerenciar Quarto Pi-hole";
+"settings_combine_in_home" = "Combinar em Início";
+"settings_preferences" = "Preferências";
+"settings_support_development" = "Apoie o Desenvolvimento desse App";
+"settings_home" = "Início";
+"settings_statistics" = "Estatísticas";
+"settings_lists" = "Listas";
+"settings_design" = "Design";
+"settings_other" = "Outro";
+"settings_force_watch_sync" = "Forçar Sincronização com Apple Watch";
+"settings_force_icloud_sync" = "Forçar Sincronização com iCloud ";
+"settings_whats_new" = "O que tem de novo?";
+"settings_help" = "Ajuda & Feedback";
+"settings_advanced" = "Avançado";
+"settings_twitter" = "Siga no Twitter";
+"settings_tipjar" = "Pote de Gorjetas";
+"settings_tipjar_thankyou" = "Obrigado!";
+"settings_rate" = "Avalie Pi-hole Remote";
+"settings_leave_review" = "Deixe uma Avaliação";
+"settings_share" = "Compartilhar Pi-hole Remote";
+"settings_made_by_rocketscience" = "Feito por RocketScience";
+
+// MARK: Edit Instance
+"instance_new_navbar" = "Nova Instância";
+"instance_edit_navbar" = "Editar Instância";
+"instance_display_name" = "Nome de Exibição";
+"instance_display_name_placeholder" = "Pi-hole";
+"instance_ip_or_hostname" = "Endereço IP ou Nome do Host";
+"instance_ip_or_hostname_placeholder" = "raspberrypi";
+"instance_ssl_explainer" = "Usar http (padrão) or https?";
+"instance_ssl_http" = "http (padrão)";
+"instance_ssl_https" = "https";
+"instance_port" = "Port";
+"instance_port_placeholder" = "80";
+"instance_token" = "API Token";
+"instance_token_placeholder" = "a1b2c3d4...";
+"instance_token_explainer" = "Necessário para Habilitar/Desabilitar e estatísticas. Se você não tem uma senha configurada deixe esse campo vazio.\nVocê pode achar o token em 'Web Interface > Configurações > API.'";
+"instance_token_alert_title" = "Pi-hole API Token";
+"instance_token_alert_body" = "Você pode encontrar o Pi-hole API token na interface web.\n\nFaça o login e vá até 'Configurações > API / Web Interface > Mostrar API token' e você verá um QR Code que você pode escanear.";
+"instance_token_scan_navbar" = "Scan API Token";
+"instance_token_scan_permission" = "Configure permissão para acesso a câmera no pop-up ou em 'Configurações > Privacidade > Camera.'";
+"instance_other" = "Outro";
+"instance_reverseproxy" = "Proxy Reverso";
+"instance_reverseproxy_explainer" = "Ligar o 'Proxy Reverso' removerá '/admin' de todas as chamadas.";
+"instance_hideerrors" = "Esconder Banner de Erros";
+"instance_test_connection" = "Testar Conexão";
+"instance_remove" = "Remover Instância";
+"instance_remove_alert_title" = "Remover Instância Pi-hole";
+"instance_remove_alert_body" = "Tem certeza de que deseja remover essa instância?";
+
+// MARK: Preferences
+"preferences_home_navbar" = "Início";
+"preferences_home_display" = "Tela";
+"preferences_home_check_for_updates" = "Buscar Atualizações";
+"preferences_home_data_from_label" = "'Data from' label"; #depends on context
+"preferences_home_usage_metrics" = "Métricas de Utilização";
+"preferences_home_usage_metrics_vertical" = "Mostrar Métricas Verticalmente";
+"preferences_home_temperature_unit" = "Unidade de Temperatura";
+"preferences_home_disable_blocking_presets" = "Desabilitar Presets de Bloqueamento";
+"preferences_home_notifications" = "Notificações";
+"preferences_home_notifications_footer" = "Uma notificação será enviada assim que o bloqueamento for habilitado novamente (depois de haver desabilitado).";
+"preferences_home_blocking_enabled" = "Bloqueamento Habilitado";
+"preferences_home_refresh" = "Atualizar";
+"preferences_home_refresh_footer" = "Atualizará automaticamente a cada 10 segundos enquanto a aba de início estiver aberta e o aplicativo estiver aberto em destaque.";
+"preferences_home_auto_refresh" = "Auto Atualização";
+"preferences_statistics_navbar" = "Estatísticas";
+"preferences_statistics_graphs" = "Gráficos";
+"preferences_statistics_show_recent_queries" = "Mostrar 'Consultas Recentes'";
+"preferences_statistics_hours_visible" = "Horas Visíveis";
+"preferences_statistics_animate_graphs" = "Animar Gráficos";
+"preferences_statistics_animation_duration" = "Duração da Animação";
+"preferences_statistics_top_domains" = "Domínios mais acessados";
+"preferences_statistics_show_top_allowed" = "Mostrar os mais permitidos";
+"preferences_statistics_show_top_blocked" = "Mostrar os mais bloqueados";
+"preferences_statistics_number_of_domains" = "Número de domínios";
+"preferences_statistics_top_clients" = "Clientes mais ativos";
+"preferences_statistics_show_top_clients" = "Mostrar os clientes mais ativos";
+"preferences_statistics_number_of_clients" = "Número de Clientes";
+"preferences_statistics_other" = "Outro";
+"preferences_statistics_other_footer" = "Mostrar versão do Pi-hole, versão de API e informação sobre o cache de DNS.";
+"preferences_statistics_show_other" = "Mostrar Outras Informações";
+"preferences_lists_navbar" = "Listas";
+"preferences_lists_display" = "Display"; #depends on context
+"preferences_lists_sort_by" = "Ordenar Listas Por";
+"preferences_lists_alphabet" = "Alfabeto";
+"preferences_lists_date" = "Data";
+"preferences_other_navbar" = "Outro";
+"preferences_other_language" = "Língua";
+
+// MARK: Design
+"design_navbar" = "Design";
+"design_colorscheme" = "Esquema de cores";
+"design_tint" = "Tonalidade do App";
+"design_tint_blue" = "Azul";
+"design_tint_indigo" = "Indigo";
+"design_tint_purple" = "Roxo";
+"design_tint_teal" = "Azul-Petróleo";
+"design_tint_green" = "Verde";
+"design_tint_yellow" = "Amarelo";
+"design_tint_orange" = "Laranja";
+"design_tint_pink" = "Rosa";
+"design_tint_red" = "Vermelho";
+"design_icon" = "Ícone do Aplicativo";
+"design_theme" = "Tema";
+"design_system" = "Sistema";
+"design_light_mode" = "Modo Claro";
+"design_dark_mode" = "Modo Escuro";
+
+// MARK: Tip Jar
+"tipjar_navbar" = "Pote de Gorjetas";
+## "tipjar_header" = "The Tip Jar helps keep Pi-hole Remote running and directly supports development of awesome features and improvements.";
+## "tipjar_header_2" = "If you enjoy using this app and want to support the indie developer (hi! 👋), please consider leaving a tip. I would greatly appreciate it!";
+## "tipjar_header_3" = "Thank you for your support.\n- Joost";
+"tipjar_tip_coffee" = "Gorjeta pro cafézinho";
+"tipjar_tip_whiskey" = "Gorjeta pro whiskey";
+"tipjar_tip_ramen" = "Gorjeta pro miojo";
+"tipjar_tip_sushi" = "Gorjeta pro sushi";
+"tipjar_blush" = "*corado*";
+"tipjar_thankyou_tip" = "Obrigado pela sua contribuição generosa!";
+"tipjar_thankyou_tips" = "Obrigado por suas generosas contribuições!";
+"tipjar_thankyou_loveyou" = "Te amo! ❤️";
+"tipjar_testflight_explainer" = "Nota: você está rodando um build beta do TestFlight, portanto pagamentos não serão realmente processados.\n\nSe você deseja contribuir financeiramente por favor faça o download do app da AppStore! Depois disso você pode instalar o beta do TestFlight novamente. Obrigado!";
+## "tipjar_payment_successful" = "Pagamento realizado com êxito";
+"tipjar_thankyou_alert" = "Muito obrigado! Fico muito agradecido pelo fato de ter feito algo que você realmente gosta e acha que vale a pena uma gorjeta! Isso é extremamente motivamente pra mim! Te amo!\n\nJoost";
+
+// MARK: Help & Feedback
+"help_navbar" = "Suporte";
+"help_faq" = "Perguntas Feitas Frequentes";
+"help_faq_short" = "PFF/FAQ";
+"help_contact" = "Me Contate";
+"help_actions" = "Ações";
+"help_actions_icloud" = "Forçar sincronização com iCloud";
+"help_actions_watch" = "Forçar sincronização com Apple Watch";
+"help_actions_widgets" = "Forçar sincronização com Widgets";
+"help_logs" = "Logs";
+"help_logs_footer" = "Logs são gravados localmente e nunca saem do seu aparelho. Arraste para baixo para sair do visualizador de logs.";
+"help_logs_show" = "Mostrar Logs";
+
+// MARK: Changelog
+"changelog_navbar" = "O que tem de novo";
+"changelog_just_updated" = "Recentemente Atualizado!";
+"changelog_current_version" = "Atual";
+"changelog_continue" = "Continuar";
+"changelog_settings" = "Configurações do Changelog";
+"changelog_settings_show" = "Mostrar no Update do App";
+"changelog_settings_show_footer" = "O Changelog será mostrando somente para atualizações de funcionalidade, não para atualizações que só contenham bugfixes.";
+
+
+// MARK: Made by RocketScience
+"rocketscience_hi_title" = "Oi, eu sou o Joost!";
+## "rocketscience_hi_subtitle" = "In June 2020 I started building my own apps as an independent developer, under the name 'RocketScience IT'.\n\nMy main goal is to learn: design, development, testing, support, promotion - maybe even more! Right now, I have two apps in the store which I'm continuously improving & have many ideas for other apps I might want to make in the future.";
+"rocketscience_website" = "Website";
+"rocketscience_twitter" = "Twitter";
+"rocketscience_tipjar" = "Pote de Gorjetas";
+"rocketscience_tipjar_thankyou" = "Obrigado!";
+"rocketscience_my_other_apps" = "Meus Outros Apps";
+"rocketscience_adguardhomeremote_subtitle" = "É exatamente como o Pi-hole Remote mas para AdGuard Home!";
+"rocketscience_acknoledgements" = "Agradecimento especial a";
+
+// MARK: - Disable Durations
+"seconds" = "Segundos";
+"minutes" = "Minutos";
+"hours" = "Horas";
+"10_seconds" = "10 segundos";
+"30_seconds" = "30 segundos";
+"1_minute" = "1 minuto";
+"5_minutes" = "5 minutos";
+"15_minutes" = "15 minutos";
+"30_minutes" = "30 minutos";
+"1_hour" = "1 hora";
+"8_hours" = "8 horas";
+"24_hours" = "24 horas";
+"until_turned_on" = "Até ser reabilitado";
+"custom" = "Custom";
+"custom_dots" = "Custom...";
+
+// MARK: - Other
+
+// MARK: Context Menus
+"copy_domain" = "Copiar Domínio";
+"copy_hostname" = "Copiar Hostname";
+"copy_ip" = "Copiar IP";
+"copy_hostname_or_ip" = "Copiar Hostname / IP";
+"add_to_list_dots" = "Adicionar a Lista...";
+"view_queries_to_domain" = "Ver Consultas ao Domínio";
+"view_queries_from_client" = "Ver Consultas do Cliente";
+"visit_domain" = "Visitar Domínio";
+
+// MARK: Miscellaneous
+"instances" = "Instâncias";
+"instances_colon" = "Instâncias:";
+"all_instances" = "Todas as Instâncias";
+"all" = "Todas"; #depends on context
+"choose_instance" = "Escolher Instância";
+"show_instance" = "Mostrar instância:";
+"add_pihole" = "Adicionar Pi-hole";
+"loading_dots" = "Carregando...";
+"something_went_wrong" = "Algo deu errado.";
+"please_check_api_token" = "Favor checar seu Token do API e configurações de privacidade.";
+"could_not_get_data" = "Não foi possível acessar todos os dados."; #depends on context
+"no_queries_found" = "No queries found.";
+"search" = "Busca";
+"refresh" = "Atualizar"; #depends on context
+"done" = "Feito";
+## "dismiss" = "Dismiss";
+"ok" = "OK";
+"save" = "Salvar";
+## "apply" = "Apply";
+"cancel" = "Cancelar";
+"edit" = "Editar";
+"remove" = "Remover";
+"off" = "Desligado";
+"on" = "Ligado";
+"ms" = "ms";
+"dots" = "...";
+
+// MARK: - watchOS Specific
+"watchos_home_queries" = "Consultas";
+"watchos_home_blocked" = "Bloqueado";
+"watchos_home_blocklist" = "Blocklist";
+"watchos_home_navbar" = "Pi-hole";
+"watchos_home_both" = "Ambos";
+"watchos_home_disable" = "Desabilitar";
+"watchos_home_disable_all" = "Desabilitar Todos";
+"watchos_blocking_alert_title" = "Desabilitar Bloqueamento";
+"watchos_for_how_long" = "Por quanto tempo?";
+"watchos_no_instances_headline" = "Favor adicionar uma instância de Pi-hole no app pro iPhone.";
+"watchos_no_instances_subheadline" = "Se já o fez, favor ir até sua instância, clicar em 'Editar' e clicar em 'Salvar' novamente. Depois disso deveria aparecer. Se as estatísticas não carregarem inicialmente, por favor reinicie o app no relógio. Obrigado!";
+
+// MARK: - tvOS Specific
+"tvos_blocking_alert_body" = "Desabilitar Bloqueamento";
+"tvos_for_how_long" = "Por quanto tempo?";
+"tvos_code" = "Code"; #depends on context
+"tvos_passcode" = "PIN";
+"tvos_set_passcode" = "Setar PIN";
+"tvos_remove_passcode" = "Remover PIN";
+"tvos_require_code" = "Pedir PIN para desabilitar";
+"tvos_unlock_by_entering_code" = "Desbloqueie as configurações entrando o PIN";
+"tvos_existing_code" = "Código existente"; #depends on context
+"tvos_enter_passcode" = "Entrar PIN";
+"tvos_go_back" = "Voltar";
+"tvos_disable_%@" = "Desabilitar | %@";
+"tvos_no_instances_headline" = "Nenhuma instância encontrada.\n\nPor favor assegure-se de que adicionou seu Pi-hole no Pi-hole Remote app para iPhone ou iPad e que está logado com a mesma conta de iCloud que está sendo usada no usuário ativo na Apple TV.";
+"tvos_no_instances_subheadline" = "Requer Pi-hole Remote v2.8+ para iOS, iPadOS, ou macOS.";
