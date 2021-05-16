@@ -1,12 +1,12 @@
-/* 
+/*
   Localizable.strings
   Pi-hole Remote
 
   Created by Joost van den Akker on 25/04/2021.
   Copyright © 2021 RocketScience. All rights reserved.
 */
-// MARK: - TabView
 
+// MARK: - TabView
 "tab_home" = "Strona główna";
 "tab_statistics" = "Statystyki";
 "tab_querylog" = "Logi";
@@ -445,6 +445,7 @@
 "8_hours" = "8 godzin";
 "24_hours" = "24 godziny";
 "until_turned_on" = "Do następnego włączenia";
+"indefinitely" = "Indefinitely";
 "custom" = "Własne";
 "custom_dots" = "Własne...";
 
