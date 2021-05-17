@@ -22,7 +22,7 @@
 "home_refreshing_dots" = "Refrescando...";
 "home_no_response" = "Sin Respuesta";
 "home_not_responding" = "No Responde";
-"home_disable" = "Desactivado";
+"home_disable" = "Desactivar";
 "home_disable_all" = "Desactivar Todo";
 "home_disable_blocking" = "Desactivar Bloqueo";
 "home_disable_blocking_pihole" = "Desactivar Bloqueo Pi-hole";
@@ -93,10 +93,10 @@
 "statistics_api_type_colon" = "API Tipo:";
 "statistics_api_version" = "API Versión";
 "statistics_api_version_colon" = "API Versión:";
-"statistics_dns_cache" = "DNS Cache";
-"statistics_dns_cache_size" = "Cache Tamaño:";
-"statistics_dns_cache_evictions" = "Cache Desalojos:";
-"statistics_dns_cache_inserted" = "Cache Inserciones:";
+"statistics_dns_cache" = "DNS Caché";
+"statistics_dns_cache_size" = "Caché Tamaño:";
+"statistics_dns_cache_evictions" = "Caché Desalojos:";
+"statistics_dns_cache_inserted" = "Caché Inserciones:";
 "statistics_github" = "Github";
 "statistics_update_explainer" = "Puedes actualizar usando la interfaz de línea de comandos, con el comando 'pihole -up'.";
 "statistics_update_explainer_%@" = "Puedes actualizar usando la interfaz de línea de comandos, con el comando %@ .";
@@ -115,7 +115,7 @@
 "querylog_status_unknown" = "Desconocido";
 "querylog_status_gravity" = "Gravity";
 "querylog_status_upstream" = "Servidor Ascendente";
-"querylog_status_local" = "Cache Local";
+"querylog_status_local" = "Caché Local";
 "querylog_status_blacklist_regex" = "Regex Lista Negra";
 "querylog_status_blacklist_regex_cname" = "Regex Lista Negra (CNAME)";
 "querylog_status_blacklist_exact" = "Exacta Lista Negra";
@@ -352,7 +352,7 @@
 "preferences_statistics_show_top_clients" = "Ver Top Clientes";
 "preferences_statistics_number_of_clients" = "Número de Clientes";
 "preferences_statistics_other" = "Otros";
-"preferences_statistics_other_footer" = "Ver versión Pi-hole, versión API, e información DNS cache.";
+"preferences_statistics_other_footer" = "Ver versión Pi-hole, versión API, e información DNS caché.";
 "preferences_statistics_show_other" = "Ver Otra Información";
 "preferences_lists_navbar" = "Listas";
 "preferences_lists_display" = "Mostrar";
@@ -445,7 +445,7 @@
 "8_hours" = "8 horas";
 "24_hours" = "24 horas";
 "until_turned_on" = "Hasta que se Active";
-"indefinitely" = "Indefinitely";
+"indefinitely" = "Indefinidamente";
 "custom" = "Personalizado";
 "custom_dots" = "Personalizado...";
 
