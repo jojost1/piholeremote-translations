@@ -23,12 +23,12 @@
 "home_no_response" = "Geen Reactie";
 "home_not_responding" = "Geen Reactie";
 "home_disable" = "Schakel uit";
-"home_disable_all" = "Schakel allen uit";
+"home_disable_all" = "Schakel alle uit";
 "home_disable_blocking" = "Schakel blokkeren uit";
 "home_disable_blocking_pihole" = "Schakel Pi-hole blokkeren uit";
 "home_disable_blocking_alert_%@" = "Hoe lang wil je blokkeren uitschakelen voor %@?";
 "home_enable" = "Schakel in";
-"home_enable_all" = "Schakel allen in";
+"home_enable_all" = "Schakel alle in";
 "home_enable_blocking" = "Schakel blokkeren in";
 "home_enable_blocking_pihole" = "Schakel Pi-hole blokkeren in";
 "home_enable_blocking_alert_%@" = "Weet je zeker dat je blokkeren wil inschakelen voor %@?";
