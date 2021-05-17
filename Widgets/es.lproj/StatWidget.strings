@@ -18,11 +18,15 @@
 
 "22mMz8" = "¿Qué instancia mostrar?";
 
+"2M6piF" = "Instancia";
+
 "3lbWkQ" = "Apariencia";
 
 "42Koi6" = "Sistema (Negro Puro)";
 
-"5JYHmU" = "instancia";
+"5FTVc8" = "Duración 2";
+
+"5JYHmU" = "Instancia";
 
 "5LhKeC-42Koi6" = "Hay ${count} opciones que coinciden con ‘Sistema (Negro Puro)’.";
 
@@ -37,6 +41,24 @@
 "6gOngz" = "¿Qué instancia mostrar?";
 
 "7HcZp4" = "¿Qué instancia mostrar?";
+
+"7MuxdM-IgP3Na" = "Sólo por confirmar, ¿Quieres ‘1 hora’?";
+
+"7MuxdM-VLERQ1" = "Sólo por confirmar, ¿Quieres ‘15 minutos’?";
+
+"7MuxdM-XwHq84" = "Sólo por confirmar, ¿Quieres ‘24 horas’?";
+
+"7MuxdM-YT1Pew" = "Sólo por confirmar, ¿Quieres ‘8 horas’?";
+
+"7MuxdM-uqnZUq" = "Sólo por confirmar, ¿Quieres ‘30 minutos’?";
+
+"7MuxdM-xDxdFy" = "Sólo por confirmar, ¿Quieres ‘5 minutos’?";
+
+"7MuxdM-xLSa62" = "Sólo por confirmar, ¿Quieres ‘1 minuto’?";
+
+"7MuxdM-zQ6Jw8" = "Sólo por confirmar, ¿Quieres ‘30 segundos’?";
+
+"7fM7XI" = "Duration 4";
 
 "7gfPrG" = "Instancia";
 
@@ -54,7 +76,25 @@
 
 "8w3JVZ" = "Instancia";
 
+"9gOTeN" = "Duración 1";
+
 "9hXLZd" = "Instancia";
+
+"9rFgTD-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
+
+"9rFgTD-VLERQ1" = "There are ${count} options matching ‘15 minutes’.";
+
+"9rFgTD-XwHq84" = "There are ${count} options matching ‘24 hours’.";
+
+"9rFgTD-YT1Pew" = "There are ${count} options matching ‘8 hours’.";
+
+"9rFgTD-uqnZUq" = "There are ${count} options matching ‘30 minutes’.";
+
+"9rFgTD-xDxdFy" = "There are ${count} options matching ‘5 minutes’.";
+
+"9rFgTD-xLSa62" = "There are ${count} options matching ‘1 minute’.";
+
+"9rFgTD-zQ6Jw8" = "There are ${count} options matching ‘30 seconds’.";
 
 "AJ9lZE-42Koi6" = "Sólo por confirmar, ¿Quieres ‘Sistema (Negro Puro)’?";
 
@@ -75,6 +115,22 @@
 "BILqn3" = "Porcentaje Bloqueado";
 
 "CVEdAO" = "Apariencia";
+
+"Ck4LzC-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
+
+"Ck4LzC-VLERQ1" = "There are ${count} options matching ‘15 minutes’.";
+
+"Ck4LzC-XwHq84" = "There are ${count} options matching ‘24 hours’.";
+
+"Ck4LzC-YT1Pew" = "There are ${count} options matching ‘8 hours’.";
+
+"Ck4LzC-uqnZUq" = "There are ${count} options matching ‘30 minutes’.";
+
+"Ck4LzC-xDxdFy" = "There are ${count} options matching ‘5 minutes’.";
+
+"Ck4LzC-xLSa62" = "There are ${count} options matching ‘1 minute’.";
+
+"Ck4LzC-zQ6Jw8" = "There are ${count} options matching ‘30 seconds’.";
 
 "CkCBJU" = "Color";
 
@@ -101,6 +157,8 @@
 "DJJsur" = "Duración de Desactivar del Widget";
 
 "DvY8Eg" = "Verde";
+
+"EUst6o" = "Indicador de Estado";
 
 "Ey6npg" = "Claro";
 
@@ -169,6 +227,8 @@
 "MNziAp" = "Duración 2";
 
 "NYeFKn" = "Lista Bloqueo";
+
+"NznF5w" = "Duración 3";
 
 "OYA8gF" = "Widget Acción del Toque";
 
@@ -272,6 +332,22 @@
 
 "awUBTf" = "Abrir Casa";
 
+"cDT0lC-IgP3Na" = "Sólo por confirmar, ¿Quieres ‘1 hora’?";
+
+"cDT0lC-VLERQ1" = "Sólo por confirmar, ¿Quieres ‘15 minutos’?";
+
+"cDT0lC-XwHq84" = "Sólo por confirmar, ¿Quieres ‘24 horas’?";
+
+"cDT0lC-YT1Pew" = "Sólo por confirmar, ¿Quieres ‘8 horas’?";
+
+"cDT0lC-uqnZUq" = "Sólo por confirmar, ¿Quieres ‘30 minutos’?";
+
+"cDT0lC-xDxdFy" = "Sólo por confirmar, ¿Quieres ‘5 minutos’?";
+
+"cDT0lC-xLSa62" = "Sólo por confirmar, ¿Quieres ‘1 minuto’?";
+
+"cDT0lC-zQ6Jw8" = "Sólo por confirmar, ¿Quieres ‘30 segundos’?";
+
 "ceTqFH-Ixk02y" = "Sólo por confirmar, ¿Quieres ‘Abrir Estadísticas’?";
 
 "ceTqFH-ZwOZTZ" = "Sólo por confirmar, ¿Quieres ‘Abrir Registro de Consultas’?";
@@ -316,6 +392,8 @@
 
 "j5tl6I" = "Bloqueado";
 
+"jiDiIB" = "¿Qué instancia mostrar?";
+
 "jwB6hP" = "Widget Tiempo Extra";
 
 "kH9rkk-DvY8Eg" = "Sólo por confirmar, ¿Quieres ‘Verde’?";
@@ -338,11 +416,59 @@
 
 "m60OS4" = "Rojo";
 
+"mP5CWX-IgP3Na" = "Hay ${count} opciones que coinciden con ‘1 hora’.";
+
+"mP5CWX-VLERQ1" = "Hay ${count} opciones que coinciden con ‘15 minutos’.";
+
+"mP5CWX-XwHq84" = "Hay ${count} opciones que coinciden con ‘24 horas’.";
+
+"mP5CWX-YT1Pew" = "Hay ${count} opciones que coinciden con ‘8 horas’.";
+
+"mP5CWX-uqnZUq" = "Hay ${count} opciones que coinciden con ‘30 minutos’.";
+
+"mP5CWX-xDxdFy" = "Hay ${count} opciones que coinciden con ‘5 minutos’.";
+
+"mP5CWX-xLSa62" = "Hay ${count} opciones que coinciden con ‘1 minuto’.";
+
+"mP5CWX-zQ6Jw8" = "Hay ${count} opciones que coinciden con ‘30 segundos’.";
+
 "nBNqPC" = "Estadísticas";
 
 "nIDolD" = "Desconocido";
 
 "nqHRwh" = "Abrir Listas";
+
+"oYBSfl-IgP3Na" = "Hay ${count} opciones que coinciden con ‘1 hora’.";
+
+"oYBSfl-VLERQ1" = "Hay ${count} opciones que coinciden con ‘15 minutos’.";
+
+"oYBSfl-XwHq84" = "Hay ${count} opciones que coinciden con ‘24 horas’.";
+
+"oYBSfl-YT1Pew" = "Hay ${count} opciones que coinciden con ‘8 horas’.";
+
+"oYBSfl-uqnZUq" = "Hay ${count} opciones que coinciden con ‘30 minutos’.";
+
+"oYBSfl-xDxdFy" = "Hay ${count} opciones que coinciden con ‘5 minutos’.";
+
+"oYBSfl-xLSa62" = "Hay ${count} opciones que coinciden con ‘1 minuto’.";
+
+"oYBSfl-zQ6Jw8" = "Hay ${count} opciones que coinciden con ‘30 segundos’.";
+
+"s0H1c8-IgP3Na" = "Sólo por confirmar, ¿Quieres ‘1 hora’?";
+
+"s0H1c8-VLERQ1" = "Sólo por confirmar, ¿Quieres ‘15 minutos’?";
+
+"s0H1c8-XwHq84" = "Sólo por confirmar, ¿Quieres ‘24 horas’?";
+
+"s0H1c8-YT1Pew" = "Sólo por confirmar, ¿Quieres ‘8 horas’?";
+
+"s0H1c8-uqnZUq" = "Sólo por confirmar, ¿Quieres ‘30 minutos’?";
+
+"s0H1c8-xDxdFy" = "Sólo por confirmar, ¿Quieres ‘5 minutos’?";
+
+"s0H1c8-xLSa62" = "Sólo por confirmar, ¿Quieres ‘1 minuto’?";
+
+"s0H1c8-zQ6Jw8" = "Sólo por confirmar, ¿Quieres ‘30 segundos’?";
 
 "sRVlCC" = "Acción del Toque";
 
@@ -369,6 +495,22 @@
 "vfUdD2-YW3QEp" = "Hay ${count} opciones que coinciden con ‘Oscuro (Negro Puro)’.";
 
 "vfUdD2-eHf5lH" = "Hay ${count} opciones que coinciden con ‘Oscuro’.";
+
+"vnH3Ih-IgP3Na" = "Sólo por confirmar, ¿Quieres ‘1 hora’?";
+
+"vnH3Ih-VLERQ1" = "Sólo por confirmar, ¿Quieres ‘15 minutos’?";
+
+"vnH3Ih-XwHq84" = "Sólo por confirmar, ¿Quieres ‘24 horas’?";
+
+"vnH3Ih-YT1Pew" = "Sólo por confirmar, ¿Quieres ‘8 horas’?";
+
+"vnH3Ih-uqnZUq" = "Sólo por confirmar, ¿Quieres ‘30 minutos’?";
+
+"vnH3Ih-xDxdFy" = "Sólo por confirmar, ¿Quieres ‘5 minutos’?";
+
+"vnH3Ih-xLSa62" = "Sólo por confirmar, ¿Quieres ‘1 minuto’?";
+
+"vnH3Ih-zQ6Jw8" = "Sólo por confirmar, ¿Quieres ‘30 segundos’?";
 
 "wMJOmd" = "Desactivar todo por 1 minuto";
 

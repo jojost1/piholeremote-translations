@@ -18,9 +18,13 @@
 
 "22mMz8" = "Jaka instancja ma być wyświetlana?";
 
+"2M6piF" = "Instancja";
+
 "3lbWkQ" = "Wygląd";
 
 "42Koi6" = "Systemowy (Pełna czerń)";
+
+"5FTVc8" = "Czas trwania 2";
 
 "5JYHmU" = "Instancja";
 
@@ -38,6 +42,24 @@
 
 "7HcZp4" = "Jaka instancja ma być wyświetlana?";
 
+"7MuxdM-IgP3Na" = "Chcę się upewnić, tylko „1 godzina”?";
+
+"7MuxdM-VLERQ1" = "Chcę się upewnić, tylko „15 minut”?";
+
+"7MuxdM-XwHq84" = "Chcę się upewnić, tylko „24 godziny”?";
+
+"7MuxdM-YT1Pew" = "Chcę się upewnić, tylko „8 godzin”?";
+
+"7MuxdM-uqnZUq" = "Chcę się upewnić, tylko „30 minut”?";
+
+"7MuxdM-xDxdFy" = "Chcę się upewnić, tylko „5 minut”?";
+
+"7MuxdM-xLSa62" = "Chcę się upewnić, tylko „1 minuta”?";
+
+"7MuxdM-zQ6Jw8" = "Chcę się upewnić, tylko „30 sekund”?";
+
+"7fM7XI" = "Czas trwania 4";
+
 "7gfPrG" = "Instancja";
 
 "8Udkqh" = "Wszystkie";
@@ -54,7 +76,25 @@
 
 "8w3JVZ" = "Instancja";
 
+"9gOTeN" = "Czas trwania 1";
+
 "9hXLZd" = "Instancja";
+
+"9rFgTD-IgP3Na" = "Istnieją ${count} opcje pasujące do „1 godzina”.";
+
+"9rFgTD-VLERQ1" = "Istnieją ${count} opcje pasujące do „15 minut”.";
+
+"9rFgTD-XwHq84" = "Istnieją ${count} opcje pasujące do „24 godziny”.";
+
+"9rFgTD-YT1Pew" = "Istnieją ${count} opcje pasujące do „8 godzin”.";
+
+"9rFgTD-uqnZUq" = "Istnieją ${count} opcje pasujące do „30 minut”.";
+
+"9rFgTD-xDxdFy" = "Istnieją ${count} opcje pasujące do „5 minut”.";
+
+"9rFgTD-xLSa62" = "Istnieją ${count} opcje pasujące do „1 minuta”.";
+
+"9rFgTD-zQ6Jw8" = "Istnieją ${count} opcje pasujące do „30 sekund”.";
 
 "AJ9lZE-42Koi6" = "Chcę się upewnić, chciałeś „Systemowy (Pełna czerń)”?";
 
@@ -75,6 +115,22 @@
 "BILqn3" = "Procent zablokowanych";
 
 "CVEdAO" = "Wygląd";
+
+"Ck4LzC-IgP3Na" = "Istnieją ${count} opcje pasujące do „1 godzina”.";
+
+"Ck4LzC-VLERQ1" = "Istnieją ${count} opcje pasujące do „15 minut”.";
+
+"Ck4LzC-XwHq84" = "Istnieją ${count} opcje pasujące do „24 godziny”.";
+
+"Ck4LzC-YT1Pew" = "Istnieją ${count} opcje pasujące do „8 godzin”.";
+
+"Ck4LzC-uqnZUq" = "Istnieją ${count} opcje pasujące do „30 minut”.";
+
+"Ck4LzC-xDxdFy" = "Istnieją ${count} opcje pasujące do „5 minut”.";
+
+"Ck4LzC-xLSa62" = "Istnieją ${count} opcje pasujące do „1 minuta”.";
+
+"Ck4LzC-zQ6Jw8" = "Istnieją ${count} opcje pasujące do „30 sekund”.";
 
 "CkCBJU" = "Kolor";
 
@@ -101,6 +157,8 @@
 "DJJsur" = "Widżet czasu trwania wyłączenia";
 
 "DvY8Eg" = "Zielony";
+
+"EUst6o" = "Wskaźnik statusu";
 
 "Ey6npg" = "Jasny";
 
@@ -169,6 +227,8 @@
 "MNziAp" = "Czas trwania 2";
 
 "NYeFKn" = "Bloklista";
+
+"NznF5w" = "Czas trwania 3";
 
 "OYA8gF" = "Akcja po dotknięciu widżetu";
 
@@ -272,6 +332,22 @@
 
 "awUBTf" = "Otwórz stronę główną";
 
+"cDT0lC-IgP3Na" = "Chcę się upewnić, tylko „1 godzina”?";
+
+"cDT0lC-VLERQ1" = "Chcę się upewnić, tylko „15 minut”?";
+
+"cDT0lC-XwHq84" = "Chcę się upewnić, tylko „24 godziny”?";
+
+"cDT0lC-YT1Pew" = "Chcę się upewnić, tylko „8 godzin”?";
+
+"cDT0lC-uqnZUq" = "Chcę się upewnić, tylko „30 minut”?";
+
+"cDT0lC-xDxdFy" = "Chcę się upewnić, tylko „5 minut”?";
+
+"cDT0lC-xLSa62" = "Chcę się upewnić, tylko „1 minuta”?";
+
+"cDT0lC-zQ6Jw8" = "Chcę się upewnić, tylko „30 sekund”?";
+
 "ceTqFH-Ixk02y" = "Chcę się upewnić, chciałeś „Otwórz statystyki”?";
 
 "ceTqFH-ZwOZTZ" = "Chcę się upewnić, chciałeś „Otwórz logi zapytań”?";
@@ -316,6 +392,8 @@
 
 "j5tl6I" = "Zablokowane";
 
+"jiDiIB" = "Jaka instancja ma być wyświetlana?";
+
 "jwB6hP" = "Widżet nadgodzin";
 
 "kH9rkk-DvY8Eg" = "Chcę się upewnić, chciałeś „Zielony”?";
@@ -338,11 +416,59 @@
 
 "m60OS4" = "Czerwony";
 
+"mP5CWX-IgP3Na" = "Istnieją ${count} opcje pasujące do „1 godzina”.";
+
+"mP5CWX-VLERQ1" = "Istnieją ${count} opcje pasujące do „15 minut”.";
+
+"mP5CWX-XwHq84" = "Istnieją ${count} opcje pasujące do „24 godziny”.";
+
+"mP5CWX-YT1Pew" = "Istnieją ${count} opcje pasujące do „8 godzin”.";
+
+"mP5CWX-uqnZUq" = "Istnieją ${count} opcje pasujące do „30 minut”.";
+
+"mP5CWX-xDxdFy" = "Istnieją ${count} opcje pasujące do „5 minut”.";
+
+"mP5CWX-xLSa62" = "Istnieją ${count} opcje pasujące do „1 minuta”.";
+
+"mP5CWX-zQ6Jw8" = "Istnieją ${count} opcje pasujące do „30 sekund”.";
+
 "nBNqPC" = "Statystyki";
 
 "nIDolD" = "Nieznany";
 
 "nqHRwh" = "Otwórz listę";
+
+"oYBSfl-IgP3Na" = "Istnieją ${count} opcje pasujące do „1 godzina”.";
+
+"oYBSfl-VLERQ1" = "Istnieją ${count} opcje pasujące do „15 minut”.";
+
+"oYBSfl-XwHq84" = "Istnieją ${count} opcje pasujące do „24 godziny”.";
+
+"oYBSfl-YT1Pew" = "Istnieją ${count} opcje pasujące do „8 godzin”.";
+
+"oYBSfl-uqnZUq" = "Istnieją ${count} opcje pasujące do „30 minut”.";
+
+"oYBSfl-xDxdFy" = "Istnieją ${count} opcje pasujące do „5 minut”.";
+
+"oYBSfl-xLSa62" = "Istnieją ${count} opcje pasujące do „1 minuta”.";
+
+"oYBSfl-zQ6Jw8" = "Istnieją ${count} opcje pasujące do „30 sekund”.";
+
+"s0H1c8-IgP3Na" = "Chcę się upewnić, tylko „1 godzina”?";
+
+"s0H1c8-VLERQ1" = "Chcę się upewnić, tylko „15 minut”?";
+
+"s0H1c8-XwHq84" = "Chcę się upewnić, tylko „24 godziny”?";
+
+"s0H1c8-YT1Pew" = "Chcę się upewnić, tylko „8 godzin”?";
+
+"s0H1c8-uqnZUq" = "Chcę się upewnić, tylko „30 minut”?";
+
+"s0H1c8-xDxdFy" = "Chcę się upewnić, tylko „5 minut”?";
+
+"s0H1c8-xLSa62" = "Chcę się upewnić, tylko „1 minuta”?";
+
+"s0H1c8-zQ6Jw8" = "Chcę się upewnić, tylko „30 sekund”?";
 
 "sRVlCC" = "Akcja po dotknięciu";
 
@@ -369,6 +495,22 @@
 "vfUdD2-YW3QEp" = "Istnieją ${count} opcje pasujące do „Ciemny (Pełna czerń)”.";
 
 "vfUdD2-eHf5lH" = "Istnieją ${count} opcje pasujące do „Dark”.";
+
+"vnH3Ih-IgP3Na" = "Chcę się upewnić, tylko „1 godzina”?";
+
+"vnH3Ih-VLERQ1" = "Chcę się upewnić, tylko „15 minut”?";
+
+"vnH3Ih-XwHq84" = "Chcę się upewnić, tylko „24 godziny”?";
+
+"vnH3Ih-YT1Pew" = "Chcę się upewnić, tylko „8 godzin”?";
+
+"vnH3Ih-uqnZUq" = "Chcę się upewnić, tylko „30 minut”?";
+
+"vnH3Ih-xDxdFy" = "Chcę się upewnić, tylko „5 minut”?";
+
+"vnH3Ih-xLSa62" = "Chcę się upewnić, tylko „1 minuta”?";
+
+"vnH3Ih-zQ6Jw8" = "Chcę się upewnić, tylko „30 sekund”?";
 
 "wMJOmd" = "Wyłącz wszystkie na 1 minutę";
 

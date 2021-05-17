@@ -18,11 +18,15 @@
 
 "22mMz8" = "What instance to display?";
 
+"2M6piF" = "Instantie";
+
 "3lbWkQ" = "Appearance";
 
 "42Koi6" = "System (Pure Black)";
 
-"5JYHmU" = "Instance";
+"5FTVc8" = "Duration 2";
+
+"5JYHmU" = "Instantie";
 
 "5LhKeC-42Koi6" = "There are ${count} options matching ‘System (Pure Black)’.";
 
@@ -37,6 +41,24 @@
 "6gOngz" = "What instance to display?";
 
 "7HcZp4" = "What instance to display?";
+
+"7MuxdM-IgP3Na" = "Just to confirm, you wanted ‘1 hour’?";
+
+"7MuxdM-VLERQ1" = "Just to confirm, you wanted ‘15 minutes’?";
+
+"7MuxdM-XwHq84" = "Just to confirm, you wanted ‘24 hours’?";
+
+"7MuxdM-YT1Pew" = "Just to confirm, you wanted ‘8 hours’?";
+
+"7MuxdM-uqnZUq" = "Just to confirm, you wanted ‘30 minutes’?";
+
+"7MuxdM-xDxdFy" = "Just to confirm, you wanted ‘5 minutes’?";
+
+"7MuxdM-xLSa62" = "Just to confirm, you wanted ‘1 minute’?";
+
+"7MuxdM-zQ6Jw8" = "Just to confirm, you wanted ‘30 seconds’?";
+
+"7fM7XI" = "Duration 4";
 
 "7gfPrG" = "Instance";
 
@@ -54,7 +76,25 @@
 
 "8w3JVZ" = "Instance";
 
+"9gOTeN" = "Duration 1";
+
 "9hXLZd" = "Instance";
+
+"9rFgTD-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
+
+"9rFgTD-VLERQ1" = "There are ${count} options matching ‘15 minutes’.";
+
+"9rFgTD-XwHq84" = "There are ${count} options matching ‘24 hours’.";
+
+"9rFgTD-YT1Pew" = "There are ${count} options matching ‘8 hours’.";
+
+"9rFgTD-uqnZUq" = "There are ${count} options matching ‘30 minutes’.";
+
+"9rFgTD-xDxdFy" = "There are ${count} options matching ‘5 minutes’.";
+
+"9rFgTD-xLSa62" = "There are ${count} options matching ‘1 minute’.";
+
+"9rFgTD-zQ6Jw8" = "There are ${count} options matching ‘30 seconds’.";
 
 "AJ9lZE-42Koi6" = "Just to confirm, you wanted ‘System (Pure Black)’?";
 
@@ -75,6 +115,22 @@
 "BILqn3" = "Percent Blocked";
 
 "CVEdAO" = "Appearance";
+
+"Ck4LzC-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
+
+"Ck4LzC-VLERQ1" = "There are ${count} options matching ‘15 minutes’.";
+
+"Ck4LzC-XwHq84" = "There are ${count} options matching ‘24 hours’.";
+
+"Ck4LzC-YT1Pew" = "There are ${count} options matching ‘8 hours’.";
+
+"Ck4LzC-uqnZUq" = "There are ${count} options matching ‘30 minutes’.";
+
+"Ck4LzC-xDxdFy" = "There are ${count} options matching ‘5 minutes’.";
+
+"Ck4LzC-xLSa62" = "There are ${count} options matching ‘1 minute’.";
+
+"Ck4LzC-zQ6Jw8" = "There are ${count} options matching ‘30 seconds’.";
 
 "CkCBJU" = "Color";
 
@@ -101,6 +157,8 @@
 "DJJsur" = "Widget Disable Duration";
 
 "DvY8Eg" = "Green";
+
+"EUst6o" = "Status Indicator";
 
 "Ey6npg" = "Light";
 
@@ -169,6 +227,8 @@
 "MNziAp" = "Duration 2";
 
 "NYeFKn" = "Blocklist";
+
+"NznF5w" = "Duration 3";
 
 "OYA8gF" = "Widget Tap Action";
 
@@ -272,6 +332,22 @@
 
 "awUBTf" = "Open Home";
 
+"cDT0lC-IgP3Na" = "Just to confirm, you wanted ‘1 hour’?";
+
+"cDT0lC-VLERQ1" = "Just to confirm, you wanted ‘15 minutes’?";
+
+"cDT0lC-XwHq84" = "Just to confirm, you wanted ‘24 hours’?";
+
+"cDT0lC-YT1Pew" = "Just to confirm, you wanted ‘8 hours’?";
+
+"cDT0lC-uqnZUq" = "Just to confirm, you wanted ‘30 minutes’?";
+
+"cDT0lC-xDxdFy" = "Just to confirm, you wanted ‘5 minutes’?";
+
+"cDT0lC-xLSa62" = "Just to confirm, you wanted ‘1 minute’?";
+
+"cDT0lC-zQ6Jw8" = "Just to confirm, you wanted ‘30 seconds’?";
+
 "ceTqFH-Ixk02y" = "Just to confirm, you wanted ‘Open Statistics’?";
 
 "ceTqFH-ZwOZTZ" = "Just to confirm, you wanted ‘Open Query Log’?";
@@ -316,6 +392,8 @@
 
 "j5tl6I" = "Blocked";
 
+"jiDiIB" = "What instance to display?";
+
 "jwB6hP" = "Overtime Widget";
 
 "kH9rkk-DvY8Eg" = "Just to confirm, you wanted ‘Green’?";
@@ -338,11 +416,59 @@
 
 "m60OS4" = "Red";
 
+"mP5CWX-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
+
+"mP5CWX-VLERQ1" = "There are ${count} options matching ‘15 minutes’.";
+
+"mP5CWX-XwHq84" = "There are ${count} options matching ‘24 hours’.";
+
+"mP5CWX-YT1Pew" = "There are ${count} options matching ‘8 hours’.";
+
+"mP5CWX-uqnZUq" = "There are ${count} options matching ‘30 minutes’.";
+
+"mP5CWX-xDxdFy" = "There are ${count} options matching ‘5 minutes’.";
+
+"mP5CWX-xLSa62" = "There are ${count} options matching ‘1 minute’.";
+
+"mP5CWX-zQ6Jw8" = "There are ${count} options matching ‘30 seconds’.";
+
 "nBNqPC" = "Statistic";
 
 "nIDolD" = "Unknown";
 
 "nqHRwh" = "Open Lists";
+
+"oYBSfl-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
+
+"oYBSfl-VLERQ1" = "There are ${count} options matching ‘15 minutes’.";
+
+"oYBSfl-XwHq84" = "There are ${count} options matching ‘24 hours’.";
+
+"oYBSfl-YT1Pew" = "There are ${count} options matching ‘8 hours’.";
+
+"oYBSfl-uqnZUq" = "There are ${count} options matching ‘30 minutes’.";
+
+"oYBSfl-xDxdFy" = "There are ${count} options matching ‘5 minutes’.";
+
+"oYBSfl-xLSa62" = "There are ${count} options matching ‘1 minute’.";
+
+"oYBSfl-zQ6Jw8" = "There are ${count} options matching ‘30 seconds’.";
+
+"s0H1c8-IgP3Na" = "Just to confirm, you wanted ‘1 hour’?";
+
+"s0H1c8-VLERQ1" = "Just to confirm, you wanted ‘15 minutes’?";
+
+"s0H1c8-XwHq84" = "Just to confirm, you wanted ‘24 hours’?";
+
+"s0H1c8-YT1Pew" = "Just to confirm, you wanted ‘8 hours’?";
+
+"s0H1c8-uqnZUq" = "Just to confirm, you wanted ‘30 minutes’?";
+
+"s0H1c8-xDxdFy" = "Just to confirm, you wanted ‘5 minutes’?";
+
+"s0H1c8-xLSa62" = "Just to confirm, you wanted ‘1 minute’?";
+
+"s0H1c8-zQ6Jw8" = "Just to confirm, you wanted ‘30 seconds’?";
 
 "sRVlCC" = "Tap Action";
 
@@ -369,6 +495,22 @@
 "vfUdD2-YW3QEp" = "There are ${count} options matching ‘Dark (Pure Black)’.";
 
 "vfUdD2-eHf5lH" = "There are ${count} options matching ‘Dark’.";
+
+"vnH3Ih-IgP3Na" = "Just to confirm, you wanted ‘1 hour’?";
+
+"vnH3Ih-VLERQ1" = "Just to confirm, you wanted ‘15 minutes’?";
+
+"vnH3Ih-XwHq84" = "Just to confirm, you wanted ‘24 hours’?";
+
+"vnH3Ih-YT1Pew" = "Just to confirm, you wanted ‘8 hours’?";
+
+"vnH3Ih-uqnZUq" = "Just to confirm, you wanted ‘30 minutes’?";
+
+"vnH3Ih-xDxdFy" = "Just to confirm, you wanted ‘5 minutes’?";
+
+"vnH3Ih-xLSa62" = "Just to confirm, you wanted ‘1 minute’?";
+
+"vnH3Ih-zQ6Jw8" = "Just to confirm, you wanted ‘30 seconds’?";
 
 "wMJOmd" = "Disable all for 1 minute";
 

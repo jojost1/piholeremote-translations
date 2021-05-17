@@ -18,9 +18,13 @@
 
 "22mMz8" = "Qual instância mostrar?";
 
+"5JYHmU" = "Instância";
+
 "3lbWkQ" = "Aparência";
 
 "42Koi6" = "Sistema (Preto Puro)";
+
+"5FTVc8" = "Duration 2";
 
 "5JYHmU" = "Instância";
 
@@ -38,9 +42,27 @@
 
 "7HcZp4" = "Qual instância mostrar?";
 
+"7MuxdM-IgP3Na" = "Para confirmar, você gostaria de '1 hora'?";
+
+"7MuxdM-VLERQ1" = "Para confirmar, você gostaria de '15 minutos'?";
+
+"7MuxdM-XwHq84" = "Para confirmar, você gostaria de '24 horas'?";
+
+"7MuxdM-YT1Pew" = "Para confirmar, você gostaria de '8 horas'?";
+
+"7MuxdM-uqnZUq" = "Para confirmar, você gostaria de '30 minutos'?";
+
+"7MuxdM-xDxdFy" = "Para confirmar, você gostaria de '5 minutos'?";
+
+"7MuxdM-xLSa62" = "Para confirmar, você gostaria de '1 minuto'?";
+
+"7MuxdM-zQ6Jw8" = "Para confirmar, você gostaria de '30 segundos'?";
+
+"7fM7XI" = "Duration 4";
+
 "7gfPrG" = "Instância";
 
-"8Udkqh" = "Todos"; #depends on context
+"8Udkqh" = "Todos";
 
 "8kg56g-Ixk02y" = "${count} opções que correspondem a ‘Abrir Estatísticas’.";
 
@@ -54,7 +76,25 @@
 
 "8w3JVZ" = "Instância";
 
+"9gOTeN" = "Duration 1";
+
 "9hXLZd" = "Instância";
+
+"9rFgTD-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
+
+"9rFgTD-VLERQ1" = "There are ${count} options matching ‘15 minutes’.";
+
+"9rFgTD-XwHq84" = "There are ${count} options matching ‘24 hours’.";
+
+"9rFgTD-YT1Pew" = "There are ${count} options matching ‘8 hours’.";
+
+"9rFgTD-uqnZUq" = "There are ${count} options matching ‘30 minutes’.";
+
+"9rFgTD-xDxdFy" = "There are ${count} options matching ‘5 minutes’.";
+
+"9rFgTD-xLSa62" = "There are ${count} options matching ‘1 minute’.";
+
+"9rFgTD-zQ6Jw8" = "There are ${count} options matching ‘30 seconds’.";
 
 "AJ9lZE-42Koi6" = "Só para confirmar, você queria 'Sistema (Preto Puro)’?";
 
@@ -75,6 +115,22 @@
 "BILqn3" = "Porcentagem Bloqueada";
 
 "CVEdAO" = "Aparência";
+
+"Ck4LzC-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
+
+"Ck4LzC-VLERQ1" = "There are ${count} options matching ‘15 minutes’.";
+
+"Ck4LzC-XwHq84" = "There are ${count} options matching ‘24 hours’.";
+
+"Ck4LzC-YT1Pew" = "There are ${count} options matching ‘8 hours’.";
+
+"Ck4LzC-uqnZUq" = "There are ${count} options matching ‘30 minutes’.";
+
+"Ck4LzC-xDxdFy" = "There are ${count} options matching ‘5 minutes’.";
+
+"Ck4LzC-xLSa62" = "There are ${count} options matching ‘1 minute’.";
+
+"Ck4LzC-zQ6Jw8" = "There are ${count} options matching ‘30 seconds’.";
 
 "CkCBJU" = "Cor";
 
@@ -102,9 +158,11 @@
 
 "DvY8Eg" = "Verde";
 
+"EUst6o" = "Indicator de Status";
+
 "Ey6npg" = "Claro";
 
-## "G5RUst" = "Tap Action";
+"G5RUst" = "Tap Action";
 
 "G9xiY4-Ixk02y" = "Só para confirmar, você queria ‘Abrir Estatísticas’?";
 
@@ -164,13 +222,15 @@
 
 "LfwXuE-j5tl6I" = "${count} opções que correspondem a ‘Bloqueados’.";
 
-"LldBql" = "WidgetQueries";
+"LldBql" = "Widget Queries";
 
 "MNziAp" = "Duração 2";
 
 "NYeFKn" = "Blocklist";
 
-## "OYA8gF" = "Widget Tap Action";
+"NznF5w" = "Duração 3";
+
+"OYA8gF" = "Widget Tap Action";
 
 "OsIXJN" = "Azul";
 
@@ -272,6 +332,22 @@
 
 "awUBTf" = "Abrir Início";
 
+"cDT0lC-IgP3Na" = "Para confirmar, você gostaria de '1 hora'?";
+
+"cDT0lC-VLERQ1" = "Para confirmar, você gostaria de '15 minutos'?";
+
+"cDT0lC-XwHq84" = "Para confirmar, você gostaria de '24 horas'?";
+
+"cDT0lC-YT1Pew" = "Para confirmar, você gostaria de '8 horas'?";
+
+"cDT0lC-uqnZUq" = "Para confirmar, você gostaria de '30 minutos'?";
+
+"cDT0lC-xDxdFy" = "Para confirmar, você gostaria de '5 minutos'?";
+
+"cDT0lC-xLSa62" = "Para confirmar, você gostaria de '1 minuto'?";
+
+"cDT0lC-zQ6Jw8" = "Para confirmar, você gostaria de '30 segundos'?";
+
 "G9xiY4-Ixk02y" = "Só para confirmar, você queria ‘Abrir Estatísticas’?";
 
 "G9xiY4-ZwOZTZ" = "Só para confirmar, você queria ‘Abrir Log de Consultas’?";
@@ -316,6 +392,8 @@
 
 "j5tl6I" = "Bloqueado";
 
+"jiDiIB" = "Qual instância mostrar?";
+
 "jwB6hP" = "Overtime Widget";
 
 "kH9rkk-DvY8Eg" = "Só pra confirmar, você queria ‘Verde’?";
@@ -338,11 +416,59 @@
 
 "m60OS4" = "Vermelho";
 
+"mP5CWX-IgP3Na" = "${count} opções que correspondem a ‘1 hora’.";
+
+"mP5CWX-VLERQ1" = "${count} opções que correspondem a ‘15 minutos’.";
+
+"mP5CWX-XwHq84" = "${count} opções que correspondem a ‘24 horas’.";
+
+"mP5CWX-YT1Pew" = "${count} opções que correspondem a ‘8 horas’.";
+
+"mP5CWX-uqnZUq" = "${count} opções que correspondem a ‘30 minutos’.";
+
+"mP5CWX-xDxdFy" = "${count} opções que correspondem a ‘5 minutos’.";
+
+"mP5CWX-xLSa62" = "${count} opções que correspondem a ‘1 minuto’.";
+
+"mP5CWX-zQ6Jw8" = "${count} opções que correspondem a ‘30 segundos’.";
+
 "nBNqPC" = "Estatística";
 
 "nIDolD" = "Desconhecido";
 
 "nqHRwh" = "Abrir Listas";
+
+"oYBSfl-IgP3Na" = "${count} opções que correspondem a ‘1 hora’.";
+
+"oYBSfl-VLERQ1" = "${count} opções que correspondem a ‘15 minutos’.";
+
+"oYBSfl-XwHq84" = "${count} opções que correspondem a ‘24 horas’.";
+
+"oYBSfl-YT1Pew" = "${count} opções que correspondem a ‘8 horas’.";
+
+"oYBSfl-uqnZUq" = "${count} opções que correspondem a ‘30 minutos’.";
+
+"oYBSfl-xDxdFy" = "${count} opções que correspondem a ‘5 minutos’.";
+
+"oYBSfl-xLSa62" = "${count} opções que correspondem a ‘1 minuto’.";
+
+"oYBSfl-zQ6Jw8" = "${count} opções que correspondem a ‘30 segundos’.";
+
+"s0H1c8-IgP3Na" = "Para confirmar, você gostaria de '1 hora'?";
+
+"s0H1c8-VLERQ1" = "Para confirmar, você gostaria de '15 minutos'?";
+
+"s0H1c8-XwHq84" = "Para confirmar, você gostaria de '24 horas'?";
+
+"s0H1c8-YT1Pew" = "Para confirmar, você gostaria de '8 horas'?";
+
+"s0H1c8-uqnZUq" = "Para confirmar, você gostaria de '30 minutos'?";
+
+"s0H1c8-xDxdFy" = "Para confirmar, você gostaria de '5 minutos'?";
+
+"s0H1c8-xLSa62" = "Para confirmar, você gostaria de '1 minuto'?";
+
+"s0H1c8-zQ6Jw8" = "Para confirmar, você gostaria de '30 segundos'?";
 
 "sRVlCC" = "Tap Action";
 
@@ -369,6 +495,22 @@
 "vfUdD2-YW3QEp" = "${count} opções que correspondem a ‘Escuro (Preto Puro)’.";
 
 "vfUdD2-eHf5lH" = "${count} opções que correspondem a ‘Escuro’.";
+
+"vnH3Ih-IgP3Na" = "Para confirmar, você gostaria de '1 hora'?";
+
+"vnH3Ih-VLERQ1" = "Para confirmar, você gostaria de '15 minutos'?";
+
+"vnH3Ih-XwHq84" = "Para confirmar, você gostaria de '24 horas'?";
+
+"vnH3Ih-YT1Pew" = "Para confirmar, você gostaria de '8 horas'?";
+
+"vnH3Ih-uqnZUq" = "Para confirmar, você gostaria de '30 minutos'?";
+
+"vnH3Ih-xDxdFy" = "Para confirmar, você gostaria de '5 minutos'?";
+
+"vnH3Ih-xLSa62" = "Para confirmar, você gostaria de '1 minuto'?";
+
+"vnH3Ih-zQ6Jw8" = "Para confirmar, você gostaria de '30 segundos'?";
 
 "wMJOmd" = "Desabilitar tudo por 1 minuto";
 
