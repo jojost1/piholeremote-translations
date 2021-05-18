@@ -376,6 +376,10 @@
 "design_tint_pink" = "Rosa";
 "design_tint_red" = "Vermelho";
 "design_icon" = "Ícone do Aplicativo";
+"design_icon_pihole" = "Pi-hole Remote";
+"design_icon_pihole_dark" = "Pi-hole Remote Dark";
+"design_icon_classic" = "Classic";
+"design_icon_classic_dark" = "Classic Dark";
 "design_theme" = "Tema";
 "design_system" = "Sistema";
 "design_light_mode" = "Modo Claro";
