@@ -103,8 +103,8 @@
 
 // MARK: Graphs
 "graphs_navbar" = "Gráficos";
-"graphs_allowed" = "Permitidos";
-"graphs_blocked" = "Bloqueados";
+"graphs_allowed" = "Permitidas";
+"graphs_blocked" = "Bloqueadas";
 "graphs_query_types" = "Tipos de Consulta";
 
 // MARK: - QueryLog-tab
@@ -377,9 +377,9 @@
 "design_tint_red" = "Rojo";
 "design_icon" = "Icono de la App";
 "design_icon_pihole" = "Pi-hole Remote";
-"design_icon_pihole_dark" = "Pi-hole Remote Dark";
-"design_icon_classic" = "Classic";
-"design_icon_classic_dark" = "Classic Dark";
+"design_icon_pihole_dark" = "Pi-hole Remote Oscuro";
+"design_icon_classic" = "Clásico";
+"design_icon_classic_dark" = "Clásico Oscuro";
 "design_theme" = "Tema";
 "design_system" = "Sistema";
 "design_light_mode" = "Modo Claro";
