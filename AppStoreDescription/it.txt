@@ -14,50 +14,50 @@ Choose from a wide range of homescreen widgets that show statistics or a query-g
 
 ==
 
-iPhone, iPad, macOS features:
-- Disable Pi-hole blocking
-- View basic & advanced statistics
-- Add domains to your whitelist or blacklist (in bulk)
-- Export your list entries
-- Sync list entries between two instances
-- Full Query Log with search & filters
-- Live Log which shows queries in real-time
-- Support for up to 4 Pi-hole instances with combined statistics and queries
-- Support for scanning Pi-hole token QR code
-- Support for SSL, reverse proxies, and alternative Privacy Levels
+Funzionalità su iPhone, iPad, macOS:
+- Disabilita il blocco di Pi-hole
+- Visualizza statistiche base ed avanzate
+- Aggiungi domini alla tua whitelist o blacklist (anche in massa)
+- Esporta le tue liste
+- Sincronizza le liste tra due istanze 
+- Log completi delle richieste con possibilità di ricerca e filtri
+- Log live per mostrare le richieste in tempo reale
+- Supporto fino a 4 istanze Pi-hole con statistiche e richieste combinate
+- Supporto per scannerizzare il QR code contenente il token Pi-hole
+- Supporto per SSL, reverse proxies e altri livelli di Privacy
 - Widgets (iOS 14 & macOS 11)
-- Siri Shortcuts & Quick Action
-- Share Extension for quick white/blacklisting
-- VoiceOver support
-- Dark Mode, custom color schemes, alternative app icons
-- Optimised design for iPadOS & macOS
-- Clean and modern 100% SwiftUI design
+- Scorciatoie di Siri e azioni veloci
+- Puoi white/blacklistare in modo veloce sfruttando la funzionalità Condividi // Share Extension for quick white/blacklisting
+- Supporto a VoiceOver
+- Modalità dark, schema di colori personalizzati e icone alternative per l'app
+- Design ottimizzato per iPadOS & macOS
+- Design all 100% SwiftUI pulito e moderno
 
 Apple Watch features:
-- View basic statistics
-- Disable Pi-hole blocking
-- Complications
+- Vedi statistiche base
+- Disabilita il blocco di Pi-hole Disable Pi-hole blocking
+- Complicazioni
 
 Apple TV features:
-- View basic statistics
-- Disable Pi-hole blocking
-- Require Passcode on Disable
+- Vedi statistiche base 
+- Disabilita il blocco di Pi-hole
+- Richiesta della password per disabilitare
 
-Statistics:
-- Total Queries
-- Queries/Percentage Blocked
-- Blocklist + Gravity Last Updated
-- Temperature & Memory Usage
-- Graph Queries Overtime
-- Top Allowed Domains
-- Top Blocked Domains
-- Top Clients
-- Unique Domains/Clients
+Statistiche:
+- Richieste totali
+- Richieste bloccate e relative percentuali
+- Ultimi aggiornamenti per Blocklist + Gravity
+- Uso di memoria e temperatura
+- Grafici per le richieste nel tempo
+- Top domini permessi
+- Top domini bloccati
+- Top dispositivi 
+- Domini e dispositivi unici
 - Clients Ever Seen
-- Queries Per Domain/Client
-- Query Types
-- Pi-hole Version
-- API Info
+- Richieste per dominio o dispositivo
+- Tipo di richieste
+- Versione di Pi-hole
+- Informazioni API
 - DNS Cache
 
 * The in-app-purchases are only there for the Tip Jar, to support future development of the app. This is completely optional.
