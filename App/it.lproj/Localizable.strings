@@ -231,8 +231,8 @@
 // MARK: Sync Lists
 "lists_sync_navbar" = "Sincronizza Istanze";
 "lists_sync_start_sync" = "Inizia sincronizzazione";
-"lists_sync_start_sync_alert" = "This action will add list entries from the first instance to the second one and vice versa. Are you sure you want to do this?";
-"lists_sync_explainer" = "This feature will synchronize the list entries between two of your instances by adding list entries from one of your instances to the other and vice versa.\n\nPlease review the lists below to make sure the sync will do what you would expect. The process itself might take a while or fail if you sync a lot of entries, keep this screen open during the sync.";
+"lists_sync_start_sync_alert" = "Questa azione sincronizzerà le due liste copiando gli elementi della prima lista nella seconda e viceversa. Sei sicuro di voler procedere?";
+"lists_sync_explainer" = "Questa funzionalità sincronizzerà le due istanze copiando gli elementi delle liste della prima nella seconda e viceversa.\n\nPer favore, controlla le liste in basso per essere sicuro che il risultato finale sarà ciò che ti aspetti. Il processo potrebbe impiegare un po' di tempo o fallire se le liste da sincronizzare sono tante, per favore tieni la finestra aperta durante la sincronizzazione.";
 "lists_sync_calculating" = "Calcolando...";
 "lists_sync_lists_are_in_sync" = "Le liste sono sincronizzate.";
 "lists_sync_activity_log" = "Log di attività";
@@ -265,16 +265,16 @@
 
 // MARK: - Settings-tab
 "settings_navbar" = "Impostazioni";
-"settings_add_pihole" = "Add Pi-hole";
-"settings_add_primary" = "Add Primary Pi-hole";
-"settings_manage_primary" = "Manage Primary Pi-hole";
-"settings_add_secondary" = "Add Secondary Pi-hole";
-"settings_manage_secondary" = "Manage Secondary Pi-hole";
-"settings_add_third" = "Add Third Pi-hole";
-"settings_manage_third" = "Manage Third Pi-hole";
-"settings_add_fourth" = "Add Fourth Pi-hole";
-"settings_manage_fourth" = "Manage Fourth Pi-hole";
-"settings_combine_in_home" = "Combine in Home";
+"settings_add_pihole" = "Aggiungi un Pi-hole";
+"settings_add_primary" = "Aggiungi il Pi-hole primario";
+"settings_manage_primary" = "Gestisci il Pi-hole primario";
+"settings_add_secondary" = "Aggiungi il Pi-hole secondario";
+"settings_manage_secondary" = "Gestisci il Pi-hole secondario";
+"settings_add_third" = "Aggiungi il terzo Pi-hole";
+"settings_manage_third" = "Gestisci il terzo Pi-hole";
+"settings_add_fourth" = "Aggiungi il quarto Pi-hole";
+"settings_manage_fourth" = "Gestisci il quarto Pi-hole";
+"settings_combine_in_home" = "Unisci nella Home";
 "settings_preferences" = "Preferenze";
 "settings_support_development" = "Aiuta lo sviluppo";
 "settings_home" = "Home";
@@ -309,8 +309,8 @@
 "instance_port_placeholder" = "80";
 "instance_token" = "API Token";
 "instance_token_placeholder" = "a1b2c3d4...";
-"instance_token_explainer" = "Required for Enable/Disable & Statistics. If you don't have password set up, leave this empty.\nYou can find the token in the Web Interface > Settings > API.";
-"instance_token_alert_title" = "Pi-hole API Token";
+"instance_token_explainer" = "Richiesto per abilitare/disabilitare e per le statistiche. Lascialo vuoto se non hai una password impostata.\nPuoi trovare il token andando in Interfaccia Web > Impostazioni > API.";
+"instance_token_alert_title" = "Token API di Pi-hole";
 "instance_token_alert_body" = "You can find your Pi-hole API token on the Web Interface.\n\nLog in and go to 'Settings > API / Web Interface > Show API token' and you'll see a QR Code that you can scan!";
 "instance_token_scan_navbar" = "Scannerizza l'API Token";
 "instance_token_scan_permission" = "Please give permission to access the camera in the pop-up or in Settings > Privacy > Camera.";
