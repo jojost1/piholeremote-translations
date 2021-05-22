@@ -11,7 +11,7 @@
 "tab_statistics" = "Estatísticas";
 "tab_querylog" = "Consultar Logs";
 "tab_lists" = "Listas";
-"tab_settings" = "Configurações";
+"tab_settings" = "Ajustes";
 
 // MARK: - Home-tab
 "home_navbar" = "Pi-hole Remote";
@@ -25,8 +25,8 @@
 "home_disable" = "Desabilitar";
 "home_disable_all" = "Desabilitar Todos";
 "home_disable_blocking" = "Desabilitar Bloqueamento";
-"home_disable_blocking_pihole" = "Desabilitar Bloqueamento do Pi-hole";
-"home_disable_blocking_alert_%@" = "Por quanto tempo deseja desabilitar o bloqueamento de %@?";
+"home_disable_blocking_pihole" = "Desabilitar Pi-hole";
+"home_disable_blocking_alert_%@" = "Por quanto tempo deseja desabilitar %@?";
 "home_enable" = "Habilitar";
 "home_enable_all" = "Habilitar Todos";
 "home_enable_blocking" = "Habilitar Bloqueamento";
@@ -34,7 +34,7 @@
 "home_enable_blocking_alert_%@" = "Tem certeza de que deseja habilitar o bloqueamento de %@?";
 "home_enable_blocking_alert_%@" = "Tem certeza de que deseja habilitar o bloqueamento de %@?";
 "home_enable_%@_disabled_until_%@" = "Habilitar (%@Desabilitado até %@)";
-"home_data_from_%@" = "Dados de %@";
+"home_data_from_%@" = "Dados atualizados às %@";
 "home_update_gravity" = "Atualizar Gravity";
 "home_update_gravity_explainer" = "Ir até /admin/gravity em qual instância?";
 "home_update_gravity_alert_body_%@" = "Gravity foi mais recentemente atualizado em %@";
@@ -53,8 +53,8 @@
 "usage_metrics_cpu_5min" = "Últimos 5 minutos";
 "usage_metrics_cpu_15min" = "Últimos 15 minutos";
 "usage_metrics_cpu_usage_alert" = "Essa porcentagem representa a utilização média do CPU durante os últimos minutos.\n\nPorcentagem de até 70% de utilização é considerada normal. Se a utilização ficar acima de 70% por longos períodos seria melhor planejar um upgrade do seu CPU.";
-"usage_metrics_memory" = "Memória";
-"usage_metrics_data_from_%@" = "\nDados de: %@";
+"usage_metrics_memory" = "RAM";
+"usage_metrics_data_from_%@" = "\nDados atualizados às: %@";
 "usage_metrics_error" = "Erro durante captação de dados.";
 
 // MARK: Custom Disable
@@ -90,14 +90,14 @@
 "statistics_ftl" = "FTL";
 "statistics_ftl_colon" = "FTL:";
 "statistics_api" = "API";
-"statistics_api_type" = "API Type";
-"statistics_api_type_colon" = "API Type:";
-"statistics_api_version" = "API Version";
-"statistics_api_version_colon" = "API Version:";
+"statistics_api_type" = "Tipo de API";
+"statistics_api_type_colon" = "Tipo de API:";
+"statistics_api_version" = "Versão de API";
+"statistics_api_version_colon" = "Versão de API:";
 "statistics_dns_cache" = "DNS Cache";
 "statistics_dns_cache_size" = "Tamanho do Cache:";
-"statistics_dns_cache_evictions" = "Cache Evictions:";
-"statistics_dns_cache_inserted" = "Cache Inserido:";
+"statistics_dns_cache_evictions" = "Cache Despejado:";
+"statistics_dns_cache_inserted" = "Cache Adicionado:";
 "statistics_github" = "Github";
 "statistics_update_explainer" = "Você pode atualizar a versão usando a linha de comando com o comando 'pihole -up'.";
 "statistics_update_explainer_%@" = "Você pode atualizar a versão usando a linha de comando com o comando %@ .";
@@ -110,8 +110,8 @@
 
 // MARK: - QueryLog-tab
 "querylog_navbar" = "Consultar Logs";
-"querylog_filter" = "Filtro";
-"querylog_filtered" = "Filtrado";
+"querylog_filter" = "Filtros";
+"querylog_filtered" = "Filtrados";
 "querylog_sidebar_explainer" = "Selecione uma consulta a esquerda para ver mais detalhes.";
 "querylog_status_unknown" = "Desconhecido";
 "querylog_status_gravity" = "Gravity";
@@ -289,12 +289,12 @@
 "settings_help" = "Ajuda & Feedback";
 "settings_advanced" = "Avançado";
 "settings_twitter" = "Siga no Twitter";
-"settings_tipjar" = "Pote de Gorjetas";
+"settings_tipjar" = "Caixinha";
 "settings_tipjar_thankyou" = "Obrigado!";
 "settings_rate" = "Avalie Pi-hole Remote";
 "settings_leave_review" = "Deixe uma Avaliação";
 "settings_share" = "Compartilhar Pi-hole Remote";
-"settings_made_by_rocketscience" = "Feito por RocketScience";
+"settings_made_by_rocketscience" = "Desenvolvido por RocketScience";
 
 // MARK: Edit Instance
 "instance_new_navbar" = "Nova Instância";
@@ -306,16 +306,16 @@
 "instance_ssl_explainer" = "Usar http (padrão) or https?";
 "instance_ssl_http" = "http (padrão)";
 "instance_ssl_https" = "https";
-"instance_port" = "Port";
+"instance_port" = "Porta";
 "instance_port_placeholder" = "80";
 "instance_token" = "API Token";
 "instance_token_placeholder" = "a1b2c3d4...";
-"instance_token_explainer" = "Necessário para Habilitar/Desabilitar e estatísticas. Se você não tem uma senha configurada deixe esse campo vazio.\nVocê pode achar o token em 'Web Interface > Configurações > API.'";
+"instance_token_explainer" = "Necessário para Habilitar/Desabilitar estatísticas. Se não tiver configurado uma senha deixe esse campo vazio.\nO token pode ser encontrato em 'Web Interface > Configurações > API.'";
 "instance_token_alert_title" = "Pi-hole API Token";
 "instance_token_alert_body" = "Você pode encontrar o Pi-hole API token na interface web.\n\nFaça o login e vá até 'Configurações > API / Web Interface > Mostrar API token' e você verá um QR Code que você pode escanear.";
 "instance_token_scan_navbar" = "Scan API Token";
 "instance_token_scan_permission" = "Configure permissão para acesso a câmera no pop-up ou em 'Configurações > Privacidade > Camera.'";
-"instance_other" = "Outro";
+"instance_other" = "Mais Opções";
 "instance_reverseproxy" = "Proxy Reverso";
 "instance_reverseproxy_explainer" = "Ligar o 'Proxy Reverso' removerá '/admin' de todas as chamadas.";
 "instance_hideerrors" = "Esconder Banner de Erros";
@@ -334,11 +334,11 @@
 "preferences_home_temperature_unit" = "Unidade de Temperatura";
 "preferences_home_disable_blocking_presets" = "Desabilitar Presets de Bloqueamento";
 "preferences_home_notifications" = "Notificações";
-"preferences_home_notifications_footer" = "Uma notificação será enviada assim que o bloqueamento for habilitado novamente (depois de haver desabilitado).";
+"preferences_home_notifications_footer" = "Uma notificação será enviada assim que o bloqueamento for habilitado novamente.";
 "preferences_home_blocking_enabled" = "Bloqueamento Habilitado";
 "preferences_home_refresh" = "Atualizar";
-"preferences_home_refresh_footer" = "Atualizará automaticamente a cada 10 segundos enquanto a aba de início estiver aberta e o aplicativo estiver aberto em destaque.";
-"preferences_home_auto_refresh" = "Auto Atualização";
+"preferences_home_refresh_footer" = "A aba início será atualizada a cada 10 segundos enquanto estiver aberta e o aplicativo estiver aberto em destaque.";
+"preferences_home_auto_refresh" = "Auto Atualizar";
 "preferences_statistics_navbar" = "Estatísticas";
 "preferences_statistics_graphs" = "Gráficos";
 "preferences_statistics_show_recent_queries" = "Mostrar 'Consultas Recentes'";
@@ -383,14 +383,14 @@
 "design_dark_mode" = "Modo Escuro";
 
 // MARK: Tip Jar
-"tipjar_navbar" = "Pote de Gorjetas";
-"tipjar_header" = "O pote de gorjetas ajuda a manter o Pi-hole Remote rodando e suporta diretamente o desenvolvimento de melhoras e de funcionalidades super bacanas.";
-"tipjar_header_2" = "Se você está gostando de usar esse app e gostaria de ajudar um desenvolvedor independente (hi! 👋), Por favor considere deixar uma gorjeta. Eu ficaria muito agradecido!";
-"tipjar_header_3" = "Obrigado pela sua colaboração Thank you for your support.\n- Joost";
-"tipjar_tip_coffee" = "Gorjeta pro cafézinho";
-"tipjar_tip_whiskey" = "Gorjeta pro whiskey";
-"tipjar_tip_ramen" = "Gorjeta pro miojo";
-"tipjar_tip_sushi" = "Gorjeta pro sushi";
+"tipjar_navbar" = "Caixinha";
+"tipjar_header" = "A caixinha ajuda a manter o Pi-hole Remote rodando e suporta diretamente o desenvolvimento de melhoras e de funcionalidades super bacanas.";
+"tipjar_header_2" = "Se você está gostando desse app e gostaria de ajudar um desenvolvedor independente (oi! 👋), por favor considere deixar uma gorjeta, eu ficaria muito agradecido!";
+"tipjar_header_3" = "Obrigado pela sua colaboração!\n- Joost";
+"tipjar_tip_coffee" = "Caixinha pro cafézinho";
+"tipjar_tip_whiskey" = "Caixinha pro whiskey";
+"tipjar_tip_ramen" = "Caixinha pro ramen";
+"tipjar_tip_sushi" = "Caixinha pro sushi";
 "tipjar_blush" = "*corado*";
 "tipjar_thankyou_tip" = "Obrigado pela sua contribuição generosa!";
 "tipjar_thankyou_tips" = "Obrigado por suas generosas contribuições!";
@@ -401,7 +401,7 @@
 
 // MARK: Help & Feedback
 "help_navbar" = "Suporte";
-"help_faq" = "Perguntas Feitas Frequentes";
+"help_faq" = "Perguntas Feitas Frequentemente";
 "help_faq_short" = "PFF/FAQ";
 "help_contact" = "Me Contate";
 "help_actions" = "Ações";
@@ -413,21 +413,21 @@
 "help_logs_show" = "Mostrar Logs";
 
 // MARK: Changelog
-"changelog_navbar" = "O que tem de novo";
+"changelog_navbar" = "O que tem de novo?";
 "changelog_just_updated" = "Recentemente Atualizado!";
 "changelog_current_version" = "Atual";
 "changelog_continue" = "Continuar";
-"changelog_settings" = "Configurações do Changelog";
-"changelog_settings_show" = "Mostrar no Update do App";
-"changelog_settings_show_footer" = "O Changelog será mostrando somente para atualizações de funcionalidade, não para atualizações que só contenham bugfixes.";
+"changelog_settings" = "Ajustes / Changelog";
+"changelog_settings_show" = "Mostrar ao atualizar o app";
+"changelog_settings_show_footer" = "O Changelog será mostrado somente para atualizações de funcionalidade e não para atualizações que só contenham bug fixes.";
 
 
 // MARK: Made by RocketScience
 "rocketscience_hi_title" = "Oi, eu sou o Joost!";
-"rocketscience_hi_subtitle" = "Em Junho 2020 eu comecei a fazer meus próprios apps como desenvolvedor independente usando o nome 'RocketScience IT'.\n\nMeu objetivo é aprender design, desenvolvimento, testes, suporte e promoções, e quem sabe até mais! Por agora, tenho dois apps na AppStore, os quais continuo frequentemente melhorando e adicionando funcionalidade. Eu já tenho algumas idéias para outros app que pretendo desenvolver no futuro.";
+"rocketscience_hi_subtitle" = "Em Junho 2020, comecei a fazer meus próprios apps como desenvolvedor independente usando o nome 'RocketScience IT'.\n\nMeu objetivo é aprender design, desenvolvimento, testes, suporte, promoções, e quem sabe até mais! Por agora, tenho dois apps na AppStore, os quais continuo frequentemente melhorando e adicionando funcionalidade. Já tenho algumas idéias para outros app que pretendo desenvolver no futuro.";
 "rocketscience_website" = "Website";
 "rocketscience_twitter" = "Twitter";
-"rocketscience_tipjar" = "Pote de Gorjetas";
+"rocketscience_tipjar" = "Caixinha";
 "rocketscience_tipjar_thankyou" = "Obrigado!";
 "rocketscience_my_other_apps" = "Meus Outros Apps";
 "rocketscience_adguardhomeremote_subtitle" = "É exatamente como o Pi-hole Remote mas para AdGuard Home!";
@@ -477,7 +477,7 @@
 "no_queries_found" = "No queries found.";
 "search" = "Busca";
 "refresh" = "Atualizar"; #depends on context
-"done" = "Feito";
+"done" = "OK";
 "dismiss" = "Recusar"; #depends on context
 "ok" = "OK";
 "save" = "Salvar";
