@@ -1,51 +1,51 @@
-Pi-hole Remote é um aplicativo criado por terceiros que permite que você rapidamente habilite/desabilite seu Pi-hole, assim como adicione domínios as suas listas de bloqueio e veja estatísticas como os domínios mais acessados e bloqueados!
+Pi-hole Remote é um aplicativo que permite que você rapidamente habilite/desabilite em seu Pi-hole, assim como adicione domínios às suas listas de bloqueio e veja estatísticas como os domínios mais acessados e bloqueados!
 
 *Desabilitar Bloqueio*
-Desabilite rapidamente o bloqueio por alguns minutos em poucos passos. Você pode até usar Siri Shortcuts para desabilitar o bloqueio usando a sua voz! Caso você tenha múltiplas instâncias de Pi-Hole na sua rede você pode desbloquear todas com um simples toque.
+Desabilite rapidamente o bloqueio por alguns minutos em poucos passos. Você pode até usar Siri Shortcuts para desabilitar o bloqueio usando a sua voz! Caso você tenha múltiplas instâncias de Pi-Hole em sua rede você pode desbloquear todas ao mesmo tempo com um simples toque.
 
 *Estatísticas & Consultas*
-Descubra quais domínios são os mais consultados, assim como quais clientes na sua rede fazem a maior quantidade requerimentos. Veja as consultas ordenadas por domínio, cliente ou tipo. Você pode até ver um log ao vivo que mostra requerimentos em tempo real!
+Descubra quais domínios são os mais consultados, assim como quais clientes na sua rede fazem a maior quantidade de consultas. Veja as consultas ordenadas por domínio, cliente ou tipo. Você pode até ver um log ao vivo que mostra as consultas em tempo real!
 
 *White & Blacklist*
-Adicione rapidamente novas entradas dentro do app ou com a extensão de iOS Share. Você pode também adicionar entradas em massa ou exportar listas. Se você tem mais de um Pi-Hole na sua rede você pode inclusive automaticamente sincronizar suas listas entre todos os Pi-Holes!
+Adicione novas entradas rapidamente, tanto de dentro do aplicativo ou usando a extensão para iOS. Você pode também adicionar entradas em massa ou exportar listas. Se você tem mais de um Pi-Hole na sua rede você pode automaticamente sincronizar suas listas entre todos os Pi-Holes!
 
 *Homescreen Widgets (iOS 14)*
-Escolha entre uma variada lista de opções de widgets pro seu homescreen que mostram estatísticas e gráficos. Todas são super customizáveis com uma grande gama de opções!
+Escolha entre uma variada lista de opções de widgets para o homescreen do seu iPhone que mostram gráficos e estatísticas. Todas as opções são customizáveis e oferecem uma grande gama de opções!
 
 ==
 
-Funcionalidade para iPhone, iPad, macOS:
-- Desabilita Bloqueio no Pi-hole
-- Ver estátisticas básicas e avançadas
-- Adicionar domínios a sua white ou blacklist (em massa)
-- Exportar suas listas
-- Sincronizar listas entre várias instâncias de Pi-Hole
+iPhone, iPad, macOS:
+- Desabilite Bloqueio no Pi-hole
+- Veja estátisticas básicas e avançadas
+- Adicione domínios a sua white ou blacklist (Individual ou em massa)
+- Exporte suas listas
+- Sincronize listas entre várias instâncias Pi-Hole
 - Consulta completa de logs de DNS com busca e filtros
 - Log Ao Vivo que mostra as consultas em tempo real
 - Suporta até 4 instâncias de Pi-hole e combina estatísticas e consultas
-- Suporte para escanear Pi-Hole token código QR
+- Suporte para escanear o código QR do seu Pi-Hole token
 - Suporte para SSL, proxy reverso e níveis de privacidade alternativos
 - Widgets (iOS 14 & macOS 11)
 - Siri Shortcuts & Quick Action
-- Extensão de compartilhação do iOS com rápido white/blacklisting de URLs
+- Extensão de compartilhamento para iOS com rápido white/blacklist de URLs
 - Suporta VoiceOver
-- Modo Escuro, esquema de cores customizável e ícones de app alternativos
+- Modo Escuro, esquema de cores customizável e ícones alternativos para o aplicativo
 - Design otimizado para iPadOS & macOS
-- Limpo e moderno - 100% escrito em SwiftUI
+- Limpo e moderno - 100% desenvolvido em SwiftUI
 
 Apple Watch:
 - Veja estatísticas básicas
-- Desabilita Bloqueio no Pi-hole
-- Complicações
+- Desabilite Bloqueio no Pi-hole
+- Oferece Complicações para o Watchface
 
 Apple TV:
 - Veja estatísticas básicas
-- Desabilita Bloqueio no Pi-hole
-- Requer PIN para desabilitar bloqueio
+- Desabilite Bloqueio no Pi-hole
+- Opção de PIN para desabilitar bloqueio
 
 Estatísticas:
 - Total de Consultas
-- Consultas/Porcentagem Bloqueada
+- Consultas/Porcentagem de Consultas Bloqueadas
 - Quando Blocklist + Gravity foi atualizada pela última vez
 - Utilização de CPU, Memória e Temperatura
 - Gráficos de consultas durante um tempo determinado
@@ -53,15 +53,15 @@ Estatísticas:
 - Domínios bloqueados mais acessados
 - Clientes mais ativos
 - Número total de Clientes que já fizeram requisição DNS
-- Consulta por domínio/cliente
+- Consulta por domínio ou cliente
 - Tipos de consulta
 - Versão do Pi-hole
 - API Info
 - DNS Cache
 
-* Esse app mostra que já in-app purchases apenas para o pote de gorjetas que serve pra incentivar o desenvolvimento contínuo desse app. Isso é completamente opcional e não afeta a funcionalidade do aplicativo.
+* Esse app mostra que há in-app purchases mas isso é apenas para a caixinha que permite que o usuário incentive o desenvolvimento contínuo desse app. Isso é completamente opcional e não afeta a funcionalidade do aplicativo.
 
 ==
 
 Nota:
-Você precisará de pelo menos uma instância de Pi-hole rodando em outro dispositivo na sua rede para esse app funcionar e a versão de Pi-hole suportada é 5.1+. Para saber mais sobre Pi-hole e como instalar veja https://pi-hole/net.
+Você precisará de pelo menos uma instância de Pi-hole rodando em outro dispositivo na sua rede para que esse app funcione e a versão de Pi-hole suportada é 5.1+. Para saber mais sobre Pi-hole e como instalar veja https://pi-hole/net.
