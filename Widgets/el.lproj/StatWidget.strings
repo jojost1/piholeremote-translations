@@ -1,402 +1,401 @@
-"0bxmfo-IgP3Na" = "Just to confirm, you wanted ‘1 hour’?";
+"0bxmfo-IgP3Na" = "Για επιβεβαίωση, θέλατε «1 ώρα»;";
 
-"0bxmfo-VLERQ1" = "Just to confirm, you wanted ‘15 minutes’?";
+"0bxmfo-VLERQ1" = "Για επιβεβαίωση, θέλατε «15 λεπτά»;";
 
-"0bxmfo-XwHq84" = "Just to confirm, you wanted ‘24 hours’?";
+"0bxmfo-XwHq84" = "Για επιβεβαίωση, θέλατε «24 ώρες»;";
 
-"0bxmfo-YT1Pew" = "Just to confirm, you wanted ‘8 hours’?";
+"0bxmfo-YT1Pew" = "Για επιβεβαίωση, θέλατε «8 ώρες»;";
 
-"0bxmfo-uqnZUq" = "Just to confirm, you wanted ‘30 minutes’?";
+"0bxmfo-uqnZUq" = "Για επιβεβαίωση, θέλατε «30 λεπτά»;";
 
-"0bxmfo-xDxdFy" = "Just to confirm, you wanted ‘5 minutes’?";
+"0bxmfo-xDxdFy" = "Για επιβεβαίωση, θέλατε «5 λεπτά»;";
 
-"0bxmfo-xLSa62" = "Just to confirm, you wanted ‘1 minute’?";
+"0bxmfo-xLSa62" = "Για επιβεβαίωση, θέλατε «1 λεπτό»;";
 
-"0bxmfo-zQ6Jw8" = "Just to confirm, you wanted ‘30 seconds’?";
+"0bxmfo-zQ6Jw8" = "Για επιβεβαίωση, θέλατε «30 δευτερόλεπτα»;";
 
-"0muj7e" = "Appearance";
+"0muj7e" = "Εμφάνιση";
 
-"22mMz8" = "What instance to display?";
+"22mMz8" = "Ποια εκδοχή να εμφανιστεί;";
 
-"3lbWkQ" = "Appearance";
+"3lbWkQ" = "Εμφάνιση";
 
-"42Koi6" = "System (Pure Black)";
+"42Koi6" = "Σύστημα (Καθαρό Μαύρο)";
 
-"5JYHmU" = "Instance";
+"5JYHmU" = "Εκδοχή";
 
-"5LhKeC-42Koi6" = "There are ${count} options matching ‘System (Pure Black)’.";
+"5LhKeC-42Koi6" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Σύστημα (Καθαρό Μαύρο)».";
 
-"5LhKeC-Ey6npg" = "There are ${count} options matching ‘Light’.";
+"5LhKeC-Ey6npg" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Ανοιχτόχρωμο».";
 
-"5LhKeC-VEO3IS" = "There are ${count} options matching ‘System’.";
+"5LhKeC-VEO3IS" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Σύστημα».";
 
-"5LhKeC-YW3QEp" = "There are ${count} options matching ‘Dark (Pure Black)’.";
+"5LhKeC-YW3QEp" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Σκοτεινό (Καθαρό Μαύρο)».";
 
-"5LhKeC-eHf5lH" = "There are ${count} options matching ‘Dark’.";
+"5LhKeC-eHf5lH" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Σκούρο».";
 
-"6gOngz" = "What instance to display?";
+"6gOngz" = "Ποια εκδοχή να εμφανιστεί;";
 
-"7HcZp4" = "What instance to display?";
+"7HcZp4" = "Ποια εκδοχή να εμφανιστεί;";
 
-"7gfPrG" = "Instance";
+"7gfPrG" = "Εκδοχή";
 
-"8Udkqh" = "All";
+"8Udkqh" = "Όλα";
 
-"8kg56g-Ixk02y" = "There are ${count} options matching ‘Open Statistics’.";
+"8kg56g-Ixk02y" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Άνοιγμα στατιστικών».";
 
-"8kg56g-ZwOZTZ" = "There are ${count} options matching ‘Open Query Log’.";
+"8kg56g-ZwOZTZ" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Άνοιγμα αρχείου ερωτημάτων».";
 
-"8kg56g-awUBTf" = "There are ${count} options matching ‘Open Home’.";
+"8kg56g-awUBTf" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Άνοιγμα αρχικής».";
 
-"8kg56g-nqHRwh" = "There are ${count} options matching ‘Open Lists’.";
+"8kg56g-nqHRwh" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Άνοιγμα λιστών».";
 
-"8kg56g-wMJOmd" = "There are ${count} options matching ‘Disable all for 1 minute’.";
+"8kg56g-wMJOmd" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Απενεργοποίηση όλων για 1 λεπτό».";
 
-"8w3JVZ" = "Instance";
+"8w3JVZ" = "Εκδοχή";
 
-"9hXLZd" = "Instance";
+"9hXLZd" = "Εκδοχή";
 
-"AJ9lZE-42Koi6" = "Just to confirm, you wanted ‘System (Pure Black)’?";
+"AJ9lZE-42Koi6" = "Για επιβεβαίωση, θέλατε «Σύστημα (Καθαρό Μαύρο)»;";
 
-"AJ9lZE-Ey6npg" = "Just to confirm, you wanted ‘Light’?";
+"AJ9lZE-Ey6npg" = "Για επιβεβαίωση, θέλατε «Ανοιχτόχρωμο»;";
 
-"AJ9lZE-VEO3IS" = "Just to confirm, you wanted ‘System’?";
+"AJ9lZE-VEO3IS" = "Για επιβεβαίωση, θέλατε «Σύστημα»;";
 
-"AJ9lZE-YW3QEp" = "Just to confirm, you wanted ‘Dark (Pure Black)’?";
+"AJ9lZE-YW3QEp" = "Για επιβεβαίωση, θέλατε «Σκούρο (Καθαρό Μαύρο)»;";
 
-"AJ9lZE-eHf5lH" = "Just to confirm, you wanted ‘Dark’?";
+"AJ9lZE-eHf5lH" = "Για επιβεβαίωση, θέλατε «Σκούρο»;";
 
-"AKytWQ" = "Appearance";
+"AKytWQ" = "Εμφάνιση";
 
-"AlpZki" = "Queries";
+"AlpZki" = "Ερωτήματα";
 
-"BAafIW" = "Appearance";
+"BAafIW" = "Εμφάνιση";
 
-"BILqn3" = "Percent Blocked";
+"BILqn3" = "Ποσοστό αποκλεισμένων";
 
-"CVEdAO" = "Appearance";
+"CVEdAO" = "Εμφάνιση";
 
-"CkCBJU" = "Color";
+"CkCBJU" = "Χρώμα";
 
-"CrtSD6-IgP3Na" = "Just to confirm, you wanted ‘1 hour’?";
+"CrtSD6-IgP3Na" = "Για επιβεβαίωση, θέλατε «1 ώρα»;";
 
-"CrtSD6-VLERQ1" = "Just to confirm, you wanted ‘15 minutes’?";
+"CrtSD6-VLERQ1" = "Για επιβεβαίωση, θέλατε «15 λεπτά»;";
 
-"CrtSD6-XwHq84" = "Just to confirm, you wanted ‘24 hours’?";
+"CrtSD6-XwHq84" = "Για επιβεβαίωση, θέλατε «24 ώρες»;";
 
-"CrtSD6-YT1Pew" = "Just to confirm, you wanted ‘8 hours’?";
+"CrtSD6-YT1Pew" = "Για επιβεβαίωση, θέλατε «8 ώρες»;";
 
-"CrtSD6-uqnZUq" = "Just to confirm, you wanted ‘30 minutes’?";
+"CrtSD6-uqnZUq" = "Για επιβεβαίωση, θέλατε «30 λεπτά»;";
 
-"CrtSD6-xDxdFy" = "Just to confirm, you wanted ‘5 minutes’?";
+"CrtSD6-xDxdFy" = "Για επιβεβαίωση, θέλατε «5 λεπτά»;";
 
-"CrtSD6-xLSa62" = "Just to confirm, you wanted ‘1 minute’?";
+"CrtSD6-xLSa62" = "Για επιβεβαίωση, θέλατε «1 λεπτό»;";
 
-"CrtSD6-zQ6Jw8" = "Just to confirm, you wanted ‘30 seconds’?";
+"CrtSD6-zQ6Jw8" = "Για επιβεβαίωση, θέλατε «30 δευτερόλεπτα»;";
 
-"CzBWV3" = "Duration 1";
+"CzBWV3" = "Διάρκεια 1";
 
-"DIItEm" = "Allowed";
+"DIItEm" = "Επιτρεπόμενα";
 
-"DJJsur" = "Widget Disable Duration";
+"DJJsur" = "Διάρκεια απενεργοποίησης widget";
 
-"DvY8Eg" = "Green";
+"DvY8Eg" = "Πράσινο";
 
-"Ey6npg" = "Light";
+"Ey6npg" = "Ανοιχτόχρωμο";
 
-"G5RUst" = "Tap Action";
+"G5RUst" = "Ενέργεια αφής";
 
-"G9xiY4-Ixk02y" = "Just to confirm, you wanted ‘Open Statistics’?";
+"G9xiY4-Ixk02y" = "Για επιβεβαίωση, θέλατε «Άνοιγμα στατιστικών»;";
 
-"G9xiY4-ZwOZTZ" = "Just to confirm, you wanted ‘Open Query Log’?";
+"G9xiY4-ZwOZTZ" = "Για επιβεβαίωση, θέλατε «Άνοιγμα αρχείου ερωτημάτων»;";
 
-"G9xiY4-awUBTf" = "Just to confirm, you wanted ‘Open Home’?";
+"G9xiY4-awUBTf" = "Για επιβεβαίωση, θέλατε «Άνοιγμα αρχικής»;";
 
-"G9xiY4-nqHRwh" = "Just to confirm, you wanted ‘Open Lists’?";
+"G9xiY4-nqHRwh" = "Για επιβεβαίωση, θέλατε «Άνοιγμα λιστών»;";
 
-"G9xiY4-wMJOmd" = "Just to confirm, you wanted ‘Disable all for 1 minute’?";
+"G9xiY4-wMJOmd" = "Για επιβεβαίωση, θέλατε «Απενεργοποίηση όλων για 1 λεπτό»;";
 
-"Hb868n" = "Orange";
+"Hb868n" = "Προτοκαλί";
 
-"IbhH23" = "Hide";
+"IbhH23" = "Απόκρυψη";
 
-"IgP3Na" = "1 hour";
+"IgP3Na" = "1 ώρα";
 
-"Ixk02y" = "Open Statistics";
+"Ixk02y" = "Άνοιγμα Στατιστικών";
 
-"J9L8YR-42Koi6" = "There are ${count} options matching ‘System (Pure Black)’.";
+"J9L8YR-42Koi6" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Σύστημα (Καθαρό Μαύρο)».";
 
-"J9L8YR-Ey6npg" = "There are ${count} options matching ‘Light’.";
+"J9L8YR-Ey6npg" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Ανοιχτόχρωμο».";
 
-"J9L8YR-VEO3IS" = "There are ${count} options matching ‘System’.";
+"J9L8YR-VEO3IS" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Σύστημα».";
 
-"J9L8YR-YW3QEp" = "There are ${count} options matching ‘Dark (Pure Black)’.";
+"J9L8YR-YW3QEp" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Σκούρο (Καθαρό Μαύρο)».";
 
-"J9L8YR-eHf5lH" = "There are ${count} options matching ‘Dark’.";
+"J9L8YR-eHf5lH" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Σκούρο».";
 
-"JTTM7K" = "Status Indicator";
+"JTTM7K" = "Ένδειξη Κατάστασης";
 
-"Jmbf6v" = "Color";
+"Jmbf6v" = "Χρώμα";
 
-"KL0j9K" = "Show";
+"KL0j9K" = "Εμφάνιση";
 
-"KWaHmV-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
+"KWaHmV-IgP3Na" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «1 ώρα».";
 
-"KWaHmV-VLERQ1" = "There are ${count} options matching ‘15 minutes’.";
+"KWaHmV-VLERQ1" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «15 λεπτά».";
 
-"KWaHmV-XwHq84" = "There are ${count} options matching ‘24 hours’.";
+"KWaHmV-XwHq84" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «24 ώρες».";
 
-"KWaHmV-YT1Pew" = "There are ${count} options matching ‘8 hours’.";
+"KWaHmV-YT1Pew" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «8 ώρες».";
 
-"KWaHmV-uqnZUq" = "There are ${count} options matching ‘30 minutes’.";
+"KWaHmV-uqnZUq" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «30 λεπτά».";
 
-"KWaHmV-xDxdFy" = "There are ${count} options matching ‘5 minutes’.";
+"KWaHmV-xDxdFy" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «5 λεπτά».";
 
-"KWaHmV-xLSa62" = "There are ${count} options matching ‘1 minute’.";
+"KWaHmV-xLSa62" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «1 λεπτό».";
 
-"KWaHmV-zQ6Jw8" = "There are ${count} options matching ‘30 seconds’.";
+"KWaHmV-zQ6Jw8" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «30 δευτερόλεπτα».";
 
-"LeRij8" = "What instance to display?";
+"LeRij8" = "Ποια εκδοχή να εμφανιστεί;";
 
-"LfwXuE-8Udkqh" = "There are ${count} options matching ‘All’.";
+"LfwXuE-8Udkqh" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Όλα».";
 
-"LfwXuE-DIItEm" = "There are ${count} options matching ‘Allowed’.";
+"LfwXuE-DIItEm" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Επιτρεπόμενα».";
 
-"LfwXuE-j5tl6I" = "There are ${count} options matching ‘Blocked’.";
+"LfwXuE-j5tl6I" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Αποκλεισμένα».";
 
-"LldBql" = "WidgetQueries";
+"LldBql" = "Widget ερωτημάτων";
 
-"MNziAp" = "Duration 2";
+"MNziAp" = "Διάρκεια 2";
 
-"NYeFKn" = "Blocklist";
+"NYeFKn" = "Λίστα αποκλεισμένων";
 
-"OYA8gF" = "Widget Tap Action";
+"OYA8gF" = "Ενέργεια αφής widget";
 
-"OsIXJN" = "Blue";
+"OsIXJN" = "Μπλέ";
 
-"QfsqZh" = "Stats Text Widget";
+"QfsqZh" = "Widget στατιστικών κειμένου";
 
-"RCLzIe-42Koi6" = "Just to confirm, you wanted ‘System (Pure Black)’?";
+"RCLzIe-42Koi6" = "Για επιβεβαίωση, θέλατε «Σύστημα (Καθαρό Μαύρο)»;";
 
-"RCLzIe-Ey6npg" = "Just to confirm, you wanted ‘Light’?";
+"RCLzIe-Ey6npg" = "Για επιβεβαίωση, θέλατε «Ανοιχτόχρωμο»;";
 
-"RCLzIe-VEO3IS" = "Just to confirm, you wanted ‘System’?";
+"RCLzIe-VEO3IS" = "Για επιβεβαίωση, θέλατε «Σύστημα»;";
 
-"RCLzIe-YW3QEp" = "Just to confirm, you wanted ‘Dark (Pure Black)’?";
+"RCLzIe-YW3QEp" = "Για επιβεβαίωση, θέλατε «Σκούρο (Καθαρό Μαύρο)»;";
 
-"RCLzIe-eHf5lH" = "Just to confirm, you wanted ‘Dark’?";
+"RCLzIe-eHf5lH" = "Για επιβεβαίωση, θέλατε «Σκούρο»;";
 
-"RLFPVX" = "Disable Widget";
+"RLFPVX" = "Απενεργοποίηση Widget";
 
-"SIOS6E" = "Unknown";
+"SIOS6E" = "Άγνωστο";
 
-"T9gWpc-BILqn3" = "There are ${count} options matching ‘Percent Blocked’.";
+"T9gWpc-BILqn3" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Ποσοστό αποκλεισμένων».";
 
-"T9gWpc-NYeFKn" = "There are ${count} options matching ‘Blocklist’.";
+"T9gWpc-NYeFKn" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Λίστα αποκλεισμένων».";
 
-"T9gWpc-XmVw2S" = "There are ${count} options matching ‘Total Queries’.";
+"T9gWpc-XmVw2S" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Συνολικά ερωτήματα».";
 
-"T9gWpc-YFrrAR" = "There are ${count} options matching ‘Queries Blocked’.";
+"T9gWpc-YFrrAR" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Αποκλεισμένα ερωτήματα».";
 
-"T9gWpc-nIDolD" = "There are ${count} options matching ‘Unknown’.";
+"T9gWpc-nIDolD" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Άγνωστο».";
 
-"UVDY6A-Ixk02y" = "There are ${count} options matching ‘Open Statistics’.";
+"UVDY6A-Ixk02y" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Άνοιγμα στατιστικών».";
 
-"UVDY6A-ZwOZTZ" = "There are ${count} options matching ‘Open Query Log’.";
+"UVDY6A-ZwOZTZ" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Άνοιγμα αρχείου ερωτημάτων».";
 
-"UVDY6A-awUBTf" = "There are ${count} options matching ‘Open Home’.";
+"UVDY6A-awUBTf" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Άνοιγμα αρχικής».";
 
-"UVDY6A-nqHRwh" = "There are ${count} options matching ‘Open Lists’.";
+"UVDY6A-nqHRwh" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Άνοιγμα λιστών».";
 
-"UVDY6A-wMJOmd" = "There are ${count} options matching ‘Disable all for 1 minute’.";
+"UVDY6A-wMJOmd" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Απενεργοποίηση όλων για 1 λεπτό».";
 
-"UkA3eM-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
+"UkA3eM-IgP3Na" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «1 ώρα».";
 
-"UkA3eM-VLERQ1" = "There are ${count} options matching ‘15 minutes’.";
+"UkA3eM-VLERQ1" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «15 λεπτά».";
 
-"UkA3eM-XwHq84" = "There are ${count} options matching ‘24 hours’.";
+"UkA3eM-XwHq84" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «24 ώρες».";
 
-"UkA3eM-YT1Pew" = "There are ${count} options matching ‘8 hours’.";
+"UkA3eM-YT1Pew" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «8 ώρες».";
 
-"UkA3eM-uqnZUq" = "There are ${count} options matching ‘30 minutes’.";
+"UkA3eM-uqnZUq" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «30 λεπτά».";
 
-"UkA3eM-xDxdFy" = "There are ${count} options matching ‘5 minutes’.";
+"UkA3eM-xDxdFy" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «5 λεπτά».";
 
-"UkA3eM-xLSa62" = "There are ${count} options matching ‘1 minute’.";
+"UkA3eM-xLSa62" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «1 λεπτό».";
 
-"UkA3eM-zQ6Jw8" = "There are ${count} options matching ‘30 seconds’.";
+"UkA3eM-zQ6Jw8" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «30 δευτερόλεπτα».";
 
-"VEO3IS" = "System";
+"VEO3IS" = "Σύστημα";
 
-"VLERQ1" = "15 minutes";
+"VLERQ1" = "15 λεπτά";
 
-"W4Ek1o-42Koi6" = "Just to confirm, you wanted ‘System (Pure Black)’?";
+"W4Ek1o-42Koi6" = "Για επιβεβαίωση, θέλατε «Σύστημα (Καθαρό Μαύρο)»;";
 
-"W4Ek1o-Ey6npg" = "Just to confirm, you wanted ‘Light’?";
+"W4Ek1o-Ey6npg" = "Για επιβεβαίωση, θέλατε «Ανοιχτόχρωμο»;";
 
-"W4Ek1o-VEO3IS" = "Just to confirm, you wanted ‘System’?";
+"W4Ek1o-VEO3IS" = "Για επιβεβαίωση, θέλατε «Σύστημα»;";
 
-"W4Ek1o-YW3QEp" = "Just to confirm, you wanted ‘Dark (Pure Black)’?";
+"W4Ek1o-YW3QEp" = "Για επιβεβαίωση, θέλατε «Σκούρο (Καθαρό Μαύρο)»;";
 
-"W4Ek1o-eHf5lH" = "Just to confirm, you wanted ‘Dark’?";
+"W4Ek1o-eHf5lH" = "Για επιβεβαίωση, θέλατε «Σκούρο»;";
 
-"WMGmup" = "Status Indicator";
+"WMGmup" = "Ένδειξη Κατάστασης";
 
-"XmVw2S" = "Total Queries";
+"XmVw2S" = "Συνολικά ερωτήματα";
 
-"XwHq84" = "24 hours";
+"XwHq84" = "24 ώρες";
 
-"YFrrAR" = "Queries Blocked";
+"YFrrAR" = "Αποκλεισμένα ερωτήματα";
 
-"YT1Pew" = "8 hours";
+"YT1Pew" = "8 ώρες";
 
-"YW3QEp" = "Dark (Pure Black)";
+"YW3QEp" = "Σκούρο (Καθαρό Μαύρο)";
 
-"Yx18vE" = "Statistic";
+"Yx18vE" = "Στατιστικά";
 
-"ZvdWTD" = "Tap Action";
+"ZvdWTD" = "Ενέργεια αφής";
 
-"ZwOZTZ" = "Open Query Log";
+"ZwOZTZ" = "Άνοιγμα αρχείου ερωτημάτων";
 
-"a81Lx9" = "Statistics Disable Widget";
+"a81Lx9" = "Widget απενεργοποίησης στατιστικών";
 
-"alorX8-42Koi6" = "Just to confirm, you wanted ‘System (Pure Black)’?";
+"alorX8-42Koi6" = "Για επιβεβαίωση, θέλατε «Σύστημα (Καθαρό Μαύρο)»;";
 
-"alorX8-Ey6npg" = "Just to confirm, you wanted ‘Light’?";
+"alorX8-Ey6npg" = "Για επιβεβαίωση, θέλατε «Ανοιχτόχρωμο»;";
 
-"alorX8-VEO3IS" = "Just to confirm, you wanted ‘System’?";
+"alorX8-VEO3IS" = "Για επιβεβαίωση, θέλατε «Σύστημα»;";
 
-"alorX8-YW3QEp" = "Just to confirm, you wanted ‘Dark (Pure Black)’?";
+"alorX8-YW3QEp" = "Για επιβεβαίωση, θέλατε «Σκούρο (Καθαρό Μαύρο)»;";
 
-"alorX8-eHf5lH" = "Just to confirm, you wanted ‘Dark’?";
+"alorX8-eHf5lH" = "Για επιβεβαίωση, θέλατε «Σκούρο»;";
 
-"awUBTf" = "Open Home";
+"awUBTf" = "Άνοιγμα αρχικής";
 
-"ceTqFH-Ixk02y" = "Just to confirm, you wanted ‘Open Statistics’?";
+"ceTqFH-Ixk02y" = "Για επιβεβαίωση, θέλατε «Άνοιγμα στατιστικών»;";
 
-"ceTqFH-ZwOZTZ" = "Just to confirm, you wanted ‘Open Query Log’?";
+"ceTqFH-ZwOZTZ" = "Για επιβεβαίωση, θέλατε «Άνοιγμα αρχείου ερωτημάτων»;";
 
-"ceTqFH-awUBTf" = "Just to confirm, you wanted ‘Open Home’?";
+"ceTqFH-awUBTf" = "Για επιβεβαίωση, θέλατε «Άνοιγμα αρχικής»;";
 
-"ceTqFH-nqHRwh" = "Just to confirm, you wanted ‘Open Lists’?";
+"ceTqFH-nqHRwh" = "Για επιβεβαίωση, θέλατε «Άνοιγμα λιστών»;";
 
-"ceTqFH-wMJOmd" = "Just to confirm, you wanted ‘Disable all for 1 minute’?";
+"ceTqFH-wMJOmd" = "Για επιβεβαίωση, θέλατε «Απενεργοποίηση όλων για 1 λεπτό»;";
 
-"eHf5lH" = "Dark";
+"eHf5lH" = "Σκούρο";
 
-"fcvHtM-Ixk02y" = "There are ${count} options matching ‘Open Statistics’.";
+"fcvHtM-Ixk02y" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Άνοιγμα στατιστικών».";
 
-"fcvHtM-ZwOZTZ" = "There are ${count} options matching ‘Open Query Log’.";
+"fcvHtM-ZwOZTZ" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Άνοιγμα αρχείου ερωτημάτων».";
 
-"fcvHtM-awUBTf" = "There are ${count} options matching ‘Open Home’.";
+"fcvHtM-awUBTf" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Άνοιγμα αρχικής».";
 
-"fcvHtM-nqHRwh" = "There are ${count} options matching ‘Open Lists’.";
+"fcvHtM-nqHRwh" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Άνοιγμα λιστών».";
 
-"fcvHtM-wMJOmd" = "There are ${count} options matching ‘Disable all for 1 minute’.";
+"fcvHtM-wMJOmd" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Απενεργοποίηση όλων για 1 λεπτό».";
 
-"fjMa4e" = "Query Graph Widget";
+"fjMa4e" = "Widget γραφήματος ερωτημάτων";
 
-"fmQi7V" = "Disable Widget";
+"fmQi7V" = "Widget απενεργοποίησης";
 
-"fohyUc" = "Statistics Disable Widget";
+"fohyUc" = "Widget απενεργοποίησης στατιστικών";
 
-"gf75h8" = "Status Indicator";
+"gf75h8" = "Ένδειξη Κατάστασης";
 
-"gpCwrM" = "Stat Widget";
+"gpCwrM" = "Widget στατιστικών";
 
-"hY8wJZ-Ixk02y" = "Just to confirm, you wanted ‘Open Statistics’?";
+"hY8wJZ-Ixk02y" = "Για επιβεβαίωση, θέλατε «Άνοιγμα στατιστικών»;";
 
-"hY8wJZ-ZwOZTZ" = "Just to confirm, you wanted ‘Open Query Log’?";
+"hY8wJZ-ZwOZTZ" = "Για επιβεβαίωση, θέλατε «Άνοιγμα αρχείου ερωτημάτων»;";
 
-"hY8wJZ-awUBTf" = "Just to confirm, you wanted ‘Open Home’?";
+"hY8wJZ-awUBTf" = "Για επιβεβαίωση, θέλατε «Άνοιγμα αρχικής»;";
 
-"hY8wJZ-nqHRwh" = "Just to confirm, you wanted ‘Open Lists’?";
+"hY8wJZ-nqHRwh" = "Για επιβεβαίωση, θέλατε ‘Άνοιγμα λιστών’;";
 
-"hY8wJZ-wMJOmd" = "Just to confirm, you wanted ‘Disable all for 1 minute’?";
+"hY8wJZ-wMJOmd" = "Για επιβεβαίωση, θέλατε «Απενεργοποίηση όλων για 1 λεπτό»;";
 
-"j5tl6I" = "Blocked";
+"j5tl6I" = "Αποκλεισμένα";
 
-"jwB6hP" = "Overtime Widget";
+"jwB6hP" = "Widget υπερωρίας";
 
-"kH9rkk-DvY8Eg" = "Just to confirm, you wanted ‘Green’?";
+"kH9rkk-DvY8Eg" = "Για επιβεβαίωση, θέλατε «Πράσινο»;";
 
-"kH9rkk-Hb868n" = "Just to confirm, you wanted ‘Orange’?";
+"kH9rkk-Hb868n" = "Για επιβεβαίωση, θέλατε «Πορτοκαλί»;";
 
-"kH9rkk-OsIXJN" = "Just to confirm, you wanted ‘Blue’?";
+"kH9rkk-OsIXJN" = "Για επιβεβαίωση, θέλατε «Μπλε»;";
 
-"kH9rkk-SIOS6E" = "Just to confirm, you wanted ‘Unknown’?";
+"kH9rkk-SIOS6E" = "Για επιβεβαίωση, θέλατε «Άγνωστο»;";
 
-"kH9rkk-m60OS4" = "Just to confirm, you wanted ‘Red’?";
+"kH9rkk-m60OS4" = "Για επιβεβαίωση, θέλατε «Κόκκινο»;";
 
-"kgyNHm-8Udkqh" = "Just to confirm, you wanted ‘All’?";
+"kgyNHm-8Udkqh" = "Για επιβεβαίωση, θέλατε «Όλα»;";
 
-"kgyNHm-DIItEm" = "Just to confirm, you wanted ‘Allowed’?";
+"kgyNHm-DIItEm" = "Για επιβεβαίωση, θέλατε «Επιτρεπόμενα»;";
 
-"kgyNHm-j5tl6I" = "Just to confirm, you wanted ‘Blocked’?";
+"kgyNHm-j5tl6I" = "Για επιβεβαίωση, θέλατε «Αποκλεισμένα»;";
 
-"lug6ns" = "Statistics Widget";
+"lug6ns" = "Widget Στατιστικών";
 
-"m60OS4" = "Red";
+"m60OS4" = "Κόκκινο";
 
-"nBNqPC" = "Statistic";
+"nBNqPC" = "Στατιστικό";
 
-"nIDolD" = "Unknown";
+"nIDolD" = "Άγνωστο";
 
-"nqHRwh" = "Open Lists";
+"nqHRwh" = "Άνοιγμα Λιστών";
 
-"sRVlCC" = "Tap Action";
+"sRVlCC" = "Ενέργεια αφής";
 
-"tVvJ9c" = "Single Statistic Widget";
+"tVvJ9c" = "Widget μονού στατιστικού";
 
-"uqnZUq" = "30 minutes";
+"uqnZUq" = "30 λεπτά";
 
-"vTQMcK-DvY8Eg" = "There are ${count} options matching ‘Green’.";
+"vTQMcK-DvY8Eg" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Πράσινο».";
 
-"vTQMcK-Hb868n" = "There are ${count} options matching ‘Orange’.";
+"vTQMcK-Hb868n" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Πορτοκαλί».";
 
-"vTQMcK-OsIXJN" = "There are ${count} options matching ‘Blue’.";
+"vTQMcK-OsIXJN" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Μπλε».";
 
-"vTQMcK-SIOS6E" = "There are ${count} options matching ‘Unknown’.";
+"vTQMcK-SIOS6E" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Άγνωστο».";
 
-"vTQMcK-m60OS4" = "There are ${count} options matching ‘Red’.";
+"vTQMcK-m60OS4" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Κόκκινο».";
 
-"vfUdD2-42Koi6" = "There are ${count} options matching ‘System (Pure Black)’.";
+"vfUdD2-42Koi6" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Σύστημα (Καθαρό Μαύρο)».";
 
-"vfUdD2-Ey6npg" = "There are ${count} options matching ‘Light’.";
+"vfUdD2-Ey6npg" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Ανοιχτόχρωμο».";
 
-"vfUdD2-VEO3IS" = "There are ${count} options matching ‘System’.";
+"vfUdD2-VEO3IS" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Σύστημα».";
 
-"vfUdD2-YW3QEp" = "There are ${count} options matching ‘Dark (Pure Black)’.";
+"vfUdD2-YW3QEp" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Σκούρο (Καθαρό Μαύρο)».";
 
-"vfUdD2-eHf5lH" = "There are ${count} options matching ‘Dark’.";
+"vfUdD2-eHf5lH" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Σκούρο».";
 
-"wMJOmd" = "Disable all for 1 minute";
+"wMJOmd" = "Απενεργοποίηση όλων για 1 λεπτό";
 
-"xDxdFy" = "5 minutes";
+"xDxdFy" = "5 λεπτά";
 
-"xKogH3-42Koi6" = "There are ${count} options matching ‘System (Pure Black)’.";
+"xKogH3-42Koi6" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Σύστημα (Καθαρό Μαύρο)».";
 
-"xKogH3-Ey6npg" = "There are ${count} options matching ‘Light’.";
+"xKogH3-Ey6npg" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Ανοιχτόχρωμο».";
 
-"xKogH3-VEO3IS" = "There are ${count} options matching ‘System’.";
+"xKogH3-VEO3IS" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Σύστημα».";
 
-"xKogH3-YW3QEp" = "There are ${count} options matching ‘Dark (Pure Black)’.";
+"xKogH3-YW3QEp" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Σκούρο (Καθαρό Μαύρο)».";
 
-"xKogH3-eHf5lH" = "There are ${count} options matching ‘Dark’.";
+"xKogH3-eHf5lH" = "Υπάρχουν ${count} επιλογές που ταιριάζουν στο «Σκούρο».";
 
-"xLSa62" = "1 minute";
+"xLSa62" = "1 λεπτό";
 
-"y9py1R-BILqn3" = "Just to confirm, you wanted ‘Percent Blocked’?";
+"y9py1R-BILqn3" = "Για επιβεβαίωση, θέλατε «Ποσοστό αποκλεισμένων»;";
 
-"y9py1R-NYeFKn" = "Just to confirm, you wanted ‘Blocklist’?";
+"y9py1R-NYeFKn" = "Για επιβεβαίωση, θέλατε «Λίστα αποκλεισμένων»;";
 
-"y9py1R-XmVw2S" = "Just to confirm, you wanted ‘Total Queries’?";
+"y9py1R-XmVw2S" = "Για επιβεβαίωση, θέλατε «Συνολικά ερωτήματα»;";
 
-"y9py1R-YFrrAR" = "Just to confirm, you wanted ‘Queries Blocked’?";
+"y9py1R-YFrrAR" = "Για επιβεβαίωση, θέλατε «Μπλοκαρισμένα ερωτήματα»;";
 
-"y9py1R-nIDolD" = "Just to confirm, you wanted ‘Unknown’?";
+"y9py1R-nIDolD" = "Για επιβεβαίωση, θέλατε «Άγνωστο»;";
 
-"zQ6Jw8" = "30 seconds";
+"zQ6Jw8" = "30 δευτερόλεπτα";
 
-"zeqXsg" = "Instance";
-
+"zeqXsg" = "Εκδοχή";
