@@ -1,8 +1,8 @@
-/* 
+/*
   Localizable.strings
   Pi-hole Remote
 
-  Created by Joost van den Akker on 25/04/2021.
+  Created by Joost van den Akker on 16/05/2021.
   Copyright © 2021 RocketScience. All rights reserved.
 */
 
@@ -21,7 +21,7 @@
 "home_blocklist" = "Blocklist";
 "home_refreshing_dots" = "Atualizando...";
 "home_no_response" = "Sem Resposta";
-"home_not_responding" = "Não Respondendo"; #depends on context
+"home_not_responding" = "Não Respondendo";
 "home_disable" = "Desabilitar";
 "home_disable_all" = "Desabilitar Todos";
 "home_disable_blocking" = "Desabilitar Bloqueamento";
@@ -31,7 +31,6 @@
 "home_enable_all" = "Habilitar Todos";
 "home_enable_blocking" = "Habilitar Bloqueamento";
 "home_enable_blocking_pihole" = "Habilitar Bloqueamento do Pi-hole";
-"home_enable_blocking_alert_%@" = "Tem certeza de que deseja habilitar o bloqueamento de %@?";
 "home_enable_blocking_alert_%@" = "Tem certeza de que deseja habilitar o bloqueamento de %@?";
 "home_enable_%@_disabled_until_%@" = "Habilitar (%@Desabilitado até %@)";
 "home_data_from_%@" = "Dados atualizados às %@";
@@ -138,7 +137,7 @@
 "querylog_filter_number_of_queries" = "Quantidade de Consultas";
 "querylog_filter_number_of_queries_footer" = "Para cada instância. A busca pode demorar mais quanto maior for o número de consultas selecionadas.";
 "querylog_filter_status" = "Status";
-"querylog_filter_status_all" = "Todos"; #Depends on context
+"querylog_filter_status_all" = "Todos";
 "querylog_filter_status_allowed" = "Permitidos";
 "querylog_filter_status_allowed_only" = "Somente Permitidos";
 "querylog_filter_status_blocked" = "Bloqueados";
@@ -214,7 +213,7 @@
 "lists_bulk_settings" = "Configurações";
 "lists_bulk_settings_footer" = "Essas configurações serão aplicadas a todas novas entradas.";
 "lists_bulk_domains_or_regex" = "Domínios ou RegEx";
-"lists_bulk_add_as_wildcards" = "Adicionar todas como curinga"; #depends on context
+"lists_bulk_add_as_wildcards" = "Adicionar todas como curinga";
 "lists_bulk_new_entries_%lld" = "Novas entradas (%lld)";
 "lists_bulk_new_entries_footer" = "Múltiplas entradas também podem ser adicionadas colando as listas e as separando com uma em cada linha, espáco ou vírgula.";
 "lists_bulk_start" = "Iniciar Adição de Entradas";
@@ -328,7 +327,7 @@
 "preferences_home_navbar" = "Início";
 "preferences_home_display" = "Tela";
 "preferences_home_check_for_updates" = "Buscar Atualizações";
-"preferences_home_data_from_label" = "'Data from' label"; #depends on context
+"preferences_home_data_from_label" = "'Data from' label";
 "preferences_home_usage_metrics" = "Métricas de Utilização";
 "preferences_home_usage_metrics_vertical" = "Mostrar Métricas Verticalmente";
 "preferences_home_temperature_unit" = "Unidade de Temperatura";
@@ -355,8 +354,19 @@
 "preferences_statistics_other" = "Outro";
 "preferences_statistics_other_footer" = "Mostrar versão do Pi-hole, versão de API e informação sobre o cache de DNS.";
 "preferences_statistics_show_other" = "Mostrar Outras Informações";
+"preferences_statistics_hidden_domains" = "Hidden domains";
+"preferences_statistics_hidedomains_header" = "Hide Domains";
+"preferences_statistics_hidedomains_footer" = "Hide certain (parts of) domains in statistics.";
+"preferences_statistics_hidedomains_list_navbar" = "Hide Domains";
+"preferences_statistics_hidedomains_list_footer" = "These (parts of) domains will be hidden from 'Top' lists. They will still be included in statistics in the Home-tab and will still appear in the Query Log.";
+"preferences_statistics_hidedomains_list_none" = "None. You can add entries in the top right!";
+"preferences_statistics_hidedomains_new_placeholder" = "Enter (part of) a domain";
+"preferences_statistics_hidedomains_new_picker" = "Matching Condition";
+"preferences_statistics_hidedomains_new_picker_exactly" = "Exactly";
+"preferences_statistics_hidedomains_new_picker_contains" = "Contains";
+"preferences_statistics_hidedomains_new_navbar" = "Hide Domain";
 "preferences_lists_navbar" = "Listas";
-"preferences_lists_display" = "Display"; #depends on context
+"preferences_lists_display" = "Display";
 "preferences_lists_sort_by" = "Ordenar Listas Por";
 "preferences_lists_alphabet" = "Alfabeto";
 "preferences_lists_date" = "Data";
@@ -377,6 +387,10 @@
 "design_tint_pink" = "Rosa";
 "design_tint_red" = "Vermelho";
 "design_icon" = "Ícone do Aplicativo";
+"design_icon_pihole" = "Pi-hole Remote";
+"design_icon_pihole_dark" = "Pi-hole Remote Dark";
+"design_icon_classic" = "Classic";
+"design_icon_classic_dark" = "Classic Dark";
 "design_theme" = "Tema";
 "design_system" = "Sistema";
 "design_light_mode" = "Modo Claro";
@@ -421,7 +435,6 @@
 "changelog_settings_show" = "Mostrar ao atualizar o app";
 "changelog_settings_show_footer" = "O Changelog será mostrado somente para atualizações de funcionalidade e não para atualizações que só contenham bug fixes.";
 
-
 // MARK: Made by RocketScience
 "rocketscience_hi_title" = "Oi, eu sou o Joost!";
 "rocketscience_hi_subtitle" = "Em Junho 2020, comecei a fazer meus próprios apps como desenvolvedor independente usando o nome 'RocketScience IT'.\n\nMeu objetivo é aprender design, desenvolvimento, testes, suporte, promoções, e quem sabe até mais! Por agora, tenho dois apps na AppStore, os quais continuo frequentemente melhorando e adicionando funcionalidade. Já tenho algumas idéias para outros app que pretendo desenvolver no futuro.";
@@ -447,6 +460,7 @@
 "8_hours" = "8 horas";
 "24_hours" = "24 horas";
 "until_turned_on" = "Até ser reabilitado";
+"indefinitely" = "Indefinitely";
 "custom" = "Custom";
 "custom_dots" = "Custom...";
 
@@ -461,27 +475,34 @@
 "view_queries_to_domain" = "Ver Consultas ao Domínio";
 "view_queries_from_client" = "Ver Consultas do Cliente";
 "visit_domain" = "Visitar Domínio";
+"statistics_hide_domain" = "Hide Domain from Statistics";
 
 // MARK: Miscellaneous
 "instances" = "Instâncias";
 "instances_colon" = "Instâncias:";
 "all_instances" = "Todas as Instâncias";
-"all" = "Todas"; #depends on context
+"all" = "Todas";
 "choose_instance" = "Escolher Instância";
 "show_instance" = "Mostrar instância:";
 "add_pihole" = "Adicionar Pi-hole";
 "loading_dots" = "Carregando...";
 "something_went_wrong" = "Algo deu errado.";
 "please_check_api_token" = "Favor checar seu Token do API e configurações de privacidade.";
-"could_not_get_data" = "Não foi possível acessar todos os dados."; #depends on context
+"could_not_get_data" = "Não foi possível acessar todos os dados.";
 "no_queries_found" = "No queries found.";
 "search" = "Busca";
+<<<<<<< HEAD:App/pt.lproj/Localizable.strings
 "refresh" = "Atualizar"; #depends on context
 "done" = "OK";
 "dismiss" = "Recusar"; #depends on context
+=======
+"refresh" = "Atualizar";
+"done" = "Feito";
+"dismiss" = "Recusar";
+>>>>>>> main:App/pt-BR.lproj/Localizable.strings
 "ok" = "OK";
 "save" = "Salvar";
-"apply" = "Aplicar"; #depends on context
+"apply" = "Aplicar";
 "cancel" = "Cancelar";
 "edit" = "Editar";
 "remove" = "Remover";
@@ -506,13 +527,13 @@
 // MARK: - tvOS Specific
 "tvos_blocking_alert_body" = "Desabilitar Bloqueamento";
 "tvos_for_how_long" = "Por quanto tempo?";
-"tvos_code" = "Code"; #depends on context
+"tvos_code" = "Code";
 "tvos_passcode" = "PIN";
 "tvos_set_passcode" = "Setar PIN";
 "tvos_remove_passcode" = "Remover PIN";
 "tvos_require_code" = "Pedir PIN para desabilitar";
 "tvos_unlock_by_entering_code" = "Desbloqueie as configurações entrando o PIN";
-"tvos_existing_code" = "Código existente"; #depends on context
+"tvos_existing_code" = "Código existente";
 "tvos_enter_passcode" = "Entrar PIN";
 "tvos_go_back" = "Voltar";
 "tvos_disable_%@" = "Desabilitar | %@";

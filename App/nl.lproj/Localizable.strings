@@ -23,12 +23,12 @@
 "home_no_response" = "Geen Reactie";
 "home_not_responding" = "Geen Reactie";
 "home_disable" = "Schakel uit";
-"home_disable_all" = "Schakel allen uit";
+"home_disable_all" = "Schakel alle uit";
 "home_disable_blocking" = "Schakel blokkeren uit";
 "home_disable_blocking_pihole" = "Schakel Pi-hole blokkeren uit";
 "home_disable_blocking_alert_%@" = "Hoe lang wil je blokkeren uitschakelen voor %@?";
 "home_enable" = "Schakel in";
-"home_enable_all" = "Schakel allen in";
+"home_enable_all" = "Schakel alle in";
 "home_enable_blocking" = "Schakel blokkeren in";
 "home_enable_blocking_pihole" = "Schakel Pi-hole blokkeren in";
 "home_enable_blocking_alert_%@" = "Weet je zeker dat je blokkeren wil inschakelen voor %@?";
@@ -354,6 +354,17 @@
 "preferences_statistics_other" = "Overig";
 "preferences_statistics_other_footer" = "Laat Pi-hole versie, API versie en DNS cache informatie zien.";
 "preferences_statistics_show_other" = "Laat 'Overige' info zien";
+"preferences_statistics_hidden_domains" = "Hidden domains";
+"preferences_statistics_hidedomains_header" = "Verberg domeinen";
+"preferences_statistics_hidedomains_footer" = "Verberg (delen van) domeinen in statistieken.";
+"preferences_statistics_hidedomains_list_navbar" = "Verberg domeinen";
+"preferences_statistics_hidedomains_list_footer" = "Deze (delen van) domeinen worden verborgen in 'Top' lijsten. Ze zullen nog steeds meegeteld worden in statistieken in Home & zijn nog steeds zichtbaar in het Query Log.";
+"preferences_statistics_hidedomains_list_none" = "Je kan rechtsboven domeinen toevoegen!";
+"preferences_statistics_hidedomains_new_placeholder" = "Typ (een deel van) een domein";
+"preferences_statistics_hidedomains_new_picker" = "Matchen";
+"preferences_statistics_hidedomains_new_picker_exactly" = "Exact";
+"preferences_statistics_hidedomains_new_picker_contains" = "Bevat";
+"preferences_statistics_hidedomains_new_navbar" = "Verberg domein";
 "preferences_lists_navbar" = "Lijsten";
 "preferences_lists_display" = "Weergave";
 "preferences_lists_sort_by" = "Sorteer op";
@@ -376,6 +387,10 @@
 "design_tint_pink" = "Roze";
 "design_tint_red" = "Rood";
 "design_icon" = "App Icoon";
+"design_icon_pihole" = "Pi-hole Remote";
+"design_icon_pihole_dark" = "Pi-hole Remote Donker";
+"design_icon_classic" = "Klassiek";
+"design_icon_classic_dark" = "Klassiek Donker";
 "design_theme" = "Thema";
 "design_system" = "Systeem";
 "design_light_mode" = "Light Mode";
@@ -460,6 +475,7 @@
 "view_queries_to_domain" = "Bekijk queries naar domein";
 "view_queries_from_client" = "Bekijk queries van cliënt";
 "visit_domain" = "Bezoek domein";
+"statistics_hide_domain" = "Verberg domein in statistieken";
 
 // MARK: Miscellaneous
 "instances" = "Instanties";
