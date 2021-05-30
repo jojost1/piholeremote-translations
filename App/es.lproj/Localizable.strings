@@ -354,6 +354,17 @@
 "preferences_statistics_other" = "Otros";
 "preferences_statistics_other_footer" = "Ver versión Pi-hole, versión API, e información DNS caché.";
 "preferences_statistics_show_other" = "Ver Otra Información";
+"preferences_statistics_hidden_domains" = "Hidden domains";
+"preferences_statistics_hidedomains_header" = "Hide Domains";
+"preferences_statistics_hidedomains_footer" = "Hide certain (parts of) domains in statistics.";
+"preferences_statistics_hidedomains_list_navbar" = "Hide Domains";
+"preferences_statistics_hidedomains_list_footer" = "These (parts of) domains will be hidden from 'Top' lists. They will still be included in statistics in the Home-tab and will still appear in the Query Log.";
+"preferences_statistics_hidedomains_list_none" = "None. You can add entries in the top right!";
+"preferences_statistics_hidedomains_new_placeholder" = "Enter (part of) a domain";
+"preferences_statistics_hidedomains_new_picker" = "Matching Condition";
+"preferences_statistics_hidedomains_new_picker_exactly" = "Exactly";
+"preferences_statistics_hidedomains_new_picker_contains" = "Contains";
+"preferences_statistics_hidedomains_new_navbar" = "Hide Domain";
 "preferences_lists_navbar" = "Listas";
 "preferences_lists_display" = "Mostrar";
 "preferences_lists_sort_by" = "Ordenar Listas Por";
@@ -464,6 +475,7 @@
 "view_queries_to_domain" = "Ver Consultas al Dominio";
 "view_queries_from_client" = "Ver Consultas desde el Cliente";
 "visit_domain" = "Visitar Dominio";
+"statistics_hide_domain" = "Hide Domain from Statistics";
 
 // MARK: Miscellaneous
 "instances" = "Instancias";

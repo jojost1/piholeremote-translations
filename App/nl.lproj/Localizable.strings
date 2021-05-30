@@ -354,6 +354,17 @@
 "preferences_statistics_other" = "Overig";
 "preferences_statistics_other_footer" = "Laat Pi-hole versie, API versie en DNS cache informatie zien.";
 "preferences_statistics_show_other" = "Laat 'Overige' info zien";
+"preferences_statistics_hidden_domains" = "Hidden domains";
+"preferences_statistics_hidedomains_header" = "Verberg domeinen";
+"preferences_statistics_hidedomains_footer" = "Verberg (delen van) domeinen in statistieken.";
+"preferences_statistics_hidedomains_list_navbar" = "Verberg domeinen";
+"preferences_statistics_hidedomains_list_footer" = "Deze (delen van) domeinen worden verborgen in 'Top' lijsten. Ze zullen nog steeds meegeteld worden in statistieken in Home & zijn nog steeds zichtbaar in het Query Log.";
+"preferences_statistics_hidedomains_list_none" = "Je kan rechtsboven domeinen toevoegen!";
+"preferences_statistics_hidedomains_new_placeholder" = "Typ (een deel van) een domein";
+"preferences_statistics_hidedomains_new_picker" = "Matchen";
+"preferences_statistics_hidedomains_new_picker_exactly" = "Exact";
+"preferences_statistics_hidedomains_new_picker_contains" = "Bevat";
+"preferences_statistics_hidedomains_new_navbar" = "Verberg domein";
 "preferences_lists_navbar" = "Lijsten";
 "preferences_lists_display" = "Weergave";
 "preferences_lists_sort_by" = "Sorteer op";
@@ -464,6 +475,7 @@
 "view_queries_to_domain" = "Bekijk queries naar domein";
 "view_queries_from_client" = "Bekijk queries van cliënt";
 "visit_domain" = "Bezoek domein";
+"statistics_hide_domain" = "Verberg domein in statistieken";
 
 // MARK: Miscellaneous
 "instances" = "Instanties";
