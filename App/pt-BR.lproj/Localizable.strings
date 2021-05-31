@@ -226,7 +226,7 @@
 "lists_bulk_completion_log" = "Log Final";
 "lists_bulk_keep_screen_open" = "Por favor mantenha essa tela aberta durante o processo!";
 "lists_bulk_move_failed" = "Transferência para 'Novas Entradas' falhou novamente";
-"lists_bulk_done_added_%lld" = "Feito! Foram adicionadas %lld entradas.";
+"lists_bulk_done_added_%lld" = "Pronto! Foram adicionadas %lld entradas.";
 
 // MARK: Sync Lists
 "lists_sync_navbar" = "Sincronizar Instâncias";
@@ -497,7 +497,7 @@
 "dismiss" = "Recusar"; #depends on context
 =======
 "refresh" = "Atualizar";
-"done" = "Feito";
+"done" = "OK";
 "dismiss" = "Recusar";
 >>>>>>> main:App/pt-BR.lproj/Localizable.strings
 "ok" = "OK";
