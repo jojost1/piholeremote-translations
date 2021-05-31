@@ -354,6 +354,17 @@
 "preferences_statistics_other" = "Άλλα";
 "preferences_statistics_other_footer" = "Εμφάνιση έκδοσης Pi-hole, έκδοσης API και πληροφοριών κρυφής μνήμης DNS.";
 "preferences_statistics_show_other" = "Εμφάνιση άλλων πληροφοριών";
+"preferences_statistics_hidden_domains" = "Κρυμμένα domain";
+"preferences_statistics_hidedomains_header" = "Απόκρυψη domain";
+"preferences_statistics_hidedomains_footer" = "Απόκρυψη συγκεκριμένων (μερών από) domain στα στατιστικά.";
+"preferences_statistics_hidedomains_list_navbar" = "Απόκρυψη domain";
+"preferences_statistics_hidedomains_list_footer" = "Αυτά τα (μέρη των) domain δεν θα εμφανίζονται στις λίστες «Κορυφαίων». Ωστόσο θα συμπεριλαμβάνονται στα στατιστικά της αρχικής και θα εμφανίζονται στο αρχείο ερωτημάτων.";
+"preferences_statistics_hidedomains_list_none" = "Κανένα. Μπορείτε να προσθέσετε καταχωρήσεις πάνω δεξιά!";
+"preferences_statistics_hidedomains_new_placeholder" = "Εισαγωγή (μέρους) ενός domain";
+"preferences_statistics_hidedomains_new_picker" = "Συνθήκη αντιστοίχισης";
+"preferences_statistics_hidedomains_new_picker_exactly" = "Ακριβώς";
+"preferences_statistics_hidedomains_new_picker_contains" = "Περιέχει";
+"preferences_statistics_hidedomains_new_navbar" = "Απόκρυψη domain";
 "preferences_lists_navbar" = "Λίστες";
 "preferences_lists_display" = "Εμφάνιση";
 "preferences_lists_sort_by" = "Ταξινόμηση λιστών με";
@@ -460,6 +471,7 @@
 "view_queries_to_domain" = "Εμφάνιση ερωτημάτων στο domain";
 "view_queries_from_client" = "Εμφάνιση ερωτημάτων από τον πελάτη";
 "visit_domain" = "Μετάβαση στο domain";
+"statistics_hide_domain" = "Απόκρυψη domain από τα στατιστικά";
 
 // MARK: Miscellaneous
 "instances" = "Εκδοχές";
