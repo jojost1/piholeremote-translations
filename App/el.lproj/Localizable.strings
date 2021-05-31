@@ -356,7 +356,7 @@
 "preferences_statistics_show_other" = "Εμφάνιση άλλων πληροφοριών";
 "preferences_statistics_hidden_domains" = "Κρυμμένα domain";
 "preferences_statistics_hidedomains_header" = "Απόκρυψη domain";
-"preferences_statistics_hidedomains_footer" = "Απόκρυψη συγκεκριμένων (μερών από) domain στα στατιστικά.";
+"preferences_statistics_hidedomains_footer" = "Απόκρυψη συγκεκριμένων domain στα στατιστικά.";
 "preferences_statistics_hidedomains_list_navbar" = "Απόκρυψη domain";
 "preferences_statistics_hidedomains_list_footer" = "Αυτά τα (μέρη των) domain δεν θα εμφανίζονται στις λίστες «Κορυφαίων». Ωστόσο θα συμπεριλαμβάνονται στα στατιστικά της αρχικής και θα εμφανίζονται στο αρχείο ερωτημάτων.";
 "preferences_statistics_hidedomains_list_none" = "Κανένα. Μπορείτε να προσθέσετε καταχωρήσεις πάνω δεξιά!";
@@ -493,7 +493,7 @@
 "search" = "Αναζήτηση";
 "refresh" = "Ανανέωση";
 "done" = "Τέλος";
-"new" = "New";
+"new" = "Νέο";
 "dismiss" = "Απόκρυψη";
 "ok" = "OK";
 "save" = "Αποθήκευση";
