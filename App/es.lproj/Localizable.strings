@@ -475,7 +475,7 @@
 "view_queries_to_domain" = "Ver Consultas al Dominio";
 "view_queries_from_client" = "Ver Consultas desde el Cliente";
 "visit_domain" = "Visitar Dominio";
-"statistics_hide_domain" = "Ocultar el Dominio de las Estadísticas";
+"statistics_hide_domain" = "Ocultar el Dominio en las Estadísticas";
 
 // MARK: Miscellaneous
 "instances" = "Instancias";
