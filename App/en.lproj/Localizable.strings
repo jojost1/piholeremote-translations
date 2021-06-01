@@ -356,7 +356,7 @@
 "preferences_statistics_show_other" = "Show Other Info";
 "preferences_statistics_hidden_domains" = "Hidden domains";
 "preferences_statistics_hidedomains_header" = "Hide Domains";
-"preferences_statistics_hidedomains_footer" = "Hide certain (parts of) domains in statistics.";
+"preferences_statistics_hidedomains_footer" = "Hide certain domains in statistics.";
 "preferences_statistics_hidedomains_list_navbar" = "Hide Domains";
 "preferences_statistics_hidedomains_list_footer" = "These (parts of) domains will be hidden from 'Top' lists. They will still be included in statistics in the Home-tab and will still appear in the Query Log.";
 "preferences_statistics_hidedomains_list_none" = "None. You can add entries in the top right!";
@@ -493,6 +493,7 @@
 "search" = "Search";
 "refresh" = "Refresh";
 "done" = "Done";
+"new" = "New";
 "dismiss" = "Dismiss";
 "ok" = "OK";
 "save" = "Save";

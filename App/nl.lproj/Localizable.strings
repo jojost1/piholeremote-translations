@@ -356,7 +356,7 @@
 "preferences_statistics_show_other" = "Laat 'Overige' info zien";
 "preferences_statistics_hidden_domains" = "Hidden domains";
 "preferences_statistics_hidedomains_header" = "Verberg domeinen";
-"preferences_statistics_hidedomains_footer" = "Verberg (delen van) domeinen in statistieken.";
+"preferences_statistics_hidedomains_footer" = "Verberg bepaalde domeinen in statistieken.";
 "preferences_statistics_hidedomains_list_navbar" = "Verberg domeinen";
 "preferences_statistics_hidedomains_list_footer" = "Deze (delen van) domeinen worden verborgen in 'Top' lijsten. Ze zullen nog steeds meegeteld worden in statistieken in Home & zijn nog steeds zichtbaar in het Query Log.";
 "preferences_statistics_hidedomains_list_none" = "Je kan rechtsboven domeinen toevoegen!";
@@ -493,6 +493,7 @@
 "search" = "Zoeken";
 "refresh" = "Verversen";
 "done" = "Klaar";
+"new" = "Nieuw";
 "dismiss" = "Klaar";
 "ok" = "OK";
 "save" = "Opslaan";
