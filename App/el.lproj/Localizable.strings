@@ -145,7 +145,7 @@
 "querylog_filter_sort" = "Ταξινόμηση";
 "querylog_filter_sort_new_old" = "Νέο > Παλιό";
 "querylog_filter_sort_old_new" = "Παλιό > Νέο";
-"querylog_filter_other" = "Άλλο";
+"querylog_filter_other" = "Άλλα";
 "querylog_filter_other_footer" = "Εμφάνιση τύπου ερωτήματος, απάντησης και διάρκειας (ms).";
 "querylog_filter_show_detail" = "Εμφάνιση λεπτομέρειας";
 "querylog_filter_hide_detail" = "Απόκρυψη λεπτομέρειας";
@@ -285,7 +285,7 @@
 "settings_force_watch_sync" = "Αναγκαστικός συγχρονισμός του Apple Watch";
 "settings_force_icloud_sync" = "Αναγκαστικός συγχρονισμός του iCloud";
 "settings_whats_new" = "Τι νέο υπάρχει";
-"settings_help" = "Βοήθεια & Σχόλια";
+"settings_help" = "Βοήθεια & σχόλια";
 "settings_advanced" = "Προχωρημένα";
 "settings_twitter" = "Ακολουθήστε στο Twitter";
 "settings_tipjar" = "Βάζο φιλοδωρημάτων";
@@ -309,7 +309,7 @@
 "instance_port_placeholder" = "80";
 "instance_token" = "API token";
 "instance_token_placeholder" = "a1b2c3d4...";
-"instance_token_explainer" = "Απαιτείται για την ενεργοποίηση/απενεργοποιήση και στατιστικά. Εαν δεν έχετε δημιουργήσει κωδικό πρόσβασης, αφήστε το κενό.\nΜπορείτε να βρείτε το token στο Web Interface > Ρυθμίσεις > API.";
+"instance_token_explainer" = "Απαιτείται για την ενεργοποίηση/απενεργοποιήση και στατιστικά. Εάν δεν έχετε δημιουργήσει κωδικό πρόσβασης, αφήστε το κενό.\nΜπορείτε να βρείτε το token στο Web Interface > Ρυθμίσεις > API.";
 "instance_token_alert_title" = "Pi-hole API token";
 "instance_token_alert_body" = "Μπορείτε να βρείτε το Pi-hole API token στο web Interface.\n\nΣυνδεθείτε και πηγαίνετε στις 'Ρυθμίσεις > API / Web Interface > Εμφάνιση API token' και θα δείτε έναν κωδικό QR που μπορείτε να σαρώσετε!";
 "instance_token_scan_navbar" = "Σάρωση API token";
@@ -370,7 +370,7 @@
 "preferences_lists_sort_by" = "Ταξινόμηση λιστών με";
 "preferences_lists_alphabet" = "Αλφαβητικά";
 "preferences_lists_date" = "Ημερομηνία";
-"preferences_other_navbar" = "Άλλο";
+"preferences_other_navbar" = "Άλλα";
 "preferences_other_language" = "Γλώσσα";
 
 // MARK: Design
@@ -399,7 +399,7 @@
 // MARK: Tip Jar
 "tipjar_navbar" = "Βάζο φιλοδωρημάτων";
 "tipjar_header" = "Το βάζο φιλοδωρημάτων βοηθάει στη λειτουργία του Pi-hole Remote και υποστηρίζει άμεσα την ανάπτυξη φανταστικών χαρακτηριστικών και βελτιώσεων.";
-"tipjar_header_2" = "Αν σας αρέσει να χρησιμοποιείτε αυτή την εφαρμογή και θέλετε να υποστηρίξετε τον ανεξάρτητο προγραμματιστή (γεια! 👋), παρακαλούμε σκεφτείτε να αφήσετε ένα tip. Θα το εκτιμούσα πολύ!";
+"tipjar_header_2" = "Αν σας αρέσει να χρησιμοποιείτε αυτή την εφαρμογή και θέλετε να υποστηρίξετε τον ανεξάρτητο προγραμματιστή (γεια! 👋), παρακαλούμε σκεφτείτε να αφήσετε ένα φιλοδώρημα. Θα το εκτιμούσα πολύ!";
 "tipjar_header_3" = "Ευχαριστώ για την υποστήριξή σας.\n- Joost";
 "tipjar_tip_coffee" = "Φιλοδώρημα για καφέ";
 "tipjar_tip_whiskey" = "Φιλοδώρημα για ουίσκι";
@@ -418,7 +418,7 @@
 "help_faq" = "Συχνές ερωτήσεις";
 "help_faq_short" = "FAQ";
 "help_contact" = "Επικοινωνία";
-"help_actions" = "Δράσεις";
+"help_actions" = "Ενέργειες";
 "help_actions_icloud" = "Αναγκαστικός συγχρονισμός iCloud";
 "help_actions_watch" = "Αναγκαστικός συγχρονισμός Apple Watch";
 "help_actions_widgets" = "Αναγκαστικός συγχρονισμός widgets";
@@ -432,12 +432,12 @@
 "changelog_current_version" = "Τρέχουσα έκδοση";
 "changelog_continue" = "Συνέχεια";
 "changelog_settings" = "Ρυθμίσεις αρχείου αλλαγών";
-"changelog_settings_show" = "Εμφάνιση κατά της ενημέρωση της εφαρμογής";
+"changelog_settings_show" = "Εμφάνιση κατά την ενημέρωση της εφαρμογής";
 "changelog_settings_show_footer" = "Το αρχείο αλλαγών θα εμφανίζεται μόνο για ενημερώσεις χαρακτηριστικών, όχι για τις ενημερώσεις που περιλαμβάνουν μόνο διορθώσεις σφαλμάτων.";
 
 // MARK: Made by RocketScience
 "rocketscience_hi_title" = "Γεια, είμαι ο Joost!";
-"rocketscience_hi_subtitle" = "Τον Ιούνιο του 2020 ξεκίνησα να φτιάχνω τις δικές μου εφαρμογές σαν ανεξάρτητος προγραμματιστής, με το όνομα 'RocketScience IT'.\n\nΟ κύριος στόχος μου είναι να μάθω: σχεδιασμό, προγραμματισμό, δοκιμή, υποστήριξη, προώθηση - ίσως ακόμη περισσότερα! Αυτή τη στιγμή, έχω δύο εφαρμογές στο App Store τις οποίες συνεχώς βελτιώνω & έχω πολλές ιδέες για άλλες εφαρμογές που ίσως θέλω να φτιάξω στο μέλλον.";
+"rocketscience_hi_subtitle" = "Τον Ιούνιο του 2020 ξεκίνησα να φτιάχνω τις δικές μου εφαρμογές σαν ανεξάρτητος προγραμματιστής, με το όνομα «RocketScience IT».\n\nΟ κύριος στόχος μου είναι να μάθω: σχεδιασμό, προγραμματισμό, δοκιμή, υποστήριξη, προώθηση - ίσως ακόμη περισσότερα! Αυτή τη στιγμή, έχω δύο εφαρμογές στο App Store τις οποίες συνεχώς βελτιώνω & έχω πολλές ιδέες για άλλες εφαρμογές που ίσως θέλω να φτιάξω στο μέλλον.";
 "rocketscience_website" = "Ιστοσελίδα";
 "rocketscience_twitter" = "Twitter";
 "rocketscience_tipjar" = "Βάζο φιλοδωρημάτων";
