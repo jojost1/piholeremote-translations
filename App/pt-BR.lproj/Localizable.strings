@@ -491,15 +491,9 @@
 "could_not_get_data" = "Não foi possível acessar todos os dados.";
 "no_queries_found" = "No queries found.";
 "search" = "Busca";
-<<<<<<< HEAD:App/pt.lproj/Localizable.strings
-"refresh" = "Atualizar"; #depends on context
-"done" = "OK";
-"dismiss" = "Recusar"; #depends on context
-=======
 "refresh" = "Atualizar";
 "done" = "OK";
 "dismiss" = "Recusar";
->>>>>>> main:App/pt-BR.lproj/Localizable.strings
 "ok" = "OK";
 "save" = "Salvar";
 "apply" = "Aplicar";
