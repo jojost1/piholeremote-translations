@@ -97,7 +97,7 @@
 "statistics_dns_cache_size" = "Tamanho do Cache:";
 "statistics_dns_cache_evictions" = "Cache Despejado:";
 "statistics_dns_cache_inserted" = "Cache Adicionado:";
-"statistics_github" = "Github";
+"statistics_github" = "GitHub";
 "statistics_update_explainer" = "Você pode atualizar a versão usando a linha de comando com o comando 'pihole -up'.";
 "statistics_update_explainer_%@" = "Você pode atualizar a versão usando a linha de comando com o comando %@ .";
 

@@ -97,7 +97,7 @@
 "statistics_dns_cache_size" = "Cache grootte:";
 "statistics_dns_cache_evictions" = "Cache verwijderingen:";
 "statistics_dns_cache_inserted" = "Cache invoegingen:";
-"statistics_github" = "Github";
+"statistics_github" = "GitHub";
 "statistics_update_explainer" = "Je kan updaten met de command line interface met het commando 'pihole -up'.";
 "statistics_update_explainer_%@" = "Je kan updaten met de command line interface met het commando %@ .";
 
