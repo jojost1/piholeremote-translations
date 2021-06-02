@@ -97,7 +97,7 @@
 "statistics_dns_cache_size" = "Cache Size:";
 "statistics_dns_cache_evictions" = "Cache Evictions:";
 "statistics_dns_cache_inserted" = "Cache Inserted:";
-"statistics_github" = "Github";
+"statistics_github" = "GitHub";
 "statistics_update_explainer" = "You can update using command line interface with the command 'pihole -up'.";
 "statistics_update_explainer_%@" = "You can update using command line interface with the command %@ .";
 
