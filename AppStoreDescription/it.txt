@@ -6,7 +6,7 @@ Disabilita il blocco velocemente per alcuni minuti con pochi tap. Puoi anche uti
 *Statistiche & Interrogazioni*
 Dai un'occhiata a quali domini sono i più interrogati sulla tua rete, così come i dispositivi che effettuano più richieste. Guarda le richieste ordinate per dominio, dispositivo o tipo. Puoi anche dare un'occhiata a Live Log che mostra le richieste in tempo reale!
 
-*White & Blacklist*
+*Whitelist & Blacklist*
 Aggiungi rapidamente elementi alle tue liste all'interno dell'app o tramite il menu condividi di iOS. Puoi anche aggiungere elementi in gruppo o esportare le tue liste. Se hai due istanze Pi-hole puoi anche sincronizzarle!
 
 *Widget per la Homescreen (iOS 14)*
@@ -27,11 +27,11 @@ Funzionalità su iPhone, iPad, macOS:
 - Supporto per SSL, reverse proxies e altri livelli di Privacy
 - Widgets (iOS 14 & macOS 11)
 - Scorciatoie di Siri e azioni veloci
-- Puoi white/blacklistare in modo veloce sfruttando la funzionalità Condividi // Share Extension for quick white/blacklisting
+- Puoi whitelistare o blacklistare in modo veloce sfruttando la funzionalità Condividi
 - Supporto a VoiceOver
-- Modalità dark, schema di colori personalizzati e icone alternative per l'app
+- Modalità scura, schema di colori personalizzati e icone alternative per l'app
 - Design ottimizzato per iPadOS & macOS
-- Design all 100% SwiftUI pulito e moderno
+- Design 100% SwiftUI pulito e moderno
 
 Funzionalità Apple Watch:
 - Vedi statistiche di base
@@ -53,7 +53,7 @@ Statistiche:
 - Top domini bloccati
 - Top dispositivi 
 - Domini e dispositivi unici
-- Clients Ever Seen
+- Dispositivi mai visti
 - Richieste per dominio o dispositivo
 - Tipo di richieste
 - Versione di Pi-hole
