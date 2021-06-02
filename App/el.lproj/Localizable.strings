@@ -22,16 +22,16 @@
 "home_refreshing_dots" = "Ανανέωση...";
 "home_no_response" = "Καμία απάντηση";
 "home_not_responding" = "Δεν αποκρίνεται";
-"home_disable" = "Απενεργοποίση";
+"home_disable" = "Απενεργοποίηση";
 "home_disable_all" = "Απενεργοποίηση όλων";
 "home_disable_blocking" = "Απενεργοποίηση αποκλεισμού";
 "home_disable_blocking_pihole" = "Απενεργοποίηση αποκλεισμού Pi-hole";
-"home_disable_blocking_alert_%@" = "Για πόσο θέλετε να απενεργοποιήσετε το %@?";
+"home_disable_blocking_alert_%@" = "Για πόσο θέλετε να απενεργοποιήσετε το %@;";
 "home_enable" = "Ενεργοποίηση";
 "home_enable_all" = "Ενεργοποίηση όλων";
 "home_enable_blocking" = "Ενεργοποίηση αποκλεισμού";
 "home_enable_blocking_pihole" = "Ενεργοποίηση αποκλεισμού Pi-hole";
-"home_enable_blocking_alert_%@" = "Θέλετε σίγουρα να ενεργοποιήσετε τον αποκλεισμό του %@?";
+"home_enable_blocking_alert_%@" = "Θέλετε σίγουρα να ενεργοποιήσετε τον αποκλεισμό του %@;";
 "home_enable_%@_disabled_until_%@" = "Ενεργοποίηση (%@απενεργοποιημένο έως %@)";
 "home_data_from_%@" = "Δεδομένα από %@";
 "home_update_gravity" = "Ενημέρωση Gravity";
@@ -165,8 +165,8 @@
 "querylog_detail_id_blocking_regex" = "ID του regex αποκλεισμού";
 
 // MARK: QueryLog LiveLog
-"livelog" = "Ζωντανό αρχείο καταγραφής";
-"livelog_navbar" = "Ζωντανό αρχείο καταγραφής";
+"livelog" = "Live αρχείο καταγραφής";
+"livelog_navbar" = "Live αρχείο καταγραφής";
 "livelog_noqueriesfoundyet" = "Δεν έχουν βρεθεί ακόμη ερωτήματα...";
 
 // MARK: - Lists-tab
@@ -205,7 +205,7 @@
 "lists_addentry_regex_tutorial_tap" = "Πατήστε εδώ για ένα σεμινάριο RegEx.";
 "lists_addentry_wildcard_%@" = "Μπαλαντέρ: %@";
 "lists_addentry_wildcard_alert" = "Προσθήκη domain σαν μπαλαντέρ";
-"lists_addentry_wildcard_alert_body" = "Χρησιμοποιήστε αυτή την επιλογή εάν θέλετε να συμπεριλάβετε όλα τα subdomains. Το εισαγόμενο domain θα μετατραπεί σε φίλτρο RegEx κατά την προσθήκη.";
+"lists_addentry_wildcard_alert_body" = "Χρησιμοποιήστε αυτή την επιλογή εάν θέλετε να συμπεριλάβετε όλα τα subdomain. Το εισαγόμενο domain θα μετατραπεί σε φίλτρο RegEx κατά την προσθήκη.";
 
 // MARK: Add Entry Bulk
 "lists_bulk_navbar" = "Προσθήκη καταχωρήσεων";
@@ -327,7 +327,7 @@
 "preferences_home_navbar" = "Αρχική";
 "preferences_home_display" = "Εμφάνιση";
 "preferences_home_check_for_updates" = "Έλεγχος για ενημερώσεις";
-"preferences_home_data_from_label" = "Καρτέλα 'Δεδομένα από'";
+"preferences_home_data_from_label" = "Καρτέλα «Δεδομένα από»";
 "preferences_home_usage_metrics" = "Μετρήσεις χρήσης";
 "preferences_home_usage_metrics_vertical" = "Εμφάνιση μετρήσεων κατακόρυφα";
 "preferences_home_temperature_unit" = "Μονάδα θερμοκρασίας";
@@ -340,13 +340,13 @@
 "preferences_home_auto_refresh" = "Αυτόματη ανανέωση";
 "preferences_statistics_navbar" = "Στατιστικά";
 "preferences_statistics_graphs" = "Γραφήματα";
-"preferences_statistics_show_recent_queries" = "Εμφάνιση 'Πρόσφατων ερωτημάτων'";
+"preferences_statistics_show_recent_queries" = "Εμφάνιση «Πρόσφατων ερωτημάτων»";
 "preferences_statistics_hours_visible" = "Ώρες εμφάνισης";
 "preferences_statistics_animate_graphs" = "Κινούμενα γραφήματα";
 "preferences_statistics_animation_duration" = "Διάρκεια κίνησης";
 "preferences_statistics_top_domains" = "Κορυφαία domain";
 "preferences_statistics_show_top_allowed" = "Εμφάνιση κορυφαίων επιτρεπόμενων";
-"preferences_statistics_show_top_blocked" = "Εμφάνιση κορυφαίνων αποκλεισμένων";
+"preferences_statistics_show_top_blocked" = "Εμφάνιση κορυφαίων αποκλεισμένων";
 "preferences_statistics_number_of_domains" = "Αριθμός domain";
 "preferences_statistics_top_clients" = "Κορυφαίοι πελάτες";
 "preferences_statistics_show_top_clients" = "Εμφάνιση κορυφαίων πελατών";
@@ -409,7 +409,7 @@
 "tipjar_thankyou_tip" = "Σας ευχαριστώ για το γενναιόδωρο φιλοδώρημα!";
 "tipjar_thankyou_tips" = "Σας ευχαριστώ για τα γενναιόδωρα φιλοδωρήματα!";
 "tipjar_thankyou_loveyou" = "Σας αγαπώ! ❤️";
-"tipjar_testflight_explainer" = "Σημείωση: Τρέχετε μία έκδοση TestFlight, επομένως οι πληρωμές εκτελούνται σε λειτουργία Sandbox και δεν γίνονται στην πραγματικότητα.\n\nΕάν θέλετε να δώσετε φιλοδώρημα, παρακαλώ κατεβάστε την εφαρμογή από το App Store! Μετά από αυτό μπορείτε να κατεβάσετε ξανά τη δοκιμαστική έκδοση. Ευχαριστώ!";
+"tipjar_testflight_explainer" = "Σημείωση: Τρέχετε μία έκδοση TestFlight, επομένως οι πληρωμές εκτελούνται σε λειτουργία Sandbox και δεν γίνονται στην πραγματικότητα.\n\nΕάν θέλετε να δώσετε φιλοδώρημα, παρακαλώ κατεβάστε την εφαρμογή από το App Store! Μετά από αυτό μπορείτε να κατεβάσετε ξανά την έκδοση beta. Ευχαριστώ!";
 "tipjar_payment_successful" = "Επιτυχής πληρωμή";
 "tipjar_thankyou_alert" = "Σας ευχαριστώ πάρα πολύ, εκτιμώ πραγματικά το γεγονός ότι αγαπάτε την εφαρμογή τόσο πολύ που είστε πρόθυμοι να δώσετε ένα φιλοδώρημα. Είναι επίσης εξαιρετικά ενθαρρυντικό. Σας αγαπώ!\n\nJoost";
 
@@ -517,7 +517,7 @@
 "watchos_blocking_alert_title" = "Απενεργοποίηση αποκλεισμού";
 "watchos_for_how_long" = "Για πόσο;";
 "watchos_no_instances_headline" = "Παρακαλώ προσθέστε μια εκδοχή Pi-hole στην εφαρμογή για iPhone.";
-"watchos_no_instances_subheadline" = "Αν το κάνατε ήδη, παρακαλώ πηγαίνετε στην εκδοχή σας, πατήστε 'Επεξεργασία' και 'Αποθήκευση' ξανά. Θα πρέπει να εμφανιστεί μετά από αυτό. Αν τα στατιστικά δεν φορτώσουν με την πρώτη, παρακαλώ επανεκκινήστε την εφαρμογή για Apple Watch. Ευχαριστώ!";
+"watchos_no_instances_subheadline" = "Αν το κάνατε ήδη, παρακαλώ πηγαίνετε στην εκδοχή σας, πατήστε «Επεξεργασία» και «Αποθήκευση» ξανά. Θα πρέπει να εμφανιστεί μετά από αυτό. Αν τα στατιστικά δεν φορτώσουν με την πρώτη, παρακαλώ επανεκκινήστε την εφαρμογή για Apple Watch. Ευχαριστώ!";
 
 // MARK: - tvOS Specific
 "tvos_blocking_alert_body" = "Απενεργοποίηση αποκλεισμού";
