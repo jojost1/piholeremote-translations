@@ -1,6 +1,6 @@
 
-/* Class = "UINavigationItem"; title = "Add to List"; ObjectID = "3HJ-uW-3hn"; */
-"3HJ-uW-3hn.title" = "Add to List";
+/* Class = "UINavigationItem"; title = "Ajouter à la liste"; ObjectID = "3HJ-uW-3hn"; */
+"3HJ-uW-3hn.title" = "Ajouter à la liste";
 
 /* Class = "UILabel"; text = "Instance 2"; ObjectID = "CR1-vK-io1"; */
 "CR1-vK-io1.text" = "Instance 2";
@@ -11,14 +11,14 @@
 /* Class = "UIViewController"; title = "Image"; ObjectID = "ObA-dk-sSI"; */
 "ObA-dk-sSI.title" = "Image";
 
-/* Class = "UITextField"; placeholder = "Domain"; ObjectID = "Qbt-JN-40t"; */
-"Qbt-JN-40t.placeholder" = "Domain";
+/* Class = "UITextField"; placeholder = "Domaine"; ObjectID = "Qbt-JN-40t"; */
+"Qbt-JN-40t.placeholder" = "Domaine";
 
 /* Class = "UILabel"; text = "RegEx"; ObjectID = "qZy-2G-fBb"; */
 "qZy-2G-fBb.text" = "RegEx";
 
-/* Class = "UISegmentedControl"; sWA-Lh-jNh.segmentTitles[0] = "Blacklist"; ObjectID = "sWA-Lh-jNh"; */
-"sWA-Lh-jNh.segmentTitles[0]" = "Blacklist";
+/* Class = "UISegmentedControl"; sWA-Lh-jNh.segmentTitles[0] = "Liste Noire"; ObjectID = "sWA-Lh-jNh"; */
+"sWA-Lh-jNh.segmentTitles[0]" = "Liste Noire";
 
-/* Class = "UISegmentedControl"; sWA-Lh-jNh.segmentTitles[1] = "Whitelist"; ObjectID = "sWA-Lh-jNh"; */
-"sWA-Lh-jNh.segmentTitles[1]" = "Whitelist";
+/* Class = "UISegmentedControl"; sWA-Lh-jNh.segmentTitles[1] = "Liste Blanche"; ObjectID = "sWA-Lh-jNh"; */
+"sWA-Lh-jNh.segmentTitles[1]" = "Liste Blanche";
