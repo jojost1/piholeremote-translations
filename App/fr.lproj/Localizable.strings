@@ -9,7 +9,7 @@
 // MARK: - TabView
 "tab_home" = "Accueil";
 "tab_statistics" = "Statistiques";
-"tab_querylog" = "Journaux des requêtes";
+"tab_querylog" = "Requêtes";
 "tab_lists" = "Listes";
 "tab_settings" = "Réglages";
 
