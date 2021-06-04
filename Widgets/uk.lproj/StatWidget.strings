@@ -1,543 +1,543 @@
-"0bxmfo-IgP3Na" = "Just to confirm, you wanted ‘1 hour’?";
+"0bxmfo-IgP3Na" = "Просто щоб підтвердити, ви хотіли ‘1 година‘?";
 
-"0bxmfo-VLERQ1" = "Just to confirm, you wanted ‘15 minutes’?";
+"0bxmfo-VLERQ1" = "Просто щоб підтвердити, ви хотіли ‘15 хвилин‘?";
 
-"0bxmfo-XwHq84" = "Just to confirm, you wanted ‘24 hours’?";
+"0bxmfo-XwHq84" = "Просто щоб підтвердити, ви хотіли ‘24 години’?";
 
-"0bxmfo-YT1Pew" = "Just to confirm, you wanted ‘8 hours’?";
+"0bxmfo-YT1Pew" = "Просто щоб підтвердити, ви хотіли ‘8 годин’?";
 
-"0bxmfo-uqnZUq" = "Just to confirm, you wanted ‘30 minutes’?";
+"0bxmfo-uqnZUq" = "Просто щоб підтвердити, ви хотіли ‘30 хвилин’?";
 
-"0bxmfo-xDxdFy" = "Just to confirm, you wanted ‘5 minutes’?";
+"0bxmfo-xDxdFy" = "Просто щоб підтвердити, ви хотіли ‘5 хвилин’?";
 
-"0bxmfo-xLSa62" = "Just to confirm, you wanted ‘1 minute’?";
+"0bxmfo-xLSa62" = "Просто щоб підтвердити, ви хотіли ‘1 хвилина’?";
 
-"0bxmfo-zQ6Jw8" = "Just to confirm, you wanted ‘30 seconds’?";
+"0bxmfo-zQ6Jw8" = "Просто щоб підтвердити, ви хотіли ‘30 секунд’?";
 
-"0muj7e" = "Appearance";
+"0muj7e" = "Кольорова гама";
 
-"22mMz8" = "What instance to display?";
+"22mMz8" = "Який пристрій відображати?";
 
-"2M6piF" = "Instance";
+"2M6piF" = "Пристрій";
 
-"3lbWkQ" = "Appearance";
+"3lbWkQ" = "Кольорова гама";
 
-"42Koi6" = "System (Pure Black)";
+"42Koi6" = "Системна (Чисто чорна)";
 
-"5FTVc8" = "Duration 2";
+"5FTVc8" = "Тривалість 2";
 
-"5JYHmU" = "Instance";
+"5JYHmU" = "Пристрій";
 
-"5LhKeC-42Koi6" = "There are ${count} options matching ‘System (Pure Black)’.";
+"5LhKeC-42Koi6" = "Є ${count} варіантів, що співпадають з ‘Системна (Чисто чорна)’.";
 
-"5LhKeC-Ey6npg" = "There are ${count} options matching ‘Light’.";
+"5LhKeC-Ey6npg" = "Є ${count} варіантів, що співпадають з ‘Світла’.";
 
-"5LhKeC-VEO3IS" = "There are ${count} options matching ‘System’.";
+"5LhKeC-VEO3IS" = "Є ${count} варіантів, що співпадають з ‘Системна’.";
 
-"5LhKeC-YW3QEp" = "There are ${count} options matching ‘Dark (Pure Black)’.";
+"5LhKeC-YW3QEp" = "Є ${count} варіантів, що співпадають з ‘Темна (Чисто чорна)’.";
 
-"5LhKeC-eHf5lH" = "There are ${count} options matching ‘Dark’.";
+"5LhKeC-eHf5lH" = "Є ${count} варіантів, що співпадають з ‘Темна’.";
 
-"6gOngz" = "What instance to display?";
+"6gOngz" = "Який пристрій відображати?";
 
-"7HcZp4" = "What instance to display?";
+"7HcZp4" = "Який пристрій відображати?";
 
-"7MuxdM-IgP3Na" = "Just to confirm, you wanted ‘1 hour’?";
+"7MuxdM-IgP3Na" = "Просто щоб підтвердити, ви хотіли ‘1 година‘?";
 
-"7MuxdM-VLERQ1" = "Just to confirm, you wanted ‘15 minutes’?";
+"7MuxdM-VLERQ1" = "Просто щоб підтвердити, ви хотіли ‘15 хвилин’?";
 
-"7MuxdM-XwHq84" = "Just to confirm, you wanted ‘24 hours’?";
+"7MuxdM-XwHq84" = "Просто щоб підтвердити, ви хотіли ‘24 години’?";
 
-"7MuxdM-YT1Pew" = "Just to confirm, you wanted ‘8 hours’?";
+"7MuxdM-YT1Pew" = "Просто щоб підтвердити, ви хотіли ‘8 годин’?";
 
-"7MuxdM-uqnZUq" = "Just to confirm, you wanted ‘30 minutes’?";
+"7MuxdM-uqnZUq" = "Просто щоб підтвердити, ви хотіли ‘30 хвилин’?";
 
-"7MuxdM-xDxdFy" = "Just to confirm, you wanted ‘5 minutes’?";
+"7MuxdM-xDxdFy" = "Просто щоб підтвердити, ви хотіли ‘5 хвилин’?";
 
-"7MuxdM-xLSa62" = "Just to confirm, you wanted ‘1 minute’?";
+"7MuxdM-xLSa62" = "Просто щоб підтвердити, ви хотіли ‘1 хвилина’?";
 
-"7MuxdM-zQ6Jw8" = "Just to confirm, you wanted ‘30 seconds’?";
+"7MuxdM-zQ6Jw8" = "Просто щоб підтвердити, ви хотіли ‘30 секунд’?";
 
-"7fM7XI" = "Duration 4";
+"7fM7XI" = "Тривалість 4";
 
-"7gfPrG" = "Instance";
+"7gfPrG" = "Пристрій";
 
-"8Udkqh" = "All";
+"8Udkqh" = "Всі";
 
-"8kg56g-Ixk02y" = "There are ${count} options matching ‘Open Statistics’.";
+"8kg56g-Ixk02y" = "Є ${count} варіантів, що співпадають з ‘Відкрити Статистику’.";
 
-"8kg56g-ZwOZTZ" = "There are ${count} options matching ‘Open Query Log’.";
+"8kg56g-ZwOZTZ" = "Є ${count} варіантів, що співпадають з ‘Відкрити Журнал запитів’.";
 
-"8kg56g-awUBTf" = "There are ${count} options matching ‘Open Home’.";
+"8kg56g-awUBTf" = "Є ${count} варіантів, що співпадають з ‘Відкрити Дім’.";
 
-"8kg56g-nqHRwh" = "There are ${count} options matching ‘Open Lists’.";
+"8kg56g-nqHRwh" = "Є ${count} варіантів, що співпадають з ‘Відкрити Списки’.";
 
-"8kg56g-wMJOmd" = "There are ${count} options matching ‘Disable all for 1 minute’.";
+"8kg56g-wMJOmd" = "Є ${count} варіантів, що співпадають з ‘Вимкнути всі на 1 хвилину’.";
 
-"8w3JVZ" = "Instance";
+"8w3JVZ" = "Пристрій";
 
-"9gOTeN" = "Duration 1";
+"9gOTeN" = "Тривалість 1";
 
-"9hXLZd" = "Instance";
+"9hXLZd" = "Пристрій";
 
-"9rFgTD-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
+"9rFgTD-IgP3Na" = "Є ${count} варіантів, що співпадають з ‘1 година’.";
 
-"9rFgTD-VLERQ1" = "There are ${count} options matching ‘15 minutes’.";
+"9rFgTD-VLERQ1" = "Є ${count} варіантів, що співпадають з ‘15 хвилин’.";
 
-"9rFgTD-XwHq84" = "There are ${count} options matching ‘24 hours’.";
+"9rFgTD-XwHq84" = "Є ${count} варіантів, що співпадають з ‘24 години’.";
 
-"9rFgTD-YT1Pew" = "There are ${count} options matching ‘8 hours’.";
+"9rFgTD-YT1Pew" = "Є ${count} варіантів, що співпадають з ‘8 годин’.";
 
-"9rFgTD-uqnZUq" = "There are ${count} options matching ‘30 minutes’.";
+"9rFgTD-uqnZUq" = "Є ${count} варіантів, що співпадають з ‘30 хвилин’.";
 
-"9rFgTD-xDxdFy" = "There are ${count} options matching ‘5 minutes’.";
+"9rFgTD-xDxdFy" = "Є ${count} варіантів, що співпадають з ‘5 хвилин’.";
 
-"9rFgTD-xLSa62" = "There are ${count} options matching ‘1 minute’.";
+"9rFgTD-xLSa62" = "Є ${count} варіантів, що співпадають з ‘1 хвилина’.";
 
-"9rFgTD-zQ6Jw8" = "There are ${count} options matching ‘30 seconds’.";
+"9rFgTD-zQ6Jw8" = "Є ${count} варіантів, що співпадають з ‘30 секунд’.";
 
-"AJ9lZE-42Koi6" = "Just to confirm, you wanted ‘System (Pure Black)’?";
+"AJ9lZE-42Koi6" = "Просто щоб підтвердити, ви хотіли ‘Системна (Чисто чорна)’?";
 
-"AJ9lZE-Ey6npg" = "Just to confirm, you wanted ‘Light’?";
+"AJ9lZE-Ey6npg" = "Просто щоб підтвердити, ви хотіли ‘Світла’?";
 
-"AJ9lZE-VEO3IS" = "Just to confirm, you wanted ‘System’?";
+"AJ9lZE-VEO3IS" = "Просто щоб підтвердити, ви хотіли ‘Системна’?";
 
-"AJ9lZE-YW3QEp" = "Just to confirm, you wanted ‘Dark (Pure Black)’?";
+"AJ9lZE-YW3QEp" = "Просто щоб підтвердити, ви хотіли ‘Темна (Чисто чорна)’?";
 
-"AJ9lZE-eHf5lH" = "Just to confirm, you wanted ‘Dark’?";
+"AJ9lZE-eHf5lH" = "Просто щоб підтвердити, ви хотіли ‘Темна’?";
 
-"AKytWQ" = "Appearance";
+"AKytWQ" = "Кольорова гама";
 
-"AlpZki" = "Queries";
+"AlpZki" = "Запити";
 
-"BAafIW" = "Appearance";
+"BAafIW" = "Кольорова гама";
 
-"BILqn3" = "Percent Blocked";
+"BILqn3" = "Відсоток заблокованих";
 
-"CVEdAO" = "Appearance";
+"CVEdAO" = "Кольорова гама";
 
-"Ck4LzC-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
+"Ck4LzC-IgP3Na" = "Є ${count} варіантів, що співпадають з ‘1 година’.";
 
-"Ck4LzC-VLERQ1" = "There are ${count} options matching ‘15 minutes’.";
+"Ck4LzC-VLERQ1" = "Є ${count} варіантів, що співпадають з ‘15 хвилин’.";
 
-"Ck4LzC-XwHq84" = "There are ${count} options matching ‘24 hours’.";
+"Ck4LzC-XwHq84" = "Є ${count} варіантів, що співпадають з ‘24 години’.";
 
-"Ck4LzC-YT1Pew" = "There are ${count} options matching ‘8 hours’.";
+"Ck4LzC-YT1Pew" = "Є ${count} варіантів, що співпадають з ‘8 годин’.";
 
-"Ck4LzC-uqnZUq" = "There are ${count} options matching ‘30 minutes’.";
+"Ck4LzC-uqnZUq" = "Є ${count} варіантів, що співпадають з ‘30 хвилин’.";
 
-"Ck4LzC-xDxdFy" = "There are ${count} options matching ‘5 minutes’.";
+"Ck4LzC-xDxdFy" = "Є ${count} варіантів, що співпадають з ‘5 хвилин’.";
 
-"Ck4LzC-xLSa62" = "There are ${count} options matching ‘1 minute’.";
+"Ck4LzC-xLSa62" = "Є ${count} варіантів, що співпадають з ‘1 хвилина’.";
 
-"Ck4LzC-zQ6Jw8" = "There are ${count} options matching ‘30 seconds’.";
+"Ck4LzC-zQ6Jw8" = "Є ${count} варіантів, що співпадають з ‘30 секунд’.";
 
-"CkCBJU" = "Color";
+"CkCBJU" = "Колір";
 
-"CrtSD6-IgP3Na" = "Just to confirm, you wanted ‘1 hour’?";
+"CrtSD6-IgP3Na" = "Просто щоб підтвердити, ви хотіли ‘1 година?";
 
-"CrtSD6-VLERQ1" = "Just to confirm, you wanted ‘15 minutes’?";
+"CrtSD6-VLERQ1" = "Просто щоб підтвердити, ви хотіли ‘15 хвилин’?";
 
-"CrtSD6-XwHq84" = "Just to confirm, you wanted ‘24 hours’?";
+"CrtSD6-XwHq84" = "Просто щоб підтвердити, ви хотіли ‘24 години’?";
 
-"CrtSD6-YT1Pew" = "Just to confirm, you wanted ‘8 hours’?";
+"CrtSD6-YT1Pew" = "Просто щоб підтвердити, ви хотіли ‘8 годин’?";
 
-"CrtSD6-uqnZUq" = "Just to confirm, you wanted ‘30 minutes’?";
+"CrtSD6-uqnZUq" = "Просто щоб підтвердити, ви хотіли ‘30 хвилин’?";
 
-"CrtSD6-xDxdFy" = "Just to confirm, you wanted ‘5 minutes’?";
+"CrtSD6-xDxdFy" = "Просто щоб підтвердити, ви хотіли ‘5 хвилин’?";
 
-"CrtSD6-xLSa62" = "Just to confirm, you wanted ‘1 minute’?";
+"CrtSD6-xLSa62" = "Просто щоб підтвердити, ви хотіли ‘1 хвилина’?";
 
-"CrtSD6-zQ6Jw8" = "Just to confirm, you wanted ‘30 seconds’?";
+"CrtSD6-zQ6Jw8" = "Просто щоб підтвердити, ви хотіли ‘30 секунд’?";
 
-"CzBWV3" = "Duration 1";
+"CzBWV3" = "Тривалість 1";
 
-"DIItEm" = "Allowed";
+"DIItEm" = "Дозволено";
 
-"DJJsur" = "Widget Disable Duration";
+"DJJsur" = "Віджет Тривалість відключення";
 
-"DvY8Eg" = "Green";
+"DvY8Eg" = "Зелений";
 
-"EUst6o" = "Status Indicator";
+"EUst6o" = "Індикатор статусу";
 
-"Ey6npg" = "Light";
+"Ey6npg" = "Світла";
 
-"G5RUst" = "Tap Action";
+"G5RUst" = "Дія при тапі";
 
-"G9xiY4-Ixk02y" = "Just to confirm, you wanted ‘Open Statistics’?";
+"G9xiY4-Ixk02y" = "Просто щоб підтвердити, ви хотіли ‘Відкрити Статистику’?";
 
-"G9xiY4-ZwOZTZ" = "Just to confirm, you wanted ‘Open Query Log’?";
+"G9xiY4-ZwOZTZ" = "Просто щоб підтвердити, ви хотіли ‘Відкрити Журнал запитів’?";
 
-"G9xiY4-awUBTf" = "Just to confirm, you wanted ‘Open Home’?";
+"G9xiY4-awUBTf" = "Просто щоб підтвердити, ви хотіли ‘Відкрити Дім’?";
 
-"G9xiY4-nqHRwh" = "Just to confirm, you wanted ‘Open Lists’?";
+"G9xiY4-nqHRwh" = "Просто щоб підтвердити, ви хотіли ‘Відкрити Списки’?";
 
-"G9xiY4-wMJOmd" = "Just to confirm, you wanted ‘Disable all for 1 minute’?";
+"G9xiY4-wMJOmd" = "Просто щоб підтвердити, ви хотіли ‘Вимкнути всі на 1 хвилину’?";
 
-"Hb868n" = "Orange";
+"Hb868n" = "Помаранчевий";
 
-"IbhH23" = "Hide";
+"IbhH23" = "Сховати";
 
-"IgP3Na" = "1 hour";
+"IgP3Na" = "1 година";
 
-"Ixk02y" = "Open Statistics";
+"Ixk02y" = "Відкрити Статистику";
 
-"J9L8YR-42Koi6" = "There are ${count} options matching ‘System (Pure Black)’.";
+"J9L8YR-42Koi6" = "Є ${count} варіантів, що співпадають з ‘Системна (Чисто чорна)’.";
 
-"J9L8YR-Ey6npg" = "There are ${count} options matching ‘Light’.";
+"J9L8YR-Ey6npg" = "Є ${count} варіантів, що співпадають з ‘Світла’.";
 
-"J9L8YR-VEO3IS" = "There are ${count} options matching ‘System’.";
+"J9L8YR-VEO3IS" = "Є ${count} варіантів, що співпадають з ‘Системна’.";
 
-"J9L8YR-YW3QEp" = "There are ${count} options matching ‘Dark (Pure Black)’.";
+"J9L8YR-YW3QEp" = "Є ${count} варіантів, що співпадають з ‘Темна (Чисто чорна)’.";
 
-"J9L8YR-eHf5lH" = "There are ${count} options matching ‘Dark’.";
+"J9L8YR-eHf5lH" = "Є ${count} варіантів, що співпадають з ‘Темна’.";
 
-"JTTM7K" = "Status Indicator";
+"JTTM7K" = "Індикатор статусу";
 
-"Jmbf6v" = "Color";
+"Jmbf6v" = "Колір";
 
-"KL0j9K" = "Show";
+"KL0j9K" = "Показати";
 
-"KWaHmV-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
+"KWaHmV-IgP3Na" = "Є ${count} варіантів, що співпадають з ‘1 година’.";
 
-"KWaHmV-VLERQ1" = "There are ${count} options matching ‘15 minutes’.";
+"KWaHmV-VLERQ1" = "Є ${count} варіантів, що співпадають з ‘15 хвилин’.";
 
-"KWaHmV-XwHq84" = "There are ${count} options matching ‘24 hours’.";
+"KWaHmV-XwHq84" = "Є ${count} варіантів, що співпадають з ‘24 години’.";
 
-"KWaHmV-YT1Pew" = "There are ${count} options matching ‘8 hours’.";
+"KWaHmV-YT1Pew" = "Є ${count} варіантів, що співпадають з ‘8 годин’.";
 
-"KWaHmV-uqnZUq" = "There are ${count} options matching ‘30 minutes’.";
+"KWaHmV-uqnZUq" = "Є ${count} варіантів, що співпадають з ‘30 хвилин’.";
 
-"KWaHmV-xDxdFy" = "There are ${count} options matching ‘5 minutes’.";
+"KWaHmV-xDxdFy" = "Є ${count} варіантів, що співпадають з ‘5 хвилин’.";
 
-"KWaHmV-xLSa62" = "There are ${count} options matching ‘1 minute’.";
+"KWaHmV-xLSa62" = "Є ${count} варіантів, що співпадають з ‘1 хвилина’.";
 
-"KWaHmV-zQ6Jw8" = "There are ${count} options matching ‘30 seconds’.";
+"KWaHmV-zQ6Jw8" = "Є ${count} варіантів, що співпадають з ‘30 секунд’.";
 
-"LeRij8" = "What instance to display?";
+"LeRij8" = "Який пристрій відображати?";
 
-"LfwXuE-8Udkqh" = "There are ${count} options matching ‘All’.";
+"LfwXuE-8Udkqh" = "Є ${count} варіантів, що співпадають з ‘Всі’.";
 
-"LfwXuE-DIItEm" = "There are ${count} options matching ‘Allowed’.";
+"LfwXuE-DIItEm" = "Є ${count} варіантів, що співпадають з ‘Дозволені’.";
 
-"LfwXuE-j5tl6I" = "There are ${count} options matching ‘Blocked’.";
+"LfwXuE-j5tl6I" = "Є ${count} варіантів, що співпадають з ‘Заблоковані’.";
 
 "LldBql" = "WidgetQueries";
 
-"MNziAp" = "Duration 2";
+"MNziAp" = "Тривалість 2";
 
-"NYeFKn" = "Blocklist";
+"NYeFKn" = "Список блокування";
 
-"NznF5w" = "Duration 3";
+"NznF5w" = "Тривалість 3";
 
-"OYA8gF" = "Widget Tap Action";
+"OYA8gF" = "Дія при тапі на віджет";
 
-"OsIXJN" = "Blue";
+"OsIXJN" = "Синій";
 
-"QfsqZh" = "Stats Text Widget";
+"QfsqZh" = "Текстовий віджет Статистики";
 
-"RCLzIe-42Koi6" = "Just to confirm, you wanted ‘System (Pure Black)’?";
+"RCLzIe-42Koi6" = "Просто щоб підтвердити, ви хотіли ‘Системна (Чисто чорна)’?";
 
-"RCLzIe-Ey6npg" = "Just to confirm, you wanted ‘Light’?";
+"RCLzIe-Ey6npg" = "Просто щоб підтвердити, ви хотіли ‘Світла’?";
 
-"RCLzIe-VEO3IS" = "Just to confirm, you wanted ‘System’?";
+"RCLzIe-VEO3IS" = "Просто щоб підтвердити, ви хотіли ‘Системна’?";
 
-"RCLzIe-YW3QEp" = "Just to confirm, you wanted ‘Dark (Pure Black)’?";
+"RCLzIe-YW3QEp" = "Просто щоб підтвердити, ви хотіли ‘Темна (Чисто чорна)’?";
 
-"RCLzIe-eHf5lH" = "Just to confirm, you wanted ‘Dark’?";
+"RCLzIe-eHf5lH" = "Просто щоб підтвердити, ви хотіли ‘Темна’?";
 
-"RLFPVX" = "Disable Widget";
+"RLFPVX" = "Вимкнути Віджет";
 
-"SIOS6E" = "Unknown";
+"SIOS6E" = "Невідоме";
 
-"T9gWpc-BILqn3" = "There are ${count} options matching ‘Percent Blocked’.";
+"T9gWpc-BILqn3" = "Є ${count} варіантів, що співпадають з ‘Відсоток заблокованих’.";
 
-"T9gWpc-NYeFKn" = "There are ${count} options matching ‘Blocklist’.";
+"T9gWpc-NYeFKn" = "Є ${count} варіантів, що співпадають з ‘Список блокування’.";
 
-"T9gWpc-XmVw2S" = "There are ${count} options matching ‘Total Queries’.";
+"T9gWpc-XmVw2S" = "Є ${count} варіантів, що співпадають з ‘Всього запитів’.";
 
-"T9gWpc-YFrrAR" = "There are ${count} options matching ‘Queries Blocked’.";
+"T9gWpc-YFrrAR" = "Є ${count} варіантів, що співпадають з ‘Заблоковані запити’.";
 
-"T9gWpc-nIDolD" = "There are ${count} options matching ‘Unknown’.";
+"T9gWpc-nIDolD" = "Є ${count} варіантів, що співпадають з ‘Невідоме’.";
 
-"UVDY6A-Ixk02y" = "There are ${count} options matching ‘Open Statistics’.";
+"UVDY6A-Ixk02y" = "Є ${count} варіантів, що співпадають з ‘Відкрити Статистику’.";
 
-"UVDY6A-ZwOZTZ" = "There are ${count} options matching ‘Open Query Log’.";
+"UVDY6A-ZwOZTZ" = "Є ${count} варіантів, що співпадають з ‘Відкрити Журнал запитів’.";
 
-"UVDY6A-awUBTf" = "There are ${count} options matching ‘Open Home’.";
+"UVDY6A-awUBTf" = "Є ${count} варіантів, що співпадають з ‘Відкрити Дім’.";
 
-"UVDY6A-nqHRwh" = "There are ${count} options matching ‘Open Lists’.";
+"UVDY6A-nqHRwh" = "Є ${count} варіантів, що співпадають з ‘Відкрити Списки’.";
 
-"UVDY6A-wMJOmd" = "There are ${count} options matching ‘Disable all for 1 minute’.";
+"UVDY6A-wMJOmd" = "Є ${count} варіантів, що співпадають з ‘Вимкнути всі на 1 хвилину’.";
 
-"UkA3eM-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
+"UkA3eM-IgP3Na" = "Є ${count} варіантів, що співпадають з ‘1 година’.";
 
-"UkA3eM-VLERQ1" = "There are ${count} options matching ‘15 minutes’.";
+"UkA3eM-VLERQ1" = "Є ${count} варіантів, що співпадають з ‘15 хвилин’.";
 
-"UkA3eM-XwHq84" = "There are ${count} options matching ‘24 hours’.";
+"UkA3eM-XwHq84" = "Є ${count} варіантів, що співпадають з ‘24 години’.";
 
-"UkA3eM-YT1Pew" = "There are ${count} options matching ‘8 hours’.";
+"UkA3eM-YT1Pew" = "Є ${count} варіантів, що співпадають з ‘8 годин’.";
 
-"UkA3eM-uqnZUq" = "There are ${count} options matching ‘30 minutes’.";
+"UkA3eM-uqnZUq" = "Є ${count} варіантів, що співпадають з ‘30 хвилин’.";
 
-"UkA3eM-xDxdFy" = "There are ${count} options matching ‘5 minutes’.";
+"UkA3eM-xDxdFy" = "Є ${count} варіантів, що співпадають з ‘5 хвилин’.";
 
-"UkA3eM-xLSa62" = "There are ${count} options matching ‘1 minute’.";
+"UkA3eM-xLSa62" = "Є ${count} варіантів, що співпадають з ‘1 хвилина’.";
 
-"UkA3eM-zQ6Jw8" = "There are ${count} options matching ‘30 seconds’.";
+"UkA3eM-zQ6Jw8" = "Є ${count} варіантів, що співпадають з ‘30 секунд’.";
 
-"VEO3IS" = "System";
+"VEO3IS" = "Системна";
 
-"VLERQ1" = "15 minutes";
+"VLERQ1" = "15 хвилин";
 
-"W4Ek1o-42Koi6" = "Just to confirm, you wanted ‘System (Pure Black)’?";
+"W4Ek1o-42Koi6" = "Просто щоб підтвердити, ви хотіли ‘Системна (Чисто чорна)’?";
 
-"W4Ek1o-Ey6npg" = "Just to confirm, you wanted ‘Light’?";
+"W4Ek1o-Ey6npg" = "Просто щоб підтвердити, ви хотіли ‘Світла’?";
 
-"W4Ek1o-VEO3IS" = "Just to confirm, you wanted ‘System’?";
+"W4Ek1o-VEO3IS" = "Просто щоб підтвердити, ви хотіли ‘Системна’?";
 
-"W4Ek1o-YW3QEp" = "Just to confirm, you wanted ‘Dark (Pure Black)’?";
+"W4Ek1o-YW3QEp" = "Просто щоб підтвердити, ви хотіли ‘Темна (Чисто чорна)’?";
 
-"W4Ek1o-eHf5lH" = "Just to confirm, you wanted ‘Dark’?";
+"W4Ek1o-eHf5lH" = "Просто щоб підтвердити, ви хотіли ‘Темна’?";
 
-"WMGmup" = "Status Indicator";
+"WMGmup" = "Індикатор статусу";
 
-"XmVw2S" = "Total Queries";
+"XmVw2S" = "Всього запитів";
 
-"XwHq84" = "24 hours";
+"XwHq84" = "24 години";
 
-"YFrrAR" = "Queries Blocked";
+"YFrrAR" = "Заблоковані запити";
 
-"YT1Pew" = "8 hours";
+"YT1Pew" = "8 годин";
 
-"YW3QEp" = "Dark (Pure Black)";
+"YW3QEp" = "Темна (Чисто чорна)";
 
-"Yx18vE" = "Statistic";
+"Yx18vE" = "Статистика";
 
-"ZvdWTD" = "Tap Action";
+"ZvdWTD" = "Дія при тапі";
 
-"ZwOZTZ" = "Open Query Log";
+"ZwOZTZ" = "Відкрити Журнал запитів";
 
-"a81Lx9" = "Statistics Disable Widget";
+"a81Lx9" = "Віджет Вимкнути статистику";
 
-"alorX8-42Koi6" = "Just to confirm, you wanted ‘System (Pure Black)’?";
+"alorX8-42Koi6" = "Просто щоб підтвердити, ви хотіли ‘Системна (Чисто чорна)’?";
 
-"alorX8-Ey6npg" = "Just to confirm, you wanted ‘Light’?";
+"alorX8-Ey6npg" = "Просто щоб підтвердити, ви хотіли ‘Світла’?";
 
-"alorX8-VEO3IS" = "Just to confirm, you wanted ‘System’?";
+"alorX8-VEO3IS" = "Просто щоб підтвердити, ви хотіли ‘Системна’?";
 
-"alorX8-YW3QEp" = "Just to confirm, you wanted ‘Dark (Pure Black)’?";
+"alorX8-YW3QEp" = "Просто щоб підтвердити, ви хотіли ‘Темна (Чисто чорна)’?";
 
-"alorX8-eHf5lH" = "Just to confirm, you wanted ‘Dark’?";
+"alorX8-eHf5lH" = "Просто щоб підтвердити, ви хотіли ‘Темна’?";
 
-"awUBTf" = "Open Home";
+"awUBTf" = "Відкрити Дім";
 
-"cDT0lC-IgP3Na" = "Just to confirm, you wanted ‘1 hour’?";
+"cDT0lC-IgP3Na" = "Просто щоб підтвердити, ви хотіли ‘1 година’?";
 
-"cDT0lC-VLERQ1" = "Just to confirm, you wanted ‘15 minutes’?";
+"cDT0lC-VLERQ1" = "Просто щоб підтвердити, ви хотіли ‘15 хвилин’?";
 
-"cDT0lC-XwHq84" = "Just to confirm, you wanted ‘24 hours’?";
+"cDT0lC-XwHq84" = "Просто щоб підтвердити, ви хотіли ‘24 години’?";
 
-"cDT0lC-YT1Pew" = "Just to confirm, you wanted ‘8 hours’?";
+"cDT0lC-YT1Pew" = "Просто щоб підтвердити, ви хотіли ‘8 годин’?";
 
-"cDT0lC-uqnZUq" = "Just to confirm, you wanted ‘30 minutes’?";
+"cDT0lC-uqnZUq" = "Просто щоб підтвердити, ви хотіли ‘30 хвилин’?";
 
-"cDT0lC-xDxdFy" = "Just to confirm, you wanted ‘5 minutes’?";
+"cDT0lC-xDxdFy" = "Просто щоб підтвердити, ви хотіли ‘5 хвилин’?";
 
-"cDT0lC-xLSa62" = "Just to confirm, you wanted ‘1 minute’?";
+"cDT0lC-xLSa62" = "Просто щоб підтвердити, ви хотіли ‘1 хвилина’?";
 
-"cDT0lC-zQ6Jw8" = "Just to confirm, you wanted ‘30 seconds’?";
+"cDT0lC-zQ6Jw8" = "Просто щоб підтвердити, ви хотіли ‘30 секунд’?";
 
-"ceTqFH-Ixk02y" = "Just to confirm, you wanted ‘Open Statistics’?";
+"ceTqFH-Ixk02y" = "Просто щоб підтвердити, ви хотіли ‘Відкрити Статистику’?";
 
-"ceTqFH-ZwOZTZ" = "Just to confirm, you wanted ‘Open Query Log’?";
+"ceTqFH-ZwOZTZ" = "Просто щоб підтвердити, ви хотіли ‘Відкрити Журнал запитів’?";
 
-"ceTqFH-awUBTf" = "Just to confirm, you wanted ‘Open Home’?";
+"ceTqFH-awUBTf" = "Просто щоб підтвердити, ви хотіли ‘Відкрити Дім’?";
 
-"ceTqFH-nqHRwh" = "Just to confirm, you wanted ‘Open Lists’?";
+"ceTqFH-nqHRwh" = "Просто щоб підтвердити, ви хотіли ‘Відкрити Списки’?";
 
-"ceTqFH-wMJOmd" = "Just to confirm, you wanted ‘Disable all for 1 minute’?";
+"ceTqFH-wMJOmd" = "Просто щоб підтвердити, ви хотіли ‘Вимкнути всі на 1 хвилину’?";
 
-"eHf5lH" = "Dark";
+"eHf5lH" = "Темна";
 
-"fcvHtM-Ixk02y" = "There are ${count} options matching ‘Open Statistics’.";
+"fcvHtM-Ixk02y" = "Є ${count} варіантів, що співпадають з ‘Відкрити Статистику’.";
 
-"fcvHtM-ZwOZTZ" = "There are ${count} options matching ‘Open Query Log’.";
+"fcvHtM-ZwOZTZ" = "Є ${count} варіантів, що співпадають з ‘Відкрити Журнал запитів’.";
 
-"fcvHtM-awUBTf" = "There are ${count} options matching ‘Open Home’.";
+"fcvHtM-awUBTf" = "Є ${count} варіантів, що співпадають з ‘Відкрити Дім’.";
 
-"fcvHtM-nqHRwh" = "There are ${count} options matching ‘Open Lists’.";
+"fcvHtM-nqHRwh" = "Є ${count} варіантів, що співпадають з ‘Відкрити Списки’.";
 
-"fcvHtM-wMJOmd" = "There are ${count} options matching ‘Disable all for 1 minute’.";
+"fcvHtM-wMJOmd" = "Є ${count} варіантів, що співпадають з ‘Вимкнути всі на 1 хвилину’.";
 
-"fjMa4e" = "Query Graph Widget";
+"fjMa4e" = "Віджет Графік запитів";
 
-"fmQi7V" = "Disable Widget";
+"fmQi7V" = "Вимкнути віджет";
 
-"fohyUc" = "Statistics Disable Widget";
+"fohyUc" = "Віджет Вимкнути статистику";
 
-"gf75h8" = "Status Indicator";
+"gf75h8" = "Індикатор статусу";
 
-"gpCwrM" = "Stat Widget";
+"gpCwrM" = "Віджет Статистика";
 
-"hY8wJZ-Ixk02y" = "Just to confirm, you wanted ‘Open Statistics’?";
+"hY8wJZ-Ixk02y" = "Просто щоб підтвердити, ви хотіли ‘Відкрити Статистику’?";
 
-"hY8wJZ-ZwOZTZ" = "Just to confirm, you wanted ‘Open Query Log’?";
+"hY8wJZ-ZwOZTZ" = "Просто щоб підтвердити, ви хотіли ‘Відкрити Журнал запитів’?";
 
-"hY8wJZ-awUBTf" = "Just to confirm, you wanted ‘Open Home’?";
+"hY8wJZ-awUBTf" = "Просто щоб підтвердити, ви хотіли ‘Відкрити Дім’?";
 
-"hY8wJZ-nqHRwh" = "Just to confirm, you wanted ‘Open Lists’?";
+"hY8wJZ-nqHRwh" = "Просто щоб підтвердити, ви хотіли ‘Відкрити Списки’?";
 
-"hY8wJZ-wMJOmd" = "Just to confirm, you wanted ‘Disable all for 1 minute’?";
+"hY8wJZ-wMJOmd" = "Просто щоб підтвердити, ви хотіли ‘Вимкнути всі на 1 хвилину’?";
 
-"j5tl6I" = "Blocked";
+"j5tl6I" = "Заблоковані";
 
-"jiDiIB" = "What instance to display?";
+"jiDiIB" = "Який пристрій відображати?";
 
-"jwB6hP" = "Overtime Widget";
+"jwB6hP" = "Віджет Овертайм";
 
-"kH9rkk-DvY8Eg" = "Just to confirm, you wanted ‘Green’?";
+"kH9rkk-DvY8Eg" = "Просто щоб підтвердити, ви хотіли ‘Зелений’?";
 
-"kH9rkk-Hb868n" = "Just to confirm, you wanted ‘Orange’?";
+"kH9rkk-Hb868n" = "Просто щоб підтвердити, ви хотіли ‘Помаранчевий’?";
 
-"kH9rkk-OsIXJN" = "Just to confirm, you wanted ‘Blue’?";
+"kH9rkk-OsIXJN" = "Просто щоб підтвердити, ви хотіли ‘Синій’?";
 
-"kH9rkk-SIOS6E" = "Just to confirm, you wanted ‘Unknown’?";
+"kH9rkk-SIOS6E" = "Просто щоб підтвердити, ви хотіли ‘Невідоме’?";
 
-"kH9rkk-m60OS4" = "Just to confirm, you wanted ‘Red’?";
+"kH9rkk-m60OS4" = "Просто щоб підтвердити, ви хотіли ‘Червоний’?";
 
-"kgyNHm-8Udkqh" = "Just to confirm, you wanted ‘All’?";
+"kgyNHm-8Udkqh" = "Просто щоб підтвердити, ви хотіли ‘Всі’?";
 
-"kgyNHm-DIItEm" = "Just to confirm, you wanted ‘Allowed’?";
+"kgyNHm-DIItEm" = "Просто щоб підтвердити, ви хотіли ‘Дозволені’?";
 
-"kgyNHm-j5tl6I" = "Just to confirm, you wanted ‘Blocked’?";
+"kgyNHm-j5tl6I" = "Просто щоб підтвердити, ви хотіли ‘Заблоковані’?";
 
-"lug6ns" = "Statistics Widget";
+"lug6ns" = "Віджет Статистики";
 
-"m60OS4" = "Red";
+"m60OS4" = "Червоний";
 
-"mP5CWX-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
+"mP5CWX-IgP3Na" = "Є ${count} варіантів, що співпадають з ‘1 година’.";
 
-"mP5CWX-VLERQ1" = "There are ${count} options matching ‘15 minutes’.";
+"mP5CWX-VLERQ1" = "Є ${count} варіантів, що співпадають з ‘15 хвилин’.";
 
-"mP5CWX-XwHq84" = "There are ${count} options matching ‘24 hours’.";
+"mP5CWX-XwHq84" = "Є ${count} варіантів, що співпадають з ‘24 години’.";
 
-"mP5CWX-YT1Pew" = "There are ${count} options matching ‘8 hours’.";
+"mP5CWX-YT1Pew" = "Є ${count} варіантів, що співпадають з ‘8 годин’.";
 
-"mP5CWX-uqnZUq" = "There are ${count} options matching ‘30 minutes’.";
+"mP5CWX-uqnZUq" = "Є ${count} варіантів, що співпадають з ‘30 хвилин’.";
 
-"mP5CWX-xDxdFy" = "There are ${count} options matching ‘5 minutes’.";
+"mP5CWX-xDxdFy" = "Є ${count} варіантів, що співпадають з ‘5 хвилин’.";
 
-"mP5CWX-xLSa62" = "There are ${count} options matching ‘1 minute’.";
+"mP5CWX-xLSa62" = "Є ${count} варіантів, що співпадають з ‘1 хвилина’.";
 
-"mP5CWX-zQ6Jw8" = "There are ${count} options matching ‘30 seconds’.";
+"mP5CWX-zQ6Jw8" = "Є ${count} варіантів, що співпадають з ‘30 секунд’.";
 
-"nBNqPC" = "Statistic";
+"nBNqPC" = "Статистика";
 
-"nIDolD" = "Unknown";
+"nIDolD" = "Невідоме";
 
-"nqHRwh" = "Open Lists";
+"nqHRwh" = "Відкрити Списки";
 
-"oYBSfl-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
+"oYBSfl-IgP3Na" = "Є ${count} варіантів, що співпадають з ‘1 година’.";
 
-"oYBSfl-VLERQ1" = "There are ${count} options matching ‘15 minutes’.";
+"oYBSfl-VLERQ1" = "Є ${count} варіантів, що співпадають з ‘15 хвилин’.";
 
-"oYBSfl-XwHq84" = "There are ${count} options matching ‘24 hours’.";
+"oYBSfl-XwHq84" = "Є ${count} варіантів, що співпадають з ‘24 години’.";
 
-"oYBSfl-YT1Pew" = "There are ${count} options matching ‘8 hours’.";
+"oYBSfl-YT1Pew" = "Є ${count} варіантів, що співпадають з ‘8 годин’.";
 
-"oYBSfl-uqnZUq" = "There are ${count} options matching ‘30 minutes’.";
+"oYBSfl-uqnZUq" = "Є ${count} варіантів, що співпадають з ‘30 хвилин’.";
 
-"oYBSfl-xDxdFy" = "There are ${count} options matching ‘5 minutes’.";
+"oYBSfl-xDxdFy" = "Є ${count} варіантів, що співпадають з ‘5 хвилин’.";
 
-"oYBSfl-xLSa62" = "There are ${count} options matching ‘1 minute’.";
+"oYBSfl-xLSa62" = "Є ${count} варіантів, що співпадають з ‘1 хвилина’.";
 
-"oYBSfl-zQ6Jw8" = "There are ${count} options matching ‘30 seconds’.";
+"oYBSfl-zQ6Jw8" = "Є ${count} варіантів, що співпадають з ‘30 секунд’.";
 
-"s0H1c8-IgP3Na" = "Just to confirm, you wanted ‘1 hour’?";
+"s0H1c8-IgP3Na" = "Просто щоб підтвердити, ви хотіли ‘1 година’?";
 
-"s0H1c8-VLERQ1" = "Just to confirm, you wanted ‘15 minutes’?";
+"s0H1c8-VLERQ1" = "Просто щоб підтвердити, ви хотіли ‘15 хвилин’?";
 
-"s0H1c8-XwHq84" = "Just to confirm, you wanted ‘24 hours’?";
+"s0H1c8-XwHq84" = "Просто щоб підтвердити, ви хотіли ‘24 години’?";
 
-"s0H1c8-YT1Pew" = "Just to confirm, you wanted ‘8 hours’?";
+"s0H1c8-YT1Pew" = "Просто щоб підтвердити, ви хотіли ‘8 годин’?";
 
-"s0H1c8-uqnZUq" = "Just to confirm, you wanted ‘30 minutes’?";
+"s0H1c8-uqnZUq" = "Просто щоб підтвердити, ви хотіли ‘30 хвилин’?";
 
-"s0H1c8-xDxdFy" = "Just to confirm, you wanted ‘5 minutes’?";
+"s0H1c8-xDxdFy" = "Просто щоб підтвердити, ви хотіли ‘5 хвилин’?";
 
-"s0H1c8-xLSa62" = "Just to confirm, you wanted ‘1 minute’?";
+"s0H1c8-xLSa62" = "Просто щоб підтвердити, ви хотіли ‘1 хвилина’?";
 
-"s0H1c8-zQ6Jw8" = "Just to confirm, you wanted ‘30 seconds’?";
+"s0H1c8-zQ6Jw8" = "Просто щоб підтвердити, ви хотіли ‘30 секунд’?";
 
-"sRVlCC" = "Tap Action";
+"sRVlCC" = "Дія при тапі";
 
-"tVvJ9c" = "Single Statistic Widget";
+"tVvJ9c" = "Одиничний Віджет статистики";
 
-"uqnZUq" = "30 minutes";
+"uqnZUq" = "30 хвилин";
 
-"vTQMcK-DvY8Eg" = "There are ${count} options matching ‘Green’.";
+"vTQMcK-DvY8Eg" = "Є ${count} варіантів, що співпадають з ‘Зелений’.";
 
-"vTQMcK-Hb868n" = "There are ${count} options matching ‘Orange’.";
+"vTQMcK-Hb868n" = "Є ${count} варіантів, що співпадають з ‘Помаранчевий’.";
 
-"vTQMcK-OsIXJN" = "There are ${count} options matching ‘Blue’.";
+"vTQMcK-OsIXJN" = "Є ${count} варіантів, що співпадають з ‘Синій’.";
 
-"vTQMcK-SIOS6E" = "There are ${count} options matching ‘Unknown’.";
+"vTQMcK-SIOS6E" = "Є ${count} варіантів, що співпадають з ‘Невідоме’.";
 
-"vTQMcK-m60OS4" = "There are ${count} options matching ‘Red’.";
+"vTQMcK-m60OS4" = "Є ${count} варіантів, що співпадають з ‘Червоний’.";
 
-"vfUdD2-42Koi6" = "There are ${count} options matching ‘System (Pure Black)’.";
+"vfUdD2-42Koi6" = "Є ${count} варіантів, що співпадають з ‘Системна (Чисто чорна)’.";
 
-"vfUdD2-Ey6npg" = "There are ${count} options matching ‘Light’.";
+"vfUdD2-Ey6npg" = "Є ${count} варіантів, що співпадають з ‘Світла’.";
 
-"vfUdD2-VEO3IS" = "There are ${count} options matching ‘System’.";
+"vfUdD2-VEO3IS" = "Є ${count} варіантів, що співпадають з ‘Системна’.";
 
-"vfUdD2-YW3QEp" = "There are ${count} options matching ‘Dark (Pure Black)’.";
+"vfUdD2-YW3QEp" = "Є ${count} варіантів, що співпадають з ‘Темна (Чисто чорна)’.";
 
-"vfUdD2-eHf5lH" = "There are ${count} options matching ‘Dark’.";
+"vfUdD2-eHf5lH" = "Є ${count} варіантів, що співпадають з ‘Темна’.";
 
-"vnH3Ih-IgP3Na" = "Just to confirm, you wanted ‘1 hour’?";
+"vnH3Ih-IgP3Na" = "Просто щоб підтвердити, ви хотіли ‘1 година’?";
 
-"vnH3Ih-VLERQ1" = "Just to confirm, you wanted ‘15 minutes’?";
+"vnH3Ih-VLERQ1" = "Просто щоб підтвердити, ви хотіли ‘15 хвилин’?";
 
-"vnH3Ih-XwHq84" = "Just to confirm, you wanted ‘24 hours’?";
+"vnH3Ih-XwHq84" = "Просто щоб підтвердити, ви хотіли ‘24 години’?";
 
-"vnH3Ih-YT1Pew" = "Just to confirm, you wanted ‘8 hours’?";
+"vnH3Ih-YT1Pew" = "Просто щоб підтвердити, ви хотіли ‘8 годин’?";
 
-"vnH3Ih-uqnZUq" = "Just to confirm, you wanted ‘30 minutes’?";
+"vnH3Ih-uqnZUq" = "Просто щоб підтвердити, ви хотіли ‘30 хвилин’?";
 
-"vnH3Ih-xDxdFy" = "Just to confirm, you wanted ‘5 minutes’?";
+"vnH3Ih-xDxdFy" = "Просто щоб підтвердити, ви хотіли ‘5 хвилин’?";
 
-"vnH3Ih-xLSa62" = "Just to confirm, you wanted ‘1 minute’?";
+"vnH3Ih-xLSa62" = "Просто щоб підтвердити, ви хотіли ‘1 хвилина’?";
 
-"vnH3Ih-zQ6Jw8" = "Just to confirm, you wanted ‘30 seconds’?";
+"vnH3Ih-zQ6Jw8" = "Просто щоб підтвердити, ви хотіли ‘30 секунд’?";
 
-"wMJOmd" = "Disable all for 1 minute";
+"wMJOmd" = "Вимкнути всі на 1 хвилину";
 
-"xDxdFy" = "5 minutes";
+"xDxdFy" = "5 хвилин";
 
-"xKogH3-42Koi6" = "There are ${count} options matching ‘System (Pure Black)’.";
+"xKogH3-42Koi6" = "Є ${count} варіантів, що співпадають з ‘Системна (Чисто чорна)’.";
 
-"xKogH3-Ey6npg" = "There are ${count} options matching ‘Light’.";
+"xKogH3-Ey6npg" = "Є ${count} варіантів, що співпадають з ‘Світла’.";
 
-"xKogH3-VEO3IS" = "There are ${count} options matching ‘System’.";
+"xKogH3-VEO3IS" = "Є ${count} варіантів, що співпадають з ‘Системна’.";
 
-"xKogH3-YW3QEp" = "There are ${count} options matching ‘Dark (Pure Black)’.";
+"xKogH3-YW3QEp" = "Є ${count} варіантів, що співпадають з ‘Темна (Чисто чорна)’.";
 
-"xKogH3-eHf5lH" = "There are ${count} options matching ‘Dark’.";
+"xKogH3-eHf5lH" = "Є ${count} варіантів, що співпадають з ‘Темна’.";
 
-"xLSa62" = "1 minute";
+"xLSa62" = "1 хвилина";
 
-"y9py1R-BILqn3" = "Just to confirm, you wanted ‘Percent Blocked’?";
+"y9py1R-BILqn3" = "Просто щоб підтвердити, ви хотіли ‘Відсоток заблокованих’?";
 
-"y9py1R-NYeFKn" = "Just to confirm, you wanted ‘Blocklist’?";
+"y9py1R-NYeFKn" = "Просто щоб підтвердити, ви хотіли ‘Список блокування’?";
 
-"y9py1R-XmVw2S" = "Just to confirm, you wanted ‘Total Queries’?";
+"y9py1R-XmVw2S" = "Просто щоб підтвердити, ви хотіли ‘Всього запитів’?";
 
-"y9py1R-YFrrAR" = "Just to confirm, you wanted ‘Queries Blocked’?";
+"y9py1R-YFrrAR" = "Просто щоб підтвердити, ви хотіли ‘Заблоковані запити’?";
 
-"y9py1R-nIDolD" = "Just to confirm, you wanted ‘Unknown’?";
+"y9py1R-nIDolD" = "Просто щоб підтвердити, ви хотіли ‘Невідоме’?";
 
-"zQ6Jw8" = "30 seconds";
+"zQ6Jw8" = "30 секунд";
 
-"zeqXsg" = "Instance";
+"zeqXsg" = "Пристрій";
