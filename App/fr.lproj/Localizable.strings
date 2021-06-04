@@ -9,7 +9,7 @@
 // MARK: - TabView
 "tab_home" = "Accueil";
 "tab_statistics" = "Statistiques";
-"tab_querylog" = "Journaux des requêtes";
+"tab_querylog" = "Logs des Requêtes";
 "tab_lists" = "Listes";
 "tab_settings" = "Réglages";
 
@@ -18,7 +18,7 @@
 "home_total_queries" = "Toutes les Requêtes";
 "home_queries_blocked" = "Requêtes Bloquées";
 "home_percent_blocked" = "Pourcentage de Requêtes Bloquées";
-"home_blocklist" = "Liste de Blocage";
+"home_blocklist" = "Liste Noire";
 "home_refreshing_dots" = "Mise à jour des Données...";
 "home_no_response" = "Pas de Réponse";
 "home_not_responding" = "Pas de Réponse";
@@ -72,9 +72,9 @@
 "statistics_segments_10min" = "Par tranches de 10min";
 "statistics_loading_graph" = "Chargement du graphique...";
 "statistics_now" = "maintenant";
-"statistics_top_allowed" = "Top Autorisées";
+"statistics_top_allowed" = "Top Autorisé";
 "statistics_top_allowed_navbar" = "Domaines autorisés";
-"statistics_top_blocked" = "Top Bloquées";
+"statistics_top_blocked" = "Top Bloqué";
 "statistics_top_blocked_navbar" = "Domaines bloqués";
 "statistics_top_clients" = "Top Clients";
 "statistics_top_clients_navbar" = "Clients";
@@ -108,7 +108,7 @@
 "graphs_query_types" = "Types de Requêtes";
 
 // MARK: - QueryLog-tab
-"querylog_navbar" = "Journaux de requêtes";
+"querylog_navbar" = "Logs des Requêtes";
 "querylog_filter" = "Filtrer";
 "querylog_filtered" = "Filtré";
 "querylog_sidebar_explainer" = "Sélectionner une requête sur la gauche pour voir les détails.";
@@ -165,18 +165,18 @@
 "querylog_detail_id_blocking_regex" = "Identifiant du Regex de blocage";
 
 // MARK: QueryLog LiveLog
-"livelog" = "Journal en Direct";
-"livelog_navbar" = "Journal en Direct";
+"livelog" = "Logs en Direct";
+"livelog_navbar" = "Logs en Direct";
 "livelog_noqueriesfoundyet" = "Aucune requête trouvée pour le moment...";
 
 // MARK: - Lists-tab
 "lists_navbar" = "Listes";
 "lists_entry" = "Entrée";
 "lists_list" = "Liste";
-"lists_blacklist" = "Liste noire";
-"lists_blacklist_regex" = "Liste noire (Regex)";
-"lists_whitelist" = "Liste blanche";
-"lists_whitelist_regex" = "Liste blanche (Regex)";
+"lists_blacklist" = "Liste Noire";
+"lists_blacklist_regex" = "Liste Noire (Regex)";
+"lists_whitelist" = "Liste Blanche";
+"lists_whitelist_regex" = "Liste Nlanche (Regex)";
 "lists_domain" = "Domaine";
 "lists_domains" = "Domaines";
 "lists_regex" = "RegEx";
@@ -213,20 +213,20 @@
 "lists_bulk_settings" = "Réglages";
 "lists_bulk_settings_footer" = "Ces réglages s'appliquent à toutes les nouvelles entrées.";
 "lists_bulk_domains_or_regex" = "Domaines ou RegEx";
-"lists_bulk_add_as_wildcards" = "Add All as Wildcards";
-"lists_bulk_new_entries_%lld" = "New Entries (%lld)";
-"lists_bulk_new_entries_footer" = "Multiple entries can also be added by pasting a list separated with a newline, space, or comma.";
-"lists_bulk_start" = "Start Adding Entries";
-"lists_bulk_add_another_entry" = "Add Another Entry";
-"lists_bulk_add_list_entries" = "Add List Entries";
-"lists_bulk_add_list_entries_alert_%lld_%@" = "This action will attempt to add %lld entries to your %@. Adding many entries at once may fail after a while, but I'll give an option to retry the failed entries.\n\nAre you sure you want to start adding the entries? Please keep this screen open during the process!";
-"lists_bulk_add_list_entries_start_adding" = "Start Adding Entries";
-"lists_bulk_adding_entries" = "Adding entries...";
-"lists_bulk_adding_entries_%lld_%lld" = "Adding Entries (%lld/%lld)";
-"lists_bulk_completion_log" = "Completion Log";
-"lists_bulk_keep_screen_open" = "Please keep this screen open during the process!";
-"lists_bulk_move_failed" = "Move Failed to 'New Entries' again";
-"lists_bulk_done_added_%lld" = "Done! Added %lld entries.";
+"lists_bulk_add_as_wildcards" = "Tout ajouter en tant que Wildcards";
+"lists_bulk_new_entries_%lld" = "Nouvelle Entrée (%lld)";
+"lists_bulk_new_entries_footer" = "De multiple entrées peuvent aussi être ajouter en copiant une liste avec une séparation par un retour à la ligne, un espace ou une virgule.";
+"lists_bulk_start" = "Commencer à ajouter des entrées";
+"lists_bulk_add_another_entry" = "Ajouter une autre entrée";
+"lists_bulk_add_list_entries" = "Ajouter une liste d'entrée";
+"lists_bulk_add_list_entries_alert_%lld_%@" = "Cette action tentera d'ajouter %lld entrées à %@. Ajouter plusieurs entrées peut parfois tomber en échec, mais il y a une option pour retenter les entrées en échec.\n\nÊtes-vous sûr(e) de vouloir ajouter les entrées? Merci de garder cette fenêtre ouverte pendant l'ajout !";
+"lists_bulk_add_list_entries_start_adding" = "Commencer à ajouter des entrées";
+"lists_bulk_adding_entries" = "Ajout des entrées...";
+"lists_bulk_adding_entries_%lld_%lld" = "Ajout des entrées (%lld/%lld)";
+"lists_bulk_completion_log" = "Registre d'achèvement";
+"lists_bulk_keep_screen_open" = "Merci de garder cette fenêtre ouverte pendant l'ajout !";
+"lists_bulk_move_failed" = "Ajouter les entrées en échec dans les 'Nouvelles Entrées' à nouveau";
+"lists_bulk_done_added_%lld" = "Fait ! %lld entrées ajoutées.";
 
 // MARK: Sync Lists
 "lists_sync_navbar" = "Synchroniser les Instances";
@@ -256,10 +256,10 @@
 "lists_export_separator_point" = "Point .";
 "lists_export_separator_colon" = "Deux points :";
 "lists_export_separator_tab" = "Tabulation";
-"lists_export_blacklist" = "Liste noire";
-"lists_export_blacklist_regex" = "Liste noire Regex";
-"lists_export_whitelist" = "Liste blanche";
-"lists_export_whitelist_regex" = "Liste blanche Regex";
+"lists_export_blacklist" = "Liste Boire";
+"lists_export_blacklist_regex" = "Liste Noire Regex";
+"lists_export_whitelist" = "Liste Blanche";
+"lists_export_whitelist_regex" = "Liste Blanche Regex";
 "lists_export_successful" = "Exporté avec Succès";
 "lists_export_successful_copied_%@" = "%@ entrées ont été copiées dans votre presse-papier.";
 
@@ -302,7 +302,7 @@
 "instance_display_name_placeholder" = "Pi-hole";
 "instance_ip_or_hostname" = "Adresse IP ou nom d'hôte";
 "instance_ip_or_hostname_placeholder" = "raspberrypi";
-"instance_ssl_explainer" = "Utiliser http (par défaut) ou https?";
+"instance_ssl_explainer" = "Utiliser http (par défaut) ou https ?";
 "instance_ssl_http" = "http (par défaut)";
 "instance_ssl_https" = "https";
 "instance_port" = "Port";
@@ -354,17 +354,17 @@
 "preferences_statistics_other" = "Autre";
 "preferences_statistics_other_footer" = "Afficher la version du Pi-hole, de l'API, et les informations du cache DNS.";
 "preferences_statistics_show_other" = "Afficher les autres informations";
-"preferences_statistics_hidden_domains" = "Hidden domains";
-"preferences_statistics_hidedomains_header" = "Hide Domains";
-"preferences_statistics_hidedomains_footer" = "Hide certain domains in statistics.";
-"preferences_statistics_hidedomains_list_navbar" = "Hide Domains";
-"preferences_statistics_hidedomains_list_footer" = "These (parts of) domains will be hidden from 'Top' lists. They will still be included in statistics in the Home-tab and will still appear in the Query Log.";
-"preferences_statistics_hidedomains_list_none" = "None. You can add entries in the top right!";
-"preferences_statistics_hidedomains_new_placeholder" = "Enter (part of) a domain";
-"preferences_statistics_hidedomains_new_picker" = "Matching Condition";
-"preferences_statistics_hidedomains_new_picker_exactly" = "Exactly";
-"preferences_statistics_hidedomains_new_picker_contains" = "Contains";
-"preferences_statistics_hidedomains_new_navbar" = "Hide Domain";
+"preferences_statistics_hidden_domains" = "Domaines masqués";
+"preferences_statistics_hidedomains_header" = "Masquer les Domaines";
+"preferences_statistics_hidedomains_footer" = "Masquer certains domaines dans les statistiques.";
+"preferences_statistics_hidedomains_list_navbar" = "Masquer les Domaines";
+"preferences_statistics_hidedomains_list_footer" = "Ces (parties de) domaines seront masqués de la 'Top' listes. Ils seront toujours inclus dans les statistiques sur l'accueil et seront toujours présent dans les Logs de Requêtes.";
+"preferences_statistics_hidedomains_list_none" = "Aucun. Vous pouvez ajouter des entrées en haut à droite !";
+"preferences_statistics_hidedomains_new_placeholder" = "Entrer (une partie) un domaine";
+"preferences_statistics_hidedomains_new_picker" = "Condition de correspondance";
+"preferences_statistics_hidedomains_new_picker_exactly" = "Exactement";
+"preferences_statistics_hidedomains_new_picker_contains" = "Contient";
+"preferences_statistics_hidedomains_new_navbar" = "Masquer un domaine";
 "preferences_lists_navbar" = "Listes";
 "preferences_lists_display" = "Affichage";
 "preferences_lists_sort_by" = "Trier les Listes par";
@@ -388,9 +388,9 @@
 "design_tint_red" = "Rouge";
 "design_icon" = "Icône de l'App";
 "design_icon_pihole" = "Pi-hole Remote";
-"design_icon_pihole_dark" = "Pi-hole Remote Dark";
+"design_icon_pihole_dark" = "Pi-hole Remote Sombre";
 "design_icon_classic" = "Classic";
-"design_icon_classic_dark" = "Classic Dark";
+"design_icon_classic_dark" = "Classic Sombre";
 "design_theme" = "Thème";
 "design_system" = "Système";
 "design_light_mode" = "Mode clair";
@@ -440,10 +440,10 @@
 "rocketscience_hi_subtitle" = "En June 2020 j'ai commencé à créer mes propres applications en tant développeur indépendant, sous le nom de 'RocketScience IT'.\n\nMon but premier est d'apprendre: design, developpement, tests, assistance, promotion - peut-être même plus! A l'heure actuelle, j'ai deux apps dans le store pour lesquelles j'effectue constamment des améliorations et j'ai plein d'idées pour d'autres apps que je pourrais créer à l'avenir.";
 "rocketscience_website" = "Site web";
 "rocketscience_twitter" = "Twitter";
-"rocketscience_tipjar" = "Tip Jar";
+"rocketscience_tipjar" = "Pourboires";
 "rocketscience_tipjar_thankyou" = "Merci !";
 "rocketscience_my_other_apps" = "Mes autres apps";
-"rocketscience_adguardhomeremote_subtitle" = "C'est comme Pi-hole Remote, mais pour AdGuard Home!";
+"rocketscience_adguardhomeremote_subtitle" = "C'est comme Pi-hole Remote, mais pour AdGuard Home !";
 "rocketscience_acknoledgements" = "Mentions spéciales";
 
 // MARK: - Disable Durations
@@ -475,7 +475,7 @@
 "view_queries_to_domain" = "Voir les requêtes pour le domaine";
 "view_queries_from_client" = "Voir les requêtes depuis le client";
 "visit_domain" = "Visiter Domaine";
-"statistics_hide_domain" = "Hide Domain from Statistics";
+"statistics_hide_domain" = "Masquer un domaine dans les Statistiques";
 
 // MARK: Miscellaneous
 "instances" = "Instances";
@@ -483,17 +483,17 @@
 "all_instances" = "Toutes les Instances";
 "all" = "Toutes les instances";
 "choose_instance" = "Choisir l'Instance";
-"show_instance" = "Afficher l'instance:";
+"show_instance" = "Afficher l'instance :";
 "add_pihole" = "Ajouter un Pi-hole";
 "loading_dots" = "Chargement...";
 "something_went_wrong" = "Quelque chose s'est mal passé.";
-"please_check_api_token" = "Veuillez vérifier vos paramètres de jeton d'API (API Token) et de niveau de confidentialité..";
+"please_check_api_token" = "Veuillez vérifier vos paramètres de jeton d'API (API Token) et de niveau de confidentialité.";
 "could_not_get_data" = "Impossible d'obtenir des données.";
 "no_queries_found" = "Aucune requête trouvée.";
 "search" = "Search";
 "refresh" = "Recherche";
 "done" = "Terminé";
-"new" = "New";
+"new" = "Nouveau";
 "dismiss" = "Annuler";
 "ok" = "OK";
 "save" = "Sauvegarder";
@@ -509,7 +509,7 @@
 // MARK: - watchOS Specific
 "watchos_home_queries" = "Requêtes";
 "watchos_home_blocked" = "Bloquées";
-"watchos_home_blocklist" = "Liste noire";
+"watchos_home_blocklist" = "Liste Noire";
 "watchos_home_navbar" = "Pi-hole";
 "watchos_home_both" = "Les deux";
 "watchos_home_disable" = "Désactiver";
