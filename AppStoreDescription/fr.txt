@@ -27,7 +27,7 @@ Fonctions pour iPhone, iPad et macOS :
 - Prise en charge de SSL, des proxys inversés et des niveaux de confidentialité alternatifs.
 - Widgets (iOS 14 et macOS 11)
 - Raccourcis Siri et actions rapides
-- Extension de partage pour une mise en liste blanche/blacklisting rapide
+- Extension de partage pour une mise en liste blanche/noire rapide
 - Prise en charge de VoiceOver
 - Mode sombre, jeux de couleurs personnalisés, icônes d'applications alternatives
 - Conception optimisée pour iPadOS et macOS
@@ -35,25 +35,25 @@ Fonctions pour iPhone, iPad et macOS :
 
 Fonctions Apple Watch :
 - Affichage des statistiques de base
-- Désactiver le blocage des trous d'air
+- Désactiver le blocage de Pi-hole
 - Complications
 
 Caractéristiques de l'Apple TV :
 - Afficher les statistiques de base
-- Désactiver le blocage des trous d'homme
-- Exiger un code d'accès sur Désactiver
+- Désactiver le blocage de Pi-hole
+- Exiger un code d'accès pour désactiver
 
 Statistiques :
 - Total des requêtes
 - Requêtes/Pourcentage bloqué
-- Liste de blocage + Gravité Dernière mise à jour
+- Liste de blocage + dernière mise à jour de Gravity
 - Température et utilisation de la mémoire
 - Graphique des requêtes en temps supplémentaire
 - Domaines les plus autorisés
 - Top des domaines bloqués
 - Top des clients
 - Domaines uniques/clients
-- Clients jamais vus
+- Total des clients vus
 - Requêtes par domaine/client
 - Types de requêtes
 - Version de Pi-hole
