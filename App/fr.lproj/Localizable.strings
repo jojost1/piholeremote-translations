@@ -72,9 +72,9 @@
 "statistics_segments_10min" = "Par tranches de 10min";
 "statistics_loading_graph" = "Chargement du graphique...";
 "statistics_now" = "maintenant";
-"statistics_%@_h_ago" = "%@h ago";
-"statistics_%@_hours_ago" = "%@ heures ago";
-"statistics_queries_six_hours" = "Queries (6h)";
+"statistics_%@_h_ago" = "il y %@h";
+"statistics_%@_hours_ago" = "il y a %@ heures";
+"statistics_queries_six_hours" = "Requêtes (6h)";
 "statistics_top_allowed" = "Top Autorisé";
 "statistics_top_allowed_navbar" = "Domaines autorisés";
 "statistics_top_blocked" = "Top Bloqué";
@@ -130,11 +130,11 @@
 "querylog_status_retried" = "Réessayé";
 "querylog_status_retried_dnssec" = "Réessayé (DNSSEC)";
 "querylog_status_already_forwarded" = "Déjà Transféré";
-"querylog_min" = "Min:";
-"querylog_max" = "Max:";
-"querylog_avg" = "Moy:";
-"querylog_type" = "Type:";
-"querylog_reply" = "Réponse:";
+"querylog_min" = "Min :";
+"querylog_max" = "Max :";
+"querylog_avg" = "Moy :";
+"querylog_type" = "Type :";
+"querylog_reply" = "Réponse :";
 
 // MARK: QueryLog Filter
 "querylog_filter_number_of_queries" = "Nombre de Requêtes";
@@ -176,10 +176,10 @@
 "lists_navbar" = "Listes";
 "lists_entry" = "Entrée";
 "lists_list" = "Liste";
-"lists_blacklist" = "Liste Noire";
-"lists_blacklist_regex" = "Liste Noire (Regex)";
-"lists_whitelist" = "Liste Blanche";
-"lists_whitelist_regex" = "Liste Nlanche (Regex)";
+"lists_blacklist" = "Liste noire";
+"lists_blacklist_regex" = "Liste noire (Regex)";
+"lists_whitelist" = "Liste blanche";
+"lists_whitelist_regex" = "Liste blanche (Regex)";
 "lists_domain" = "Domaine";
 "lists_domains" = "Domaines";
 "lists_regex" = "RegEx";
@@ -259,10 +259,10 @@
 "lists_export_separator_point" = "Point .";
 "lists_export_separator_colon" = "Deux points :";
 "lists_export_separator_tab" = "Tabulation";
-"lists_export_blacklist" = "Liste Boire";
-"lists_export_blacklist_regex" = "Liste Noire Regex";
-"lists_export_whitelist" = "Liste Blanche";
-"lists_export_whitelist_regex" = "Liste Blanche Regex";
+"lists_export_blacklist" = "Liste noire";
+"lists_export_blacklist_regex" = "Liste noire Regex";
+"lists_export_whitelist" = "Liste blanche";
+"lists_export_whitelist_regex" = "Liste blanche Regex";
 "lists_export_successful" = "Exporté avec Succès";
 "lists_export_successful_copied_%@" = "%@ entrées ont été copiées dans votre presse-papier.";
 
@@ -463,7 +463,7 @@
 "8_hours" = "8 heures";
 "24_hours" = "24 heures";
 "until_turned_on" = "Jusqu'à réactivation";
-"indefinitely" = "Indefinitely";
+"indefinitely" = "Indéfiniment";
 "custom" = "Personnalisé";
 "custom_dots" = "Personnalisé...";
 
@@ -511,20 +511,20 @@
 
 // MARK: - Widgets
 "total" = "Total";
-"blocked" = "Blocked";
-"entries" = "Entries";
-"queries" = "Queries";
-"blocklist" = "Blocklist";
-"widget_statistic" = "Statistic";
-"widget_statistic_description" = "Keep an eye on one statistic.";
-"widget_statistics" = "Statistics";
-"widget_statistics_description" = "Keep an eye on all your statistics.";
-"widget_statistics_and_disable" = "Statistics & Disable";
-"widget_statistics_and_disable_description" = "Statistics with customizable buttons to quickly disable blocking.";
-"widget_querygraph" = "Query Graph";
-"widget_querygraph_description" = "Check in on your queries over time.";
-"widget_disable" = "Disable";
-"widget_disable_description" = "Quickly disable blocking with customizable buttons.";
+"blocked" = "Bloqué";
+"entries" = "Entrées";
+"queries" = "Requêtes";
+"blocklist" = "Liste noire";
+"widget_statistic" = "Statistique";
+"widget_statistic_description" = "Garder un oeil sur une statistique.";
+"widget_statistics" = "Statistiques";
+"widget_statistics_description" = "Garder un oeil sur toutes les statistiques.";
+"widget_statistics_and_disable" = "Statistiques & Désactivation";
+"widget_statistics_and_disable_description" = "Statistiques avec des boutons personnalisés pour désactiver rapidement le blocage.";
+"widget_querygraph" = "Graphe de requêtes";
+"widget_querygraph_description" = "Vérifier les requêtes dans le temps.";
+"widget_disable" = "Désactiver";
+"widget_disable_description" = "Désactiver rapidement le blocage avec des boutons personnalisés.";
 
 // MARK: - watchOS Specific
 "watchos_home_queries" = "Requêtes";
