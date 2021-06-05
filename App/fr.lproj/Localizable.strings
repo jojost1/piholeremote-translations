@@ -434,9 +434,9 @@
 "changelog_just_updated" = "Dernière mise à jour !";
 "changelog_current_version" = "Actuellement";
 "changelog_continue" = "Continuez";
-"changelog_settings" = "Paramètres du journal de modification'";
-"changelog_settings_show" = "Afficher après une mise à jour sur l'accueil";
-"changelog_settings_show_footer" = "Le journal des modifications ne sera affiché que pour les mises à jour des fonctionnalités, et non pour les mises à jour qui ne contiennent que des corrections de bugs.";
+"changelog_settings" = "Paramètres des notes de version'";
+"changelog_settings_show" = "Afficher sur l'accueil après une mise à jour";
+"changelog_settings_show_footer" = "Les notes de version ne seront affichées que pour les mises à jour des fonctionnalités, et non pour les mises à jour qui ne contiennent que des corrections de bugs.";
 
 // MARK: Made by RocketScience
 "rocketscience_hi_title" = "Salut, je suis Joost !";
