@@ -69,12 +69,12 @@
 // MARK: - Statistics-tab
 "statistics_navbar" = "Статистика";
 "statistics_queries" = "Запити";
-"statistics_segments_10min" = "Сегменти по 10хв";
+"statistics_segments_10min" = "Сегменти по 10 хв.";
 "statistics_loading_graph" = "Графік завантажуєтся...";
 "statistics_now" = "зараз";
-"statistics_%@_h_ago" = "%@h ago";
-"statistics_%@_hours_ago" = "%@ годин ago";
-"statistics_queries_six_hours" = "Запити (6h)";
+"statistics_%@_h_ago" = "%@ год. тому";
+"statistics_%@_hours_ago" = "%@ годин тому";
+"statistics_queries_six_hours" = "Запити (6 год.)";
 "statistics_top_allowed" = "Топ дозволених";
 "statistics_top_allowed_navbar" = "Дозволені домени";
 "statistics_top_blocked" = "Топ заблокованих";
