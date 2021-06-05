@@ -72,6 +72,9 @@
 "statistics_segments_10min" = "Τμήματα των 10 λεπτών";
 "statistics_loading_graph" = "Φόρτωση γραφήματος...";
 "statistics_now" = "τώρα";
+"statistics_%@_h_ago" = "%@h ago";
+"statistics_%@_hours_ago" = "%@ ώρες ago";
+"statistics_queries_six_hours" = "Queries (6h)";
 "statistics_top_allowed" = "Κορυφαία επιτρεπόμενα";
 "statistics_top_allowed_navbar" = "Επιτρεπόμενα domains";
 "statistics_top_blocked" = "Κορυφαία αποκλεισμένα";

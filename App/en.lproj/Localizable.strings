@@ -72,6 +72,9 @@
 "statistics_segments_10min" = "Segments of 10min";
 "statistics_loading_graph" = "Loading Graph...";
 "statistics_now" = "now";
+"statistics_%@_h_ago" = "%@h ago";
+"statistics_%@_hours_ago" = "%@ hours ago";
+"statistics_queries_six_hours" = "Queries (6h)";
 "statistics_top_allowed" = "Top Allowed";
 "statistics_top_allowed_navbar" = "Allowed Domains";
 "statistics_top_blocked" = "Top Blocked";
