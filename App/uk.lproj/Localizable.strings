@@ -7,7 +7,7 @@
 */
 
 // MARK: - TabView
-"tab_home" = "Домашня сторінка";
+"tab_home" = "Основне";
 "tab_statistics" = "Статистика";
 "tab_querylog" = "Журнал запитів";
 "tab_lists" = "Списки";
@@ -274,10 +274,10 @@
 "settings_manage_third" = "Керувати третім Pi-hole";
 "settings_add_fourth" = "Додати четвертий Pi-hole";
 "settings_manage_fourth" = "Керувати четвертим Pi-hole";
-"settings_combine_in_home" = "Комбінувати на Домашній сторінці";
+"settings_combine_in_home" = "Комбінувати на вкладці Основне";
 "settings_preferences" = "Уподобання";
 "settings_support_development" = "Підтримати розробку";
-"settings_home" = "Домашня сторінка";
+"settings_home" = "Основне";
 "settings_statistics" = "Статистика";
 "settings_lists" = "Списки";
 "settings_design" = "Дизайн";
@@ -324,7 +324,7 @@
 "instance_remove_alert_body" = "Ви впевнені, що хочете видалити цей пристрій?";
 
 // MARK: Preferences
-"preferences_home_navbar" = "Домашня сторінка";
+"preferences_home_navbar" = "Основне";
 "preferences_home_display" = "Відображення";
 "preferences_home_check_for_updates" = "Перевіряти оновлення";
 "preferences_home_data_from_label" = "Позначка 'Дані від'";
@@ -336,7 +336,7 @@
 "preferences_home_notifications_footer" = "Відправлятиме саовіщення, коли блокування знову увімкнеться (після вимкнення блокування).";
 "preferences_home_blocking_enabled" = "Блокування ввімкнено";
 "preferences_home_refresh" = "Оновлення";
-"preferences_home_refresh_footer" = "Оновлюватиметься автоматично кожні 10 секунд, коли Домашня сторінка відкрита і застосунок на передньому плані.";
+"preferences_home_refresh_footer" = "Оновлюватиметься автоматично кожні 10 секунд, коли вкладка Основне відкрита і застосунок на передньому плані.";
 "preferences_home_auto_refresh" = "Автоматичне оновлення";
 "preferences_statistics_navbar" = "Статистика";
 "preferences_statistics_graphs" = "Графіки";
@@ -358,7 +358,7 @@
 "preferences_statistics_hidedomains_header" = "Приховати домени";
 "preferences_statistics_hidedomains_footer" = "Приховати певні домени у статистиці.";
 "preferences_statistics_hidedomains_list_navbar" = "Приховати домени";
-"preferences_statistics_hidedomains_list_footer" = "Ці домени (їх частини) будуть приховані з ‘Топ’ списків. Вони все ще будуть включені до статистики на Домашній сторінці та відображатимуться у Журналі запитів.";
+"preferences_statistics_hidedomains_list_footer" = "Ці домени (їх частини) будуть приховані з ‘Топ’ списків. Вони все ще будуть включені до статистики на вкладці Основне та відображатимуться у Журналі запитів.";
 "preferences_statistics_hidedomains_list_none" = "Нема. Додати записи можна справа зверху!";
 "preferences_statistics_hidedomains_new_placeholder" = "Введть домен (його частину)";
 "preferences_statistics_hidedomains_new_picker" = "Умова збігу";
