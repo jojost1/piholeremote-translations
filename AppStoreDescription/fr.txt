@@ -35,25 +35,25 @@ Fonctions pour iPhone, iPad et macOS :
 
 Fonctions Apple Watch :
 - Affichage des statistiques de base
-- Désactiver le blocage des trous d'air
+- Désactiver le blocage de Pi-hole
 - Complications
 
 Caractéristiques de l'Apple TV :
 - Afficher les statistiques de base
-- Désactiver le blocage des trous d'homme
+- Désactiver le blocage de Pi-hole
 - Exiger un code d'accès sur Désactiver
 
 Statistiques :
 - Total des requêtes
 - Requêtes/Pourcentage bloqué
-- Liste de blocage + Gravité Dernière mise à jour
+- Liste de blocage + Gravité dernière mise à jour
 - Température et utilisation de la mémoire
 - Graphique des requêtes en temps supplémentaire
 - Domaines les plus autorisés
 - Top des domaines bloqués
 - Top des clients
 - Domaines uniques/clients
-- Clients jamais vus
+- Total des clients vus
 - Requêtes par domaine/client
 - Types de requêtes
 - Version de Pi-hole
