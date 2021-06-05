@@ -190,10 +190,10 @@
 "lists_alphabetically" = "За алфавітом";
 "lists_date" = "За датою";
 "lists_add_entry" = "Додати запис";
-"lists_add_entries_bulk" = "Додати записи (Гуртом)";
+"lists_add_entries_bulk" = "Додати записи (гуртом)";
 "lists_export_lists" = "Експортувати списки";
 "lists_remove_from_list" = "Видалити зі списків";
-"lists_no_entries_found" = "Зписів не знайдено.";
+"lists_no_entries_found" = "Записів не знайдено.";
 "lists_no_entries_found_subtitle" = "У вашому списку нема записів.\n\nЯкщо ви очікуєте записи тут: версія вашого Pi-hole v5.1 чи вище?";
 
 // MARK: Add Entry
@@ -482,14 +482,14 @@
 "instances_colon" = "Пристрої:";
 "all_instances" = "Всі пристрої";
 "all" = "Всі";
-"choose_instance" = "Люеріть пристрій";
+"choose_instance" = "Оберіть пристрій";
 "show_instance" = "Показувати пристрій:";
 "add_pihole" = "Додати Pi-hole";
 "loading_dots" = "Завантаження...";
 "something_went_wrong" = "Щось пішло не так.";
 "please_check_api_token" = "Будь ласка, перевірте свій API токен та налаштування рівня приватності.";
 "could_not_get_data" = "Не вдалося отримати дані.";
-"no_queries_found" = "Запитів не знайдено.";
+"no_queries_found" = "Запити не знайдено.";
 "search" = "Пошук";
 "refresh" = "Оновити";
 "done" = "Готово";
@@ -507,21 +507,21 @@
 "dots" = "...";
 
 // MARK: - Widgets
-"total" = "Total";
-"blocked" = "Blocked";
-"entries" = "Entries";
-"queries" = "Queries";
-"blocklist" = "Blocklist";
-"widget_statistic" = "Statistic";
-"widget_statistic_description" = "Keep an eye on one statistic.";
-"widget_statistics" = "Statistics";
-"widget_statistics_description" = "Keep an eye on all your statistics.";
-"widget_statistics_and_disable" = "Statistics & Disable";
-"widget_statistics_and_disable_description" = "Statistics with customizable buttons to quickly disable blocking.";
-"widget_querygraph" = "Query Graph";
-"widget_querygraph_description" = "Check in on your queries over time.";
-"widget_disable" = "Disable";
-"widget_disable_description" = "Quickly disable blocking with customizable buttons.";
+"total" = "Всього";
+"blocked" = "Заблоковані";
+"entries" = "Записи";
+"queries" = "Запити";
+"blocklist" = "Список блокування";
+"widget_statistic" = "Статистика";
+"widget_statistic_description" = "Слідкуйте за статистикою однієї категорії.";
+"widget_statistics" = "Статистика";
+"widget_statistics_description" = "Слідкуйте за статистикою всіх категорій.";
+"widget_statistics_and_disable" = "Статистика та Вимкнення";
+"widget_statistics_and_disable_description" = "Статистика з гнучким налаштуванням кнопок для швидкого відключення блокування.";
+"widget_querygraph" = "Графік запитів";
+"widget_querygraph_description" = "Перевіряйте ваші запити за певний проміжок часу.";
+"widget_disable" = "Вимкнення";
+"widget_disable_description" = "Швидко вимикайте блокування за допомогою кнопок з гнучким налаштуванням.";
 
 // MARK: - watchOS Specific
 "watchos_home_queries" = "Запити";
