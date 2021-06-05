@@ -35,7 +35,7 @@
 "home_enable_%@_disabled_until_%@" = "Activer (%@Désactivé jusqu'à %@)";
 "home_data_from_%@" = "Données de %@";
 "home_update_gravity" = "Mise à jour de Gravity";
-"home_update_gravity_explainer" = "Aller sur /admin/gravity pour quelle instance ?";
+"home_update_gravity_explainer" = "Aller sur '/admin/gravity' pour quelle instance ?";
 "home_update_gravity_alert_body_%@" = "Gravity a été mis à jour pour la dernière fois le %@";
 "home_update_gravity_alert_button" = "Mise à jour de Gravity (Interface Web)";
 "home_update_available" = "Mise à jour disponible !";
@@ -44,8 +44,8 @@
 // MARK: Usage Metrics
 "usage_metrics_navbar" = "Métriques d'usage";
 "usage_metrics_temperature" = "Température";
-"usage_metrics_cpu" = "CPU";
-"usage_metrics_cpu_usage" = "Usage CPU";
+"usage_metrics_cpu" = "Processeur";
+"usage_metrics_cpu_usage" = "Usage du processeur";
 "usage_metrics_cpu_core" = "1 coeur";
 "usage_metrics_cpu_cores_%lld" = "%lld coeurs";
 "usage_metrics_cpu_1min" = "Dernière minute";
@@ -53,7 +53,7 @@
 "usage_metrics_cpu_15min" = "Dernières 15 minutes";
 "usage_metrics_cpu_usage_alert" = "Ces pourcentages représentent l'utilisation moyenne de la charge CPU dans les dernières minutes.\n\nEn règle générale, 70% de charge CPU est considéré comme une utilisation saine. Si vous êtes de manière constante au dessus des 70%, vous devriez considérer une augmentation des ressources.";
 "usage_metrics_memory" = "Mémoire";
-"usage_metrics_data_from_%@" = "\nDonnées de: %@";
+"usage_metrics_data_from_%@" = "\nDonnées de : %@";
 "usage_metrics_error" = "Erreur pendant la récupération des données.";
 
 // MARK: Custom Disable
@@ -168,8 +168,8 @@
 "querylog_detail_id_blocking_regex" = "Identifiant du Regex de blocage";
 
 // MARK: QueryLog LiveLog
-"livelog" = "Logs en direct";
-"livelog_navbar" = "Logs en direct";
+"livelog" = "Journal des requêtes en direct";
+"livelog_navbar" = "Journal des requêtes en direct";
 "livelog_noqueriesfoundyet" = "Aucune requête trouvée pour le moment...";
 
 // MARK: - Lists-tab
@@ -185,15 +185,15 @@
 "lists_regex" = "RegEx";
 "lists_regular_expression" = "Expression régulière";
 "lists_added_%@" = "Ajouté %@";
-"lists_added_%@_modified_%@" = "Ajouté %@ (Modified %@)";
+"lists_added_%@_modified_%@" = "Ajouté le %@ (Modifié le %@)";
 "lists_disabled" = "Désactivé";
 "lists_sync_instances" = "Synchronisation d'instances";
 "lists_sort" = "Trier";
 "lists_sorting_options" = "Options de tri";
 "lists_alphabetically" = "Alphabétique";
 "lists_date" = "Date";
-"lists_add_entry" = "Ajouter entrée";
-"lists_add_entries_bulk" = "Ajouter entrées (Multiples)";
+"lists_add_entry" = "Ajouter une entrée";
+"lists_add_entries_bulk" = "Ajouter des entrées";
 "lists_export_lists" = "Exporter les listes";
 "lists_remove_from_list" = "Retirer de la liste";
 "lists_no_entries_found" = "Aucune entrée trouvée.";
@@ -423,7 +423,7 @@
 "help_contact" = "Contactez Moi";
 "help_actions" = "Actions";
 "help_actions_icloud" = "Forcer la synchronisation iCloud";
-"help_actions_watch" = "Forcer la synchronisation avec la l'Apple Watch";
+"help_actions_watch" = "Forcer la synchronisation avec l'Apple Watch";
 "help_actions_widgets" = "Forcer la synchronisation des Widgets";
 "help_logs" = "Journaux";
 "help_logs_footer" = "Les journaux sont enregistrés localement et ne quittent jamais votre appareil. Glissez vers le bas pour quitter le moniteur de journaux.";
@@ -463,7 +463,7 @@
 "8_hours" = "8 heures";
 "24_hours" = "24 heures";
 "until_turned_on" = "Jusqu'à réactivation";
-"indefinitely" = "Indefinitely";
+"indefinitely" = "Indéfiniment";
 "custom" = "Personnalisé";
 "custom_dots" = "Personnalisé...";
 
@@ -493,8 +493,8 @@
 "please_check_api_token" = "Veuillez vérifier vos paramètres de jeton d'API (API Token) et de niveau de confidentialité.";
 "could_not_get_data" = "Impossible d'obtenir des données.";
 "no_queries_found" = "Aucune requête trouvée.";
-"search" = "Search";
-"refresh" = "Recherche";
+"search" = "Rechercher";
+"refresh" = "Actualiser";
 "done" = "Terminé";
 "new" = "Nouveau";
 "dismiss" = "Annuler";
@@ -511,18 +511,18 @@
 
 // MARK: - Widgets
 "total" = "Total";
-"blocked" = "Blocked";
+"blocked" = "Bloqué";
 "entries" = "Entrées";
 "queries" = "Requêtes";
 "blocklist" = "Listes de blocages";
 "widget_statistic" = "Statistiques";
-"widget_statistic_description" = "Keep an eye on one statistic.";
+"widget_statistic_description" = "Jetez un coup d'œil à une statistique.";
 "widget_statistics" = "Statistiques";
-"widget_statistics_description" = "Keep an eye on all your statistics.";
+"widget_statistics_description" = "Jetez un coup d'œil à toutes vos statistiques.";
 "widget_statistics_and_disable" = "Statistiques & désactiver";
 "widget_statistics_and_disable_description" = "Statistiques avec boutons customisés pour désactiver le blocage.";
 "widget_querygraph" = "Graphiques des requêtes";
-"widget_querygraph_description" = "Check in on your queries over time.";
+"widget_querygraph_description" = "Jetez un coup d'œil à vos requêtes sur une certaine période.";
 "widget_disable" = "Désactiver";
 "widget_disable_description" = "Désactiver rapidement avec boutons customisés.";
 
