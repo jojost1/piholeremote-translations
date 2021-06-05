@@ -72,9 +72,9 @@
 "statistics_segments_10min" = "Segmentos de 10min";
 "statistics_loading_graph" = "Cargando Gráfico...";
 "statistics_now" = "ahora";
-"statistics_%@_h_ago" = "%@h ago";
-"statistics_%@_hours_ago" = "%@ horas ago";
-"statistics_queries_six_hours" = "Queries (6h)";
+"statistics_%@_h_ago" = "hace %@h";
+"statistics_%@_hours_ago" = "hace %@ horas";
+"statistics_queries_six_hours" = "Consultas (6h)";
 "statistics_top_allowed" = "Top Permitidos";
 "statistics_top_allowed_navbar" = "Dominios Permitidos";
 "statistics_top_blocked" = "Top Bloqueados";
@@ -463,7 +463,7 @@
 "8_hours" = "8 horas";
 "24_hours" = "24 horas";
 "until_turned_on" = "Hasta que se Active";
-"indefinitely" = "Indefinidamente";
+"indefinitely" = "Indefinido";
 "custom" = "Personalizado";
 "custom_dots" = "Personalizado...";
 
@@ -510,21 +510,21 @@
 "dots" = "...";
 
 // MARK: - Widgets
-"total" = "Total";
-"blocked" = "Blocked";
-"entries" = "Entries";
-"queries" = "Queries";
-"blocklist" = "Blocklist";
-"widget_statistic" = "Statistic";
-"widget_statistic_description" = "Keep an eye on one statistic.";
-"widget_statistics" = "Statistics";
-"widget_statistics_description" = "Keep an eye on all your statistics.";
-"widget_statistics_and_disable" = "Statistics & Disable";
-"widget_statistics_and_disable_description" = "Statistics with customizable buttons to quickly disable blocking.";
-"widget_querygraph" = "Query Graph";
-"widget_querygraph_description" = "Check in on your queries over time.";
-"widget_disable" = "Disable";
-"widget_disable_description" = "Quickly disable blocking with customizable buttons.";
+"total" = "Totales";
+"blocked" = "Bloqueadas";
+"entries" = "Entradas";
+"queries" = "Consultas";
+"blocklist" = "Lista Bloqueo";
+"widget_statistic" = "Estadísticas";
+"widget_statistic_description" = "Monitoriza una estadística.";
+"widget_statistics" = "Estadísticas";
+"widget_statistics_description" = "Monitoriza todas las estadísticas.";
+"widget_statistics_and_disable" = "Estadísticas y Desactivar";
+"widget_statistics_and_disable_description" = "Estadísticas con botones personalizables para desactivar rápidamente el bloqueo.";
+"widget_querygraph" = "Gráfico de Consultas";
+"widget_querygraph_description" = "Monitorita las consultas en el tiempo.";
+"widget_disable" = "Desactivar";
+"widget_disable_description" = "Desactivar rápidamente el bloqueo con botones personalizados.";
 
 // MARK: - watchOS Specific
 "watchos_home_queries" = "Consultas";
