@@ -9,7 +9,7 @@
 // MARK: - TabView
 "tab_home" = "Accueil";
 "tab_statistics" = "Statistiques";
-"tab_querylog" = "Logs des requêtes";
+"tab_querylog" = "Journaux";
 "tab_lists" = "Listes";
 "tab_settings" = "Réglages";
 
@@ -17,7 +17,7 @@
 "home_navbar" = "Pi-hole Remote";
 "home_total_queries" = "Toutes les requêtes";
 "home_queries_blocked" = "Requêtes bloquées";
-"home_percent_blocked" = "Pourcentage de requêtes bloquées";
+"home_percent_blocked" = "Taux de blocage";
 "home_blocklist" = "Liste noire";
 "home_refreshing_dots" = "Mise à jour des données...";
 "home_no_response" = "Pas de réponse";
@@ -111,7 +111,7 @@
 "graphs_query_types" = "Types de requêtes";
 
 // MARK: - QueryLog-tab
-"querylog_navbar" = "Journal des requêtes";
+"querylog_navbar" = "Journal";
 "querylog_filter" = "Filtrer";
 "querylog_filtered" = "Filtré";
 "querylog_sidebar_explainer" = "Sélectionner une requête sur la gauche pour voir les détails.";
@@ -168,8 +168,8 @@
 "querylog_detail_id_blocking_regex" = "Identifiant du Regex de blocage";
 
 // MARK: QueryLog LiveLog
-"livelog" = "Journal des requêtes en direct";
-"livelog_navbar" = "Journal des requêtes en direct";
+"livelog" = "Requêtes en temps réel";
+"livelog_navbar" = "Requêtes en temps réel";
 "livelog_noqueriesfoundyet" = "Aucune requête trouvée pour le moment...";
 
 // MARK: - Lists-tab
@@ -361,7 +361,7 @@
 "preferences_statistics_hidedomains_header" = "Masquer les Domaines";
 "preferences_statistics_hidedomains_footer" = "Masquer certains domaines dans les statistiques.";
 "preferences_statistics_hidedomains_list_navbar" = "Masquer les Domaines";
-"preferences_statistics_hidedomains_list_footer" = "Ces (parties de) domaines seront masqués de la 'Top' listes. Ils seront toujours inclus dans les statistiques sur l'accueil et seront toujours présent dans les Logs de requêtes.";
+"preferences_statistics_hidedomains_list_footer" = "Ces (parties de) domaines seront masqués de la 'Top' listes. Ils seront toujours inclus dans les statistiques sur l'accueil et seront toujours présent dans les Journaux.";
 "preferences_statistics_hidedomains_list_none" = "Aucun. Vous pouvez ajouter des entrées en haut à droite !";
 "preferences_statistics_hidedomains_new_placeholder" = "Entrer (une partie) un domaine";
 "preferences_statistics_hidedomains_new_picker" = "Condition de correspondance";
