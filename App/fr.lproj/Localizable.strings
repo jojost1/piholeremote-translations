@@ -519,12 +519,12 @@
 "widget_statistic_description" = "Jetez un coup d'œil à une statistique.";
 "widget_statistics" = "Statistiques";
 "widget_statistics_description" = "Jetez un coup d'œil à toutes vos statistiques.";
-"widget_statistics_and_disable" = "Statistiques & désactiver";
+"widget_statistics_and_disable" = "Statistiques & désactivation";
 "widget_statistics_and_disable_description" = "Statistiques avec boutons personnalisés pour désactiver le blocage.";
 "widget_querygraph" = "Graphes des requêtes";
 "widget_querygraph_description" = "Jetez un coup d'œil à vos requêtes sur une certaine période.";
-"widget_disable" = "Désactiver";
-"widget_disable_description" = "Désactiver rapidement avec boutons customisés.";
+"widget_disable" = "Désactivation";
+"widget_disable_description" = "Désactiver rapidement avec boutons personnalisés.";
 
 // MARK: - watchOS Specific
 "watchos_home_queries" = "Requêtes";
