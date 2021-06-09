@@ -24,14 +24,14 @@
 "home_not_responding" = "Antwortet nicht";
 "home_disable" = "Deaktivieren";
 "home_disable_all" = "Alles deaktivieren";
-"home_disable_blocking" = "Disable Blocking";
-"home_disable_blocking_pihole" = "Disable Pi-hole Blocking";
-"home_disable_blocking_alert_%@" = "Für wie lange willst Du die Sperrung mit %@ deaktivieren?";
+"home_disable_blocking" = "Blockierung deaktivieren";
+"home_disable_blocking_pihole" = "Pi-hole Blockierung deaktivieren";
+"home_disable_blocking_alert_%@" = "Für wie lange willst Du die Blockierung mit %@ deaktivieren?";
 "home_enable" = "Aktivieren";
 "home_enable_all" = "Alles aktivieren";
-"home_enable_blocking" = "Sperrung aktivieren";
-"home_enable_blocking_pihole" = "Pi-hole Sperrung aktivieren";
-"home_enable_blocking_alert_%@" = "Bist du sicher, dass Du die Sperrung reaktivieren willst auf %@?";
+"home_enable_blocking" = "Blockierung aktivieren";
+"home_enable_blocking_pihole" = "Pi-hole Blockierung aktivieren";
+"home_enable_blocking_alert_%@" = "Bist du sicher, dass Du die Blockierung reaktivieren willst auf %@?";
 "home_enable_%@_disabled_until_%@" = "Aktivieren (%@deaktiviert bis %@)";
 "home_data_from_%@" = "Daten von %@";
 "home_update_gravity" = "Gravity Aktualisieren";
@@ -45,7 +45,7 @@
 "usage_metrics_navbar" = "Nutzungsmetriken";
 "usage_metrics_temperature" = "Temperatur";
 "usage_metrics_cpu" = "CPU";
-"usage_metrics_cpu_usage" = "CPU Auslastung";
+"usage_metrics_cpu_usage" = "CPU-Auslastung";
 "usage_metrics_cpu_core" = "1 Kern";
 "usage_metrics_cpu_cores_%lld" = "%lld Kerne";
 "usage_metrics_cpu_1min" = "Letzte Minute";
@@ -57,32 +57,32 @@
 "usage_metrics_error" = "Fehler beim Datenabruf.";
 
 // MARK: Custom Disable
-"disable_navbar" = "Disable Blocking";
-"disable_duration" = "Duration";
-"disable_duration_placeholder_%@" = "Duration in %@";
-"disable_until" = "Until";
-"disable_until_dots" = "Until...";
+"disable_navbar" = "Blockierung deaktivieren";
+"disable_duration" = "Dauer";
+"disable_duration_placeholder_%@" = "Dauer in %@";
+"disable_until" = "Bis";
+"disable_until_dots" = "Bis...";
 "disable_time_unit" = "Time Unit";
-"disable_notifications" = "Notifications";
-"disable_alert_on_blocking_enabled" = "Alert on Blocking Enabled";
+"disable_notifications" = "Benachrichtigungen";
+"disable_alert_on_blocking_enabled" = "Nachricht bei Reaktivierung";
 
 // MARK: - Statistics-tab
-"statistics_navbar" = "Statistics";
-"statistics_queries" = "Queries";
-"statistics_segments_10min" = "Segments of 10min";
-"statistics_loading_graph" = "Loading Graph...";
-"statistics_now" = "now";
-"statistics_%@_h_ago" = "%@h ago";
+"statistics_navbar" = "Statistiken";
+"statistics_queries" = "Abfragen";
+"statistics_segments_10min" = "10 Minuten Segmente";
+"statistics_loading_graph" = "Diagram wird geladen...";
+"statistics_now" = "jetzt";
+"statistics_%@_h_ago" = "%@h zuvor";
 "statistics_%@_hours_ago" = "%@ годин ago";
 "statistics_queries_six_hours" = "Запити (6h)";
-"statistics_top_allowed" = "Top Allowed";
-"statistics_top_allowed_navbar" = "Allowed Domains";
-"statistics_top_blocked" = "Top Blocked";
-"statistics_top_blocked_navbar" = "Blocked Domains";
-"statistics_top_clients" = "Top Clients";
-"statistics_top_clients_navbar" = "Clients";
-"statistics_unique_domains_%@" = "Unique Domains: %@";
-"statistics_unique_clients_%@" = "Unique Clients: %@";
+"statistics_top_allowed" = "Top erlaubte Anfragen";
+"statistics_top_allowed_navbar" = "Erlaubte Domains";
+"statistics_top_blocked" = "Top blockierte Anfragen";
+"statistics_top_blocked_navbar" = "Blockierte Domains";
+"statistics_top_clients" = "Top Netzwerkgeräte";
+"statistics_top_clients_navbar" = "Netzwerkgeräte";
+"statistics_unique_domains_%@" = "Eindeutige Domains: %@";
+"statistics_unique_clients_%@" = "Eindeutige Clients: %@";
 "statistics_unique_clients_ever_seen_%@" = "Clients Ever Seen: %@";
 "statistics_version" = "Version";
 "statistics_pihole" = "Pi-hole";
@@ -97,28 +97,28 @@
 "statistics_api_version" = "API Version";
 "statistics_api_version_colon" = "API Version:";
 "statistics_dns_cache" = "DNS Cache";
-"statistics_dns_cache_size" = "Cache Size:";
+"statistics_dns_cache_size" = "Cache Größe:";
 "statistics_dns_cache_evictions" = "Cache Evictions:";
 "statistics_dns_cache_inserted" = "Cache Inserted:";
 "statistics_github" = "Github";
-"statistics_update_explainer" = "You can update using command line interface with the command 'pihole -up'.";
+"statistics_update_explainer" = "Du kannst Updates über die Konsole mit dem Befehl 'pihole -up' durchführen.";
 "statistics_update_explainer_%@" = "You can update using command line interface with the command %@ .";
 
 // MARK: Graphs
-"graphs_navbar" = "Graphs";
-"graphs_allowed" = "Allowed";
-"graphs_blocked" = "Blocked";
-"graphs_query_types" = "Query Types";
+"graphs_navbar" = "Diagramme";
+"graphs_allowed" = "Erlaubt";
+"graphs_blocked" = "Blockiert";
+"graphs_query_types" = "Abfragen-Art";
 
 // MARK: - QueryLog-tab
-"querylog_navbar" = "Query Log";
+"querylog_navbar" = "Abfragen-Log";
 "querylog_filter" = "Filter";
-"querylog_filtered" = "Filtered";
-"querylog_sidebar_explainer" = "Select a query on the left to see details.";
-"querylog_status_unknown" = "Unknown";
+"querylog_filtered" = "Gefiltert";
+"querylog_sidebar_explainer" = "Wähle links eine Abfrage um Details zu sehen.";
+"querylog_status_unknown" = "Unbekannt";
 "querylog_status_gravity" = "Gravity";
 "querylog_status_upstream" = "Upstream Server";
-"querylog_status_local" = "Local Cache";
+"querylog_status_local" = "Lokaler Cache";
 "querylog_status_blacklist_regex" = "Regex Blacklist";
 "querylog_status_blacklist_regex_cname" = "Regex Blacklist (CNAME)";
 "querylog_status_blacklist_exact" = "Exact Blacklist";
@@ -132,31 +132,31 @@
 "querylog_status_already_forwarded" = "Already Forwarded";
 "querylog_min" = "Min:";
 "querylog_max" = "Max:";
-"querylog_avg" = "Avg:";
-"querylog_type" = "Type:";
-"querylog_reply" = "Reply:";
+"querylog_avg" = "Durschnitt:";
+"querylog_type" = "Typ:";
+"querylog_reply" = "Antwort:";
 
 // MARK: QueryLog Filter
-"querylog_filter_number_of_queries" = "Number of Queries";
-"querylog_filter_number_of_queries_footer" = "For every instance. Search may take longer when increasing the number of queries.";
+"querylog_filter_number_of_queries" = "Anzahl der Abfragen";
+"querylog_filter_number_of_queries_footer" = "Für jede Instanz. Die Suche kann länger dauern, wenn Sie die Anzahl der Abfragen erhöhen.";
 "querylog_filter_status" = "Status";
 "querylog_filter_status_all" = "All";
-"querylog_filter_status_allowed" = "Allowed";
-"querylog_filter_status_allowed_only" = "Allowed Only";
-"querylog_filter_status_blocked" = "Blocked";
-"querylog_filter_status_blocked_only" = "Blocked Only";
-"querylog_filter_sort" = "Sort";
-"querylog_filter_sort_new_old" = "New > Old";
-"querylog_filter_sort_old_new" = "Old > New";
-"querylog_filter_other" = "Other";
+"querylog_filter_status_allowed" = "Erlaubte";
+"querylog_filter_status_allowed_only" = "Nur Erlaubte";
+"querylog_filter_status_blocked" = "Blockierte";
+"querylog_filter_status_blocked_only" = "Nur Blockierte";
+"querylog_filter_sort" = "Sortieren";
+"querylog_filter_sort_new_old" = "Neu > Alt";
+"querylog_filter_sort_old_new" = "Alt > Neu";
+"querylog_filter_other" = "Sonstige";
 "querylog_filter_other_footer" = "Show query type, reply, and duration (ms).";
-"querylog_filter_show_detail" = "Show Detail";
-"querylog_filter_hide_detail" = "Hide Detail";
-"querylog_filter_preserve_filter_footer" = "Perserve filter options between app restarts.";
-"querylog_filter_save_filters" = "Save Filters";
+"querylog_filter_show_detail" = "Details zeigen";
+"querylog_filter_hide_detail" = "Details verbergen";
+"querylog_filter_preserve_filter_footer" = "Filteroptionen zwischen App-Neustarts beibehalten.";
+"querylog_filter_save_filters" = "Filters speichern";
 
 // MARK: QueryLog Detail
-"querylog_detail_navbar" = "Query";
+"querylog_detail_navbar" = "Anfragen";
 "querylog_detail_client" = "Client";
 "querylog_detail_request" = "Request";
 "querylog_detail_type" = "Type";
@@ -170,12 +170,12 @@
 // MARK: QueryLog LiveLog
 "livelog" = "Live Log";
 "livelog_navbar" = "Live Log";
-"livelog_noqueriesfoundyet" = "No queries found yet...";
+"livelog_noqueriesfoundyet" = "Bisher keine Anfragen gefunden...";
 
 // MARK: - Lists-tab
-"lists_navbar" = "Lists";
+"lists_navbar" = "Listen";
 "lists_entry" = "Entry";
-"lists_list" = "List";
+"lists_list" = "Liste";
 "lists_blacklist" = "Blacklist";
 "lists_blacklist_regex" = "Blacklist (Regex)";
 "lists_whitelist" = "Whitelist";
@@ -267,35 +267,35 @@
 "lists_export_successful_copied_%@" = "%@ entries were copied to your clipboard.";
 
 // MARK: - Settings-tab
-"settings_navbar" = "Settings";
-"settings_add_pihole" = "Add Pi-hole";
-"settings_add_primary" = "Add Primary Pi-hole";
-"settings_manage_primary" = "Manage Primary Pi-hole";
-"settings_add_secondary" = "Add Secondary Pi-hole";
-"settings_manage_secondary" = "Manage Secondary Pi-hole";
+"settings_navbar" = "Einstellungen";
+"settings_add_pihole" = "Pi-hole hinzufügen";
+"settings_add_primary" = "Primären Pi-hole hinzufügen";
+"settings_manage_primary" = "Primären Pi-hole verwalten";
+"settings_add_secondary" = "Sekundären Pi-hole hinzufügen";
+"settings_manage_secondary" = "Sekundären Pi-hole verwalten";
 "settings_add_third" = "Add Third Pi-hole";
 "settings_manage_third" = "Manage Third Pi-hole";
 "settings_add_fourth" = "Add Fourth Pi-hole";
 "settings_manage_fourth" = "Manage Fourth Pi-hole";
 "settings_combine_in_home" = "Combine in Home";
 "settings_preferences" = "Preferences";
-"settings_support_development" = "Support Development";
+"settings_support_development" = "Weiterentwicklung unterstützen";
 "settings_home" = "Home";
-"settings_statistics" = "Statistics";
-"settings_lists" = "Lists";
+"settings_statistics" = "Statistiken";
+"settings_lists" = "Listen";
 "settings_design" = "Design";
-"settings_other" = "Other";
-"settings_force_watch_sync" = "Force Apple Watch Sync";
-"settings_force_icloud_sync" = "Force iCloud Sync";
-"settings_whats_new" = "What's New";
-"settings_help" = "Help & Feedback";
-"settings_advanced" = "Advanced";
-"settings_twitter" = "Follow on Twitter";
-"settings_tipjar" = "Tip Jar";
-"settings_tipjar_thankyou" = "Thank you!";
-"settings_rate" = "Rate Pi-hole Remote";
-"settings_leave_review" = "Leave a Review";
-"settings_share" = "Share Pi-hole Remote";
+"settings_other" = "Sonstiges";
+"settings_force_watch_sync" = "Apple Watch-Synchronisierung erzwingen";
+"settings_force_icloud_sync" = "iCloud-Synchronisierung erzwingen";
+"settings_whats_new" = "Was ist neu";
+"settings_help" = "Hilfe & Feedback";
+"settings_advanced" = "Erweitert";
+"settings_twitter" = "Folge auf Twitter";
+"settings_tipjar" = "Trinkgeldglas";
+"settings_tipjar_thankyou" = "Vielen Dank!";
+"settings_rate" = "Pi-hole Bewerten";
+"settings_leave_review" = "Bewertung hinterlassen";
+"settings_share" = "Pi-hole Remote teilen";
 "settings_made_by_rocketscience" = "Made by RocketScience";
 
 // MARK: Edit Instance
@@ -367,17 +367,17 @@
 
 // MARK: Design
 "design_navbar" = "Design";
-"design_colorscheme" = "Color Scheme";
+"design_colorscheme" = "Farbschema";
 "design_tint" = "App Tint";
-"design_tint_blue" = "Blue";
+"design_tint_blue" = "Blau";
 "design_tint_indigo" = "Indigo";
-"design_tint_purple" = "Purple";
-"design_tint_teal" = "Teal";
-"design_tint_green" = "Green";
-"design_tint_yellow" = "Yellow";
+"design_tint_purple" = "Lila";
+"design_tint_teal" = "Türkis";
+"design_tint_green" = "Grün";
+"design_tint_yellow" = "Gelb";
 "design_tint_orange" = "Orange";
-"design_tint_pink" = "Pink";
-"design_tint_red" = "Red";
+"design_tint_pink" = "Rosa";
+"design_tint_red" = "Rot";
 "design_icon" = "App Icon";
 "design_icon_pihole" = "Pi-hole Remote";
 "design_icon_pihole_dark" = "Pi-hole Remote Dark";
@@ -439,22 +439,22 @@
 "rocketscience_acknoledgements" = "Special thanks to";
 
 // MARK: - Disable Durations
-"seconds" = "Seconds";
-"minutes" = "Minutes";
-"hours" = "Hours";
-"10_seconds" = "10 seconds";
-"30_seconds" = "30 seconds";
-"1_minute" = "1 minute";
-"5_minutes" = "5 minutes";
-"15_minutes" = "15 minutes";
-"30_minutes" = "30 minutes";
-"1_hour" = "1 hour";
-"8_hours" = "8 hours";
-"24_hours" = "24 hours";
-"until_turned_on" = "Until Turned On";
-"indefinitely" = "Indefinitely";
-"custom" = "Custom";
-"custom_dots" = "Custom...";
+"seconds" = "Sekunden";
+"minutes" = "Minuten";
+"hours" = "Stunden";
+"10_seconds" = "10 Sekunden";
+"30_seconds" = "30 Sekunden";
+"1_minute" = "1 Minuten";
+"5_minutes" = "5 Minuten";
+"15_minutes" = "15 Minuten";
+"30_minutes" = "30 Minuten";
+"1_hour" = "1 Stunden";
+"8_hours" = "8 Stunden";
+"24_hours" = "24 Stunden";
+"until_turned_on" = "Bis zum reaktivieren";
+"indefinitely" = "Unbegrenzt";
+"custom" = "Individuell";
+"custom_dots" = "Individuell...";
 
 // MARK: - Other
 
@@ -486,13 +486,13 @@
 "done" = "Done";
 "dismiss" = "Dismiss";
 "ok" = "OK";
-"save" = "Save";
-"apply" = "Apply";
-"cancel" = "Cancel";
-"edit" = "Edit";
-"remove" = "Remove";
-"off" = "Off";
-"on" = "On";
+"save" = "Speichern";
+"apply" = "Anwenden";
+"cancel" = "Abbrechen";
+"edit" = "Editieren";
+"remove" = "Entfernen";
+"off" = "Aus";
+"on" = "An";
 "ms" = "ms";
 "dots" = "...";
 
