@@ -72,6 +72,9 @@
 "statistics_segments_10min" = "Segmenti di 10min";
 "statistics_loading_graph" = "Caricando i grafici...";
 "statistics_now" = "ora";
+"statistics_%@_h_ago" = "%@h fa";
+"statistics_%@_hours_ago" = "%@ ore fa";
+"statistics_queries_six_hours" = "Richieste (6h)";
 "statistics_top_allowed" = "Top permessi";
 "statistics_top_allowed_navbar" = "Domini permessi";
 "statistics_top_blocked" = "Top bloccati";
@@ -492,6 +495,23 @@
 "on" = "On";
 "ms" = "ms";
 "dots" = "...";
+
+// MARK: - Widgets
+"total" = "Total";
+"blocked" = "Blocked";
+"entries" = "Entries";
+"queries" = "Queries";
+"blocklist" = "Blocklist";
+"widget_statistic" = "Statistic";
+"widget_statistic_description" = "Keep an eye on one statistic.";
+"widget_statistics" = "Statistics";
+"widget_statistics_description" = "Keep an eye on all your statistics.";
+"widget_statistics_and_disable" = "Statistics & Disable";
+"widget_statistics_and_disable_description" = "Statistics with customizable buttons to quickly disable blocking.";
+"widget_querygraph" = "Query Graph";
+"widget_querygraph_description" = "Check in on your queries over time.";
+"widget_disable" = "Disable";
+"widget_disable_description" = "Quickly disable blocking with customizable buttons.";
 
 // MARK: - watchOS Specific
 "watchos_home_queries" = "Richieste";

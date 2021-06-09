@@ -60,9 +60,9 @@
 
 "7fM7XI" = "Duration 4";
 
-"7gfPrG" = "Instance";
+"7gfPrG" = "Instantie";
 
-"8Udkqh" = "All";
+"8Udkqh" = "Alle";
 
 "8kg56g-Ixk02y" = "There are ${count} options matching ‘Open Statistics’.";
 
@@ -74,11 +74,11 @@
 
 "8kg56g-wMJOmd" = "There are ${count} options matching ‘Disable all for 1 minute’.";
 
-"8w3JVZ" = "Instance";
+"8w3JVZ" = "Instantie";
 
 "9gOTeN" = "Duration 1";
 
-"9hXLZd" = "Instance";
+"9hXLZd" = "Instantie";
 
 "9rFgTD-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
 
@@ -152,11 +152,11 @@
 
 "CzBWV3" = "Duration 1";
 
-"DIItEm" = "Allowed";
+"DIItEm" = "Toegestaan";
 
 "DJJsur" = "Widget Disable Duration";
 
-"DvY8Eg" = "Green";
+"DvY8Eg" = "Groen";
 
 "EUst6o" = "Status Indicator";
 
@@ -174,7 +174,7 @@
 
 "G9xiY4-wMJOmd" = "Just to confirm, you wanted ‘Disable all for 1 minute’?";
 
-"Hb868n" = "Orange";
+"Hb868n" = "Oranje";
 
 "IbhH23" = "Hide";
 
@@ -232,7 +232,7 @@
 
 "OYA8gF" = "Widget Tap Action";
 
-"OsIXJN" = "Blue";
+"OsIXJN" = "Blauw";
 
 "QfsqZh" = "Stats Text Widget";
 
@@ -390,7 +390,7 @@
 
 "hY8wJZ-wMJOmd" = "Just to confirm, you wanted ‘Disable all for 1 minute’?";
 
-"j5tl6I" = "Blocked";
+"j5tl6I" = "Geblokkeerd";
 
 "jiDiIB" = "What instance to display?";
 
@@ -414,7 +414,7 @@
 
 "lug6ns" = "Statistics Widget";
 
-"m60OS4" = "Red";
+"m60OS4" = "Rood";
 
 "mP5CWX-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
 
@@ -540,4 +540,4 @@
 
 "zQ6Jw8" = "30 seconden";
 
-"zeqXsg" = "Instance";
+"zeqXsg" = "Instantie";

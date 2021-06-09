@@ -1,0 +1,24 @@
+
+/* Class = "UINavigationItem"; title = "Ajouter à la liste"; ObjectID = "3HJ-uW-3hn"; */
+"3HJ-uW-3hn.title" = "Ajouter à la liste";
+
+/* Class = "UILabel"; text = "Instance 2"; ObjectID = "CR1-vK-io1"; */
+"CR1-vK-io1.text" = "Instance n°2";
+
+/* Class = "UILabel"; text = "Instance 1"; ObjectID = "GSO-7S-TA0"; */
+"GSO-7S-TA0.text" = "Instance n°1";
+
+/* Class = "UIViewController"; title = "Image"; ObjectID = "ObA-dk-sSI"; */
+"ObA-dk-sSI.title" = "Image";
+
+/* Class = "UITextField"; placeholder = "Domaine"; ObjectID = "Qbt-JN-40t"; */
+"Qbt-JN-40t.placeholder" = "Domaine";
+
+/* Class = "UILabel"; text = "RegEx"; ObjectID = "qZy-2G-fBb"; */
+"qZy-2G-fBb.text" = "RegEx";
+
+/* Class = "UISegmentedControl"; sWA-Lh-jNh.segmentTitles[0] = "Liste Noire"; ObjectID = "sWA-Lh-jNh"; */
+"sWA-Lh-jNh.segmentTitles[0]" = "Liste noire";
+
+/* Class = "UISegmentedControl"; sWA-Lh-jNh.segmentTitles[1] = "Liste Blanche"; ObjectID = "sWA-Lh-jNh"; */
+"sWA-Lh-jNh.segmentTitles[1]" = "Liste blanche";

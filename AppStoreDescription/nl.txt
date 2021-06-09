@@ -1,68 +1,66 @@
-Pi-hole Remote is a third party Pi-hole application that lets you quickly enable/disable your Pi-hole, as well as add domains to your whitelist/blacklist and view statistics such as top allowed and blocked domains!
+Pi-hole Remote is een applicatie om snel je Pi-hole in of uit te schakelen, statistieken te bekijken en snel domeinen aan je white/blacklist toe te voegen.
 
-*Disable Blocking*
-Quickly disable blocking for a few minutes with only a few taps. You can even use Siri Shortcuts to disable blocking with your voice! If you have multiple instances, you can disable blocking for all of them with one tap.
+*Blokkeren uitschakelen*
+Zet je Pi-hole makkelijk voor een paar minuten op pauze met een paar tikken. Je kan zelfs Siri Shortcuts (Opdrachten) gebruiken! Als je meerdere instanties hebt, kan je ze allemaal tegelijk uitschakelen met één actie.
 
-*Statistics & Queries*
-Look up what domains are queried most on your network, as well as clients that send out the most requests. See queries sorted by domain, client, or type. You can even view a Live Log that shows requests in real-time!
+*Statistieken & Queries*
+Zie in een oogopslag welke domeinen het meest voorkomen op je netwerk of welke cliënten de meeste verzoeken maken. Je kan de queries filteren op domein, cliënt of type. Met het Live Log kan je zelfs alle verzoeken in real-time bekijken!
 
-*White & Blacklist*
-Quickly add new entries to your lists inside the app or with the iOS Share Extension. You can also add entries in bulk and export list entries. If you have two Pi-hole instances, you can even automatically sync your lists!
+*White- & Blacklisten*
+Voeg snel nieuwe entries toe aan je lijsten via de app of met de iOS Share Extension. Je kan ook entries in bulk toevoegen en je lijsten exporteren. Als je twee instanties hebt, kan je automatisch alle lijsten synchroniseren.
 
-*Homescreen Widgets (iOS 14)*
-Choose from a wide range of homescreen widgets that show statistics or a query-graph. All are customisable with a wide range of options!
+*Widgets (iOS 14)*
+Zet widgets op je homescreen om snel je Pi-hole uit te schakelen of om snel statistieken te zien. Alle widgets zijn aan te passen, zoals de kleur, tap-acties of status-indicator.
 
 ==
 
-iPhone, iPad, macOS features:
-- Disable Pi-hole blocking
-- View basic & advanced statistics
-- Add domains to your whitelist or blacklist (in bulk)
-- Export your list entries
-- Sync list entries between two instances
-- Full Query Log with search & filters
-- Live Log which shows queries in real-time
-- Support for up to 4 Pi-hole instances with combined statistics and queries
-- Support for scanning Pi-hole token QR code
-- Support for SSL, reverse proxies, and alternative Privacy Levels
+iPhone, iPad, macOS functies:
+- Zet blokkeren uit
+- Bekijk geavanceerde statistieken
+- Voeg domeinen toe aan je white- of blacklist
+- Exporteer en synchroniseer lijsten
+- Query Log met zoekfunctie en filters
+- Live Log voor het bekijken van queries in real-time
+- Ondersteuning voor maximaal 4 Pi-hole instanties, met gecombineerde statistieken
+- Ondersteuning voor het scannen van je Pi-hole QR code
+- Ondersteuning voor SSL en reverse proxies
 - Widgets (iOS 14 & macOS 11)
-- Siri Shortcuts & Quick Action
-- Share Extension for quick white/blacklisting
-- VoiceOver support
-- Dark Mode, custom color schemes, alternative app icons
-- Optimised design for iPadOS & macOS
-- Clean and modern 100% SwiftUI design
+- Siri Shortcuts
+- Share Extension voor snel white- en blacklisten
+- VoiceOver ondersteuning
+- Donkere modus, kleurenschema's en alternatieven app-iconen
+- Geoptimaliseerd ontwerp voor iPadOS & macOS
+- Modern 100% SwiftUI ontwerp
 
-Apple Watch features:
-- View basic statistics
-- Disable Pi-hole blocking
+Apple Watch functies:
+- Bekijk basisstatistieken
+- Zet blokkeren uit
 - Complications
 
-Apple TV features:
-- View basic statistics
-- Disable Pi-hole blocking
-- Require Passcode on Disable
+Apple TV functies:
+- Bekijk basisstatistieken
+- Zet blokkeren uit
+- Vereis code bij blokkeren
 
-Statistics:
-- Total Queries
-- Queries/Percentage Blocked
-- Blocklist + Gravity Last Updated
-- Temperature & Memory Usage
-- Graph Queries Overtime
-- Top Allowed Domains
-- Top Blocked Domains
-- Top Clients
-- Unique Domains/Clients
-- Clients Ever Seen
-- Queries Per Domain/Client
-- Query Types
-- Pi-hole Version
-- API Info
-- DNS Cache
+Statistieken:
+- Totaal aantal queries
+- Queries/Percentage geblokkeerd
+- Blocklist + Gravity laatst geüpdatet
+- Temperatuur, Geheugengebruik, CPU gebruik
+- Grafiek met queries
+- Top toegestane domeinen
+- Top geblokkeerde domeinen
+- Top cliënten
+- Unieke domeinen/cliënten
+- Queries per domein/cliënt
+- Query typen
+- Pi-hole versie
+- API info
+- DNS cache
 
-* The in-app-purchases are only there for the Tip Jar, to support future development of the app. This is completely optional.
+* De in-app aankopen zijn er puur voor de Tip Jar om verdere ontwikkeling van de app te ondersteunen. Dit is optioneel!
 
 ==
 
-Note: 
-You need at least one working Pi-hole instance running on another device for this app to function and you must use Pi-hole Version 5.1 or up. Find out more about Pi-hole at https://pi-hole.net/.
+Belangrijk:
+Je hebt een werkende Pi-hole instantie nodig op je netwerk die draait op een ander apparaat om deze app te gebruiken. Ook moet Pi-hole versie 5.1 of hoger gebruikt worden. Lees meer over Pi-hole op https://pi-hole.net/.

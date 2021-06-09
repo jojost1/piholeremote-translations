@@ -57,7 +57,7 @@
 "usage_metrics_error" = "Fout bij het ophalen van data.";
 
 // MARK: Custom Disable
-"disable_navbar" = "Blokkeren Uitschakelen";
+"disable_navbar" = "Uitschakelen";
 "disable_duration" = "Duur";
 "disable_duration_placeholder_%@" = "Duur in %@";
 "disable_until" = "Tot";
@@ -72,9 +72,12 @@
 "statistics_segments_10min" = "Segmenten van 10min";
 "statistics_loading_graph" = "Grafiek laden...";
 "statistics_now" = "nu";
+"statistics_%@_h_ago" = "%@u geleden";
+"statistics_%@_hours_ago" = "%@ uur geleden";
+"statistics_queries_six_hours" = "Queries (6u)";
 "statistics_top_allowed" = "Top Toegestaan";
 "statistics_top_allowed_navbar" = "Toegestane domeinen";
-"statistics_top_blocked" = "Top Geblokeerd";
+"statistics_top_blocked" = "Top Geblokkeerd";
 "statistics_top_blocked_navbar" = "Geblokkeerde domeinen";
 "statistics_top_clients" = "Top Cliënten";
 "statistics_top_clients_navbar" = "Cliënten";
@@ -97,7 +100,7 @@
 "statistics_dns_cache_size" = "Cache grootte:";
 "statistics_dns_cache_evictions" = "Cache verwijderingen:";
 "statistics_dns_cache_inserted" = "Cache invoegingen:";
-"statistics_github" = "Github";
+"statistics_github" = "GitHub";
 "statistics_update_explainer" = "Je kan updaten met de command line interface met het commando 'pihole -up'.";
 "statistics_update_explainer_%@" = "Je kan updaten met de command line interface met het commando %@ .";
 
@@ -139,9 +142,9 @@
 "querylog_filter_status" = "Status";
 "querylog_filter_status_all" = "Alle";
 "querylog_filter_status_allowed" = "Toegestaan";
-"querylog_filter_status_allowed_only" = "Alleen Toegestaan";
+"querylog_filter_status_allowed_only" = "Alleen toegestaan";
 "querylog_filter_status_blocked" = "Geblokkeerd";
-"querylog_filter_status_blocked_only" = "Alleen Geblokkeerd";
+"querylog_filter_status_blocked_only" = "Alleen geblokkeerd";
 "querylog_filter_sort" = "Sorteer";
 "querylog_filter_sort_new_old" = "Nieuw > Oud";
 "querylog_filter_sort_old_new" = "Oud > Nieuw";
@@ -198,13 +201,13 @@
 
 // MARK: Add Entry
 "lists_addentry_navbar" = "Voeg item toe";
-"lists_addentry_save" = "Voeg Toe";
+"lists_addentry_save" = "Voeg toe";
 "lists_addentry_domain_or_regex" = "Domein of RegEx";
-"lists_addentry_add_as_wildcard" = "Voeg toe als Wildcard";
+"lists_addentry_add_as_wildcard" = "Voeg toe als wildcard";
 "lists_addentry_regex_tutorial_click" = "Klik hier voor een RegEx tutorial.";
 "lists_addentry_regex_tutorial_tap" = "Tap hier voor een RegEx tutorial.";
 "lists_addentry_wildcard_%@" = "Wildcard: %@";
-"lists_addentry_wildcard_alert" = "Voeg domein toe als Wildcard";
+"lists_addentry_wildcard_alert" = "Voeg domein toe als wildcard";
 "lists_addentry_wildcard_alert_body" = "Gebruik deze optie als je alle sub-domeinen ook wil meetellen. Het domein dat je invult wordt geconverteerd naar een RegEx filter na het toevoegen.";
 
 // MARK: Add Entry Bulk
@@ -213,7 +216,7 @@
 "lists_bulk_settings" = "Instellingen";
 "lists_bulk_settings_footer" = "Deze instellingen zijn van toepassing op alle nieuwe items.";
 "lists_bulk_domains_or_regex" = "Domeinen of RegEx";
-"lists_bulk_add_as_wildcards" = "Voeg alle toe als Wildcards";
+"lists_bulk_add_as_wildcards" = "Voeg alle toe als wildcards";
 "lists_bulk_new_entries_%lld" = "Nieuwe items (%lld)";
 "lists_bulk_new_entries_footer" = "Je kan ook meerdere entries toevoegen door een lijst van domeinen te plakken, gescheiden met een nieuwe regel, spatie of komma.";
 "lists_bulk_start" = "Start toevoegen van items";
@@ -230,7 +233,7 @@
 
 // MARK: Sync Lists
 "lists_sync_navbar" = "Sync Instanties";
-"lists_sync_start_sync" = "Start Sync";
+"lists_sync_start_sync" = "Start sync";
 "lists_sync_start_sync_alert" = "Deze actie zal lijst items van je eerste instantie toevoegen aan je tweede instantie en vice versa. Weet je zeker dat je dit wil doen?";
 "lists_sync_explainer" = "Met deze functie kan je je lijst items synchroniseren tussen twee van je instanties.\n\nBekijk de onderstaande lijsten om er zeker van te zijn dat de synchronisatie doet wat je zou verwachten. Het proces zelf kan even duren of mislukken als u veel items synchroniseert, houd dit scherm open tijdens de synchronisatie.";
 "lists_sync_calculating" = "Uitrekenen...";
@@ -288,7 +291,7 @@
 "settings_help" = "Help & Feedback";
 "settings_advanced" = "Geavanceerd";
 "settings_twitter" = "Volg op Twitter";
-"settings_tipjar" = "Fooienpot";
+"settings_tipjar" = "Tip Jar";
 "settings_tipjar_thankyou" = "Bedankt!";
 "settings_rate" = "Beoordeel Pi-hole Remote";
 "settings_leave_review" = "Laat een beoordeling achter";
@@ -300,7 +303,7 @@
 "instance_edit_navbar" = "Bewerk instantie";
 "instance_display_name" = "Weergavenaam";
 "instance_display_name_placeholder" = "Pi-hole";
-"instance_ip_or_hostname" = "IP adres of hostnaam";
+"instance_ip_or_hostname" = "IP-adres of hostnaam";
 "instance_ip_or_hostname_placeholder" = "raspberrypi";
 "instance_ssl_explainer" = "Gebruik http (standaard) of https?";
 "instance_ssl_http" = "http (standaard)";
@@ -315,9 +318,9 @@
 "instance_token_scan_navbar" = "Scan API Token";
 "instance_token_scan_permission" = "Geef toestemming om de camera te gebruiken in de pop-up of in iOS  Instellingen > Privacy > Camera.";
 "instance_other" = "Overig";
-"instance_reverseproxy" = "Reverse Proxy";
-"instance_reverseproxy_explainer" = "Het aanzetten van 'Reverse Proxy' zal '/admin' weglaten van alle API verzoeken.";
-"instance_hideerrors" = "Verberg Foutmeldingen";
+"instance_reverseproxy" = "Reverse proxy";
+"instance_reverseproxy_explainer" = "Het aanzetten van 'reverse proxy' zal '/admin' weglaten van alle API verzoeken.";
+"instance_hideerrors" = "Verberg foutmeldingen";
 "instance_test_connection" = "Test verbinding";
 "instance_remove" = "Verwijder instantie";
 "instance_remove_alert_title" = "Verwijder Pi-hole instantie";
@@ -354,9 +357,9 @@
 "preferences_statistics_other" = "Overig";
 "preferences_statistics_other_footer" = "Laat Pi-hole versie, API versie en DNS cache informatie zien.";
 "preferences_statistics_show_other" = "Laat 'Overige' info zien";
-"preferences_statistics_hidden_domains" = "Hidden domains";
+"preferences_statistics_hidden_domains" = "Verborgen domeinen";
 "preferences_statistics_hidedomains_header" = "Verberg domeinen";
-"preferences_statistics_hidedomains_footer" = "Verberg (delen van) domeinen in statistieken.";
+"preferences_statistics_hidedomains_footer" = "Verberg bepaalde domeinen in statistieken.";
 "preferences_statistics_hidedomains_list_navbar" = "Verberg domeinen";
 "preferences_statistics_hidedomains_list_footer" = "Deze (delen van) domeinen worden verborgen in 'Top' lijsten. Ze zullen nog steeds meegeteld worden in statistieken in Home & zijn nog steeds zichtbaar in het Query Log.";
 "preferences_statistics_hidedomains_list_none" = "Je kan rechtsboven domeinen toevoegen!";
@@ -397,17 +400,17 @@
 "design_dark_mode" = "Dark Mode";
 
 // MARK: Tip Jar
-"tipjar_navbar" = "Fooienpot";
-"tipjar_header" = "De fooienpot helpt me direct om Pi-hole Remote te blijven onderhouden en nieuwe features te ontwikkelen.";
+"tipjar_navbar" = "Tip Jar";
+"tipjar_header" = "De Tip Jar helpt me direct om Pi-hole Remote te blijven onderhouden en nieuwe features te ontwikkelen.";
 "tipjar_header_2" = "Als je de app tof vindt en deze indie developer (hoi! 👋) wil steunen, kan je een donatie geven. Ik waardeer het enorm!";
 "tipjar_header_3" = "Bedankt voor je steun.\n- Joost";
-"tipjar_tip_coffee" = "Koffie fooi";
-"tipjar_tip_whiskey" = "Whiskey fooi";
-"tipjar_tip_ramen" = "Ramen fooi";
-"tipjar_tip_sushi" = "Sushi fooi";
+"tipjar_tip_coffee" = "Koffie tip";
+"tipjar_tip_whiskey" = "Whiskey tip";
+"tipjar_tip_ramen" = "Ramen tip";
+"tipjar_tip_sushi" = "Sushi tip";
 "tipjar_blush" = "*bloos*";
-"tipjar_thankyou_tip" = "Bedankt voor je genereuze fooi!";
-"tipjar_thankyou_tips" = "Bedankt voor je genereuze fooien!";
+"tipjar_thankyou_tip" = "Bedankt voor je genereuze tip!";
+"tipjar_thankyou_tips" = "Bedankt voor je genereuze tips!";
 "tipjar_thankyou_loveyou" = "I love you! ❤️";
 "tipjar_testflight_explainer" = "Note: you're running a TestFlight Build, therefore payments run in Sandbox mode and do not actually process.\n\nIf you want to tip, please download the app from the App Store! After that you can download the beta again. Thanks!";
 "tipjar_payment_success" = "Aankoop Geslaagd!";
@@ -417,7 +420,7 @@
 "help_navbar" = "Support";
 "help_faq" = "Veelgestelde vragen";
 "help_faq_short" = "FAQ";
-"help_contact" = "Contacteer me";
+"help_contact" = "Neem contact op";
 "help_actions" = "Acties";
 "help_actions_icloud" = "Forceer iCloud Sync";
 "help_actions_watch" = "Forceer Watch Sync";
@@ -433,14 +436,14 @@
 "changelog_continue" = "Ga door";
 "changelog_settings" = "Changelog";
 "changelog_settings_show" = "Laat zien bij app update";
-"changelog_settings_show_footer" = "De Changelog zal alleen getoond worden na een update met nieuwe features, niet voor updates met alleen bugfixes.";
+"changelog_settings_show_footer" = "De changelog zal alleen getoond worden na een update met nieuwe features, niet voor updates met alleen bugfixes.";
 
 // MARK: Made by RocketScience
 "rocketscience_hi_title" = "Hi, ik ben Joost!";
 "rocketscience_hi_subtitle" = "In juni 2020 ben ik begonnen met het maken van m'n eigen apps als indie ontwikkelaar, onder de naam 'RocketScience IT'.\n\nMijn doel is om te leren: onwerpen, ontwikkelen, testen, support, marketing - misschien nog wel meer! Op dit moment heb ik twee apps in de App Store die ik continue verbeter. Daarnaast heb ik nog veel ideeën voor andere apps die ik wil maken in de toekomst!.";
 "rocketscience_website" = "Website";
 "rocketscience_twitter" = "Twitter";
-"rocketscience_tipjar" = "Fooienpot";
+"rocketscience_tipjar" = "Tip Jar";
 "rocketscience_tipjar_thankyou" = "Bedankt!";
 "rocketscience_my_other_apps" = "Mijn andere apps";
 "rocketscience_adguardhomeremote_subtitle" = "Net als Pi-hole Remote, maar voor AdGuard Home!";
@@ -493,10 +496,11 @@
 "search" = "Zoeken";
 "refresh" = "Verversen";
 "done" = "Klaar";
+"new" = "Nieuw";
 "dismiss" = "Klaar";
 "ok" = "OK";
 "save" = "Opslaan";
-"apply" = "Pas Toe";
+"apply" = "Pas toe";
 "cancel" = "Annuleren";
 "edit" = "Bewerken";
 "remove" = "Verwijderen";
@@ -504,6 +508,23 @@
 "on" = "Aan";
 "ms" = "ms";
 "dots" = "...";
+
+// MARK: - Widgets
+"total" = "Totaal";
+"blocked" = "Geblokkeerd";
+"entries" = "Items";
+"queries" = "Queries";
+"blocklist" = "Blocklist";
+"widget_statistic" = "Statistiek";
+"widget_statistic_description" = "Houd een statistiek in de gaten.";
+"widget_statistics" = "Statistieken";
+"widget_statistics_description" = "Alle statistieken in een oogopslag.";
+"widget_statistics_and_disable" = "Statistieken & Uitschakelen";
+"widget_statistics_and_disable_description" = "Statistieken met aanpasbare knoppen om snel blokkeren uit te schakelen.";
+"widget_querygraph" = "Query Grafiek";
+"widget_querygraph_description" = "Bekijk een grafiek met queries.";
+"widget_disable" = "Uitschakelen";
+"widget_disable_description" = "Schakel snel blokkeren uit met zelf aan te passen knoppen.";
 
 // MARK: - watchOS Specific
 "watchos_home_queries" = "Queries";

@@ -72,6 +72,9 @@
 "statistics_segments_10min" = "10 minutowe segementy";
 "statistics_loading_graph" = "Ładowanie wykresu...";
 "statistics_now" = "teraz";
+"statistics_%@_h_ago" = "%@h ago";
+"statistics_%@_hours_ago" = "%@ godzin ago";
+"statistics_queries_six_hours" = "Queries (6h)";
 "statistics_top_allowed" = "Najczęściej dopuszczane";
 "statistics_top_allowed_navbar" = "Dozwolone domeny";
 "statistics_top_blocked" = "Najczęściej blokowane";
@@ -97,7 +100,7 @@
 "statistics_dns_cache_size" = "Rozmiar Cache:";
 "statistics_dns_cache_evictions" = "Unieważnienia Cache:";
 "statistics_dns_cache_inserted" = "Wpisy Cache:";
-"statistics_github" = "Github";
+"statistics_github" = "GitHub";
 "statistics_update_explainer" = "Możesz zaktualizować CLI przy pomocy komendy 'pihole -up'.";
 "statistics_update_explainer_%@" = "Możesz zaktualizować CLI przy pomocy komendy %@ .";
 
@@ -356,7 +359,7 @@
 "preferences_statistics_show_other" = "Pokaż inne informacje";
 "preferences_statistics_hidden_domains" = "Hidden domains";
 "preferences_statistics_hidedomains_header" = "Hide Domains";
-"preferences_statistics_hidedomains_footer" = "Hide certain (parts of) domains in statistics.";
+"preferences_statistics_hidedomains_footer" = "Hide certain domains in statistics.";
 "preferences_statistics_hidedomains_list_navbar" = "Hide Domains";
 "preferences_statistics_hidedomains_list_footer" = "These (parts of) domains will be hidden from 'Top' lists. They will still be included in statistics in the Home-tab and will still appear in the Query Log.";
 "preferences_statistics_hidedomains_list_none" = "None. You can add entries in the top right!";
@@ -493,6 +496,7 @@
 "search" = "Szukaj";
 "refresh" = "Odśwież";
 "done" = "Gotowe";
+"new" = "New";
 "dismiss" = "Odrzuć";
 "ok" = "OK";
 "save" = "Zapisz";
@@ -504,6 +508,23 @@
 "on" = "Włącz";
 "ms" = "ms";
 "dots" = "...";
+
+// MARK: - Widgets
+"total" = "Total";
+"blocked" = "Blocked";
+"entries" = "Entries";
+"queries" = "Queries";
+"blocklist" = "Blocklist";
+"widget_statistic" = "Statistic";
+"widget_statistic_description" = "Keep an eye on one statistic.";
+"widget_statistics" = "Statistics";
+"widget_statistics_description" = "Keep an eye on all your statistics.";
+"widget_statistics_and_disable" = "Statistics & Disable";
+"widget_statistics_and_disable_description" = "Statistics with customizable buttons to quickly disable blocking.";
+"widget_querygraph" = "Query Graph";
+"widget_querygraph_description" = "Check in on your queries over time.";
+"widget_disable" = "Disable";
+"widget_disable_description" = "Quickly disable blocking with customizable buttons.";
 
 // MARK: - watchOS Specific
 "watchos_home_queries" = "Zapytania";

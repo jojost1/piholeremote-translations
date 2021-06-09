@@ -1,0 +1,68 @@
+Pi-hole Remote est une application tierce pour Pi-hole qui vous permet d'activer/désactiver rapidement votre Pi-hole, ainsi que d'ajouter des domaines à votre liste blanche/liste noire et de visualiser des statistiques telles que les principaux domaines autorisés et bloqués !
+
+*Désactiver le blocage
+Désactivez rapidement le blocage pour quelques minutes en quelques clics seulement. Vous pouvez même utiliser les raccourcis Siri pour désactiver le blocage avec votre voix ! Si vous avez plusieurs instances, vous pouvez désactiver le blocage pour chacune d'entre elles d'une seule touche.
+
+*Statistiques et requêtes
+Découvrez les domaines les plus interrogés sur votre réseau, ainsi que les clients qui envoient le plus de requêtes. Les requêtes sont triées par domaine, client ou type. Vous pouvez même afficher un journal en direct qui montre les demandes en temps réel !
+
+*Liste blanche et liste noire
+Ajoutez rapidement de nouvelles entrées à vos listes dans l'application ou avec l'extension iOS Share. Vous pouvez également ajouter des entrées en masse et exporter des entrées de liste. Si vous avez deux instances de Pi-hole, vous pouvez même synchroniser automatiquement vos listes !
+
+*Widgets d'écran d'accueil (iOS 14)
+Choisissez parmi une large gamme de widgets d'écran d'accueil qui affichent des statistiques ou un graphique de requête. Tous sont personnalisables grâce à un large éventail d'options !
+
+==
+
+Fonctions pour iPhone, iPad et macOS :
+- Désactiver le blocage de Pi-hole
+- Afficher les statistiques de base et avancées
+- Ajouter des domaines à votre liste blanche ou noire (en masse)
+- Exportez les entrées de votre liste
+- Synchronisation des entrées de la liste entre deux instances
+- Journal complet des requêtes avec recherche et filtres
+- Journal en direct qui affiche les requêtes en temps réel
+- Prise en charge de jusqu'à 4 instances de Pi-hole avec statistiques et requêtes combinées
+- Prise en charge de la lecture du code QR du jeton Pi-hole
+- Prise en charge de SSL, des proxys inversés et des niveaux de confidentialité alternatifs.
+- Widgets (iOS 14 et macOS 11)
+- Raccourcis Siri et actions rapides
+- Extension de partage pour une mise en liste blanche/noire rapide
+- Prise en charge de VoiceOver
+- Mode sombre, jeux de couleurs personnalisés, icônes d'applications alternatives
+- Conception optimisée pour iPadOS et macOS
+- Design épuré et moderne 100% SwiftUI
+
+Fonctions Apple Watch :
+- Affichage des statistiques de base
+- Désactiver le blocage de Pi-hole
+- Complications
+
+Caractéristiques de l'Apple TV :
+- Afficher les statistiques de base
+- Désactiver le blocage de Pi-hole
+- Exiger un code d'accès pour désactiver
+
+Statistiques :
+- Total des requêtes
+- Requêtes/Pourcentage bloqué
+- Liste de blocage + dernière mise à jour de Gravity
+- Température et utilisation de la mémoire
+- Graphique des requêtes en temps supplémentaire
+- Domaines les plus autorisés
+- Top des domaines bloqués
+- Top des clients
+- Domaines uniques/clients
+- Total des clients vus
+- Requêtes par domaine/client
+- Types de requêtes
+- Version de Pi-hole
+- Info API
+- Cache DNS
+
+* Les achats in-app ne sont là que pour le pourboire, afin de soutenir le développement futur de l'application. C'est complètement optionnel.
+
+==
+
+Remarque : 
+Vous devez disposer d'au moins une instance de Pi-hole fonctionnant sur un autre appareil pour que cette application fonctionne et vous devez utiliser la version 5.1 ou supérieure de Pi-hole. Pour en savoir plus sur Pi-hole, rendez-vous sur https://pi-hole.net/.

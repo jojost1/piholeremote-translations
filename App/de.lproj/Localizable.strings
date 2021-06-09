@@ -8,53 +8,53 @@
 
 // MARK: - TabView
 "tab_home" = "Home";
-"tab_statistics" = "Statistics";
-"tab_querylog" = "Query Log";
-"tab_lists" = "Lists";
-"tab_settings" = "Settings";
+"tab_statistics" = "Statistiken";
+"tab_querylog" = "Anfrage Log";
+"tab_lists" = "Listen";
+"tab_settings" = "Einstellungen";
 
 // MARK: - Home-tab
 "home_navbar" = "Pi-hole Remote";
-"home_total_queries" = "Total Queries";
-"home_queries_blocked" = "Queries Blocked";
-"home_percent_blocked" = "Percent Blocked";
+"home_total_queries" = "Anfragen insgesamt";
+"home_queries_blocked" = "Blockierte Anfragen";
+"home_percent_blocked" = "Anteil geblockt";
 "home_blocklist" = "Blocklist";
-"home_refreshing_dots" = "Refreshing...";
-"home_no_response" = "No Response";
-"home_not_responding" = "Not Responding";
-"home_disable" = "Disable";
-"home_disable_all" = "Disable All";
+"home_refreshing_dots" = "Aktualiseren...";
+"home_no_response" = "Keine Antwort";
+"home_not_responding" = "Antwortet nicht";
+"home_disable" = "Deaktivieren";
+"home_disable_all" = "Alles deaktivieren";
 "home_disable_blocking" = "Disable Blocking";
 "home_disable_blocking_pihole" = "Disable Pi-hole Blocking";
-"home_disable_blocking_alert_%@" = "For how long do you want to disable blocking for %@?";
-"home_enable" = "Enable";
-"home_enable_all" = "Enable All";
-"home_enable_blocking" = "Enable Blocking";
-"home_enable_blocking_pihole" = "Enable Pi-hole Blocking";
-"home_enable_blocking_alert_%@" = "Are you sure you want to enable blocking for %@?";
-"home_enable_%@_disabled_until_%@" = "Enable (%@disabled until %@)";
-"home_data_from_%@" = "Data from %@";
-"home_update_gravity" = "Update Gravity";
+"home_disable_blocking_alert_%@" = "Für wie lange willst Du die Sperrung mit %@ deaktivieren?";
+"home_enable" = "Aktivieren";
+"home_enable_all" = "Alles aktivieren";
+"home_enable_blocking" = "Sperrung aktivieren";
+"home_enable_blocking_pihole" = "Pi-hole Sperrung aktivieren";
+"home_enable_blocking_alert_%@" = "Bist du sicher, dass Du die Sperrung reaktivieren willst auf %@?";
+"home_enable_%@_disabled_until_%@" = "Aktivieren (%@deaktiviert bis %@)";
+"home_data_from_%@" = "Daten von %@";
+"home_update_gravity" = "Gravity Aktualisieren";
 "home_update_gravity_explainer" = "Go to /admin/gravity for which instance?";
-"home_update_gravity_alert_body_%@" = "Gravity was last updated on %@";
+"home_update_gravity_alert_body_%@" = "Letztes Gravity-Update am %@";
 "home_update_gravity_alert_button" = "Update Gravity (Web Interface)";
-"home_update_available" = "Update Available!";
-"home_update_available_alert_body" = "You can update using command line interface with this command:\n\npihole -up";
+"home_update_available" = "Update verfügbar!";
+"home_update_available_alert_body" = "Du kannst das Update über die Konsole mit dem Befehl\n\npihole -up\n\ndurchführen";
 
 // MARK: Usage Metrics
-"usage_metrics_navbar" = "Usage Metrics";
-"usage_metrics_temperature" = "Temperature";
+"usage_metrics_navbar" = "Nutzungsmetriken";
+"usage_metrics_temperature" = "Temperatur";
 "usage_metrics_cpu" = "CPU";
-"usage_metrics_cpu_usage" = "CPU Usage";
-"usage_metrics_cpu_core" = "1 core";
-"usage_metrics_cpu_cores_%lld" = "%lld cores";
-"usage_metrics_cpu_1min" = "Last 1 minute";
-"usage_metrics_cpu_5min" = "Last 5 minutes";
-"usage_metrics_cpu_15min" = "Last 15 minutes";
-"usage_metrics_cpu_usage_alert" = "These percentages respresent the average CPU load over the past minutes.\n\nThe standard rule of thumb is that 70% utilization is healthy. Once you're consistently above 70%, you might want to start planning for expansion.";
-"usage_metrics_memory" = "Memory";
-"usage_metrics_data_from_%@" = "\nData from: %@";
-"usage_metrics_error" = "Error while fetching data.";
+"usage_metrics_cpu_usage" = "CPU Auslastung";
+"usage_metrics_cpu_core" = "1 Kern";
+"usage_metrics_cpu_cores_%lld" = "%lld Kerne";
+"usage_metrics_cpu_1min" = "Letzte Minute";
+"usage_metrics_cpu_5min" = "Letzten 5 Minuten";
+"usage_metrics_cpu_15min" = "Letzten 15 Minuten";
+"usage_metrics_cpu_usage_alert" = "Diese Prozentsätze stellen die durchschnittliche CPU-Last der letzten Minuten dar.\n\nDie Daumenregel lautet, dass eine Auslastung von 70 % okay ist. Sobald sie konstant über 70 % liegt, solltest Du mit der Planung einer Erweiterung beginnen.";
+"usage_metrics_memory" = "Arbeitsspeicher";
+"usage_metrics_data_from_%@" = "\nDaten von: %@";
+"usage_metrics_error" = "Fehler beim Datenabruf.";
 
 // MARK: Custom Disable
 "disable_navbar" = "Disable Blocking";
@@ -72,6 +72,9 @@
 "statistics_segments_10min" = "Segments of 10min";
 "statistics_loading_graph" = "Loading Graph...";
 "statistics_now" = "now";
+"statistics_%@_h_ago" = "%@h ago";
+"statistics_%@_hours_ago" = "%@ годин ago";
+"statistics_queries_six_hours" = "Запити (6h)";
 "statistics_top_allowed" = "Top Allowed";
 "statistics_top_allowed_navbar" = "Allowed Domains";
 "statistics_top_blocked" = "Top Blocked";
@@ -492,6 +495,23 @@
 "on" = "On";
 "ms" = "ms";
 "dots" = "...";
+
+// MARK: - Widgets
+"total" = "Total";
+"blocked" = "Blocked";
+"entries" = "Entries";
+"queries" = "Queries";
+"blocklist" = "Blocklist";
+"widget_statistic" = "Statistic";
+"widget_statistic_description" = "Keep an eye on one statistic.";
+"widget_statistics" = "Statistics";
+"widget_statistics_description" = "Keep an eye on all your statistics.";
+"widget_statistics_and_disable" = "Statistics & Disable";
+"widget_statistics_and_disable_description" = "Statistics with customizable buttons to quickly disable blocking.";
+"widget_querygraph" = "Query Graph";
+"widget_querygraph_description" = "Check in on your queries over time.";
+"widget_disable" = "Disable";
+"widget_disable_description" = "Quickly disable blocking with customizable buttons.";
 
 // MARK: - watchOS Specific
 "watchos_home_queries" = "Queries";

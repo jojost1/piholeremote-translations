@@ -72,6 +72,9 @@
 "statistics_segments_10min" = "Segmentos de 10min";
 "statistics_loading_graph" = "Cargando Gráfico...";
 "statistics_now" = "ahora";
+"statistics_%@_h_ago" = "hace %@h";
+"statistics_%@_hours_ago" = "hace %@ horas";
+"statistics_queries_six_hours" = "Consultas (6h)";
 "statistics_top_allowed" = "Top Permitidos";
 "statistics_top_allowed_navbar" = "Dominios Permitidos";
 "statistics_top_blocked" = "Top Bloqueados";
@@ -97,7 +100,7 @@
 "statistics_dns_cache_size" = "Caché Tamaño:";
 "statistics_dns_cache_evictions" = "Caché Desalojos:";
 "statistics_dns_cache_inserted" = "Caché Inserciones:";
-"statistics_github" = "Github";
+"statistics_github" = "GitHub";
 "statistics_update_explainer" = "Puedes actualizar usando la interfaz de línea de comandos, con el comando 'pihole -up'.";
 "statistics_update_explainer_%@" = "Puedes actualizar usando la interfaz de línea de comandos, con el comando %@ .";
 
@@ -354,17 +357,17 @@
 "preferences_statistics_other" = "Otros";
 "preferences_statistics_other_footer" = "Ver versión Pi-hole, versión API, e información DNS caché.";
 "preferences_statistics_show_other" = "Ver Otra Información";
-"preferences_statistics_hidden_domains" = "Hidden domains";
-"preferences_statistics_hidedomains_header" = "Hide Domains";
-"preferences_statistics_hidedomains_footer" = "Hide certain (parts of) domains in statistics.";
-"preferences_statistics_hidedomains_list_navbar" = "Hide Domains";
-"preferences_statistics_hidedomains_list_footer" = "These (parts of) domains will be hidden from 'Top' lists. They will still be included in statistics in the Home-tab and will still appear in the Query Log.";
-"preferences_statistics_hidedomains_list_none" = "None. You can add entries in the top right!";
-"preferences_statistics_hidedomains_new_placeholder" = "Enter (part of) a domain";
-"preferences_statistics_hidedomains_new_picker" = "Matching Condition";
-"preferences_statistics_hidedomains_new_picker_exactly" = "Exactly";
-"preferences_statistics_hidedomains_new_picker_contains" = "Contains";
-"preferences_statistics_hidedomains_new_navbar" = "Hide Domain";
+"preferences_statistics_hidden_domains" = "Dominios Ocultos";
+"preferences_statistics_hidedomains_header" = "Ocultar Dominios";
+"preferences_statistics_hidedomains_footer" = "Ocultar ciertos (partes de) dominios en las estadísticas.";
+"preferences_statistics_hidedomains_list_navbar" = "Ocultar Dominios";
+"preferences_statistics_hidedomains_list_footer" = "Estos (partes de) dominios se ocultarán de las listas 'Top'. Seguirán incluyéndose en las estadísticas de la pestaña Casa y seguirán apareciendo en el Registro de Consultas.";
+"preferences_statistics_hidedomains_list_none" = "Ninguno. ¡Puedes añadir entradas arriba a la derecha!";
+"preferences_statistics_hidedomains_new_placeholder" = "Introduce (parte de) un dominio";
+"preferences_statistics_hidedomains_new_picker" = "Condición de Coincidencia";
+"preferences_statistics_hidedomains_new_picker_exactly" = "Exacto";
+"preferences_statistics_hidedomains_new_picker_contains" = "Contiene";
+"preferences_statistics_hidedomains_new_navbar" = "Ocultar Dominio";
 "preferences_lists_navbar" = "Listas";
 "preferences_lists_display" = "Mostrar";
 "preferences_lists_sort_by" = "Ordenar Listas Por";
@@ -460,7 +463,7 @@
 "8_hours" = "8 horas";
 "24_hours" = "24 horas";
 "until_turned_on" = "Hasta que se Active";
-"indefinitely" = "Indefinidamente";
+"indefinitely" = "Indefinido";
 "custom" = "Personalizado";
 "custom_dots" = "Personalizado...";
 
@@ -475,7 +478,7 @@
 "view_queries_to_domain" = "Ver Consultas al Dominio";
 "view_queries_from_client" = "Ver Consultas desde el Cliente";
 "visit_domain" = "Visitar Dominio";
-"statistics_hide_domain" = "Hide Domain from Statistics";
+"statistics_hide_domain" = "Ocultar el Dominio en las Estadísticas";
 
 // MARK: Miscellaneous
 "instances" = "Instancias";
@@ -493,6 +496,7 @@
 "search" = "Buscar";
 "refresh" = "Refrescar";
 "done" = "Hecho";
+"new" = "Nuevo";
 "dismiss" = "Descartar";
 "ok" = "OK";
 "save" = "Grabar";
@@ -504,6 +508,23 @@
 "on" = "On";
 "ms" = "ms";
 "dots" = "...";
+
+// MARK: - Widgets
+"total" = "Totales";
+"blocked" = "Bloqueadas";
+"entries" = "Entradas";
+"queries" = "Consultas";
+"blocklist" = "Lista Bloqueo";
+"widget_statistic" = "Estadísticas";
+"widget_statistic_description" = "Monitoriza una estadística.";
+"widget_statistics" = "Estadísticas";
+"widget_statistics_description" = "Monitoriza todas las estadísticas.";
+"widget_statistics_and_disable" = "Estadísticas y Desactivar";
+"widget_statistics_and_disable_description" = "Estadísticas con botones personalizables para desactivar rápidamente el bloqueo.";
+"widget_querygraph" = "Gráfico de Consultas";
+"widget_querygraph_description" = "Monitorita las consultas en el tiempo.";
+"widget_disable" = "Desactivar";
+"widget_disable_description" = "Desactivar rápidamente el bloqueo con botones personalizados.";
 
 // MARK: - watchOS Specific
 "watchos_home_queries" = "Consultas";
