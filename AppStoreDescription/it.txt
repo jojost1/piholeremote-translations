@@ -1,68 +1,68 @@
-Pi-hole Remote is a third party Pi-hole application that lets you quickly enable/disable your Pi-hole, as well as add domains to your whitelist/blacklist and view statistics such as top allowed and blocked domains!
+Pi-hole Remote è un'app di terze parti per Pi-hole che ti permette, in un batter d'occhio, di abilitare o disabilitare il tuo Pi-hole, di aggiungere domini alla tua whitelist/blacklist e di vedere diverse statistiche, come ad esempio, i domini più bloccati e non!
 
-*Disable Blocking*
-Quickly disable blocking for a few minutes with only a few taps. You can even use Siri Shortcuts to disable blocking with your voice! If you have multiple instances, you can disable blocking for all of them with one tap.
+*Disabilita il blocco*
+Disabilita il blocco velocemente per alcuni minuti con pochi tap. Puoi anche utilizzare le scorciatoie di Siri per disabilitarlo con la tua voce! Se hai multiple istanze di Pi-hole, puoi disabilitarle tutte in un solo tocco. 
 
-*Statistics & Queries*
-Look up what domains are queried most on your network, as well as clients that send out the most requests. See queries sorted by domain, client, or type. You can even view a Live Log that shows requests in real-time!
+*Statistiche & Interrogazioni*
+Dai un'occhiata a quali domini sono i più interrogati sulla tua rete, così come i dispositivi che effettuano più richieste. Guarda le richieste ordinate per dominio, dispositivo o tipo. Puoi anche dare un'occhiata a Live Log che mostra le richieste in tempo reale!
 
-*White & Blacklist*
-Quickly add new entries to your lists inside the app or with the iOS Share Extension. You can also add entries in bulk and export list entries. If you have two Pi-hole instances, you can even automatically sync your lists!
+*Whitelist & Blacklist*
+Aggiungi rapidamente elementi alle tue liste all'interno dell'app o tramite il menu condividi di iOS. Puoi anche aggiungere elementi in gruppo o esportare le tue liste. Se hai due istanze Pi-hole puoi anche sincronizzarle!
 
-*Homescreen Widgets (iOS 14)*
-Choose from a wide range of homescreen widgets that show statistics or a query-graph. All are customisable with a wide range of options!
+*Widget per la Homescreen (iOS 14)*
+Seleziona tra una vasta scelta di widget per la schermata home che mostrano le statistiche o il grafico delle interrogazioni. Tutti personalizzabili con un folta serie di opzioni!
 
 ==
 
-iPhone, iPad, macOS features:
-- Disable Pi-hole blocking
-- View basic & advanced statistics
-- Add domains to your whitelist or blacklist (in bulk)
-- Export your list entries
-- Sync list entries between two instances
-- Full Query Log with search & filters
-- Live Log which shows queries in real-time
-- Support for up to 4 Pi-hole instances with combined statistics and queries
-- Support for scanning Pi-hole token QR code
-- Support for SSL, reverse proxies, and alternative Privacy Levels
+Funzionalità su iPhone, iPad, macOS:
+- Disabilita il blocco di Pi-hole
+- Visualizza le statistiche base ed avanzate
+- Aggiungi domini alla tua whitelist o blacklist (anche in massa)
+- Esporta le tue liste
+- Sincronizza le liste tra due istanze 
+- Log completi delle richieste con possibilità di ricerca e filtri
+- Log live per mostrare le richieste in tempo reale
+- Supporto fino a 4 istanze Pi-hole con statistiche e richieste combinate
+- Supporto per scannerizzare il QR code contenente il token Pi-hole
+- Supporto per SSL, reverse proxies e altri livelli di Privacy
 - Widgets (iOS 14 & macOS 11)
-- Siri Shortcuts & Quick Action
-- Share Extension for quick white/blacklisting
-- VoiceOver support
-- Dark Mode, custom color schemes, alternative app icons
-- Optimised design for iPadOS & macOS
-- Clean and modern 100% SwiftUI design
+- Scorciatoie di Siri e azioni veloci
+- Puoi whitelistare o blacklistare in modo veloce sfruttando la funzionalità Condividi
+- Supporto a VoiceOver
+- Modalità scura, schema di colori personalizzati e icone alternative per l'app
+- Design ottimizzato per iPadOS & macOS
+- Design 100% SwiftUI pulito e moderno
 
-Apple Watch features:
-- View basic statistics
-- Disable Pi-hole blocking
-- Complications
+Funzionalità Apple Watch:
+- Vedi statistiche di base
+- Disabilita il blocco di Pi-hole Disable Pi-hole blocking
+- Complicazioni
 
-Apple TV features:
-- View basic statistics
-- Disable Pi-hole blocking
-- Require Passcode on Disable
+Funzionalità Apple TV:
+- Vedi statistiche di base 
+- Disabilita il blocco di Pi-hole
+- Richiesta della password per disabilitare
 
-Statistics:
-- Total Queries
-- Queries/Percentage Blocked
-- Blocklist + Gravity Last Updated
-- Temperature & Memory Usage
-- Graph Queries Overtime
-- Top Allowed Domains
-- Top Blocked Domains
-- Top Clients
-- Unique Domains/Clients
-- Clients Ever Seen
-- Queries Per Domain/Client
-- Query Types
-- Pi-hole Version
-- API Info
+Statistiche:
+- Richieste totali
+- Richieste bloccate e relative percentuali
+- Ultimi aggiornamenti per Blocklist + Gravity
+- Utilizzo della memoria e la temperatura
+- Grafici per le richieste nel tempo
+- Top domini permessi
+- Top domini bloccati
+- Top dispositivi 
+- Domini e dispositivi unici
+- Dispositivi mai visti
+- Richieste per dominio o dispositivo
+- Tipo di richieste
+- Versione di Pi-hole
+- Informazioni API
 - DNS Cache
 
-* The in-app-purchases are only there for the Tip Jar, to support future development of the app. This is completely optional.
+* Gli acquisti in-app sono solo per le Mance, per supportare gli sviluppi futuri dell'app. Sono completamente opzionali.
 
 ==
 
-Note: 
-You need at least one working Pi-hole instance running on another device for this app to function and you must use Pi-hole Version 5.1 or up. Find out more about Pi-hole at https://pi-hole.net/.
+Note:
+Hai bisogno almeno di un'istanza Pi-hole funzionante su un altro dispositivo per far funzionare l'app e devi usare una versione di Pi-hole 5.1 o superiore. Puoi scoprire altro su Pi-hole su https://pi-hole.net/.
