@@ -311,13 +311,13 @@
 "instance_token_placeholder" = "a1b2c3d4...";
 "instance_token_explainer" = "Richiesto per abilitare/disabilitare e per le statistiche. Lascialo vuoto se non hai una password impostata.\nPuoi trovare il token andando in Interfaccia Web > Impostazioni > API.";
 "instance_token_alert_title" = "Token API di Pi-hole";
-"instance_token_alert_body" = "You can find your Pi-hole API token on the Web Interface.\n\nLog in and go to 'Settings > API / Web Interface > Show API token' and you'll see a QR Code that you can scan!";
+"instance_token_alert_body" = "Puoi trovare il tuo token API di Pi-hole sull'interfaccia web.\n\nLoggati e vai in 'Impostazioni > API / Interfaccia Web > Mostra API token' e vedrai un QR code che potrai scannerizzare!";
 "instance_token_scan_navbar" = "Scannerizza l'API Token";
-"instance_token_scan_permission" = "Please give permission to access the camera in the pop-up or in Settings > Privacy > Camera.";
+"instance_token_scan_permission" = "Per favore, dammi il permesso per accedere alla fotocamera nel pop-up o andando in Impostazioni > Privacy > Camera.";
 "instance_other" = "Altro";
 "instance_reverseproxy" = "Reverse Proxy";
-"instance_reverseproxy_explainer" = "Turning on 'Reverse Proxy' will remove '/admin' from all API requests.";
-"instance_hideerrors" = "Hide Error Banners";
+"instance_reverseproxy_explainer" = "Attivando 'Reverse Proxy' sarà rimosso '/admin' da tutte le richieste API.";
+"instance_hideerrors" = "Nascondi i banner di errori";
 "instance_test_connection" = "Testa la connessione";
 "instance_remove" = "Rimuovi istanza";
 "instance_remove_alert_title" = "Rimuovi l'istanza Pi-hole";
@@ -327,21 +327,21 @@
 "preferences_home_navbar" = "Home";
 "preferences_home_display" = "Display";
 "preferences_home_check_for_updates" = "Controlla aggiornamenti";
-"preferences_home_data_from_label" = "'Data from' label";
+"preferences_home_data_from_label" = "Etichetta 'Dati da'";
 "preferences_home_usage_metrics" = "Metriche di utilizzo";
-"preferences_home_usage_metrics_vertical" = "Display Metrics Vertically";
+"preferences_home_usage_metrics_vertical" = "Mostra le metriche in verticale";
 "preferences_home_temperature_unit" = "Unità per la temperatura";
-"preferences_home_disable_blocking_presets" = "Disable Blocking Presets";
+"preferences_home_disable_blocking_presets" = "Disabilita i presets dei blocchi";
 "preferences_home_notifications" = "Notifiche";
-"preferences_home_notifications_footer" = "Will send a notification as soon as blocking is enabled again (after disabling blocking).";
+"preferences_home_notifications_footer" = "Sarà mandata una notifica appena il blocco sarà abilitato nuovamente (dopo averlo disabilitato).";
 "preferences_home_blocking_enabled" = "Blocco abilitato";
 "preferences_home_refresh" = "Aggiornamento";
-"preferences_home_refresh_footer" = "Will automatically refresh every 10 seconds when the Home-tab is opened and the app is in the foreground.";
+"preferences_home_refresh_footer" = "Sarà aggiornato automaticamente ogni 10 secondi quando la tab di Home è aperta e l'app è in primo piano.";
 "preferences_home_auto_refresh" = "Auto Aggiornamento";
 "preferences_statistics_navbar" = "Statistiche";
 "preferences_statistics_graphs" = "Grafici";
-"preferences_statistics_show_recent_queries" = "Show 'Recent Queries'";
-"preferences_statistics_hours_visible" = "Hours Visible";
+"preferences_statistics_show_recent_queries" = "Mostra le richieste recenti";
+"preferences_statistics_hours_visible" = "Ore visibili";
 "preferences_statistics_animate_graphs" = "Grafici animati";
 "preferences_statistics_animation_duration" = "Durata dell'animazione";
 "preferences_statistics_top_domains" = "Domini Top";
@@ -352,7 +352,7 @@
 "preferences_statistics_show_top_clients" = "Mostra i dispositivi top";
 "preferences_statistics_number_of_clients" = "Numero di dispositivi";
 "preferences_statistics_other" = "Altro";
-"preferences_statistics_other_footer" = "Show Pi-hole version, API version, and DNS cache information.";
+"preferences_statistics_other_footer" = "Mostra la versione di Pi-hole, la versione delle API e le informazione sulla cache DNS.";
 "preferences_statistics_show_other" = "Mostra altre info";
 "preferences_lists_navbar" = "Liste";
 "preferences_lists_display" = "Display";
@@ -395,8 +395,8 @@
 "tipjar_tip_ramen" = "Una ciotola di ramen";
 "tipjar_tip_sushi" = "Un sushi";
 "tipjar_blush" = "*blush*";
-"tipjar_thankyou_tip" = "Thank you for your generous tip!";
-"tipjar_thankyou_tips" = "Thank you for your generous tips!";
+"tipjar_thankyou_tip" = "Grazie per la tua mancia generosa!";
+"tipjar_thankyou_tips" = "Grazie per le tue mance generose!";
 "tipjar_thankyou_loveyou" = "Ti voglio bene! ❤️";
 "tipjar_testflight_explainer" = "Nota: stai utilizzando una build TestFlight, therefore payments run in Sandbox mode and do not actually process.\n\nIf you want to tip, please download the app from the App Store! After that you can download the beta again. Thanks!";
 "tipjar_payment_successful" = "Pagamento Riuscito";
@@ -426,7 +426,7 @@
 
 // MARK: Made by RocketScience
 "rocketscience_hi_title" = "Ciao, sono Joost!";
-"rocketscience_hi_subtitle" = "In June 2020 I started building my own apps as an independent developer, under the name 'RocketScience IT'.\n\nMy main goal is to learn: design, development, testing, support, promotion - maybe even more! Right now, I have two apps in the store which I'm continuously improving & have many ideas for other apps I might want to make in the future.";
+"rocketscience_hi_subtitle" = "A Giugno 2020 ho iniziato a creare le mie app come sviluppatore indipendente, sotto il nome di 'RocketScience IT'.\n\nIl mio obiettivo principale è di imparare: design, sviluppo, testing, supporto e promozione - e magari anche altro! Al momento, ho due app nello store che miglioro continuamente e ho tante idee per altre app che vorrei realizzare in futuro.";
 "rocketscience_website" = "Sito";
 "rocketscience_twitter" = "Twitter";
 "rocketscience_tipjar" = "Mancia";

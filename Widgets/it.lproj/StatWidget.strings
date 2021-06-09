@@ -222,7 +222,7 @@
 
 "LfwXuE-j5tl6I" = "Ci sono ${count} opzioni per ‘Blocked’.";
 
-"LldBql" = "WidgetQueries";
+"LldBql" = "Widget delle richieste";
 
 "MNziAp" = "Durata 2";
 
@@ -234,7 +234,7 @@
 
 "OsIXJN" = "Blu";
 
-"QfsqZh" = "Stats Text Widget";
+"QfsqZh" = "Widget per le statistiche";
 
 "RCLzIe-42Koi6" = "Solo per conferma, vuoi ‘System (Pure Black)’?";
 
@@ -246,7 +246,7 @@
 
 "RCLzIe-eHf5lH" = "Solo per conferma, vuoi ‘Scuro’?";
 
-"RLFPVX" = "Disable Widget";
+"RLFPVX" = "Disabilita Widget";
 
 "SIOS6E" = "Sconosciuto";
 
@@ -318,7 +318,7 @@
 
 "ZwOZTZ" = "Apri Log Richieste";
 
-"a81Lx9" = "Statistiche Disable Widget";
+"a81Lx9" = "Disabilita il Widget delle statistiche";
 
 "alorX8-42Koi6" = "Solo per conferma, vuoi ‘System (Pure Black)’?";
 
@@ -370,7 +370,7 @@
 
 "fcvHtM-wMJOmd" = "Ci sono ${count} opzioni per ‘Disabilita tutti per 1 minuto’.";
 
-"fjMa4e" = "Widget Grafico Interrogazioni";
+"fjMa4e" = "Widget Grafico Richieste";
 
 "fmQi7V" = "Disable Widget";
 
@@ -378,7 +378,7 @@
 
 "gf75h8" = "Indicatore di Stato";
 
-"gpCwrM" = "Stat Widget";
+"gpCwrM" = "Statistiche Widget";
 
 "hY8wJZ-Ixk02y" = "Solo per conferma, vuoi ‘Apri Statistiche’?";
 
@@ -390,7 +390,7 @@
 
 "hY8wJZ-wMJOmd" = "Solo per conferma, vuoi ‘Disable all for 1 minuto’?";
 
-"j5tl6I" = "Blockcate";
+"j5tl6I" = "Bloccate";
 
 "jiDiIB" = "Quale istanza vuoi mostrare?";
 
