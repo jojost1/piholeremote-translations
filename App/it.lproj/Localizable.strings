@@ -498,7 +498,7 @@
 
 // MARK: - Widgets
 "total" = "Totale";
-"blocked" = "Blockati";
+"blocked" = "Bloccati";
 "entries" = "Elementi";
 "queries" = "Interrogazioni";
 "blocklist" = "Blocklist";
