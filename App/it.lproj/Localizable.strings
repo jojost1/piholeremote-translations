@@ -401,7 +401,7 @@
 "tipjar_thankyou_tip" = "Grazie per la tua mancia generosa!";
 "tipjar_thankyou_tips" = "Grazie per le tue mance generose!";
 "tipjar_thankyou_loveyou" = "Ti voglio bene! ❤️";
-"tipjar_testflight_explainer" = "Nota: stai utilizzando una build TestFlight, per questo motivo i pagamenti vengono eseguiti in modalità Sandbox e non vengono realmente processati.\n\nSe vuoi lasciare una mancia, scaricare l'app dall'App Store! Dopo di questo potrai scaricare di nuovo la beta. Grazie!";
+"tipjar_testflight_explainer" = "Nota: stai utilizzando una build TestFlight, per questo motivo i pagamenti vengono eseguiti in modalità Sandbox e non vengono realmente processati.\n\nSe vuoi lasciare una mancia, scarica l'app dall'App Store! Dopo di questo potrai scaricare di nuovo la beta. Grazie!";
 "tipjar_payment_successful" = "Pagamento Riuscito";
 "tipjar_thankyou_alert" = "Grazie mille, apprezzo molto che l'app ti piacca a tal punto da lasciare una mancia. È estremamente motivante. Ti voglio bene!\n\nJoost";
 
