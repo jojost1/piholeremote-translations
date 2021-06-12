@@ -415,7 +415,7 @@
 "help_actions_watch" = "Forza Sincronizzazione Watch";
 "help_actions_widgets" = "Forza Sincronizzazione Widgets";
 "help_logs" = "Logs";
-"help_logs_footer" = "I log sono salvati localmente e non lasceranno mai il tuo dispositivo. Fai Swipe giù per uscire dalla visualizzaizone dei Logs.";
+"help_logs_footer" = "I log sono salvati localmente e non lasceranno mai il tuo dispositivo. Fai Swipe giù per uscire dalla visualizzazione dei Logs.";
 "help_logs_show" = "Mostra Logs";
 
 // MARK: Changelog
