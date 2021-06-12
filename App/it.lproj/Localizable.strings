@@ -124,7 +124,7 @@
 "querylog_status_blacklist_exact" = "Blacklist esatta";
 "querylog_status_blacklist_exact_cname" = "Blacklist esatta (CNAME)";
 "querylog_status_upstream_ip" = "Server di Upstream (IP)";
-"querylog_status_upstream_0000" = "Server di Upstream (0.0.0.0 or ::)";
+"querylog_status_upstream_0000" = "Server di Upstream (0.0.0.0 o ::)";
 "querylog_status_upstream_nxdomain" = "Server di Upstream (NXDOMAIN)";
 "querylog_status_gravity_cname" = "Gravity (CNAME)";
 "querylog_status_retried" = "Riprovato";
@@ -479,7 +479,7 @@
 "loading_dots" = "Caricamento...";
 "something_went_wrong" = "Qualcosa è andato storto.";
 "please_check_api_token" = "Per piacere controlla l'API Token e le impostazioni della privacy.";
-"could_not_get_data" = "Impossibile ottenre dati.";
+"could_not_get_data" = "Impossibile ottenere dati.";
 "no_queries_found" = "Nessuna richiesta trovata.";
 "search" = "Cerca";
 "refresh" = "Aggiorna";
