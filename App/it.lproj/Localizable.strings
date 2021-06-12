@@ -497,21 +497,21 @@
 "dots" = "...";
 
 // MARK: - Widgets
-"total" = "Total";
-"blocked" = "Blocked";
-"entries" = "Entries";
-"queries" = "Queries";
+"total" = "Totale";
+"blocked" = "Blockati";
+"entries" = "Elementi";
+"queries" = "Interrogazioni";
 "blocklist" = "Blocklist";
-"widget_statistic" = "Statistic";
-"widget_statistic_description" = "Keep an eye on one statistic.";
-"widget_statistics" = "Statistics";
-"widget_statistics_description" = "Keep an eye on all your statistics.";
-"widget_statistics_and_disable" = "Statistics & Disable";
-"widget_statistics_and_disable_description" = "Statistics with customizable buttons to quickly disable blocking.";
-"widget_querygraph" = "Query Graph";
-"widget_querygraph_description" = "Check in on your queries over time.";
-"widget_disable" = "Disable";
-"widget_disable_description" = "Quickly disable blocking with customizable buttons.";
+"widget_statistic" = "Statistiche";
+"widget_statistic_description" = "Tieni d'occhio una statistica.";
+"widget_statistics" = "Statistiche";
+"widget_statistics_description" = "Tieni d'occhio tutte le tue statistiche.";
+"widget_statistics_and_disable" = "Statistiche & Disabilita";
+"widget_statistics_and_disable_description" = "Statistiche con bottoni personalizzabili per disabilitare velocemente il blocco.";
+"widget_querygraph" = "Grafico Interrogazioni";
+"widget_querygraph_description" = "Controlla le interrogazioni nel tempo.";
+"widget_disable" = "Disabilita";
+"widget_disable_description" = "Disabilita velocemente il blocco con dei bottoni personalizzabili.";
 
 // MARK: - watchOS Specific
 "watchos_home_queries" = "Richieste";
