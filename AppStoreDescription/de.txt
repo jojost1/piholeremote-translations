@@ -1,68 +1,69 @@
-Pi-hole Remote is a third party Pi-hole application that lets you quickly enable/disable your Pi-hole, as well as add domains to your whitelist/blacklist and view statistics such as top allowed and blocked domains!
+Pi-hole Remote ist eine Pi-hole-Anwendung, mit der Du Dein Pi-hole schnell aktivieren und deaktivieren sowie Domains zu Deiner Whitelist/Blacklist hinzufügen und Statistiken wie die Top erlaubten und blockierten Domains einsehen kannst!
 
-*Disable Blocking*
-Quickly disable blocking for a few minutes with only a few taps. You can even use Siri Shortcuts to disable blocking with your voice! If you have multiple instances, you can disable blocking for all of them with one tap.
 
-*Statistics & Queries*
-Look up what domains are queried most on your network, as well as clients that send out the most requests. See queries sorted by domain, client, or type. You can even view a Live Log that shows requests in real-time!
+*Blockieren Deaktivieren*
+Deaktiviere die Blacklist-Funktion für ein paar Minuten mit nur ein paar Fingertipps. Du kannst sogar Siri-Shortcuts verwenden, um die Blockierung mit deiner Stimme zu deaktivieren! Wenn Du mehrere Pi-hole-Instanzen hast, kannst Du die Sperrung für alle Instanzen mit einem Tippen deaktivieren.
+
+*Statistiken & Anfragen*
+Schaue Dir an, welche Domains in Deinem Netzwerk am häufigsten abgefragt werden, sowie die Clients, die die meisten Anfragen aussenden. Sieh Dir Anfragen sortiert nach Domain, Client oder Typ an. Du kannst sogar ein Live-Protokoll anzeigen, das die Anfragen in Echtzeit darstellt!
 
 *White & Blacklist*
-Quickly add new entries to your lists inside the app or with the iOS Share Extension. You can also add entries in bulk and export list entries. If you have two Pi-hole instances, you can even automatically sync your lists!
+Füge schnell neue Einträge zu Deinen Listen innerhalb der App oder mit der iOS Share Extension hinzu. Du kannst auch Bulk-Einträge hinzufügen und Listeneinträge exportieren. Wenn Du zwei Pi-hole-Instanzen hast, kannst Du die Filterlisten sogar automatisch synchronisieren!
 
-*Homescreen Widgets (iOS 14)*
-Choose from a wide range of homescreen widgets that show statistics or a query-graph. All are customisable with a wide range of options!
-
-==
-
-iPhone, iPad, macOS features:
-- Disable Pi-hole blocking
-- View basic & advanced statistics
-- Add domains to your whitelist or blacklist (in bulk)
-- Export your list entries
-- Sync list entries between two instances
-- Full Query Log with search & filters
-- Live Log which shows queries in real-time
-- Support for up to 4 Pi-hole instances with combined statistics and queries
-- Support for scanning Pi-hole token QR code
-- Support for SSL, reverse proxies, and alternative Privacy Levels
-- Widgets (iOS 14 & macOS 11)
-- Siri Shortcuts & Quick Action
-- Share Extension for quick white/blacklisting
-- VoiceOver support
-- Dark Mode, custom color schemes, alternative app icons
-- Optimised design for iPadOS & macOS
-- Clean and modern 100% SwiftUI design
-
-Apple Watch features:
-- View basic statistics
-- Disable Pi-hole blocking
-- Complications
-
-Apple TV features:
-- View basic statistics
-- Disable Pi-hole blocking
-- Require Passcode on Disable
-
-Statistics:
-- Total Queries
-- Queries/Percentage Blocked
-- Blocklist + Gravity Last Updated
-- Temperature & Memory Usage
-- Graph Queries Overtime
-- Top Allowed Domains
-- Top Blocked Domains
-- Top Clients
-- Unique Domains/Clients
-- Clients Ever Seen
-- Queries Per Domain/Client
-- Query Types
-- Pi-hole Version
-- API Info
-- DNS Cache
-
-* The in-app-purchases are only there for the Tip Jar, to support future development of the app. This is completely optional.
+*Widgets (ab iOS 14)*
+Wähle aus einer breiten Palette von Widgets für den Homescreen, die Statistiken oder Anfrage-Diagramme anzeigen. Die Widgets sind mit vielen Optionen individuell anpassbar!
 
 ==
 
-Note: 
-You need at least one working Pi-hole instance running on another device for this app to function and you must use Pi-hole Version 5.1 or up. Find out more about Pi-hole at https://pi-hole.net/.
+iPhone, iPad, macOS-Features:
+- Pi-hole Blockierung deaktivieren/aktivieren
+- Einfache & erweiterte Statistiken einsehen
+- Domains zur Blacklist & Whitelist hinzufügen
+- Listen exportieren
+- Listen zwischen zwei Pi-hole-Instanzen synchronisieren
+- Vollständiges, filter- und sortierbares Anfrage-Log
+- Live Log-Funktion mit Echtzeitdaten
+- Bis zu 4 Pi-hole-Instanzen können darüber gepflegt werden und Statistiken gemeinsam erfasst werden
+- Unterstützung für den QR-Code mit dem API-Token
+- SSL-Unterstützung, Reverse Proxies und weitere Privatsphäreneinstellungen
+- Widgets (ab iOS 14 & macOS 11)
+- Siri Shortcuts & Kurzbefehle
+- Teilen-Erweiterung zum schnellen White- & Blacklisting
+- VoiceOver Unterstützung
+- Dark Mode, Benutzerdefinierte Farbschemen, alternative App-Icons
+- Für iPadOS & macOS optimiertes Design
+- Sauberes und modernes '100% SwiftUI-Design'
+
+Apple Watch-Features:
+- Einfache Statistiken einsehen
+- Pi-hole Blockierung deaktivieren/aktivieren
+- Komplikationen
+
+Apple TV-Features:
+- Einfache Statistiken einsehen
+- Pi-hole Blockierung deaktivieren/aktivieren
+- Passcodesperre für deaktivieren/aktivieren
+
+Statikstiken:
+- Vollständige Anfragen
+- Anfragen/Prozentualer Anteil blockiert
+- Letztes Update der Blocklist + Gravity
+- Temperatur und Speicherauslastung
+- Zeitbasierte Anfragen-Diagramme
+- Topliste erlaubte Domains
+- Topliste blockierte Domains
+- Topliste Netzwerkgeräte
+- Einzigartige Domains/Geräte
+- Gesamtzahl aller bisherigen Netzwerkgeräte
+- Anfragen pro Domain/Netzwerkgerät
+- Anfragetypen
+- Pi-hole-Version
+- API-Info
+- DNS-Cache
+
+* Die In-App-Käufe sind nur für das "Trinkgeldglas" da, um die zukünftige Entwicklung der App zu unterstützen. Dies ist völlig optional!
+
+==
+
+Hinweis: 
+Du benötigst mindestens eine funktionierende Pi-hole-Instanz, die auf einem anderen Gerät läuft, damit diese App funktioniert. Und Sie müssen Pi-hole Version 5.1 oder höher verwenden. Mehr Informationen zu Pi-hole auf https://pi-hole.net/.
