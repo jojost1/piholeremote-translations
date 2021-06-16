@@ -1,15 +1,15 @@
 
 /* Class = "UINavigationItem"; title = "Add to List"; ObjectID = "3HJ-uW-3hn"; */
-"3HJ-uW-3hn.title" = "Zu Liste hinzufügen";
+"3HJ-uW-3hn.title" = "Add to List";
 
 /* Class = "UILabel"; text = "Instance 2"; ObjectID = "CR1-vK-io1"; */
-"CR1-vK-io1.text" = "Instanz 2";
+"CR1-vK-io1.text" = "Instance 2";
 
 /* Class = "UILabel"; text = "Instance 1"; ObjectID = "GSO-7S-TA0"; */
-"GSO-7S-TA0.text" = "Instanz 1";
+"GSO-7S-TA0.text" = "Instance 1";
 
 /* Class = "UIViewController"; title = "Image"; ObjectID = "ObA-dk-sSI"; */
-"ObA-dk-sSI.title" = "Bild";
+"ObA-dk-sSI.title" = "Image";
 
 /* Class = "UITextField"; placeholder = "Domain"; ObjectID = "Qbt-JN-40t"; */
 "Qbt-JN-40t.placeholder" = "Domain";
