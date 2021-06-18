@@ -6,5 +6,5 @@
   Copyright © 2021 RocketScience. All rights reserved.
 */
 
-"NSCameraUsageDescription" = "Pi-hole Remote uses your camera to scan your Pi-hole API token QR-code.";
-"NSLocalNetworkUsageDescription" = "Pi-hole Remote uses the local network to connect with your Pi-hole instances.";
+"NSCameraUsageDescription" = "Pi-hole Remote utilise votre caméra pour scanner le QR-code du jeton de l'API de Pi-hole.";
+"NSLocalNetworkUsageDescription" = "Pi-hole Remote utilise votre réseau local pour vous connecter à vos instances Pi-hole.";

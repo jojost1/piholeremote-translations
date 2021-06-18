@@ -434,13 +434,13 @@
 "changelog_just_updated" = "Dernière mise à jour !";
 "changelog_current_version" = "Actuellement";
 "changelog_continue" = "Continuez";
-"changelog_settings" = "Paramètres du journal de modification'";
-"changelog_settings_show" = "Afficher après une mise à jour sur l'accueil";
-"changelog_settings_show_footer" = "Le journal des modifications ne sera affiché que pour les mises à jour des fonctionnalités, et non pour les mises à jour qui ne contiennent que des corrections de bugs.";
+"changelog_settings" = "Paramètres des notes de version'";
+"changelog_settings_show" = "Afficher sur l'accueil après une mise à jour";
+"changelog_settings_show_footer" = "Les notes de version ne seront affichées que pour les mises à jour des fonctionnalités, et non pour les mises à jour qui ne contiennent que des corrections de bugs.";
 
 // MARK: Made by RocketScience
 "rocketscience_hi_title" = "Salut, je suis Joost !";
-"rocketscience_hi_subtitle" = "En juin 2020 j'ai commencé à créer mes propres applications en tant développeur indépendant, sous le nom de 'RocketScience IT'.\n\nMon but premier est d'apprendre: design, developpement, tests, assistance, promotion - peut-être même plus! A l'heure actuelle, j'ai deux apps dans le store pour lesquelles j'effectue constamment des améliorations et j'ai plein d'idées pour d'autres apps que je pourrais créer à l'avenir.";
+"rocketscience_hi_subtitle" = "En juin 2020 j'ai commencé à créer mes propres applications en tant que développeur indépendant, sous le nom de 'RocketScience IT'.\n\nMon but premier est d'apprendre : design, developpement, tests, assistance, promotion - peut-être même plus ! A l'heure actuelle, j'ai deux apps dans le store pour lesquelles j'effectue constamment des améliorations et j'ai plein d'idées pour d'autres apps que je pourrais créer à l'avenir.";
 "rocketscience_website" = "Site web";
 "rocketscience_twitter" = "Twitter";
 "rocketscience_tipjar" = "Pourboires";
