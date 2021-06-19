@@ -3,6 +3,7 @@
   Pi-hole Remote
 
   Created by Joost van den Akker on 25/04/2021.
+  Translated by Krystian Postek
   Copyright © 2021 RocketScience. All rights reserved.
 */
 
@@ -33,7 +34,7 @@
 "home_enable_blocking_pihole" = "Włącz blokowanie Pi-Hole";
 "home_enable_blocking_alert_%@" = "Jesteś pewien, że chcesz włączyć blokowanie dla %@?";
 "home_enable_%@_disabled_until_%@" = "Włącz (%@wyłączone do %@)";
-"home_data_from_%@" = "Dane z %@";
+"home_data_from_%@" = "Dane pobrane z %@";
 "home_update_gravity" = "Zaktualizuj Gravity";
 "home_update_gravity_explainer" = "Dla której instancji przejść do \"/admin/gravity\"?";
 "home_update_gravity_alert_body_%@" = "Zaktualizowano Gravity dla instancji %@";
@@ -53,7 +54,7 @@
 "usage_metrics_cpu_15min" = "Ostatnie 15 minut";
 "usage_metrics_cpu_usage_alert" = "Te procenty przedstawiają zużycie CPU w ostatnim czasie.\n\nZazwyczaj 70% zużycia uważa się za prawidłowe. Jeżeli stale przekraczasz 70%, zastanów się nad mocniejszym hostem.";
 "usage_metrics_memory" = "Pamięć";
-"usage_metrics_data_from_%@" = "\nDane z: %@";
+"usage_metrics_data_from_%@" = "\nDane pobrane z: %@";
 "usage_metrics_error" = "Błąd podczas pobierania danych.";
 
 // MARK: Custom Disable
@@ -330,7 +331,7 @@
 "preferences_home_navbar" = "Strona główna";
 "preferences_home_display" = "Display";
 "preferences_home_check_for_updates" = "Sprawdź dostępność aktualizacji";
-"preferences_home_data_from_label" = "Etykieta „Dane od”";
+"preferences_home_data_from_label" = "Etykieta „Dane pobrane z: ”";
 "preferences_home_usage_metrics" = "Pomiary zużycia";
 "preferences_home_usage_metrics_vertical" = "Wyświetlaj wartości pionowo";
 "preferences_home_temperature_unit" = "Jednostki temperatury";
