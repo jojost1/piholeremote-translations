@@ -109,6 +109,7 @@
 "graphs_allowed" = "Permitidas";
 "graphs_blocked" = "Bloqueadas";
 "graphs_query_types" = "Tipos de Consulta";
+"graphs_answered_by" = "Answered By";
 
 // MARK: - QueryLog-tab
 "querylog_navbar" = "Registro de Consultas";

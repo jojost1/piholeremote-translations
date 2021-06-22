@@ -109,6 +109,7 @@
 "graphs_allowed" = "Дозволені";
 "graphs_blocked" = "Заблоковані";
 "graphs_query_types" = "Типи запитів";
+"graphs_answered_by" = "Answered By";
 
 // MARK: - QueryLog-tab
 "querylog_navbar" = "Журнал запитів";

@@ -109,6 +109,7 @@
 "graphs_allowed" = "Επιτρεπόμενα";
 "graphs_blocked" = "Αποκλεισμένα";
 "graphs_query_types" = "Τύποι ερωτημάτων";
+"graphs_answered_by" = "Answered By";
 
 // MARK: - QueryLog-tab
 "querylog_navbar" = "Αρχείο ερωτημάτων";

@@ -109,6 +109,7 @@
 "graphs_allowed" = "Autorisé";
 "graphs_blocked" = "Bloqué";
 "graphs_query_types" = "Types de requêtes";
+"graphs_answered_by" = "Answered By";
 
 // MARK: - QueryLog-tab
 "querylog_navbar" = "Journal";

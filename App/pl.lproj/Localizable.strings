@@ -2,8 +2,7 @@
   Localizable.strings
   Pi-hole Remote
 
-  Created by Joost van den Akker on 25/04/2021.
-  Translated by Krystian Postek
+  Created by Joost van den Akker on 25/04/2021. Translated by Krystian Postek
   Copyright © 2021 RocketScience. All rights reserved.
 */
 
@@ -110,6 +109,7 @@
 "graphs_allowed" = "Dozwolone";
 "graphs_blocked" = "Zabolkowane";
 "graphs_query_types" = "Typy zapytań";
+"graphs_answered_by" = "Answered By";
 
 // MARK: - QueryLog-tab
 "querylog_navbar" = "Logi zapytań";
