@@ -1,37 +1,37 @@
-"52ZpIp" = "Enable blocking of all Pi-hole instances.";
+"52ZpIp" = "啟用所有 Pi-hole 實例的封鎖。";
 
-"5NF9k6" = "Blocking is disabled.";
+"5NF9k6" = "封鎖被禁用。";
 
-"5ojS3R" = "Disable Blocking";
+"5ojS3R" = "禁用封鎖";
 
-"9FPMmR" = "${displayName} can’t be negative.";
+"9FPMmR" = "${displayName} 不能為負。";
 
-"DV9FMe" = "${displayName} can’t be lower than ${minimumValue}.";
+"DV9FMe" = "${displayName} 不能低於 ${minimumValue}。";
 
-"DWtISX" = "Disable Pi-hole blocking for ${duration} seconds on all instances";
+"DWtISX" = "計 ${duration} 秒對所有的實例禁用 Pi-hole 封鎖";
 
-"M5KC9R" = "${displayName} can’t be higher than ${maximumValue}.";
+"M5KC9R" = "${displayName} 不能高於 ${maximumValue}。";
 
-"NCc7a7" = "Duration (seconds)";
+"NCc7a7" = "期間（秒）";
 
-"ONPW00" = "Something went wrong.";
+"ONPW00" = "某事物出現問題。";
 
-"Q3m6RA" = "Enable Blocking";
+"Q3m6RA" = "啟用封鎖";
 
-"ReHHsS" = "For what duration (in seconds)?";
+"ReHHsS" = "計多少期間（以秒數）？";
 
-"ReQD4w" = "Enable Pi-hole blocking on all instances";
+"ReQD4w" = "對所有的實例啟用 Pi-hole 封鎖";
 
-"WEZcVp" = "Something went wrong.";
+"WEZcVp" = "某事物出現問題。";
 
-"ZGxE4l" = "Blocking is enabled.";
+"ZGxE4l" = "封鎖被啟用。";
 
-"bsYmWU" = "Blocking is enabled.";
+"bsYmWU" = "封鎖被啟用。";
 
-"fh8rEK" = "Disable blocking of all Pi-hole instances for a certain duration.";
+"fh8rEK" = "計某些期間禁用所有 Pi-hole 實例的封鎖。";
 
-"qJR6Qa" = "Result";
+"qJR6Qa" = "結果";
 
-"y2Dkc8" = "Result";
+"y2Dkc8" = "結果";
 
-"zI7r5m" = "Blocking is disabled.";
+"zI7r5m" = "封鎖被禁用。";
