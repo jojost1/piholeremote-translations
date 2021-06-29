@@ -1,543 +1,543 @@
-"0bxmfo-IgP3Na" = "Just to confirm, you wanted ‘1 hour’?";
+"0bxmfo-IgP3Na" = "只是確認，您想要‘1 小時’嗎？";
 
-"0bxmfo-VLERQ1" = "Just to confirm, you wanted ‘15 minutes’?";
+"0bxmfo-VLERQ1" = "只是確認，您想要‘15 分鐘’嗎？";
 
-"0bxmfo-XwHq84" = "Just to confirm, you wanted ‘24 hours’?";
+"0bxmfo-XwHq84" = "只是確認，您想要‘24 小時’嗎？";
 
-"0bxmfo-YT1Pew" = "Just to confirm, you wanted ‘8 hours’?";
+"0bxmfo-YT1Pew" = "只是確認，您想要‘8 小時’嗎？";
 
-"0bxmfo-uqnZUq" = "Just to confirm, you wanted ‘30 minutes’?";
+"0bxmfo-uqnZUq" = "只是確認，您想要‘30 分鐘’嗎？";
 
-"0bxmfo-xDxdFy" = "Just to confirm, you wanted ‘5 minutes’?";
+"0bxmfo-xDxdFy" = "只是確認，您想要‘5 分鐘’嗎？";
 
-"0bxmfo-xLSa62" = "Just to confirm, you wanted ‘1 minute’?";
+"0bxmfo-xLSa62" = "只是確認，您想要‘1 分鐘’嗎？";
 
-"0bxmfo-zQ6Jw8" = "Just to confirm, you wanted ‘30 seconds’?";
+"0bxmfo-zQ6Jw8" = "只是確認，您想要‘30 秒’嗎？";
 
-"0muj7e" = "Appearance";
+"0muj7e" = "外觀";
 
-"22mMz8" = "What instance to display?";
+"22mMz8" = "要顯示什麼實例呢？";
 
-"2M6piF" = "Instance";
+"2M6piF" = "實例";
 
-"3lbWkQ" = "Appearance";
+"3lbWkQ" = "外觀";
 
-"42Koi6" = "System (Pure Black)";
+"42Koi6" = "系統（純黑色）";
 
-"5FTVc8" = "Duration 2";
+"5FTVc8" = "期間 2";
 
-"5JYHmU" = "Instance";
+"5JYHmU" = "實例";
 
-"5LhKeC-42Koi6" = "There are ${count} options matching ‘System (Pure Black)’.";
+"5LhKeC-42Koi6" = "有 ${count} 個與‘系統（純黑色）’相符的選項。";
 
-"5LhKeC-Ey6npg" = "There are ${count} options matching ‘Light’.";
+"5LhKeC-Ey6npg" = "有 ${count} 個與‘淺色’相符的選項。";
 
-"5LhKeC-VEO3IS" = "There are ${count} options matching ‘System’.";
+"5LhKeC-VEO3IS" = "有 ${count} 個與‘系統’相符的選項。";
 
-"5LhKeC-YW3QEp" = "There are ${count} options matching ‘Dark (Pure Black)’.";
+"5LhKeC-YW3QEp" = "有 ${count} 個與‘深色（純黑色）’相符的選項。";
 
-"5LhKeC-eHf5lH" = "There are ${count} options matching ‘Dark’.";
+"5LhKeC-eHf5lH" = "有 ${count} 個與‘深色’相符的選項。";
 
-"6gOngz" = "What instance to display?";
+"6gOngz" = "要顯示什麼實例呢？";
 
-"7HcZp4" = "What instance to display?";
+"7HcZp4" = "要顯示什麼實例呢？";
 
-"7MuxdM-IgP3Na" = "Just to confirm, you wanted ‘1 hour’?";
+"7MuxdM-IgP3Na" = "只是確認，您想要‘1 小時’嗎？";
 
-"7MuxdM-VLERQ1" = "Just to confirm, you wanted ‘15 minutes’?";
+"7MuxdM-VLERQ1" = "只是確認，您想要‘15 分鐘’嗎？";
 
-"7MuxdM-XwHq84" = "Just to confirm, you wanted ‘24 hours’?";
+"7MuxdM-XwHq84" = "只是確認，您想要‘24 小時’嗎？";
 
-"7MuxdM-YT1Pew" = "Just to confirm, you wanted ‘8 hours’?";
+"7MuxdM-YT1Pew" = "只是確認，您想要‘8 小時’嗎？";
 
-"7MuxdM-uqnZUq" = "Just to confirm, you wanted ‘30 minutes’?";
+"7MuxdM-uqnZUq" = "只是確認，您想要‘30 分鐘’嗎？";
 
-"7MuxdM-xDxdFy" = "Just to confirm, you wanted ‘5 minutes’?";
+"7MuxdM-xDxdFy" = "只是確認，您想要‘5 分鐘’嗎？";
 
-"7MuxdM-xLSa62" = "Just to confirm, you wanted ‘1 minute’?";
+"7MuxdM-xLSa62" = "只是確認，您想要‘1 分鐘’嗎？";
 
-"7MuxdM-zQ6Jw8" = "Just to confirm, you wanted ‘30 seconds’?";
+"7MuxdM-zQ6Jw8" = "只是確認，您想要‘30 秒’嗎？";
 
-"7fM7XI" = "Duration 4";
+"7fM7XI" = "期間 4";
 
-"7gfPrG" = "Instance";
+"7gfPrG" = "實例";
 
-"8Udkqh" = "All";
+"8Udkqh" = "所有的";
 
-"8kg56g-Ixk02y" = "There are ${count} options matching ‘Open Statistics’.";
+"8kg56g-Ixk02y" = "有 ${count} 個與‘開啟統計資料’相符的選項。";
 
-"8kg56g-ZwOZTZ" = "There are ${count} options matching ‘Open Query Log’.";
+"8kg56g-ZwOZTZ" = "有 ${count} 個與‘開啟查詢記錄’相符的選項。";
 
-"8kg56g-awUBTf" = "There are ${count} options matching ‘Open Home’.";
+"8kg56g-awUBTf" = "有 ${count} 個與‘開啟首頁’相符的選項。";
 
-"8kg56g-nqHRwh" = "There are ${count} options matching ‘Open Lists’.";
+"8kg56g-nqHRwh" = "有 ${count} 個與‘開啟清單’相符的選項。";
 
-"8kg56g-wMJOmd" = "There are ${count} options matching ‘Disable all for 1 minute’.";
+"8kg56g-wMJOmd" = "有 ${count} 個與‘計 1 分鐘禁用全部’相符的選項。";
 
-"8w3JVZ" = "Instance";
+"8w3JVZ" = "實例";
 
-"9gOTeN" = "Duration 1";
+"9gOTeN" = "期間 1";
 
-"9hXLZd" = "Instance";
+"9hXLZd" = "實例";
 
-"9rFgTD-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
+"9rFgTD-IgP3Na" = "有 ${count} 個與‘1 小時’相符的選項。";
 
-"9rFgTD-VLERQ1" = "There are ${count} options matching ‘15 minutes’.";
+"9rFgTD-VLERQ1" = "有 ${count} 個與‘15 分鐘’相符的選項。";
 
-"9rFgTD-XwHq84" = "There are ${count} options matching ‘24 hours’.";
+"9rFgTD-XwHq84" = "有 ${count} 個與‘24 小時’相符的選項。";
 
-"9rFgTD-YT1Pew" = "There are ${count} options matching ‘8 hours’.";
+"9rFgTD-YT1Pew" = "有 ${count} 個與‘8 小時’相符的選項。";
 
-"9rFgTD-uqnZUq" = "There are ${count} options matching ‘30 minutes’.";
+"9rFgTD-uqnZUq" = "有 ${count} 個與‘30 分鐘’相符的選項。";
 
-"9rFgTD-xDxdFy" = "There are ${count} options matching ‘5 minutes’.";
+"9rFgTD-xDxdFy" = "有 ${count} 個與‘5 分鐘’相符的選項。";
 
-"9rFgTD-xLSa62" = "There are ${count} options matching ‘1 minute’.";
+"9rFgTD-xLSa62" = "有 ${count} 個與‘1 分鐘’相符的選項。";
 
-"9rFgTD-zQ6Jw8" = "There are ${count} options matching ‘30 seconds’.";
+"9rFgTD-zQ6Jw8" = "有 ${count} 個與‘30 秒’相符的選項。";
 
-"AJ9lZE-42Koi6" = "Just to confirm, you wanted ‘System (Pure Black)’?";
+"AJ9lZE-42Koi6" = "只是確認，您想要‘系統（純黑色）’嗎？";
 
-"AJ9lZE-Ey6npg" = "Just to confirm, you wanted ‘Light’?";
+"AJ9lZE-Ey6npg" = "只是確認，您想要‘淺色’嗎？";
 
-"AJ9lZE-VEO3IS" = "Just to confirm, you wanted ‘System’?";
+"AJ9lZE-VEO3IS" = "只是確認，您想要‘系統’嗎？";
 
-"AJ9lZE-YW3QEp" = "Just to confirm, you wanted ‘Dark (Pure Black)’?";
+"AJ9lZE-YW3QEp" = "只是確認，您想要‘深色（純黑色）’嗎？";
 
-"AJ9lZE-eHf5lH" = "Just to confirm, you wanted ‘Dark’?";
+"AJ9lZE-eHf5lH" = "只是確認，您想要‘深色’嗎？";
 
-"AKytWQ" = "Appearance";
+"AKytWQ" = "外觀";
 
-"AlpZki" = "Queries";
+"AlpZki" = "查詢";
 
-"BAafIW" = "Appearance";
+"BAafIW" = "外觀";
 
-"BILqn3" = "Percent Blocked";
+"BILqn3" = "已封鎖的百分率";
 
-"CVEdAO" = "Appearance";
+"CVEdAO" = "外觀";
 
-"Ck4LzC-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
+"Ck4LzC-IgP3Na" = "有 ${count} 個與‘1 小時’相符的選項。";
 
-"Ck4LzC-VLERQ1" = "There are ${count} options matching ‘15 minutes’.";
+"Ck4LzC-VLERQ1" = "有 ${count} 個與‘15 分鐘’相符的選項。";
 
-"Ck4LzC-XwHq84" = "There are ${count} options matching ‘24 hours’.";
+"Ck4LzC-XwHq84" = "有 ${count} 個與‘24 小時’相符的選項。";
 
-"Ck4LzC-YT1Pew" = "There are ${count} options matching ‘8 hours’.";
+"Ck4LzC-YT1Pew" = "有 ${count} 個與‘8 小時’相符的選項。";
 
-"Ck4LzC-uqnZUq" = "There are ${count} options matching ‘30 minutes’.";
+"Ck4LzC-uqnZUq" = "有 ${count} 個與‘30 分鐘’相符的選項。";
 
-"Ck4LzC-xDxdFy" = "There are ${count} options matching ‘5 minutes’.";
+"Ck4LzC-xDxdFy" = "有 ${count} 個與‘5 分鐘’相符的選項。";
 
-"Ck4LzC-xLSa62" = "There are ${count} options matching ‘1 minute’.";
+"Ck4LzC-xLSa62" = "有 ${count} 個與‘1 分鐘’相符的選項。";
 
-"Ck4LzC-zQ6Jw8" = "There are ${count} options matching ‘30 seconds’.";
+"Ck4LzC-zQ6Jw8" = "有 ${count} 個與‘30 秒’相符的選項。";
 
-"CkCBJU" = "Color";
+"CkCBJU" = "色彩";
 
-"CrtSD6-IgP3Na" = "Just to confirm, you wanted ‘1 hour’?";
+"CrtSD6-IgP3Na" = "只是確認，您想要‘1 小時’嗎？";
 
-"CrtSD6-VLERQ1" = "Just to confirm, you wanted ‘15 minutes’?";
+"CrtSD6-VLERQ1" = "只是確認，您想要‘15 分鐘’嗎？";
 
-"CrtSD6-XwHq84" = "Just to confirm, you wanted ‘24 hours’?";
+"CrtSD6-XwHq84" = "只是確認，您想要‘24 小時’嗎？";
 
-"CrtSD6-YT1Pew" = "Just to confirm, you wanted ‘8 hours’?";
+"CrtSD6-YT1Pew" = "只是確認，您想要‘8 小時’嗎？";
 
-"CrtSD6-uqnZUq" = "Just to confirm, you wanted ‘30 minutes’?";
+"CrtSD6-uqnZUq" = "只是確認，您想要‘30 分鐘’嗎？";
 
-"CrtSD6-xDxdFy" = "Just to confirm, you wanted ‘5 minutes’?";
+"CrtSD6-xDxdFy" = "只是確認，您想要‘5 分鐘’嗎？";
 
-"CrtSD6-xLSa62" = "Just to confirm, you wanted ‘1 minute’?";
+"CrtSD6-xLSa62" = "只是確認，您想要‘1 分鐘’嗎？";
 
-"CrtSD6-zQ6Jw8" = "Just to confirm, you wanted ‘30 seconds’?";
+"CrtSD6-zQ6Jw8" = "只是確認，您想要‘30 秒’嗎？";
 
-"CzBWV3" = "Duration 1";
+"CzBWV3" = "期間 1";
 
-"DIItEm" = "Allowed";
+"DIItEm" = "已允許的";
 
-"DJJsur" = "Widget Disable Duration";
+"DJJsur" = "禁用期間小工具";
 
-"DvY8Eg" = "Green";
+"DvY8Eg" = "綠色";
 
-"EUst6o" = "Status Indicator";
+"EUst6o" = "狀態指標";
 
-"Ey6npg" = "Light";
+"Ey6npg" = "淺色";
 
-"G5RUst" = "Tap Action";
+"G5RUst" = "輕觸動作";
 
-"G9xiY4-Ixk02y" = "Just to confirm, you wanted ‘Open Statistics’?";
+"G9xiY4-Ixk02y" = "只是確認，您想要‘開啟統計資料’嗎？";
 
-"G9xiY4-ZwOZTZ" = "Just to confirm, you wanted ‘Open Query Log’?";
+"G9xiY4-ZwOZTZ" = "只是確認，您想要‘開啟查詢記錄’嗎？";
 
-"G9xiY4-awUBTf" = "Just to confirm, you wanted ‘Open Home’?";
+"G9xiY4-awUBTf" = "只是確認，您想要‘開啟首頁’嗎？";
 
-"G9xiY4-nqHRwh" = "Just to confirm, you wanted ‘Open Lists’?";
+"G9xiY4-nqHRwh" = "只是確認，您想要‘開啟清單’嗎？";
 
-"G9xiY4-wMJOmd" = "Just to confirm, you wanted ‘Disable all for 1 minute’?";
+"G9xiY4-wMJOmd" = "只是確認，您想要‘計 1 分鐘禁用全部’嗎？";
 
-"Hb868n" = "Orange";
+"Hb868n" = "橙色";
 
-"IbhH23" = "Hide";
+"IbhH23" = "隱藏";
 
-"IgP3Na" = "1 hour";
+"IgP3Na" = "1 小時";
 
-"Ixk02y" = "Open Statistics";
+"Ixk02y" = "開啟統計資料";
 
-"J9L8YR-42Koi6" = "There are ${count} options matching ‘System (Pure Black)’.";
+"J9L8YR-42Koi6" = "有 ${count} 個與‘系統（純黑色）’相符的選項。";
 
-"J9L8YR-Ey6npg" = "There are ${count} options matching ‘Light’.";
+"J9L8YR-Ey6npg" = "有 ${count} 個與‘淺色’相符的選項。";
 
-"J9L8YR-VEO3IS" = "There are ${count} options matching ‘System’.";
+"J9L8YR-VEO3IS" = "有 ${count} 個與‘系統’相符的選項。";
 
-"J9L8YR-YW3QEp" = "There are ${count} options matching ‘Dark (Pure Black)’.";
+"J9L8YR-YW3QEp" = "有 ${count} 個與‘深色（純黑色）’相符的選項。";
 
-"J9L8YR-eHf5lH" = "There are ${count} options matching ‘Dark’.";
+"J9L8YR-eHf5lH" = "有 ${count} 個與‘深色’相符的選項。";
 
-"JTTM7K" = "Status Indicator";
+"JTTM7K" = "狀態指標";
 
-"Jmbf6v" = "Color";
+"Jmbf6v" = "色彩";
 
-"KL0j9K" = "Show";
+"KL0j9K" = "顯示";
 
-"KWaHmV-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
+"KWaHmV-IgP3Na" = "有 ${count} 個與‘1 小時’相符的選項。";
 
-"KWaHmV-VLERQ1" = "There are ${count} options matching ‘15 minutes’.";
+"KWaHmV-VLERQ1" = "有 ${count} 個與‘15 分鐘’相符的選項。";
 
-"KWaHmV-XwHq84" = "There are ${count} options matching ‘24 hours’.";
+"KWaHmV-XwHq84" = "有 ${count} 個與‘24 小時’相符的選項。";
 
-"KWaHmV-YT1Pew" = "There are ${count} options matching ‘8 hours’.";
+"KWaHmV-YT1Pew" = "有 ${count} 個與‘8 小時’相符的選項。";
 
-"KWaHmV-uqnZUq" = "There are ${count} options matching ‘30 minutes’.";
+"KWaHmV-uqnZUq" = "有 ${count} 個與‘30 分鐘’相符的選項。";
 
-"KWaHmV-xDxdFy" = "There are ${count} options matching ‘5 minutes’.";
+"KWaHmV-xDxdFy" = "有 ${count} 個與‘5 分鐘’相符的選項。";
 
-"KWaHmV-xLSa62" = "There are ${count} options matching ‘1 minute’.";
+"KWaHmV-xLSa62" = "有 ${count} 個與‘1 分鐘’相符的選項。";
 
-"KWaHmV-zQ6Jw8" = "There are ${count} options matching ‘30 seconds’.";
+"KWaHmV-zQ6Jw8" = "有 ${count} 個與‘30 秒’相符的選項。";
 
-"LeRij8" = "What instance to display?";
+"LeRij8" = "要顯示什麼實例呢？";
 
-"LfwXuE-8Udkqh" = "There are ${count} options matching ‘All’.";
+"LfwXuE-8Udkqh" = "有 ${count} 個與‘所有的’相符的選項。";
 
-"LfwXuE-DIItEm" = "There are ${count} options matching ‘Allowed’.";
+"LfwXuE-DIItEm" = "有 ${count} 個與‘已允許的’相符的選項。";
 
-"LfwXuE-j5tl6I" = "There are ${count} options matching ‘Blocked’.";
+"LfwXuE-j5tl6I" = "有 ${count} 個與‘已封鎖的’相符的選項。";
 
-"LldBql" = "WidgetQueries";
+"LldBql" = "查詢小工具";
 
-"MNziAp" = "Duration 2";
+"MNziAp" = "期間 2";
 
-"NYeFKn" = "Blocklist";
+"NYeFKn" = "封鎖清單";
 
-"NznF5w" = "Duration 3";
+"NznF5w" = "期間 3";
 
-"OYA8gF" = "Widget Tap Action";
+"OYA8gF" = "輕觸動作小工具";
 
-"OsIXJN" = "Blue";
+"OsIXJN" = "藍色";
 
-"QfsqZh" = "Stats Text Widget";
+"QfsqZh" = "統計資料文字小工具";
 
-"RCLzIe-42Koi6" = "Just to confirm, you wanted ‘System (Pure Black)’?";
+"RCLzIe-42Koi6" = "只是確認，您想要‘系統（純黑色）’嗎？";
 
-"RCLzIe-Ey6npg" = "Just to confirm, you wanted ‘Light’?";
+"RCLzIe-Ey6npg" = "只是確認，您想要‘淺色’嗎？";
 
-"RCLzIe-VEO3IS" = "Just to confirm, you wanted ‘System’?";
+"RCLzIe-VEO3IS" = "只是確認，您想要‘系統’嗎？";
 
-"RCLzIe-YW3QEp" = "Just to confirm, you wanted ‘Dark (Pure Black)’?";
+"RCLzIe-YW3QEp" = "只是確認，您想要‘深色（純黑色）’嗎？";
 
-"RCLzIe-eHf5lH" = "Just to confirm, you wanted ‘Dark’?";
+"RCLzIe-eHf5lH" = "只是確認，您想要‘深色’嗎？";
 
-"RLFPVX" = "Disable Widget";
+"RLFPVX" = "禁用小工具";
 
-"SIOS6E" = "Unknown";
+"SIOS6E" = "未知的";
 
-"T9gWpc-BILqn3" = "There are ${count} options matching ‘Percent Blocked’.";
+"T9gWpc-BILqn3" = "有 ${count} 個與‘已封鎖的百分率’相符的選項。";
 
-"T9gWpc-NYeFKn" = "There are ${count} options matching ‘Blocklist’.";
+"T9gWpc-NYeFKn" = "有 ${count} 個與‘封鎖清單’相符的選項。";
 
-"T9gWpc-XmVw2S" = "There are ${count} options matching ‘Total Queries’.";
+"T9gWpc-XmVw2S" = "有 ${count} 個與‘全部的查詢’相符的選項。";
 
-"T9gWpc-YFrrAR" = "There are ${count} options matching ‘Queries Blocked’.";
+"T9gWpc-YFrrAR" = "有 ${count} 個與‘已封鎖的查詢’相符的選項。";
 
-"T9gWpc-nIDolD" = "There are ${count} options matching ‘Unknown’.";
+"T9gWpc-nIDolD" = "有 ${count} 個與‘未知的’相符的選項。";
 
-"UVDY6A-Ixk02y" = "There are ${count} options matching ‘Open Statistics’.";
+"UVDY6A-Ixk02y" = "有 ${count} 個與‘開啟統計資料’相符的選項。";
 
-"UVDY6A-ZwOZTZ" = "There are ${count} options matching ‘Open Query Log’.";
+"UVDY6A-ZwOZTZ" = "有 ${count} 個與‘開啟查詢記錄’相符的選項。";
 
-"UVDY6A-awUBTf" = "There are ${count} options matching ‘Open Home’.";
+"UVDY6A-awUBTf" = "有 ${count} 個與‘開啟首頁’相符的選項。";
 
-"UVDY6A-nqHRwh" = "There are ${count} options matching ‘Open Lists’.";
+"UVDY6A-nqHRwh" = "有 ${count} 個與‘開啟清單’相符的選項。";
 
-"UVDY6A-wMJOmd" = "There are ${count} options matching ‘Disable all for 1 minute’.";
+"UVDY6A-wMJOmd" = "有 ${count} 個與‘計 1 分鐘禁用全部’相符的選項。";
 
-"UkA3eM-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
+"UkA3eM-IgP3Na" = "有 ${count} 個與‘1 小時’相符的選項。";
 
-"UkA3eM-VLERQ1" = "There are ${count} options matching ‘15 minutes’.";
+"UkA3eM-VLERQ1" = "有 ${count} 個與‘15 分鐘’相符的選項。";
 
-"UkA3eM-XwHq84" = "There are ${count} options matching ‘24 hours’.";
+"UkA3eM-XwHq84" = "有 ${count} 個與‘24 小時’相符的選項。";
 
-"UkA3eM-YT1Pew" = "There are ${count} options matching ‘8 hours’.";
+"UkA3eM-YT1Pew" = "有 ${count} 個與‘8 小時’相符的選項。";
 
-"UkA3eM-uqnZUq" = "There are ${count} options matching ‘30 minutes’.";
+"UkA3eM-uqnZUq" = "有 ${count} 個與‘30 分鐘’相符的選項。";
 
-"UkA3eM-xDxdFy" = "There are ${count} options matching ‘5 minutes’.";
+"UkA3eM-xDxdFy" = "有 ${count} 個與‘5 分鐘’相符的選項。";
 
-"UkA3eM-xLSa62" = "There are ${count} options matching ‘1 minute’.";
+"UkA3eM-xLSa62" = "有 ${count} 個與‘1 分鐘’相符的選項。";
 
-"UkA3eM-zQ6Jw8" = "There are ${count} options matching ‘30 seconds’.";
+"UkA3eM-zQ6Jw8" = "有 ${count} 個與‘30 秒’相符的選項。";
 
-"VEO3IS" = "System";
+"VEO3IS" = "系統";
 
-"VLERQ1" = "15 minutes";
+"VLERQ1" = "15 分鐘";
 
-"W4Ek1o-42Koi6" = "Just to confirm, you wanted ‘System (Pure Black)’?";
+"W4Ek1o-42Koi6" = "只是確認，您想要‘系統（純黑色）’嗎？";
 
-"W4Ek1o-Ey6npg" = "Just to confirm, you wanted ‘Light’?";
+"W4Ek1o-Ey6npg" = "只是確認，您想要‘淺色’嗎？";
 
-"W4Ek1o-VEO3IS" = "Just to confirm, you wanted ‘System’?";
+"W4Ek1o-VEO3IS" = "只是確認，您想要‘系統’嗎？";
 
-"W4Ek1o-YW3QEp" = "Just to confirm, you wanted ‘Dark (Pure Black)’?";
+"W4Ek1o-YW3QEp" = "只是確認，您想要‘深色（純黑色）’嗎？";
 
-"W4Ek1o-eHf5lH" = "Just to confirm, you wanted ‘Dark’?";
+"W4Ek1o-eHf5lH" = "只是確認，您想要‘深色’嗎？";
 
-"WMGmup" = "Status Indicator";
+"WMGmup" = "狀態指標";
 
-"XmVw2S" = "Total Queries";
+"XmVw2S" = "全部的查詢";
 
-"XwHq84" = "24 hours";
+"XwHq84" = "24 小時";
 
-"YFrrAR" = "Queries Blocked";
+"YFrrAR" = "已封鎖的查詢";
 
-"YT1Pew" = "8 hours";
+"YT1Pew" = "8 小時";
 
-"YW3QEp" = "Dark (Pure Black)";
+"YW3QEp" = "深色（純黑色）";
 
-"Yx18vE" = "Statistic";
+"Yx18vE" = "統計資料";
 
-"ZvdWTD" = "Tap Action";
+"ZvdWTD" = "輕觸動作";
 
-"ZwOZTZ" = "Open Query Log";
+"ZwOZTZ" = "開啟查詢記錄";
 
-"a81Lx9" = "Statistics Disable Widget";
+"a81Lx9" = "禁用統計資料小工具";
 
-"alorX8-42Koi6" = "Just to confirm, you wanted ‘System (Pure Black)’?";
+"alorX8-42Koi6" = "只是確認，您想要‘系統（純黑色）’嗎？";
 
-"alorX8-Ey6npg" = "Just to confirm, you wanted ‘Light’?";
+"alorX8-Ey6npg" = "只是確認，您想要‘淺色’嗎？";
 
-"alorX8-VEO3IS" = "Just to confirm, you wanted ‘System’?";
+"alorX8-VEO3IS" = "只是確認，您想要‘系統’嗎？";
 
-"alorX8-YW3QEp" = "Just to confirm, you wanted ‘Dark (Pure Black)’?";
+"alorX8-YW3QEp" = "只是確認，您想要‘深色（純黑色）’嗎？";
 
-"alorX8-eHf5lH" = "Just to confirm, you wanted ‘Dark’?";
+"alorX8-eHf5lH" = "只是確認，您想要‘深色’嗎？";
 
-"awUBTf" = "Open Home";
+"awUBTf" = "開啟首頁";
 
-"cDT0lC-IgP3Na" = "Just to confirm, you wanted ‘1 hour’?";
+"cDT0lC-IgP3Na" = "只是確認，您想要‘1 小時’嗎？";
 
-"cDT0lC-VLERQ1" = "Just to confirm, you wanted ‘15 minutes’?";
+"cDT0lC-VLERQ1" = "只是確認，您想要‘15 分鐘’嗎？";
 
-"cDT0lC-XwHq84" = "Just to confirm, you wanted ‘24 hours’?";
+"cDT0lC-XwHq84" = "只是確認，您想要‘24 小時’嗎？";
 
-"cDT0lC-YT1Pew" = "Just to confirm, you wanted ‘8 hours’?";
+"cDT0lC-YT1Pew" = "只是確認，您想要‘8 小時’嗎？";
 
-"cDT0lC-uqnZUq" = "Just to confirm, you wanted ‘30 minutes’?";
+"cDT0lC-uqnZUq" = "只是確認，您想要‘30 分鐘’嗎？";
 
-"cDT0lC-xDxdFy" = "Just to confirm, you wanted ‘5 minutes’?";
+"cDT0lC-xDxdFy" = "只是確認，您想要‘5 分鐘’嗎？";
 
-"cDT0lC-xLSa62" = "Just to confirm, you wanted ‘1 minute’?";
+"cDT0lC-xLSa62" = "只是確認，您想要‘1 分鐘’嗎？";
 
-"cDT0lC-zQ6Jw8" = "Just to confirm, you wanted ‘30 seconds’?";
+"cDT0lC-zQ6Jw8" = "只是確認，您想要‘30 秒’嗎？";
 
-"ceTqFH-Ixk02y" = "Just to confirm, you wanted ‘Open Statistics’?";
+"ceTqFH-Ixk02y" = "只是確認，您想要‘開啟統計資料’嗎？";
 
-"ceTqFH-ZwOZTZ" = "Just to confirm, you wanted ‘Open Query Log’?";
+"ceTqFH-ZwOZTZ" = "只是確認，您想要‘開啟查詢記錄’嗎？";
 
-"ceTqFH-awUBTf" = "Just to confirm, you wanted ‘Open Home’?";
+"ceTqFH-awUBTf" = "只是確認，您想要‘開啟首頁’嗎？";
 
-"ceTqFH-nqHRwh" = "Just to confirm, you wanted ‘Open Lists’?";
+"ceTqFH-nqHRwh" = "只是確認，您想要‘開啟清單’嗎？";
 
-"ceTqFH-wMJOmd" = "Just to confirm, you wanted ‘Disable all for 1 minute’?";
+"ceTqFH-wMJOmd" = "只是確認，您想要‘計 1 分鐘禁用全部’嗎？";
 
-"eHf5lH" = "Dark";
+"eHf5lH" = "深色";
 
-"fcvHtM-Ixk02y" = "There are ${count} options matching ‘Open Statistics’.";
+"fcvHtM-Ixk02y" = "有 ${count} 個與‘開啟統計資料’相符的選項。";
 
-"fcvHtM-ZwOZTZ" = "There are ${count} options matching ‘Open Query Log’.";
+"fcvHtM-ZwOZTZ" = "有 ${count} 個與‘開啟查詢記錄’相符的選項。";
 
-"fcvHtM-awUBTf" = "There are ${count} options matching ‘Open Home’.";
+"fcvHtM-awUBTf" = "有 ${count} 個與‘開啟首頁’相符的選項。";
 
-"fcvHtM-nqHRwh" = "There are ${count} options matching ‘Open Lists’.";
+"fcvHtM-nqHRwh" = "有 ${count} 個與‘開啟清單’相符的選項。";
 
-"fcvHtM-wMJOmd" = "There are ${count} options matching ‘Disable all for 1 minute’.";
+"fcvHtM-wMJOmd" = "有 ${count} 個與‘計 1 分鐘禁用全部’相符的選項。";
 
-"fjMa4e" = "Query Graph Widget";
+"fjMa4e" = "查詢圖表小工具";
 
-"fmQi7V" = "Disable Widget";
+"fmQi7V" = "禁用小工具";
 
-"fohyUc" = "Statistics Disable Widget";
+"fohyUc" = "禁用統計資料小工具";
 
-"gf75h8" = "Status Indicator";
+"gf75h8" = "狀態指標";
 
-"gpCwrM" = "Stat Widget";
+"gpCwrM" = "統計資料小工具";
 
-"hY8wJZ-Ixk02y" = "Just to confirm, you wanted ‘Open Statistics’?";
+"hY8wJZ-Ixk02y" = "只是確認，您想要‘開啟統計資料’嗎？";
 
-"hY8wJZ-ZwOZTZ" = "Just to confirm, you wanted ‘Open Query Log’?";
+"hY8wJZ-ZwOZTZ" = "只是確認，您想要‘開啟查詢記錄’嗎？";
 
-"hY8wJZ-awUBTf" = "Just to confirm, you wanted ‘Open Home’?";
+"hY8wJZ-awUBTf" = "只是確認，您想要‘開啟首頁’嗎？";
 
-"hY8wJZ-nqHRwh" = "Just to confirm, you wanted ‘Open Lists’?";
+"hY8wJZ-nqHRwh" = "只是確認，您想要‘開啟清單’嗎？";
 
-"hY8wJZ-wMJOmd" = "Just to confirm, you wanted ‘Disable all for 1 minute’?";
+"hY8wJZ-wMJOmd" = "只是確認，您想要‘計 1 分鐘禁用全部’嗎？";
 
-"j5tl6I" = "Blocked";
+"j5tl6I" = "已封鎖的";
 
-"jiDiIB" = "What instance to display?";
+"jiDiIB" = "要顯示什麼實例呢？";
 
-"jwB6hP" = "Overtime Widget";
+"jwB6hP" = "超時小工具";
 
-"kH9rkk-DvY8Eg" = "Just to confirm, you wanted ‘Green’?";
+"kH9rkk-DvY8Eg" = "只是確認，您想要‘綠色’嗎？";
 
-"kH9rkk-Hb868n" = "Just to confirm, you wanted ‘Orange’?";
+"kH9rkk-Hb868n" = "只是確認，您想要‘橙色’嗎？";
 
-"kH9rkk-OsIXJN" = "Just to confirm, you wanted ‘Blue’?";
+"kH9rkk-OsIXJN" = "只是確認，您想要‘藍色’嗎？";
 
-"kH9rkk-SIOS6E" = "Just to confirm, you wanted ‘Unknown’?";
+"kH9rkk-SIOS6E" = "只是確認，您想要‘未知的’嗎？";
 
-"kH9rkk-m60OS4" = "Just to confirm, you wanted ‘Red’?";
+"kH9rkk-m60OS4" = "只是確認，您想要‘紅色’嗎？";
 
-"kgyNHm-8Udkqh" = "Just to confirm, you wanted ‘All’?";
+"kgyNHm-8Udkqh" = "只是確認，您想要‘所有的’嗎？";
 
-"kgyNHm-DIItEm" = "Just to confirm, you wanted ‘Allowed’?";
+"kgyNHm-DIItEm" = "只是確認，您想要‘已允許的’嗎？";
 
-"kgyNHm-j5tl6I" = "Just to confirm, you wanted ‘Blocked’?";
+"kgyNHm-j5tl6I" = "只是確認，您想要‘已封鎖的’嗎？";
 
-"lug6ns" = "Statistics Widget";
+"lug6ns" = "統計資料小工具";
 
-"m60OS4" = "Red";
+"m60OS4" = "紅色";
 
-"mP5CWX-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
+"mP5CWX-IgP3Na" = "有 ${count} 個與‘1 小時’相符的選項。";
 
-"mP5CWX-VLERQ1" = "There are ${count} options matching ‘15 minutes’.";
+"mP5CWX-VLERQ1" = "有 ${count} 個與‘15 分鐘’相符的選項。";
 
-"mP5CWX-XwHq84" = "There are ${count} options matching ‘24 hours’.";
+"mP5CWX-XwHq84" = "有 ${count} 個與‘24 小時’相符的選項。";
 
-"mP5CWX-YT1Pew" = "There are ${count} options matching ‘8 hours’.";
+"mP5CWX-YT1Pew" = "有 ${count} 個與‘8 小時’相符的選項。";
 
-"mP5CWX-uqnZUq" = "There are ${count} options matching ‘30 minutes’.";
+"mP5CWX-uqnZUq" = "有 ${count} 個與‘30 分鐘’相符的選項。";
 
-"mP5CWX-xDxdFy" = "There are ${count} options matching ‘5 minutes’.";
+"mP5CWX-xDxdFy" = "有 ${count} 個與‘5 分鐘’相符的選項。";
 
-"mP5CWX-xLSa62" = "There are ${count} options matching ‘1 minute’.";
+"mP5CWX-xLSa62" = "有 ${count} 個與‘1 分鐘’相符的選項。";
 
-"mP5CWX-zQ6Jw8" = "There are ${count} options matching ‘30 seconds’.";
+"mP5CWX-zQ6Jw8" = "有 ${count} 個與‘30 秒’相符的選項。";
 
-"nBNqPC" = "Statistic";
+"nBNqPC" = "統計資料";
 
-"nIDolD" = "Unknown";
+"nIDolD" = "未知的";
 
-"nqHRwh" = "Open Lists";
+"nqHRwh" = "開啟清單";
 
-"oYBSfl-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
+"oYBSfl-IgP3Na" = "有 ${count} 個與‘1 小時’相符的選項。";
 
-"oYBSfl-VLERQ1" = "There are ${count} options matching ‘15 minutes’.";
+"oYBSfl-VLERQ1" = "有 ${count} 個與‘15 分鐘’相符的選項。";
 
-"oYBSfl-XwHq84" = "There are ${count} options matching ‘24 hours’.";
+"oYBSfl-XwHq84" = "有 ${count} 個與‘24 小時’相符的選項。";
 
-"oYBSfl-YT1Pew" = "There are ${count} options matching ‘8 hours’.";
+"oYBSfl-YT1Pew" = "有 ${count} 個與‘8 小時’相符的選項。";
 
-"oYBSfl-uqnZUq" = "There are ${count} options matching ‘30 minutes’.";
+"oYBSfl-uqnZUq" = "有 ${count} 個與‘30 分鐘’相符的選項。";
 
-"oYBSfl-xDxdFy" = "There are ${count} options matching ‘5 minutes’.";
+"oYBSfl-xDxdFy" = "有 ${count} 個與‘5 分鐘’相符的選項。";
 
-"oYBSfl-xLSa62" = "There are ${count} options matching ‘1 minute’.";
+"oYBSfl-xLSa62" = "有 ${count} 個與‘1 分鐘’相符的選項。";
 
-"oYBSfl-zQ6Jw8" = "There are ${count} options matching ‘30 seconds’.";
+"oYBSfl-zQ6Jw8" = "有 ${count} 個與‘30 秒’相符的選項。";
 
-"s0H1c8-IgP3Na" = "Just to confirm, you wanted ‘1 hour’?";
+"s0H1c8-IgP3Na" = "只是確認，您想要‘1 小時’嗎？";
 
-"s0H1c8-VLERQ1" = "Just to confirm, you wanted ‘15 minutes’?";
+"s0H1c8-VLERQ1" = "只是確認，您想要‘15 分鐘’嗎？";
 
-"s0H1c8-XwHq84" = "Just to confirm, you wanted ‘24 hours’?";
+"s0H1c8-XwHq84" = "只是確認，您想要‘24 小時’嗎？";
 
-"s0H1c8-YT1Pew" = "Just to confirm, you wanted ‘8 hours’?";
+"s0H1c8-YT1Pew" = "只是確認，您想要‘8 小時’嗎？";
 
-"s0H1c8-uqnZUq" = "Just to confirm, you wanted ‘30 minutes’?";
+"s0H1c8-uqnZUq" = "只是確認，您想要‘30 分鐘’嗎？";
 
-"s0H1c8-xDxdFy" = "Just to confirm, you wanted ‘5 minutes’?";
+"s0H1c8-xDxdFy" = "只是確認，您想要‘5 分鐘’嗎？";
 
-"s0H1c8-xLSa62" = "Just to confirm, you wanted ‘1 minute’?";
+"s0H1c8-xLSa62" = "只是確認，您想要‘1 分鐘’嗎？";
 
-"s0H1c8-zQ6Jw8" = "Just to confirm, you wanted ‘30 seconds’?";
+"s0H1c8-zQ6Jw8" = "只是確認，您想要‘30 秒’嗎？";
 
-"sRVlCC" = "Tap Action";
+"sRVlCC" = "輕觸動作";
 
-"tVvJ9c" = "Single Statistic Widget";
+"tVvJ9c" = "單一的統計資料小工具";
 
-"uqnZUq" = "30 minutes";
+"uqnZUq" = "30 分鐘";
 
-"vTQMcK-DvY8Eg" = "There are ${count} options matching ‘Green’.";
+"vTQMcK-DvY8Eg" = "有 ${count} 個與‘綠色’相符的選項。";
 
-"vTQMcK-Hb868n" = "There are ${count} options matching ‘Orange’.";
+"vTQMcK-Hb868n" = "有 ${count} 個與‘橙色’相符的選項。";
 
-"vTQMcK-OsIXJN" = "There are ${count} options matching ‘Blue’.";
+"vTQMcK-OsIXJN" = "有 ${count} 個與‘藍色’相符的選項。";
 
-"vTQMcK-SIOS6E" = "There are ${count} options matching ‘Unknown’.";
+"vTQMcK-SIOS6E" = "有 ${count} 個與‘未知的’相符的選項。";
 
-"vTQMcK-m60OS4" = "There are ${count} options matching ‘Red’.";
+"vTQMcK-m60OS4" = "有 ${count} 個與‘紅色’相符的選項。";
 
-"vfUdD2-42Koi6" = "There are ${count} options matching ‘System (Pure Black)’.";
+"vfUdD2-42Koi6" = "有 ${count} 個與‘系統（純黑色）’相符的選項。";
 
-"vfUdD2-Ey6npg" = "There are ${count} options matching ‘Light’.";
+"vfUdD2-Ey6npg" = "有 ${count} 個與‘淺色’相符的選項。";
 
-"vfUdD2-VEO3IS" = "There are ${count} options matching ‘System’.";
+"vfUdD2-VEO3IS" = "有 ${count} 個與‘系統’相符的選項。";
 
-"vfUdD2-YW3QEp" = "There are ${count} options matching ‘Dark (Pure Black)’.";
+"vfUdD2-YW3QEp" = "有 ${count} 個與‘深色（純黑色）’相符的選項。";
 
-"vfUdD2-eHf5lH" = "There are ${count} options matching ‘Dark’.";
+"vfUdD2-eHf5lH" = "有 ${count} 個與‘深色’相符的選項。";
 
-"vnH3Ih-IgP3Na" = "Just to confirm, you wanted ‘1 hour’?";
+"vnH3Ih-IgP3Na" = "只是確認，您想要‘1 小時’嗎？";
 
-"vnH3Ih-VLERQ1" = "Just to confirm, you wanted ‘15 minutes’?";
+"vnH3Ih-VLERQ1" = "只是確認，您想要‘15 分鐘’嗎？";
 
-"vnH3Ih-XwHq84" = "Just to confirm, you wanted ‘24 hours’?";
+"vnH3Ih-XwHq84" = "只是確認，您想要‘24 小時’嗎？";
 
-"vnH3Ih-YT1Pew" = "Just to confirm, you wanted ‘8 hours’?";
+"vnH3Ih-YT1Pew" = "只是確認，您想要‘8 小時’嗎？";
 
-"vnH3Ih-uqnZUq" = "Just to confirm, you wanted ‘30 minutes’?";
+"vnH3Ih-uqnZUq" = "只是確認，您想要‘30 分鐘’嗎？";
 
-"vnH3Ih-xDxdFy" = "Just to confirm, you wanted ‘5 minutes’?";
+"vnH3Ih-xDxdFy" = "只是確認，您想要‘5 分鐘’嗎？";
 
-"vnH3Ih-xLSa62" = "Just to confirm, you wanted ‘1 minute’?";
+"vnH3Ih-xLSa62" = "只是確認，您想要‘1 分鐘’嗎？";
 
-"vnH3Ih-zQ6Jw8" = "Just to confirm, you wanted ‘30 seconds’?";
+"vnH3Ih-zQ6Jw8" = "只是確認，您想要‘30 秒’嗎？";
 
-"wMJOmd" = "Disable all for 1 minute";
+"wMJOmd" = "計 1 分鐘禁用全部";
 
-"xDxdFy" = "5 minutes";
+"xDxdFy" = "5 分鐘";
 
-"xKogH3-42Koi6" = "There are ${count} options matching ‘System (Pure Black)’.";
+"xKogH3-42Koi6" = "有 ${count} 個與‘系統（純黑色）’相符的選項。";
 
-"xKogH3-Ey6npg" = "There are ${count} options matching ‘Light’.";
+"xKogH3-Ey6npg" = "有 ${count} 個與‘淺色’相符的選項。";
 
-"xKogH3-VEO3IS" = "There are ${count} options matching ‘System’.";
+"xKogH3-VEO3IS" = "有 ${count} 個與‘系統’相符的選項。";
 
-"xKogH3-YW3QEp" = "There are ${count} options matching ‘Dark (Pure Black)’.";
+"xKogH3-YW3QEp" = "有 ${count} 個與‘深色（純黑色）’相符的選項。";
 
-"xKogH3-eHf5lH" = "There are ${count} options matching ‘Dark’.";
+"xKogH3-eHf5lH" = "有 ${count} 個與‘深色’相符的選項。";
 
-"xLSa62" = "1 minute";
+"xLSa62" = "1 分鐘";
 
-"y9py1R-BILqn3" = "Just to confirm, you wanted ‘Percent Blocked’?";
+"y9py1R-BILqn3" = "只是確認，您想要‘已封鎖的百分率’嗎？";
 
-"y9py1R-NYeFKn" = "Just to confirm, you wanted ‘Blocklist’?";
+"y9py1R-NYeFKn" = "只是確認，您想要‘封鎖清單’嗎？";
 
-"y9py1R-XmVw2S" = "Just to confirm, you wanted ‘Total Queries’?";
+"y9py1R-XmVw2S" = "只是確認，您想要‘全部的查詢’嗎？";
 
-"y9py1R-YFrrAR" = "Just to confirm, you wanted ‘Queries Blocked’?";
+"y9py1R-YFrrAR" = "只是確認，您想要‘已封鎖的查詢’嗎？";
 
-"y9py1R-nIDolD" = "Just to confirm, you wanted ‘Unknown’?";
+"y9py1R-nIDolD" = "只是確認，您想要‘未知的’嗎？";
 
-"zQ6Jw8" = "30 seconds";
+"zQ6Jw8" = "30 秒";
 
-"zeqXsg" = "Instance";
+"zeqXsg" = "實例";
