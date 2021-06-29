@@ -357,17 +357,17 @@
 "preferences_statistics_number_of_clients" = "Anzahl Geräte";
 "preferences_statistics_other" = "Sonstiges";
 "preferences_statistics_other_footer" = "Pi-hole-Version anzeigen, API-Version und DNS-Cache-Informationen.";
-"preferences_statistics_hidden_domains" = "Hidden domains";
-"preferences_statistics_hidedomains_header" = "Hide Domains";
-"preferences_statistics_hidedomains_footer" = "Hide certain domains in statistics.";
-"preferences_statistics_hidedomains_list_navbar" = "Hide Domains";
-"preferences_statistics_hidedomains_list_footer" = "These (parts of) domains will be hidden from 'Top' lists. They will still be included in statistics in the Home-tab and will still appear in the Query Log.";
-"preferences_statistics_hidedomains_list_none" = "None. You can add entries in the top right!";
-"preferences_statistics_hidedomains_new_placeholder" = "Enter (part of) a domain";
-"preferences_statistics_hidedomains_new_picker" = "Matching Condition";
-"preferences_statistics_hidedomains_new_picker_exactly" = "Exactly";
-"preferences_statistics_hidedomains_new_picker_contains" = "Contains";
-"preferences_statistics_hidedomains_new_navbar" = "Hide Domain";
+"preferences_statistics_hidden_domains" = "Ausgeblendete Domains";
+"preferences_statistics_hidedomains_header" = "Domains ausblenden";
+"preferences_statistics_hidedomains_footer" = "Bestimmte Domains in der Statistik ausblenden.";
+"preferences_statistics_hidedomains_list_navbar" = "Domains ausblenden";
+"preferences_statistics_hidedomains_list_footer" = "Diese (Teil-)Domains werden in den Top-Listen ausgeblendet. Sie werden weiterhin in der Statistik auf der Registerkarte "Home" berücksichtigt und erscheinen weiterhin im Anfrageprotokoll.";
+"preferences_statistics_hidedomains_list_none" = "Keine. Du kannst Einträge oben rechts hinzufügen!";
+"preferences_statistics_hidedomains_new_placeholder" = "Eingabe einer (Teil-)Domain";
+"preferences_statistics_hidedomains_new_picker" = "Übereinstimmende Bedingung";
+"preferences_statistics_hidedomains_new_picker_exactly" = "Genau";
+"preferences_statistics_hidedomains_new_picker_contains" = "Enthält";
+"preferences_statistics_hidedomains_new_navbar" = "Domain ausblenden";
 "preferences_statistics_show_other" = "Weitere Informationen zeigen";
 "preferences_lists_navbar" = "Listen";
 "preferences_lists_display" = "Anzeigen";
@@ -479,7 +479,7 @@
 "view_queries_to_domain" = "Domainanfragen anzeigen";
 "view_queries_from_client" = "Anfragen von Geräten anzeigen";
 "visit_domain" = "Domain besuchen";
-"statistics_hide_domain" = "Hide Domain from Statistics";
+"statistics_hide_domain" = "Domains in der Statistik ausblenden";
 
 // MARK: Miscellaneous
 "instances" = "Instanzen";
@@ -497,7 +497,7 @@
 "search" = "Suche";
 "refresh" = "Aktualisieren";
 "done" = "Fertig";
-"new" = "New";
+"new" = "Neu";
 "dismiss" = "Ablehnen";
 "ok" = "OK";
 "save" = "Speichern";
