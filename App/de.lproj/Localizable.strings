@@ -361,7 +361,7 @@
 "preferences_statistics_hidedomains_header" = "Domains ausblenden";
 "preferences_statistics_hidedomains_footer" = "Bestimmte Domains in der Statistik ausblenden.";
 "preferences_statistics_hidedomains_list_navbar" = "Domains ausblenden";
-"preferences_statistics_hidedomains_list_footer" = "Diese (Teil-)Domains werden in den Top-Listen ausgeblendet. Sie werden weiterhin in der Statistik auf der Registerkarte "Home" berücksichtigt und erscheinen weiterhin im Anfrageprotokoll.";
+"preferences_statistics_hidedomains_list_footer" = "Diese (Teil-)Domains werden in den Top-Listen ausgeblendet. Sie werden weiterhin in der Statistik auf der Registerkarte 'Home' berücksichtigt und erscheinen weiterhin im Anfrageprotokoll.";
 "preferences_statistics_hidedomains_list_none" = "Keine. Du kannst Einträge oben rechts hinzufügen!";
 "preferences_statistics_hidedomains_new_placeholder" = "Eingabe einer (Teil-)Domain";
 "preferences_statistics_hidedomains_new_picker" = "Übereinstimmende Bedingung";
