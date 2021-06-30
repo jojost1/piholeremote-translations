@@ -72,9 +72,9 @@
 "statistics_segments_10min" = "Τμήματα των 10 λεπτών";
 "statistics_loading_graph" = "Φόρτωση γραφήματος...";
 "statistics_now" = "τώρα";
-"statistics_%@_h_ago" = "%@h ago";
-"statistics_%@_hours_ago" = "%@ ώρες ago";
-"statistics_queries_six_hours" = "Queries (6h)";
+"statistics_%@_h_ago" = "%@ω πριν";
+"statistics_%@_hours_ago" = "%@ ώρες πριν";
+"statistics_queries_six_hours" = "Ερωτήματα (6ω)";
 "statistics_top_allowed" = "Κορυφαία επιτρεπόμενα";
 "statistics_top_allowed_navbar" = "Επιτρεπόμενα domains";
 "statistics_top_blocked" = "Κορυφαία αποκλεισμένα";
@@ -109,7 +109,7 @@
 "graphs_allowed" = "Επιτρεπόμενα";
 "graphs_blocked" = "Αποκλεισμένα";
 "graphs_query_types" = "Τύποι ερωτημάτων";
-"graphs_answered_by" = "Answered By";
+"graphs_answered_by" = "Απαντήθηκαν από";
 
 // MARK: - QueryLog-tab
 "querylog_navbar" = "Αρχείο ερωτημάτων";
@@ -511,21 +511,21 @@
 "dots" = "...";
 
 // MARK: - Widgets
-"total" = "Total";
-"blocked" = "Blocked";
-"entries" = "Entries";
-"queries" = "Queries";
-"blocklist" = "Blocklist";
-"widget_statistic" = "Statistic";
-"widget_statistic_description" = "Keep an eye on one statistic.";
-"widget_statistics" = "Statistics";
-"widget_statistics_description" = "Keep an eye on all your statistics.";
-"widget_statistics_and_disable" = "Statistics & Disable";
-"widget_statistics_and_disable_description" = "Statistics with customizable buttons to quickly disable blocking.";
-"widget_querygraph" = "Query Graph";
-"widget_querygraph_description" = "Check in on your queries over time.";
-"widget_disable" = "Disable";
-"widget_disable_description" = "Quickly disable blocking with customizable buttons.";
+"total" = "Σύνολο";
+"blocked" = "Αποκλεισμένα";
+"entries" = "Καταχωρήσεις";
+"queries" = "Ερωτήματα";
+"blocklist" = "Λίστα αποκλεισμένων";
+"widget_statistic" = "Στατιστικό";
+"widget_statistic_description" = "Παρακολουθήστε ένα στατιστικό.";
+"widget_statistics" = "Στατιστικά";
+"widget_statistics_description" = "Παρακολουθήστε όλα τα στατιστικά σας.";
+"widget_statistics_and_disable" = "Στατιστικά & Απενεργοποίηση";
+"widget_statistics_and_disable_description" = "Στατιστικά με προσαρμόσιμα κουμπιά για γρήγορη απενεργοποίηση του αποκλεισμού.";
+"widget_querygraph" = "Γράφημα ερωτημάτων";
+"widget_querygraph_description" = "Ελέγξτε τα ερωτήματά σας με την πάροδο του χρόνου.";
+"widget_disable" = "Απενεργοποίηση";
+"widget_disable_description" = "Απενεργοποιήστε γρήγορα τον αποκλεισμό με προσαρμόσιμα κουμπιά.";
 
 // MARK: - watchOS Specific
 "watchos_home_queries" = "Ερωτήματα";
