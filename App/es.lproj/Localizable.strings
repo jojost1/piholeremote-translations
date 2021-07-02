@@ -146,6 +146,8 @@
 "querylog_filter_status_allowed_only" = "Permitido Solo";
 "querylog_filter_status_blocked" = "Bloqueado";
 "querylog_filter_status_blocked_only" = "Bloqueado Solo";
+"querylog_filter_type" = "Tipo";
+"querylog_filter_type_hide_https" = "Ocultar HTTPS consultas";
 "querylog_filter_sort" = "Orden";
 "querylog_filter_sort_new_old" = "Nuevo > Antiguo";
 "querylog_filter_sort_old_new" = "Antiguo > Nuevo";

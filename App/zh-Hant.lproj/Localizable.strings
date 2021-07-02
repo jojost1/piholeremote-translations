@@ -109,6 +109,7 @@
 "graphs_allowed" = "Allowed";
 "graphs_blocked" = "Blocked";
 "graphs_query_types" = "Query Types";
+"graphs_answered_by" = "Answered By";
 
 // MARK: - QueryLog-tab
 "querylog_navbar" = "Query Log";
@@ -145,6 +146,8 @@
 "querylog_filter_status_allowed_only" = "Allowed Only";
 "querylog_filter_status_blocked" = "Blocked";
 "querylog_filter_status_blocked_only" = "Blocked Only";
+"querylog_filter_type" = "Type";
+"querylog_filter_type_hide_https" = "Hide HTTPS queries";
 "querylog_filter_sort" = "Sort";
 "querylog_filter_sort_new_old" = "New > Old";
 "querylog_filter_sort_old_new" = "Old > New";

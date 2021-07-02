@@ -146,6 +146,8 @@
 "querylog_filter_status_allowed_only" = "Тільки дозволені";
 "querylog_filter_status_blocked" = "Заблоковані";
 "querylog_filter_status_blocked_only" = "Тільки заблоковані";
+"querylog_filter_type" = "Тип";
+"querylog_filter_type_hide_https" = "Сховати HTTPS запити";
 "querylog_filter_sort" = "Сортувати";
 "querylog_filter_sort_new_old" = "Нові > Старі";
 "querylog_filter_sort_old_new" = "Старі > Нові";

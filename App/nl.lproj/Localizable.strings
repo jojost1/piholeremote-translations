@@ -138,7 +138,7 @@
 "querylog_reply" = "Antwoord:";
 
 // MARK: QueryLog Filter
-"querylog_filter_number_of_queries" = "Aantal Queries";
+"querylog_filter_number_of_queries" = "Aantal queries";
 "querylog_filter_number_of_queries_footer" = "Voor elke instantie. Zoeken kan langer duren bij een groter aantal queries.";
 "querylog_filter_status" = "Status";
 "querylog_filter_status_all" = "Alle";
@@ -146,6 +146,8 @@
 "querylog_filter_status_allowed_only" = "Alleen toegestaan";
 "querylog_filter_status_blocked" = "Geblokkeerd";
 "querylog_filter_status_blocked_only" = "Alleen geblokkeerd";
+"querylog_filter_type" = "Type";
+"querylog_filter_type_hide_https" = "Verberg HTTPS queries";
 "querylog_filter_sort" = "Sorteer";
 "querylog_filter_sort_new_old" = "Nieuw > Oud";
 "querylog_filter_sort_old_new" = "Oud > Nieuw";

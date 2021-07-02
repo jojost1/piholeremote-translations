@@ -138,7 +138,7 @@
 "querylog_reply" = "Reply:";
 
 // MARK: QueryLog Filter
-"querylog_filter_number_of_queries" = "Number of Queries";
+"querylog_filter_number_of_queries" = "Number of queries";
 "querylog_filter_number_of_queries_footer" = "For every instance. Search may take longer when increasing the number of queries.";
 "querylog_filter_status" = "Status";
 "querylog_filter_status_all" = "All";
@@ -146,13 +146,15 @@
 "querylog_filter_status_allowed_only" = "Allowed Only";
 "querylog_filter_status_blocked" = "Blocked";
 "querylog_filter_status_blocked_only" = "Blocked Only";
+"querylog_filter_type" = "Type";
+"querylog_filter_type_hide_https" = "Hide HTTPS queries";
 "querylog_filter_sort" = "Sort";
 "querylog_filter_sort_new_old" = "New > Old";
 "querylog_filter_sort_old_new" = "Old > New";
 "querylog_filter_other" = "Other";
 "querylog_filter_other_footer" = "Show query type, reply, and duration (ms).";
-"querylog_filter_show_detail" = "Show Detail";
-"querylog_filter_hide_detail" = "Hide Detail";
+"querylog_filter_show_detail" = "Show detail";
+"querylog_filter_hide_detail" = "Hide detail";
 "querylog_filter_preserve_filter_footer" = "Perserve filter options between app restarts.";
 "querylog_filter_save_filters" = "Save Filters";
 

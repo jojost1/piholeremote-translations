@@ -146,6 +146,8 @@
 "querylog_filter_status_allowed_only" = "Μόνο επιτρεπόμενα";
 "querylog_filter_status_blocked" = "Αποκλεισμένα";
 "querylog_filter_status_blocked_only" = "Μόνο αποκλεισμένα";
+"querylog_filter_type" = "Τύπου";
+"querylog_filter_type_hide_https" = "Απόκρυψη HTTPS ερωτήματα";
 "querylog_filter_sort" = "Ταξινόμηση";
 "querylog_filter_sort_new_old" = "Νέο > Παλιό";
 "querylog_filter_sort_old_new" = "Παλιό > Νέο";
