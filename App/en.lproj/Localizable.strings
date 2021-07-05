@@ -51,7 +51,7 @@
 "usage_metrics_cpu_1min" = "Last 1 minute";
 "usage_metrics_cpu_5min" = "Last 5 minutes";
 "usage_metrics_cpu_15min" = "Last 15 minutes";
-"usage_metrics_cpu_usage_alert" = "These percentages respresent the average CPU load over the past minutes.\n\nThe standard rule of thumb is that 70% utilization is healthy. Once you're consistently above 70%, you might want to start planning for expansion.";
+"usage_metrics_cpu_usage_alert" = "These percentages respresent the average CPU load over the past minutes.\n\nThe standard rule of thumb is that 70% utilization is healthy. If the CPU load is consistently above 70%, you might want to start planning for expansion.";
 "usage_metrics_memory" = "Memory";
 "usage_metrics_data_from_%@" = "\nData from: %@";
 "usage_metrics_error" = "Error while fetching data.";
