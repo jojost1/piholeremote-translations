@@ -155,7 +155,7 @@
 "querylog_filter_other_footer" = "Show query type, reply, and duration (ms).";
 "querylog_filter_show_detail" = "Show detail";
 "querylog_filter_hide_detail" = "Hide detail";
-"querylog_filter_preserve_filter_footer" = "Perserve filter options between app restarts.";
+"querylog_filter_preserve_filter_footer" = "Preserve filter options between app restarts.";
 "querylog_filter_save_filters" = "Save Filters";
 
 // MARK: QueryLog Detail
