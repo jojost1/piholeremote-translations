@@ -56,6 +56,7 @@ Statistics:
 - Clients Ever Seen
 - Queries Per Domain/Client
 - Query Types
+- Forward Destinations
 - Pi-hole Version
 - API Info
 - DNS Cache

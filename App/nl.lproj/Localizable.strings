@@ -108,8 +108,8 @@
 "graphs_navbar" = "Grafieken";
 "graphs_allowed" = "Toegestaan";
 "graphs_blocked" = "Geblokkeerd";
-"graphs_query_types" = "Query Types";
-"graphs_answered_by" = "Answered By";
+"graphs_query_types" = "Query types";
+"graphs_answered_by" = "Beantwoord door";
 
 // MARK: - QueryLog-tab
 "querylog_navbar" = "Query Log";

@@ -53,7 +53,8 @@ Statistieken:
 - Top cliënten
 - Unieke domeinen/cliënten
 - Queries per domein/cliënt
-- Query typen
+- Query types
+- Beantwoord door
 - Pi-hole versie
 - API info
 - DNS cache
