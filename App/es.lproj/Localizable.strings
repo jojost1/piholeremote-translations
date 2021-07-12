@@ -109,7 +109,7 @@
 "graphs_allowed" = "Permitidas";
 "graphs_blocked" = "Bloqueadas";
 "graphs_query_types" = "Tipos de Consulta";
-"graphs_answered_by" = "Resuelta Por";
+"graphs_answered_by" = "Resueltas Por";
 
 // MARK: - QueryLog-tab
 "querylog_navbar" = "Registro de Consultas";
@@ -147,7 +147,7 @@
 "querylog_filter_status_blocked" = "Bloqueado";
 "querylog_filter_status_blocked_only" = "Bloqueado Solo";
 "querylog_filter_type" = "Tipo";
-"querylog_filter_type_hide_https" = "Ocultar HTTPS consultas";
+"querylog_filter_type_hide_https" = "Ocultar consultas HTTPS";
 "querylog_filter_sort" = "Orden";
 "querylog_filter_sort_new_old" = "Nuevo > Antiguo";
 "querylog_filter_sort_old_new" = "Antiguo > Nuevo";
