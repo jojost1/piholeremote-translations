@@ -286,7 +286,7 @@
 "settings_home" = "Accueil";
 "settings_statistics" = "Statistiques";
 "settings_lists" = "Listes";
-"settings_design" = "Design";
+"settings_design" = "Apparence";
 "settings_other" = "Autres";
 "settings_force_watch_sync" = "Forcer la synchronisation de l'Apple Watch";
 "settings_force_icloud_sync" = "Forcer la synchronisation d'iCloud";
