@@ -380,7 +380,7 @@
 "preferences_other_language" = "Langage";
 
 // MARK: Design
-"design_navbar" = "Design";
+"design_navbar" = "Apparence";
 "design_colorscheme" = "Code couleur";
 "design_tint" = "Teinte de l'app";
 "design_tint_blue" = "Bleue";
