@@ -387,11 +387,13 @@
 "design_tint_indigo" = "Індиго";
 "design_tint_purple" = "Фіолетовий";
 "design_tint_teal" = "Блакитний";
+"design_tint_mint" = "Mint";
 "design_tint_green" = "Зелений";
 "design_tint_yellow" = "Жовтий";
 "design_tint_orange" = "Помаранчевий";
 "design_tint_pink" = "Рожевий";
 "design_tint_red" = "Червоний";
+"design_tint_brown" = "Brown";
 "design_icon" = "Іконка застосунку";
 "design_icon_pihole" = "Pi-hole Remote";
 "design_icon_pihole_dark" = "Pi-hole Remote темна";
@@ -434,6 +436,9 @@
 
 // MARK: Changelog
 "changelog_navbar" = "Що нового";
+"changelog_new" = "New";
+"changelog_improved" = "Improved";
+"changelog_fixed" = "Fixed";
 "changelog_just_updated" = "Щойно оновлено!";
 "changelog_current_version" = "Поточна";
 "changelog_continue" = "Продовжити";

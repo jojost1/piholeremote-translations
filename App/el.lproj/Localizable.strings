@@ -387,11 +387,13 @@
 "design_tint_indigo" = "Λουλάκι";
 "design_tint_purple" = "Μωβ";
 "design_tint_teal" = "Βεραμάν";
+"design_tint_mint" = "Mint";
 "design_tint_green" = "Πράσινο";
 "design_tint_yellow" = "Κίτρινο";
 "design_tint_orange" = "Πορτοκαλί";
 "design_tint_pink" = "Ροζ";
 "design_tint_red" = "Κόκκινο";
+"design_tint_brown" = "Brown";
 "design_icon" = "Εικονίδιο εφαρμογής";
 "design_icon_pihole" = "Pi-hole Remote";
 "design_icon_pihole_dark" = "Pi-hole Remote Σκούρο";
@@ -434,6 +436,9 @@
 
 // MARK: Changelog
 "changelog_navbar" = "Τι νέο υπάρχει";
+"changelog_new" = "New";
+"changelog_improved" = "Improved";
+"changelog_fixed" = "Fixed";
 "changelog_just_updated" = "Μόλις ενημερώθηκε!";
 "changelog_current_version" = "Τρέχουσα έκδοση";
 "changelog_continue" = "Συνέχεια";

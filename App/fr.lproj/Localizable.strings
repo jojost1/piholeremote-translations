@@ -387,11 +387,13 @@
 "design_tint_indigo" = "Indigo";
 "design_tint_purple" = "Violet";
 "design_tint_teal" = "Bleu canard";
+"design_tint_mint" = "Mint";
 "design_tint_green" = "Vert";
 "design_tint_yellow" = "Jaune";
 "design_tint_orange" = "Orange";
 "design_tint_pink" = "Rose";
 "design_tint_red" = "Rouge";
+"design_tint_brown" = "Brown";
 "design_icon" = "Icône de l'app";
 "design_icon_pihole" = "Pi-hole Remote";
 "design_icon_pihole_dark" = "Pi-hole Remote sombre";
@@ -434,6 +436,9 @@
 
 // MARK: Changelog
 "changelog_navbar" = "Quoi de neuf ?";
+"changelog_new" = "New";
+"changelog_improved" = "Improved";
+"changelog_fixed" = "Fixed";
 "changelog_just_updated" = "Dernière mise à jour !";
 "changelog_current_version" = "Actuellement";
 "changelog_continue" = "Continuez";

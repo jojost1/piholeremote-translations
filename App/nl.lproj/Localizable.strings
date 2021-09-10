@@ -387,11 +387,13 @@
 "design_tint_indigo" = "Indigo";
 "design_tint_purple" = "Paars";
 "design_tint_teal" = "Teal";
+"design_tint_mint" = "Mint";
 "design_tint_green" = "Groen";
 "design_tint_yellow" = "Geel";
 "design_tint_orange" = "Oranje";
 "design_tint_pink" = "Roze";
 "design_tint_red" = "Rood";
+"design_tint_brown" = "Bruin";
 "design_icon" = "App Icoon";
 "design_icon_pihole" = "Pi-hole Remote";
 "design_icon_pihole_dark" = "Pi-hole Remote Donker";
@@ -434,6 +436,9 @@
 
 // MARK: Changelog
 "changelog_navbar" = "Wat is er nieuw?";
+"changelog_new" = "Nieuw";
+"changelog_improved" = "Verbeterd";
+"changelog_fixed" = "Opgelost";
 "changelog_just_updated" = "Net geüpdatet!";
 "changelog_current_version" = "Huidige versie";
 "changelog_continue" = "Ga door";
