@@ -26,7 +26,7 @@
 "home_disable_all" = "Alles deaktivieren";
 "home_disable_blocking" = "Blockierung deaktivieren";
 "home_disable_blocking_pihole" = "Pi-hole Blockierung deaktivieren";
-"home_disable_blocking_alert_%@" = "Für wie lange willst Du die Blockierung mit %@ deaktivieren?";
+"home_disable_blocking_alert_%@" = "Für wie lange willst du die Blockierung mit %@ deaktivieren?";
 "home_enable" = "Aktivieren";
 "home_enable_all" = "Alles aktivieren";
 "home_enable_blocking" = "Blockierung aktivieren";
@@ -463,17 +463,17 @@
 "hours" = "Stunden";
 "10_seconds" = "10 Sekunden";
 "30_seconds" = "30 Sekunden";
-"1_minute" = "1 Minuten";
+"1_minute" = "1 Minute";
 "5_minutes" = "5 Minuten";
 "15_minutes" = "15 Minuten";
 "30_minutes" = "30 Minuten";
 "1_hour" = "1 Stunden";
 "8_hours" = "8 Stunden";
 "24_hours" = "24 Stunden";
-"until_turned_on" = "Bis zum reaktivieren";
+"until_turned_on" = "Bis zum Reaktivieren";
 "indefinitely" = "Unbegrenzt";
 "custom" = "Individuell";
-"custom_dots" = "Individuell...";
+"custom_dots" = "Individuell ...";
 
 // MARK: - Other
 
