@@ -338,6 +338,8 @@
 "preferences_home_usage_metrics_vertical" = "Display Metrics Vertically";
 "preferences_home_temperature_unit" = "Temperature Unit";
 "preferences_home_disable_blocking_presets" = "Disable Blocking Presets";
+"preferences_home_enable_blocking" = "Enable Blocking";
+"preferences_home_enable_blocking_show_alert" = "Ask confirmation before enabling";
 "preferences_home_notifications" = "Notifications";
 "preferences_home_notifications_footer" = "Will send a notification as soon as blocking is enabled again (after disabling blocking).";
 "preferences_home_blocking_enabled" = "Blocking Enabled";

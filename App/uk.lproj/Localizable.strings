@@ -338,6 +338,8 @@
 "preferences_home_usage_metrics_vertical" = "Відображати метрики вертикально";
 "preferences_home_temperature_unit" = "Одиниці виміру температури";
 "preferences_home_disable_blocking_presets" = "Пресети блокування";
+"preferences_home_enable_blocking" = "Enable Blocking";
+"preferences_home_enable_blocking_show_alert" = "Ask confirmation before enabling";
 "preferences_home_notifications" = "Сповіщення";
 "preferences_home_notifications_footer" = "Відправлятиме саовіщення, коли блокування знову увімкнеться (після вимкнення блокування).";
 "preferences_home_blocking_enabled" = "Блокування ввімкнено";

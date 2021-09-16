@@ -338,6 +338,8 @@
 "preferences_home_usage_metrics_vertical" = "Laat statistieken verticaal zien";
 "preferences_home_temperature_unit" = "Temperatuureenheid";
 "preferences_home_disable_blocking_presets" = "Blokkeren instellingen";
+"preferences_home_enable_blocking" = "Blokkeren inschakelen";
+"preferences_home_enable_blocking_show_alert" = "Vraag bevestiging voor inschakelen";
 "preferences_home_notifications" = "Notificaties";
 "preferences_home_notifications_footer" = "Stuurt een notificatie zodra blokkeren weer ingeschakeld is (na het uitschakelen van blokkeren).";
 "preferences_home_blocking_enabled" = "Blokkeren ingeschakeld";

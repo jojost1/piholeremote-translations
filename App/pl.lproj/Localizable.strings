@@ -338,6 +338,8 @@
 "preferences_home_usage_metrics_vertical" = "Wyświetlaj wartości pionowo";
 "preferences_home_temperature_unit" = "Jednostki temperatury";
 "preferences_home_disable_blocking_presets" = "Presety wyłączania blokowania";
+"preferences_home_enable_blocking" = "Enable Blocking";
+"preferences_home_enable_blocking_show_alert" = "Ask confirmation before enabling";
 "preferences_home_notifications" = "Powiadomienia";
 "preferences_home_notifications_footer" = "Wyślij powiadomienie od razu po włączeniu ponownie blokowania (po tym jak zostało wyłączone).";
 "preferences_home_blocking_enabled" = "Blokowanie włączone";
