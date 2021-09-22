@@ -342,6 +342,7 @@
 "preferences_home_enable_blocking_show_alert" = "Ask confirmation before enabling";
 "preferences_home_notifications" = "Benachrichtigungen";
 "preferences_home_notifications_footer" = "Sendet eine Benachrichtigung sobald das Blockieren wieder aktiviert ist (nachdem das Blockieren deaktiviert wurde).";
+"preferences_home_notifications_time_sensitive" = "Deliver as 'Time Sensitive'";
 "preferences_home_blocking_enabled" = "Blockieren aktiv";
 "preferences_home_refresh" = "Aktualisieren";
 "preferences_home_refresh_footer" = "Wird automatisch alle 10 Sekunden aktualisiert, wenn der Home-Tab geöffnet ist und die App im Vordergrund ist.";

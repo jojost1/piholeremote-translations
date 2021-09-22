@@ -342,6 +342,7 @@
 "preferences_home_enable_blocking_show_alert" = "Ask confirmation before enabling";
 "preferences_home_notifications" = "Powiadomienia";
 "preferences_home_notifications_footer" = "Wyślij powiadomienie od razu po włączeniu ponownie blokowania (po tym jak zostało wyłączone).";
+"preferences_home_notifications_time_sensitive" = "Deliver as 'Time Sensitive'";
 "preferences_home_blocking_enabled" = "Blokowanie włączone";
 "preferences_home_refresh" = "Odśwież";
 "preferences_home_refresh_footer" = "Odświeżaj automatycznie co 10 sekund kiedy główna strona jest otwarta a aplikacja jest na pierwszym planie.";

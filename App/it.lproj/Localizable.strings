@@ -342,6 +342,7 @@
 "preferences_home_enable_blocking_show_alert" = "Ask confirmation before enabling";
 "preferences_home_notifications" = "Notifiche";
 "preferences_home_notifications_footer" = "Sarà mandata una notifica appena il blocco sarà abilitato nuovamente (dopo averlo disabilitato).";
+"preferences_home_notifications_time_sensitive" = "Deliver as 'Time Sensitive'";
 "preferences_home_blocking_enabled" = "Blocco abilitato";
 "preferences_home_refresh" = "Aggiornamento";
 "preferences_home_refresh_footer" = "Sarà aggiornato automaticamente ogni 10 secondi quando la tab di Home è aperta e l'app è in primo piano.";
@@ -362,6 +363,17 @@
 "preferences_statistics_other" = "Altro";
 "preferences_statistics_other_footer" = "Mostra la versione di Pi-hole, la versione delle API e le informazione sulla cache DNS.";
 "preferences_statistics_show_other" = "Mostra altre info";
+"preferences_statistics_hidden_domains" = "Hidden domains";
+"preferences_statistics_hidedomains_header" = "Hide Domains";
+"preferences_statistics_hidedomains_footer" = "Hide certain domains in statistics.";
+"preferences_statistics_hidedomains_list_navbar" = "Hide Domains";
+"preferences_statistics_hidedomains_list_footer" = "These (parts of) domains will be hidden from 'Top' lists. They will still be included in statistics in the Home-tab and will still appear in the Query Log.";
+"preferences_statistics_hidedomains_list_none" = "None. You can add entries in the top right!";
+"preferences_statistics_hidedomains_new_placeholder" = "Enter (part of) a domain";
+"preferences_statistics_hidedomains_new_picker" = "Matching Condition";
+"preferences_statistics_hidedomains_new_picker_exactly" = "Exactly";
+"preferences_statistics_hidedomains_new_picker_contains" = "Contains";
+"preferences_statistics_hidedomains_new_navbar" = "Hide Domain";
 "preferences_lists_navbar" = "Liste";
 "preferences_lists_display" = "Display";
 "preferences_lists_sort_by" = "Ordina lista";
@@ -477,6 +489,7 @@
 "view_queries_to_domain" = "Visualizza richieste ai domini";
 "view_queries_from_client" = "Visualizza richieste dai dispositivi";
 "visit_domain" = "Visita dominio";
+"statistics_hide_domain" = "Hide Domain from Statistics";
 
 // MARK: Miscellaneous
 "instances" = "Istanze";
@@ -494,6 +507,7 @@
 "search" = "Cerca";
 "refresh" = "Aggiorna";
 "done" = "Fatto";
+"new" = "New";
 "dismiss" = "Anulla";
 "ok" = "OK";
 "save" = "Salva";
