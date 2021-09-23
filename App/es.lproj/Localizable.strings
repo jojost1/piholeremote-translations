@@ -338,8 +338,8 @@
 "preferences_home_usage_metrics_vertical" = "Mostrar Métricas Verticalmente";
 "preferences_home_temperature_unit" = "Unidad de Temperatura";
 "preferences_home_disable_blocking_presets" = "Desactivar Bloqueos Predeterminados";
-"preferences_home_enable_blocking" = "Enable Blocking";
-"preferences_home_enable_blocking_show_alert" = "Ask confirmation before enabling";
+"preferences_home_enable_blocking" = "Activar Bloqueos";
+"preferences_home_enable_blocking_show_alert" = "Confirmar antes de activar";
 "preferences_home_notifications" = "Notificaciones";
 "preferences_home_notifications_footer" = "Enviará una notificación tan pronto como el bloqueo se active de nuevo (tras su desactivación).";
 "preferences_home_blocking_enabled" = "Bloqueo Activado";
