@@ -479,8 +479,15 @@
 "custom_dots" = "Własne...";
 
 // MARK: - Other
-// MARK: Context Menus
 
+// MARK: - Notifications
+"notification_instance_blocking_enabled_title_%@" = "%@ | Blocking Enabled";
+"notification_instance_blocking_enabled_subtitle" = "Blocking is now enabled again.";
+"notification_disable_60" = "Disable again for 1 minute";
+"notification_disable_300" = "Disable again for 5 minutes";
+"notification_disable_until_enabled" = "Disable again until manually enabled";
+
+// MARK: Context Menus
 "copy_domain" = "Kopiuj domenę";
 "copy_hostname" = "Skopiuj nazwę hosta";
 "copy_ip" = "Kopiuj adres IP";
