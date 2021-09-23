@@ -342,7 +342,7 @@
 "preferences_home_enable_blocking_show_alert" = "Confirmar antes de activar";
 "preferences_home_notifications" = "Notificaciones";
 "preferences_home_notifications_footer" = "Enviará una notificación tan pronto como el bloqueo se active de nuevo (tras su desactivación).";
-"preferences_home_notifications_time_sensitive" = "Deliver as 'Time Sensitive'";
+"preferences_home_notifications_time_sensitive" = "Como 'Sensible al Tiempo'";
 "preferences_home_blocking_enabled" = "Bloqueo Activado";
 "preferences_home_refresh" = "Refrescar";
 "preferences_home_refresh_footer" = "Automáticamente refrescará cada 10 segundos cuando la pestaña Casa esté abierta y la app esté en primer plano.";
@@ -481,11 +481,11 @@
 // MARK: - Other
 
 // MARK: - Notifications
-"notification_instance_blocking_enabled_title_%@" = "%@ | Blocking Enabled";
-"notification_instance_blocking_enabled_subtitle" = "Blocking is now enabled again.";
-"notification_disable_60" = "Disable again for 1 minute";
-"notification_disable_300" = "Disable again for 5 minutes";
-"notification_disable_until_enabled" = "Disable again until manually enabled";
+"notification_instance_blocking_enabled_title_%@" = "%@ | Bloqueo Activado";
+"notification_instance_blocking_enabled_subtitle" = "Bloqueo activado de nuevo.";
+"notification_disable_60" = "Desactivar de nuevo por 1 minuto";
+"notification_disable_300" = "Desactivar de nuevo por 5 minutos";
+"notification_disable_until_enabled" = "Desactivar de nuevo hasta activado manual";
 
 // MARK: Context Menus
 "copy_domain" = "Copiar Dominio";
