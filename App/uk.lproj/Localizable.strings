@@ -350,6 +350,10 @@
 "preferences_home_auto_refresh" = "Автоматичне оновлення";
 "preferences_statistics_navbar" = "Статистика";
 "preferences_statistics_graphs" = "Графіки";
+"preferences_statistics_graphs_type" = "Type";
+"preferences_statistics_graphs_hide" = "Hide graph";
+"preferences_statistics_graphs_type_bar" = "Bar chart";
+"preferences_statistics_graphs_type_line" = "Line chart";
 "preferences_statistics_show_recent_queries" = "Показувати 'Останні запити'";
 "preferences_statistics_hours_visible" = "Відображати годин";
 "preferences_statistics_animate_graphs" = "Анімувати графіки";

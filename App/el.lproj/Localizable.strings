@@ -350,6 +350,10 @@
 "preferences_home_auto_refresh" = "Αυτόματη ανανέωση";
 "preferences_statistics_navbar" = "Στατιστικά";
 "preferences_statistics_graphs" = "Γραφήματα";
+"preferences_statistics_graphs_type" = "Type";
+"preferences_statistics_graphs_hide" = "Hide graph";
+"preferences_statistics_graphs_type_bar" = "Bar chart";
+"preferences_statistics_graphs_type_line" = "Line chart";
 "preferences_statistics_show_recent_queries" = "Εμφάνιση «Πρόσφατων ερωτημάτων»";
 "preferences_statistics_hours_visible" = "Ώρες εμφάνισης";
 "preferences_statistics_animate_graphs" = "Κινούμενα γραφήματα";

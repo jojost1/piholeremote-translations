@@ -350,6 +350,10 @@
 "preferences_home_auto_refresh" = "Auto Refresh";
 "preferences_statistics_navbar" = "Statistics";
 "preferences_statistics_graphs" = "Graphs";
+"preferences_statistics_graphs_type" = "Type";
+"preferences_statistics_graphs_hide" = "Hide graph";
+"preferences_statistics_graphs_type_bar" = "Bar chart";
+"preferences_statistics_graphs_type_line" = "Line chart";
 "preferences_statistics_show_recent_queries" = "Show 'Recent Queries'";
 "preferences_statistics_hours_visible" = "Hours Visible";
 "preferences_statistics_animate_graphs" = "Animate Graphs";

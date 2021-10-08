@@ -350,6 +350,10 @@
 "preferences_home_auto_refresh" = "Ververs automatisch";
 "preferences_statistics_navbar" = "Statistieken";
 "preferences_statistics_graphs" = "Grafieken";
+"preferences_statistics_graphs_type" = "Type";
+"preferences_statistics_graphs_hide" = "Verberg grafiek";
+"preferences_statistics_graphs_type_bar" = "Staafdiagram";
+"preferences_statistics_graphs_type_line" = "Lijngrafiek";
 "preferences_statistics_show_recent_queries" = "Laat 'Recente Queries' zien";
 "preferences_statistics_hours_visible" = "Uren zichtbaar";
 "preferences_statistics_animate_graphs" = "Animatie";
