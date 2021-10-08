@@ -384,6 +384,9 @@
 "preferences_lists_sort_by" = "Сортувати списки за";
 "preferences_lists_alphabet" = "Алфавіт";
 "preferences_lists_date" = "Дата";
+"preferences_lists_terminology" = "Terminology";
+"preferences_lists_terminology_black_white" = "Black & Whitelist";
+"preferences_lists_terminology_block_allow" = "Block & Allowlist";
 "preferences_other_navbar" = "Інше";
 "preferences_other_language" = "Мова";
 

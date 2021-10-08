@@ -384,6 +384,9 @@
 "preferences_lists_sort_by" = "Sortieren nach";
 "preferences_lists_alphabet" = "Alphabet";
 "preferences_lists_date" = "Datum";
+"preferences_lists_terminology" = "Terminology";
+"preferences_lists_terminology_black_white" = "Black & Whitelist";
+"preferences_lists_terminology_block_allow" = "Block & Allowlist";
 "preferences_other_navbar" = "Sonstiges";
 "preferences_other_language" = "Sprache";
 

@@ -384,6 +384,9 @@
 "preferences_lists_sort_by" = "Ταξινόμηση λιστών με";
 "preferences_lists_alphabet" = "Αλφαβητικά";
 "preferences_lists_date" = "Ημερομηνία";
+"preferences_lists_terminology" = "Terminology";
+"preferences_lists_terminology_black_white" = "Black & Whitelist";
+"preferences_lists_terminology_block_allow" = "Block & Allowlist";
 "preferences_other_navbar" = "Άλλα";
 "preferences_other_language" = "Γλώσσα";
 
