@@ -148,6 +148,7 @@
 "querylog_filter_status_blocked_only" = "Blocked Only";
 "querylog_filter_type" = "Type";
 "querylog_filter_type_hide_https" = "Hide HTTPS queries";
+"querylog_filter_type_hide_ds_dnskey" = "Hide DS & DNSKEY queries";
 "querylog_filter_sort" = "Sort";
 "querylog_filter_sort_new_old" = "New > Old";
 "querylog_filter_sort_old_new" = "Old > New";

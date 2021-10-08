@@ -148,6 +148,7 @@
 "querylog_filter_status_blocked_only" = "Alleen geblokkeerd";
 "querylog_filter_type" = "Type";
 "querylog_filter_type_hide_https" = "Verberg HTTPS queries";
+"querylog_filter_type_hide_ds_dnskey" = "Verberg DS & DNSKEY queries";
 "querylog_filter_sort" = "Sorteer";
 "querylog_filter_sort_new_old" = "Nieuw > Oud";
 "querylog_filter_sort_old_new" = "Oud > Nieuw";

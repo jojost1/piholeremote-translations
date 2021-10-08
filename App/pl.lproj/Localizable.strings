@@ -149,6 +149,7 @@
 "querylog_filter_sort" = "Sortuj";
 "querylog_filter_type" = "Typ";
 "querylog_filter_type_hide_https" = "Ukryj HTTPS zapytania";
+"querylog_filter_type_hide_ds_dnskey" = "Ukryj DS & DNSKEY zapytania";
 "querylog_filter_sort_new_old" = "Nowe > Stare";
 "querylog_filter_sort_old_new" = "Stare > Nowe";
 "querylog_filter_other" = "Inne";

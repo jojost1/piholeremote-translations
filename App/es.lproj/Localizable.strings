@@ -148,6 +148,7 @@
 "querylog_filter_status_blocked_only" = "Bloqueado Solo";
 "querylog_filter_type" = "Tipo";
 "querylog_filter_type_hide_https" = "Ocultar consultas HTTPS";
+"querylog_filter_type_hide_ds_dnskey" = "Ocultar consultas DS & DNSKEY";
 "querylog_filter_sort" = "Orden";
 "querylog_filter_sort_new_old" = "Nuevo > Antiguo";
 "querylog_filter_sort_old_new" = "Antiguo > Nuevo";
