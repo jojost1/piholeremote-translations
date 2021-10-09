@@ -379,6 +379,9 @@
 "preferences_statistics_hidedomains_new_picker_exactly" = "Точно";
 "preferences_statistics_hidedomains_new_picker_contains" = "Містить";
 "preferences_statistics_hidedomains_new_navbar" = "Сховати домен";
+"preferences_statistics_hidedomains_hide_from" = "Hide from";
+"preferences_statistics_hidedomains_hide_from_statistics_only" = "Statistics only";
+"preferences_statistics_hidedomains_hide_from_statistics_and_querylog" = "Statistics & Query Log";
 "preferences_lists_navbar" = "Списки";
 "preferences_lists_display" = "Відображення";
 "preferences_lists_sort_by" = "Сортувати списки за";

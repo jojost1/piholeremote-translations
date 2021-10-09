@@ -379,6 +379,9 @@
 "preferences_statistics_hidedomains_new_picker_exactly" = "Exactly";
 "preferences_statistics_hidedomains_new_picker_contains" = "Contains";
 "preferences_statistics_hidedomains_new_navbar" = "Hide Domain";
+"preferences_statistics_hidedomains_hide_from" = "Hide from";
+"preferences_statistics_hidedomains_hide_from_statistics_only" = "Statistics only";
+"preferences_statistics_hidedomains_hide_from_statistics_and_querylog" = "Statistics & Query Log";
 "preferences_lists_navbar" = "Listy";
 "preferences_lists_display" = "Display";
 "preferences_lists_sort_by" = "Sortuj listy według";

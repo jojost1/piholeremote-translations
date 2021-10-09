@@ -379,6 +379,9 @@
 "preferences_statistics_hidedomains_new_picker_exactly" = "Ακριβώς";
 "preferences_statistics_hidedomains_new_picker_contains" = "Περιέχει";
 "preferences_statistics_hidedomains_new_navbar" = "Απόκρυψη domain";
+"preferences_statistics_hidedomains_hide_from" = "Hide from";
+"preferences_statistics_hidedomains_hide_from_statistics_only" = "Statistics only";
+"preferences_statistics_hidedomains_hide_from_statistics_and_querylog" = "Statistics & Query Log";
 "preferences_lists_navbar" = "Λίστες";
 "preferences_lists_display" = "Εμφάνιση";
 "preferences_lists_sort_by" = "Ταξινόμηση λιστών με";
