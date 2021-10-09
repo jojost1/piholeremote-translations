@@ -380,7 +380,7 @@
 "preferences_statistics_hidedomains_new_picker_contains" = "Містить";
 "preferences_statistics_hidedomains_new_navbar" = "Сховати домен";
 "preferences_statistics_hidedomains_hide_from" = "Ховати з";
-"preferences_statistics_hidedomains_hide_from_statistics_only" = "Тільки статистики";
+"preferences_statistics_hidedomains_hide_from_statistics_only" = "Тільки Статистики";
 "preferences_statistics_hidedomains_hide_from_statistics_and_querylog" = "Статистики та Журналу запитів";
 "preferences_lists_navbar" = "Списки";
 "preferences_lists_display" = "Відображення";
@@ -495,7 +495,7 @@
 
 // MARK: - Notifications
 "notification_instance_blocking_enabled_title_%@" = "%@ | Блокування увімкнено";
-"notification_instance_blocking_enabled_subtitle" = "Блокування тепер знову увімнено.";
+"notification_instance_blocking_enabled_subtitle" = "Блокування тепер знову увімкнено.";
 "notification_disable_60" = "Вимкнути знову на 1 хвилину";
 "notification_disable_300" = "Вимкнути знову на 5 хвилин";
 "notification_disable_until_enabled" = "Вимкнути знову до увімкнення вручну";
