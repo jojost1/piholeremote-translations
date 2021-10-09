@@ -453,6 +453,8 @@
 "changelog_just_updated" = "Μόλις ενημερώθηκε!";
 "changelog_current_version" = "Τρέχουσα έκδοση";
 "changelog_continue" = "Συνέχεια";
+"changelog_view_full" = "View Full Changelog";
+"changelog_show_feature_promo" = "Show Feature Promo";
 "changelog_settings" = "Ρυθμίσεις αρχείου αλλαγών";
 "changelog_settings_show" = "Εμφάνιση κατά την ενημέρωση της εφαρμογής";
 "changelog_settings_show_footer" = "Το αρχείο αλλαγών θα εμφανίζεται μόνο για ενημερώσεις χαρακτηριστικών, όχι για τις ενημερώσεις που περιλαμβάνουν μόνο διορθώσεις σφαλμάτων.";

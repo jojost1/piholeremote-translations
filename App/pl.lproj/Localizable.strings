@@ -453,6 +453,8 @@
 "changelog_just_updated" = "Właśnie zaktualizowano!";
 "changelog_current_version" = "Bieżący";
 "changelog_continue" = "Kontynuuj";
+"changelog_view_full" = "View Full Changelog";
+"changelog_show_feature_promo" = "Show Feature Promo";
 "changelog_settings" = "Ustawienia dzienniczka zmian";
 "changelog_settings_show" = "Pokaż przy aktualizacji aplikacji";
 "changelog_settings_show_footer" = "Lista zmian będzie wyświetlana tylko dla aktualizacji funkcji, nie dla aktualizacji zawierających tylko poprawki błędów.";

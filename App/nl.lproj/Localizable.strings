@@ -453,6 +453,8 @@
 "changelog_just_updated" = "Net geüpdatet!";
 "changelog_current_version" = "Huidige versie";
 "changelog_continue" = "Ga door";
+"changelog_view_full" = "Volledige changelog";
+"changelog_show_feature_promo" = "Functiepromo";
 "changelog_settings" = "Changelog";
 "changelog_settings_show" = "Laat zien bij app update";
 "changelog_settings_show_footer" = "De changelog zal alleen getoond worden na een update met nieuwe features, niet voor updates met alleen bugfixes.";

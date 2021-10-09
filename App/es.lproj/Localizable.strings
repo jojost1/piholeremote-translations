@@ -453,6 +453,8 @@
 "changelog_just_updated" = "¡Recién Actualizado!";
 "changelog_current_version" = "Actual";
 "changelog_continue" = "Continuar";
+"changelog_view_full" = "View Full Changelog";
+"changelog_show_feature_promo" = "Show Feature Promo";
 "changelog_settings" = "Configuración del Registro de Cambios";
 "changelog_settings_show" = "Mostrar cuando la App se Actualice";
 "changelog_settings_show_footer" = "El Registro de Cambios sólo se mostrará cuando existan actualizaciones funcionales, no para actualizaciones que sólo contengan correcciones.";

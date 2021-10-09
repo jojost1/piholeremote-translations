@@ -453,6 +453,8 @@
 "changelog_just_updated" = "Appena aggiornato!";
 "changelog_current_version" = "Corrente";
 "changelog_continue" = "Continua";
+"changelog_view_full" = "View Full Changelog";
+"changelog_show_feature_promo" = "Show Feature Promo";
 "changelog_settings" = "Impostazioni del changelog";
 "changelog_settings_show" = "Mostra sugli aggiornamenti delle App";
 "changelog_settings_show_footer" = "Il changelog sarà mostrato solo per gli update che includono nuove funzionalità, non per update che contengono solo correzioni di bug.";

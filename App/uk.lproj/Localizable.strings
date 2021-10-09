@@ -453,6 +453,8 @@
 "changelog_just_updated" = "Щойно оновлено!";
 "changelog_current_version" = "Поточна";
 "changelog_continue" = "Продовжити";
+"changelog_view_full" = "View Full Changelog";
+"changelog_show_feature_promo" = "Show Feature Promo";
 "changelog_settings" = "Налаштування журналу змін";
 "changelog_settings_show" = "Показувати при оновленні застосунку";
 "changelog_settings_show_footer" = "Журнал змін буде показуватись тільки при оновленні можливостей, але не при оновленнях, що включають тільки виправлення помилок.";
