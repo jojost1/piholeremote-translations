@@ -339,21 +339,21 @@
 "preferences_home_usage_metrics_vertical" = "Відображати метрики вертикально";
 "preferences_home_temperature_unit" = "Одиниці виміру температури";
 "preferences_home_disable_blocking_presets" = "Пресети блокування";
-"preferences_home_enable_blocking" = "Enable Blocking";
-"preferences_home_enable_blocking_show_alert" = "Ask confirmation before enabling";
+"preferences_home_enable_blocking" = "Увімкнути блокування";
+"preferences_home_enable_blocking_show_alert" = "Запитувати підтвердження перед вмиканням";
 "preferences_home_notifications" = "Сповіщення";
-"preferences_home_notifications_footer" = "Відправлятиме саовіщення, коли блокування знову увімкнеться (після вимкнення блокування).";
-"preferences_home_notifications_time_sensitive" = "Deliver as 'Time Sensitive'";
+"preferences_home_notifications_footer" = "Відправлятиме сповіщення, коли блокування знову увімкнеться (після вимкнення блокування).";
+"preferences_home_notifications_time_sensitive" = "Доставляти як 'Термінові'";
 "preferences_home_blocking_enabled" = "Блокування ввімкнено";
 "preferences_home_refresh" = "Оновлення";
 "preferences_home_refresh_footer" = "Оновлюватиметься автоматично кожні 10 секунд, коли вкладка Основне відкрита і застосунок на передньому плані.";
 "preferences_home_auto_refresh" = "Автоматичне оновлення";
 "preferences_statistics_navbar" = "Статистика";
 "preferences_statistics_graphs" = "Графіки";
-"preferences_statistics_graphs_type" = "Type";
-"preferences_statistics_graphs_hide" = "Hide graph";
-"preferences_statistics_graphs_type_bar" = "Bar chart";
-"preferences_statistics_graphs_type_line" = "Line chart";
+"preferences_statistics_graphs_type" = "Тип";
+"preferences_statistics_graphs_hide" = "Сховати графік";
+"preferences_statistics_graphs_type_bar" = "Стовпчиковий графік";
+"preferences_statistics_graphs_type_line" = "Лінійний графік";
 "preferences_statistics_show_recent_queries" = "Показувати 'Останні запити'";
 "preferences_statistics_hours_visible" = "Відображати годин";
 "preferences_statistics_animate_graphs" = "Анімувати графіки";
@@ -379,17 +379,17 @@
 "preferences_statistics_hidedomains_new_picker_exactly" = "Точно";
 "preferences_statistics_hidedomains_new_picker_contains" = "Містить";
 "preferences_statistics_hidedomains_new_navbar" = "Сховати домен";
-"preferences_statistics_hidedomains_hide_from" = "Hide from";
-"preferences_statistics_hidedomains_hide_from_statistics_only" = "Statistics only";
-"preferences_statistics_hidedomains_hide_from_statistics_and_querylog" = "Statistics & Query Log";
+"preferences_statistics_hidedomains_hide_from" = "Ховати з";
+"preferences_statistics_hidedomains_hide_from_statistics_only" = "Тільки Статистики";
+"preferences_statistics_hidedomains_hide_from_statistics_and_querylog" = "Статистики та Журналу запитів";
 "preferences_lists_navbar" = "Списки";
 "preferences_lists_display" = "Відображення";
 "preferences_lists_sort_by" = "Сортувати списки за";
-"preferences_lists_alphabet" = "Алфавіт";
-"preferences_lists_date" = "Дата";
-"preferences_lists_terminology" = "Terminology";
-"preferences_lists_terminology_black_white" = "Black & Whitelist";
-"preferences_lists_terminology_block_allow" = "Block & Allowlist";
+"preferences_lists_alphabet" = "Алфавітом";
+"preferences_lists_date" = "Датою";
+"preferences_lists_terminology" = "Термінологія";
+"preferences_lists_terminology_black_white" = "Чорний та Білий списки";
+"preferences_lists_terminology_block_allow" = "Блокований та Дозволений списки";
 "preferences_other_navbar" = "Інше";
 "preferences_other_language" = "Мова";
 
@@ -401,13 +401,13 @@
 "design_tint_indigo" = "Індиго";
 "design_tint_purple" = "Фіолетовий";
 "design_tint_teal" = "Блакитний";
-"design_tint_mint" = "Mint";
+"design_tint_mint" = "М'ятний";
 "design_tint_green" = "Зелений";
 "design_tint_yellow" = "Жовтий";
 "design_tint_orange" = "Помаранчевий";
 "design_tint_pink" = "Рожевий";
 "design_tint_red" = "Червоний";
-"design_tint_brown" = "Brown";
+"design_tint_brown" = "Коричневий";
 "design_icon" = "Іконка застосунку";
 "design_icon_pihole" = "Pi-hole Remote";
 "design_icon_pihole_dark" = "Pi-hole Remote темна";
@@ -450,14 +450,14 @@
 
 // MARK: Changelog
 "changelog_navbar" = "Що нового";
-"changelog_new" = "New";
-"changelog_improved" = "Improved";
-"changelog_fixed" = "Fixed";
+"changelog_new" = "Нове";
+"changelog_improved" = "Покращено";
+"changelog_fixed" = "Виправлено";
 "changelog_just_updated" = "Щойно оновлено!";
 "changelog_current_version" = "Поточна";
 "changelog_continue" = "Продовжити";
-"changelog_view_full" = "View Full Changelog";
-"changelog_show_feature_promo" = "Show Feature Promo";
+"changelog_view_full" = "Переглянути Що нового повністю";
+"changelog_show_feature_promo" = "Показати огляд функцій";
 "changelog_settings" = "Налаштування журналу змін";
 "changelog_settings_show" = "Показувати при оновленні застосунку";
 "changelog_settings_show_footer" = "Журнал змін буде показуватись тільки при оновленні можливостей, але не при оновленнях, що включають тільки виправлення помилок.";
@@ -477,7 +477,7 @@
 "seconds" = "Секунд";
 "minutes" = "Хвилин";
 "hours" = "Годин";
-"10_seconds" = "10 сукунд";
+"10_seconds" = "10 секунд";
 "30_seconds" = "30 секунд";
 "1_minute" = "1 хвилина";
 "5_minutes" = "5 хвилин";
@@ -494,11 +494,11 @@
 // MARK: - Other
 
 // MARK: - Notifications
-"notification_instance_blocking_enabled_title_%@" = "%@ | Blocking Enabled";
-"notification_instance_blocking_enabled_subtitle" = "Blocking is now enabled again.";
-"notification_disable_60" = "Disable again for 1 minute";
-"notification_disable_300" = "Disable again for 5 minutes";
-"notification_disable_until_enabled" = "Disable again until manually enabled";
+"notification_instance_blocking_enabled_title_%@" = "%@ | Блокування увімкнено";
+"notification_instance_blocking_enabled_subtitle" = "Блокування тепер знову увімкнено.";
+"notification_disable_60" = "Вимкнути знову на 1 хвилину";
+"notification_disable_300" = "Вимкнути знову на 5 хвилин";
+"notification_disable_until_enabled" = "Вимкнути знову до увімкнення вручну";
 
 // MARK: Context Menus
 "copy_domain" = "Копіювати домен";
