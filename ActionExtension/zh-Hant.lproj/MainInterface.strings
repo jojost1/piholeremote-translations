@@ -15,7 +15,7 @@
 "Qbt-JN-40t.placeholder" = "網域";
 
 /* Class = "UILabel"; text = "RegEx"; ObjectID = "qZy-2G-fBb"; */
-"qZy-2G-fBb.text" = "RegEx";
+"qZy-2G-fBb.text" = "規則運算式";
 
 /* Class = "UISegmentedControl"; sWA-Lh-jNh.segmentTitles[0] = "Blacklist"; ObjectID = "sWA-Lh-jNh"; */
 "sWA-Lh-jNh.segmentTitles[0]" = "黑名單";
