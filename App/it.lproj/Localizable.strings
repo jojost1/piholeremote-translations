@@ -109,7 +109,7 @@
 "graphs_allowed" = "Permessi";
 "graphs_blocked" = "Bloccati";
 "graphs_query_types" = "Tipi di richieste";
-"graphs_answered_by" = "Answered By";
+"graphs_answered_by" = "Risposto da";
 
 // MARK: - QueryLog-tab
 "querylog_navbar" = "Log delle richieste";
@@ -147,8 +147,8 @@
 "querylog_filter_status_blocked" = "Bloccati";
 "querylog_filter_status_blocked_only" = "Solo bloccati";
 "querylog_filter_type" = "Tipo";
-"querylog_filter_type_hide_https" = "Nascondi HTTPS richieste";
-"querylog_filter_type_hide_ds_dnskey" = "Nascondi DS & DNSKEY richieste";
+"querylog_filter_type_hide_https" = "Nascondi richieste HTTPS";
+"querylog_filter_type_hide_ds_dnskey" = "Nascondi richieste DS & DNSKEY";
 "querylog_filter_sort" = "Ordina";
 "querylog_filter_sort_new_old" = "Nuovo > Vecchio";
 "querylog_filter_sort_old_new" = "Vecchio > Nuovo";
@@ -339,21 +339,21 @@
 "preferences_home_usage_metrics_vertical" = "Mostra le metriche in verticale";
 "preferences_home_temperature_unit" = "Unità per la temperatura";
 "preferences_home_disable_blocking_presets" = "Disabilita i presets dei blocchi";
-"preferences_home_enable_blocking" = "Enable Blocking";
-"preferences_home_enable_blocking_show_alert" = "Ask confirmation before enabling";
+"preferences_home_enable_blocking" = "Abilita il blocco";
+"preferences_home_enable_blocking_show_alert" = "Chiedi conferma prima di abilitarlo";
 "preferences_home_notifications" = "Notifiche";
 "preferences_home_notifications_footer" = "Sarà mandata una notifica appena il blocco sarà abilitato nuovamente (dopo averlo disabilitato).";
-"preferences_home_notifications_time_sensitive" = "Deliver as 'Time Sensitive'";
+"preferences_home_notifications_time_sensitive" = "Notifica come 'Urgente'";
 "preferences_home_blocking_enabled" = "Blocco abilitato";
 "preferences_home_refresh" = "Aggiornamento";
 "preferences_home_refresh_footer" = "Sarà aggiornato automaticamente ogni 10 secondi quando la tab di Home è aperta e l'app è in primo piano.";
 "preferences_home_auto_refresh" = "Auto Aggiornamento";
 "preferences_statistics_navbar" = "Statistiche";
 "preferences_statistics_graphs" = "Grafici";
-"preferences_statistics_graphs_type" = "Type";
-"preferences_statistics_graphs_hide" = "Hide graph";
-"preferences_statistics_graphs_type_bar" = "Bar chart";
-"preferences_statistics_graphs_type_line" = "Line chart";
+"preferences_statistics_graphs_type" = "Tipo";
+"preferences_statistics_graphs_hide" = "Nascondi grafico";
+"preferences_statistics_graphs_type_bar" = "Grafico a barre";
+"preferences_statistics_graphs_type_line" = "Grafico a linee";
 "preferences_statistics_show_recent_queries" = "Mostra le richieste recenti";
 "preferences_statistics_hours_visible" = "Ore visibili";
 "preferences_statistics_animate_graphs" = "Grafici animati";
@@ -368,28 +368,28 @@
 "preferences_statistics_other" = "Altro";
 "preferences_statistics_other_footer" = "Mostra la versione di Pi-hole, la versione delle API e le informazione sulla cache DNS.";
 "preferences_statistics_show_other" = "Mostra altre info";
-"preferences_statistics_hidden_domains" = "Hidden domains";
-"preferences_statistics_hidedomains_header" = "Hide Domains";
-"preferences_statistics_hidedomains_footer" = "Hide certain domains in statistics.";
-"preferences_statistics_hidedomains_list_navbar" = "Hide Domains";
-"preferences_statistics_hidedomains_list_footer" = "These (parts of) domains will be hidden from 'Top' lists. They will still be included in statistics in the Home-tab and will still appear in the Query Log.";
-"preferences_statistics_hidedomains_list_none" = "None. You can add entries in the top right!";
-"preferences_statistics_hidedomains_new_placeholder" = "Enter (part of) a domain";
-"preferences_statistics_hidedomains_new_picker" = "Matching Condition";
-"preferences_statistics_hidedomains_new_picker_exactly" = "Exactly";
-"preferences_statistics_hidedomains_new_picker_contains" = "Contains";
-"preferences_statistics_hidedomains_new_navbar" = "Hide Domain";
-"preferences_statistics_hidedomains_hide_from" = "Hide from";
-"preferences_statistics_hidedomains_hide_from_statistics_only" = "Statistics only";
-"preferences_statistics_hidedomains_hide_from_statistics_and_querylog" = "Statistics & Query Log";
+"preferences_statistics_hidden_domains" = "Domini nascosti";
+"preferences_statistics_hidedomains_header" = "Nascondi domini";
+"preferences_statistics_hidedomains_footer" = "Nascondi domini precisi dalle statistiche.";
+"preferences_statistics_hidedomains_list_navbar" = "Nascondi domini";
+"preferences_statistics_hidedomains_list_footer" = "Questi domini (o parti di esso) saranno nascosti dalle liste 'Top'. Saranno comunque inclusi nelel statistiche nella tab home e appariranno nei log delle richieste.";
+"preferences_statistics_hidedomains_list_none" = "Nessun elemento. Puoi aggiungere elementi in alto a destra!";
+"preferences_statistics_hidedomains_new_placeholder" = "Inserisci un dominio (o parte di esso)";
+"preferences_statistics_hidedomains_new_picker" = "Corrispondenza";
+"preferences_statistics_hidedomains_new_picker_exactly" = "Esatto";
+"preferences_statistics_hidedomains_new_picker_contains" = "Contiene";
+"preferences_statistics_hidedomains_new_navbar" = "Nascondi dominio";
+"preferences_statistics_hidedomains_hide_from" = "Nascondi da";
+"preferences_statistics_hidedomains_hide_from_statistics_only" = "Solo statistiche";
+"preferences_statistics_hidedomains_hide_from_statistics_and_querylog" = "Statistiche & Log delle richieste";
 "preferences_lists_navbar" = "Liste";
 "preferences_lists_display" = "Display";
 "preferences_lists_sort_by" = "Ordina lista";
 "preferences_lists_alphabet" = "Alfabeticamente";
 "preferences_lists_date" = "Data";
-"preferences_lists_terminology" = "Terminology";
+"preferences_lists_terminology" = "Terminologia";
 "preferences_lists_terminology_black_white" = "Black & Whitelist";
-"preferences_lists_terminology_block_allow" = "Block & Allowlist";
+"preferences_lists_terminology_block_allow" = "Lista bloccati & permessi";
 "preferences_other_navbar" = "Altro";
 "preferences_other_language" = "Linguaggio";
 
@@ -401,18 +401,18 @@
 "design_tint_indigo" = "Indaco";
 "design_tint_purple" = "Viola";
 "design_tint_teal" = "Verde acqua";
-"design_tint_mint" = "Mint";
+"design_tint_mint" = "Menta";
 "design_tint_green" = "Verde";
 "design_tint_yellow" = "Giallo";
 "design_tint_orange" = "Arancione";
 "design_tint_pink" = "Rosa";
 "design_tint_red" = "Rosso";
-"design_tint_brown" = "Brown";
+"design_tint_brown" = "Marrone";
 "design_icon" = "Icona dell'app";
 "design_icon_pihole" = "Pi-hole Remote";
 "design_icon_pihole_dark" = "Pi-hole Remote Dark";
-"design_icon_classic" = "Classic";
-"design_icon_classic_dark" = "Classic Dark";
+"design_icon_classic" = "Classico";
+"design_icon_classic_dark" = "Scuro";
 "design_theme" = "Tema";
 "design_system" = "Sistema";
 "design_light_mode" = "Modalità chiara";
@@ -456,8 +456,8 @@
 "changelog_just_updated" = "Appena aggiornato!";
 "changelog_current_version" = "Corrente";
 "changelog_continue" = "Continua";
-"changelog_view_full" = "View Full Changelog";
-"changelog_show_feature_promo" = "Show Feature Promo";
+"changelog_view_full" = "Visualizza il changelog completo";
+"changelog_show_feature_promo" = "Mostra changelog breve";
 "changelog_settings" = "Impostazioni del changelog";
 "changelog_settings_show" = "Mostra sugli aggiornamenti delle App";
 "changelog_settings_show_footer" = "Il changelog sarà mostrato solo per gli update che includono nuove funzionalità, non per update che contengono solo correzioni di bug.";
@@ -494,11 +494,11 @@
 // MARK: - Other
 
 // MARK: - Notifications
-"notification_instance_blocking_enabled_title_%@" = "%@ | Blocking Enabled";
-"notification_instance_blocking_enabled_subtitle" = "Blocking is now enabled again.";
-"notification_disable_60" = "Disable again for 1 minute";
-"notification_disable_300" = "Disable again for 5 minutes";
-"notification_disable_until_enabled" = "Disable again until manually enabled";
+"notification_instance_blocking_enabled_title_%@" = "%@ | Blocco abilitato";
+"notification_instance_blocking_enabled_subtitle" = "Il blocco è abilitato nuovamente.";
+"notification_disable_60" = "Disabilita nuovamente per un minuto";
+"notification_disable_300" = "Disabilita nuovamente per cinque minuti";
+"notification_disable_until_enabled" = "Disabilita nuovamente finché non viene riabilitato manualmente";
 
 // MARK: Context Menus
 "copy_domain" = "Copia dominio";
@@ -509,7 +509,7 @@
 "view_queries_to_domain" = "Visualizza richieste ai domini";
 "view_queries_from_client" = "Visualizza richieste dai dispositivi";
 "visit_domain" = "Visita dominio";
-"statistics_hide_domain" = "Hide Domain from Statistics";
+"statistics_hide_domain" = "Nascondi dominio dalle statistiche";
 
 // MARK: Miscellaneous
 "instances" = "Istanze";
