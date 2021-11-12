@@ -2,7 +2,7 @@
   Localizable.strings
   Pi-hole Remote
 
-  Created by Joost van den Akker on 27/10/2021.
+  Created by Joost van den Akker on 25/04/2021.
   Copyright © 2021 RocketScience. All rights reserved.
 */
 
@@ -124,6 +124,10 @@
 "querylog_status_blacklist_regex_cname" = "Regex Blacklist (CNAME)";
 "querylog_status_blacklist_exact" = "Exact Blacklist";
 "querylog_status_blacklist_exact_cname" = "Exact Blacklist (CNAME)";
+"querylog_status_denylist_regex" = "Regex Denylist";
+"querylog_status_denylist_regex_cname" = "Regex Denylist (CNAME)";
+"querylog_status_denylist_exact" = "Exact Denylist";
+"querylog_status_denylist_exact_cname" = "Exact Denylist (CNAME)";
 "querylog_status_upstream_ip" = "Upstream Server (IP)";
 "querylog_status_upstream_0000" = "Upstream Server (0.0.0.0 or ::)";
 "querylog_status_upstream_nxdomain" = "Upstream Server (NXDOMAIN)";
@@ -184,6 +188,10 @@
 "lists_blacklist_regex" = "Blacklist (Regex)";
 "lists_whitelist" = "Whitelist";
 "lists_whitelist_regex" = "Whitelist (Regex)";
+"lists_denylist" = "Denylist";
+"lists_denylist_regex" = "Denylist (Regex)";
+"lists_allowlist" = "Allowlist";
+"lists_allowlist_regex" = "Allowlist (Regex)";
 "lists_domain" = "Domain";
 "lists_domains" = "Domains";
 "lists_regex" = "RegEx";
@@ -267,6 +275,10 @@
 "lists_export_blacklist_regex" = "Blacklist Regex";
 "lists_export_whitelist" = "Whitelist";
 "lists_export_whitelist_regex" = "Whitelist Regex";
+"lists_export_denylist" = "Denylist";
+"lists_export_denylist_regex" = "Denylist Regex";
+"lists_export_allowlist" = "Allowlist";
+"lists_export_allowlist_regex" = "Allowlist Regex";
 "lists_export_successful" = "Export Successful";
 "lists_export_successful_copied_%@" = "%@ entries were copied to your clipboard.";
 
@@ -389,7 +401,7 @@
 "preferences_lists_date" = "Date";
 "preferences_lists_terminology" = "Terminology";
 "preferences_lists_terminology_black_white" = "Black & Whitelist";
-"preferences_lists_terminology_block_allow" = "Block & Allowlist";
+"preferences_lists_terminology_deny_allow" = "Deny & Allowlist";
 "preferences_other_navbar" = "Other";
 "preferences_other_language" = "Language";
 

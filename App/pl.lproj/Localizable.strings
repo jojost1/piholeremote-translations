@@ -124,6 +124,10 @@
 "querylog_status_blacklist_regex_cname" = "Czarna lista regexów (CNAME)";
 "querylog_status_blacklist_exact" = "Precyzyjna czarna lista";
 "querylog_status_blacklist_exact_cname" = "Precyzyjna czarna lista (CNAME)";
+"querylog_status_denylist_regex" = "Regex Denylist";
+"querylog_status_denylist_regex_cname" = "Regex Denylist (CNAME)";
+"querylog_status_denylist_exact" = "Exact Denylist";
+"querylog_status_denylist_exact_cname" = "Exact Denylist (CNAME)";
 "querylog_status_upstream_ip" = "Serwer źródłowy (IP)";
 "querylog_status_upstream_0000" = "Serwer źródłowy (0.0.0.0 lub ::)";
 "querylog_status_upstream_nxdomain" = "Serwer źródłowy (NXDOMAIN)";
@@ -184,6 +188,10 @@
 "lists_blacklist_regex" = "Czarna lista regexów";
 "lists_whitelist" = "Biała lista";
 "lists_whitelist_regex" = "Biała lista regexów";
+"lists_denylist" = "Denylist";
+"lists_denylist_regex" = "Denylist (Regex)";
+"lists_allowlist" = "Allowlist";
+"lists_allowlist_regex" = "Allowlist (Regex)";
 "lists_domain" = "Domena";
 "lists_domains" = "Domeny";
 "lists_regex" = "RegEx";
@@ -267,6 +275,10 @@
 "lists_export_blacklist_regex" = "Czarna lista regexów";
 "lists_export_whitelist" = "Biała lista";
 "lists_export_whitelist_regex" = "Biała lista regexów";
+"lists_export_denylist" = "Denylist";
+"lists_export_denylist_regex" = "Denylist Regex";
+"lists_export_allowlist" = "Allowlist";
+"lists_export_allowlist_regex" = "Allowlist Regex";
 "lists_export_successful" = "Eksport ukończony pomyślnie";
 "lists_export_successful_copied_%@" = "%@ wpisów zostało skopiowanych do schowka.";
 
@@ -389,7 +401,7 @@
 "preferences_lists_date" = "Data";
 "preferences_lists_terminology" = "Terminology";
 "preferences_lists_terminology_black_white" = "Black & Whitelist";
-"preferences_lists_terminology_block_allow" = "Block & Allowlist";
+"preferences_lists_terminology_deny_allow" = "Deny & Allowlist";
 "preferences_other_navbar" = "Inne";
 "preferences_other_language" = "Język";
 
