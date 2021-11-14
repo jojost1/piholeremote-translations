@@ -124,10 +124,10 @@
 "querylog_status_blacklist_regex_cname" = "Regex Lista Negra (CNAME)";
 "querylog_status_blacklist_exact" = "Exacta Lista Negra";
 "querylog_status_blacklist_exact_cname" = "Exacta Lista Negra (CNAME)";
-"querylog_status_denylist_regex" = "Regex Denylist";
-"querylog_status_denylist_regex_cname" = "Regex Denylist (CNAME)";
-"querylog_status_denylist_exact" = "Exact Denylist";
-"querylog_status_denylist_exact_cname" = "Exact Denylist (CNAME)";
+"querylog_status_denylist_regex" = "Regex Lista Bloqueado";
+"querylog_status_denylist_regex_cname" = "Regex Lista Bloqueado (CNAME)";
+"querylog_status_denylist_exact" = "Exacta Lista Bloqueado";
+"querylog_status_denylist_exact_cname" = "Exacta Lista Bloqueado (CNAME)";
 "querylog_status_upstream_ip" = "Servidor Ascendente (IP)";
 "querylog_status_upstream_0000" = "Servidor Ascendente (0.0.0.0 ó ::)";
 "querylog_status_upstream_nxdomain" = "Servidor Ascendente (NXDOMAIN)";
@@ -188,10 +188,10 @@
 "lists_blacklist_regex" = "Lista Negra (Regex)";
 "lists_whitelist" = "Lista Blanca";
 "lists_whitelist_regex" = "Lista Blanca (Regex)";
-"lists_denylist" = "Denylist";
-"lists_denylist_regex" = "Denylist (Regex)";
-"lists_allowlist" = "Allowlist";
-"lists_allowlist_regex" = "Allowlist (Regex)";
+"lists_denylist" = "Lista Bloqueado";
+"lists_denylist_regex" = "Lista Bloqueado (Regex)";
+"lists_allowlist" = "Lista Permitido";
+"lists_allowlist_regex" = "Lista Permitido (Regex)";
 "lists_domain" = "Dominio";
 "lists_domains" = "Dominios";
 "lists_regex" = "RegEx";
@@ -275,10 +275,10 @@
 "lists_export_blacklist_regex" = "Lista Negra Regex";
 "lists_export_whitelist" = "Lista Blanca";
 "lists_export_whitelist_regex" = "Lista Blanca Regex";
-"lists_export_denylist" = "Denylist";
-"lists_export_denylist_regex" = "Denylist Regex";
-"lists_export_allowlist" = "Allowlist";
-"lists_export_allowlist_regex" = "Allowlist Regex";
+"lists_export_denylist" = "Lista Bloqueado";
+"lists_export_denylist_regex" = "Lista Bloqueado Regex";
+"lists_export_allowlist" = "Lista Permitido";
+"lists_export_allowlist_regex" = "Lista Permitido Regex";
 "lists_export_successful" = "Exportado Exitoso";
 "lists_export_successful_copied_%@" = "%@ entradas se han exportado al portapapeles.";
 
