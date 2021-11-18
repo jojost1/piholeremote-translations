@@ -124,10 +124,10 @@
 "querylog_status_blacklist_regex_cname" = "Чорний список Regex (CNAME)";
 "querylog_status_blacklist_exact" = "Точний чорний список";
 "querylog_status_blacklist_exact_cname" = "Точний чорний список (CNAME)";
-"querylog_status_denylist_regex" = "Regex Denylist";
-"querylog_status_denylist_regex_cname" = "Regex Denylist (CNAME)";
-"querylog_status_denylist_exact" = "Exact Denylist";
-"querylog_status_denylist_exact_cname" = "Exact Denylist (CNAME)";
+"querylog_status_denylist_regex" = "Список заборонених Regex";
+"querylog_status_denylist_regex_cname" = "Список заборонених Regex (CNAME)";
+"querylog_status_denylist_exact" = "Точний список заборонених";
+"querylog_status_denylist_exact_cname" = "Точний список заборонених (CNAME)";
 "querylog_status_upstream_ip" = "Висхідний сервер (IP)";
 "querylog_status_upstream_0000" = "Висхідний сервер (0.0.0.0 or ::)";
 "querylog_status_upstream_nxdomain" = "Висхідний сервер (NXDOMAIN)";
@@ -188,10 +188,10 @@
 "lists_blacklist_regex" = "Чорний список (RegEx)";
 "lists_whitelist" = "Білий список";
 "lists_whitelist_regex" = "Білий список (RegEx)";
-"lists_denylist" = "Denylist";
-"lists_denylist_regex" = "Denylist (Regex)";
-"lists_allowlist" = "Allowlist";
-"lists_allowlist_regex" = "Allowlist (Regex)";
+"lists_denylist" = "Список заборонених";
+"lists_denylist_regex" = "Список заборонених (Regex)";
+"lists_allowlist" = "Список дозволених";
+"lists_allowlist_regex" = "Список дозволених (Regex)";
 "lists_domain" = "Домен";
 "lists_domains" = "Домени";
 "lists_regex" = "RegEx";
@@ -275,10 +275,10 @@
 "lists_export_blacklist_regex" = "Чорний список Regex";
 "lists_export_whitelist" = "Білий список";
 "lists_export_whitelist_regex" = "Білий список Regex";
-"lists_export_denylist" = "Denylist";
-"lists_export_denylist_regex" = "Denylist Regex";
-"lists_export_allowlist" = "Allowlist";
-"lists_export_allowlist_regex" = "Allowlist Regex";
+"lists_export_denylist" = "Список заборонених";
+"lists_export_denylist_regex" = "Список заборонених Regex";
+"lists_export_allowlist" = "Список дозволених";
+"lists_export_allowlist_regex" = "Список дозволених";
 "lists_export_successful" = "Експорт вдалий";
 "lists_export_successful_copied_%@" = "%@ записів були скопійовані у ваш буфер обміну.";
 
@@ -401,7 +401,7 @@
 "preferences_lists_date" = "Датою";
 "preferences_lists_terminology" = "Термінологія";
 "preferences_lists_terminology_black_white" = "Чорний та Білий списки";
-"preferences_lists_terminology_deny_allow" = "Блокований та Дозволений списки";
+"preferences_lists_terminology_deny_allow" = "Заборонений та Дозволений списки";
 "preferences_other_navbar" = "Інше";
 "preferences_other_language" = "Мова";
 
@@ -468,8 +468,8 @@
 "changelog_just_updated" = "Щойно оновлено!";
 "changelog_current_version" = "Поточна";
 "changelog_continue" = "Продовжити";
-"changelog_view_full" = "Переглянути Що нового повністю";
-"changelog_show_feature_promo" = "Показати огляд функцій";
+"changelog_view_full" = "Переглянути більш детально";
+"changelog_show_feature_promo" = "Показати огляд нових функцій";
 "changelog_settings" = "Налаштування журналу змін";
 "changelog_settings_show" = "Показувати при оновленні застосунку";
 "changelog_settings_show_footer" = "Журнал змін буде показуватись тільки при оновленні можливостей, але не при оновленнях, що включають тільки виправлення помилок.";
