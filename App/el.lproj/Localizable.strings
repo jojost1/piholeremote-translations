@@ -404,6 +404,12 @@
 "preferences_lists_terminology_deny_allow" = "Deny & Allowlist";
 "preferences_other_navbar" = "Άλλα";
 "preferences_other_language" = "Γλώσσα";
+"preferences_other_lock_faceid" = "Lock with Face ID";
+"preferences_other_lock_touchid" = "Lock with Touch ID";
+"preferences_other_lock_footer" = "If enabled, Pi-hole Remote will be locked whenever you close the app. You'll be prompted to authenticate when relaunching.";
+"preferences_other_lock_unlock_button" = "Unlock";
+"preferences_other_lock_unlock_footnote_tap" = "Tap above to unlock Pi-hole Remote";
+"preferences_other_lock_unlock_footnote_click" = "Click above to unlock Pi-hole Remote";
 
 // MARK: Design
 "design_navbar" = "Σχεδιασμός";

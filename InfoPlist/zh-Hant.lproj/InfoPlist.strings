@@ -7,4 +7,5 @@
 */
 
 "NSCameraUsageDescription" = "Pi-hole Remote 使用您的相機以掃描您的 Pi-hole 應用程式介面（API）權杖 QR 圖碼。";
+"NSFaceIDUsageDescription" = "Pi-hole Remote uses Face ID to unlock the app.";
 "NSLocalNetworkUsageDescription" = "Pi-hole Remote 使用區域網路以與您的 Pi-hole 實例連線。";
