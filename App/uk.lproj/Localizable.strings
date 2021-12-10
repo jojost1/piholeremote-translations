@@ -404,18 +404,18 @@
 "preferences_lists_terminology_deny_allow" = "Заборонений та Дозволений списки";
 "preferences_other_navbar" = "Інше";
 "preferences_other_language" = "Мова";
-"preferences_other_lock_password" = "Lock with password";
-"preferences_other_lock_faceid" = "Lock with Face ID";
-"preferences_other_lock_touchid" = "Lock with Touch ID";
-"preferences_other_lock_footer" = "If enabled, Pi-hole Remote will be locked whenever you close the app. You'll be prompted to authenticate when relaunching.";
-"preferences_other_lock_require" = "Require";
-"preferences_other_lock_require_immediately" = "Immediately";
-"preferences_other_lock_require_1min" = "After 1 minute";
-"preferences_other_lock_require_5min" = "After 5 minutes";
-"preferences_other_lock_require_1hour" = "After 1 hour";
-"preferences_other_lock_unlock_button" = "Unlock";
-"preferences_other_lock_unlock_footnote_tap" = "Tap above to unlock Pi-hole Remote";
-"preferences_other_lock_unlock_footnote_click" = "Click above to unlock Pi-hole Remote";
+"preferences_other_lock_password" = "Блокування за допомогою пароля";
+"preferences_other_lock_faceid" = "Блокування за допомогою Face ID";
+"preferences_other_lock_touchid" = "Блокування за допомогою Touch ID";
+"preferences_other_lock_footer" = "Якщо увімкнено, Pi-hole Remote буде заблоковано щоразу, коли ви закриваєте застосунок. Під час повторного запуску вам буде запропоновано автентифікуватися.";
+"preferences_other_lock_require" = "Вимагати";
+"preferences_other_lock_require_immediately" = "Одразу";
+"preferences_other_lock_require_1min" = "За 1 хвилину";
+"preferences_other_lock_require_5min" = "За 5 хвилин";
+"preferences_other_lock_require_1hour" = "За 1 годину";
+"preferences_other_lock_unlock_button" = "Розблокувати";
+"preferences_other_lock_unlock_footnote_tap" = "Натисніть вище, щоб розблокувати Pi-hole Remote";
+"preferences_other_lock_unlock_footnote_click" = "Клікніть вище, щоб розблокувати Pi-hole Remote";
 
 // MARK: Design
 "design_navbar" = "Дизайн";
