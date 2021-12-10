@@ -404,6 +404,7 @@
 "preferences_lists_terminology_deny_allow" = "Deny & Allowlist";
 "preferences_other_navbar" = "Overig";
 "preferences_other_language" = "Taal";
+"preferences_other_lock_password" = "Vergrendel met wachtwoord";
 "preferences_other_lock_faceid" = "Vergrendel met Face ID";
 "preferences_other_lock_touchid" = "Vergrendel met Touch ID";
 "preferences_other_lock_footer" = "Wanneer ingeschakeld zal Pi-hole Remote vergrendeld worden als je de app sluit. Je moet je authenticeren wanneer je de app opnieuw opent.";

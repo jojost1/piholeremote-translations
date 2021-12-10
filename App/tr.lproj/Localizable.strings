@@ -404,6 +404,7 @@
 "preferences_lists_terminology_deny_allow" = "Deny & Allowlist";
 "preferences_other_navbar" = "Other";
 "preferences_other_language" = "Language";
+"preferences_other_lock_password" = "Lock with password";
 "preferences_other_lock_faceid" = "Lock with Face ID";
 "preferences_other_lock_touchid" = "Lock with Touch ID";
 "preferences_other_lock_footer" = "If enabled, Pi-hole Remote will be locked whenever you close the app. You'll be prompted to authenticate when relaunching.";
