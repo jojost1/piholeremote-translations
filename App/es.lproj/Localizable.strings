@@ -407,7 +407,7 @@
 "preferences_other_lock_password" = "Bloqueo con contraseña";
 "preferences_other_lock_faceid" = "Bloqueo con Face ID";
 "preferences_other_lock_touchid" = "Bloqueo con Touch ID";
-"preferences_other_lock_footer" = "Sí está habilitado, Pi-hole Remote se bloqueará cuando cierres la app. Se requerirá autenticación cuando se reabra.";
+"preferences_other_lock_footer" = "Si está habilitado, Pi-hole Remote se bloqueará cuando cierres la app. Se requerirá autenticación cuando se reabra.";
 "preferences_other_lock_require" = "Requerir";
 "preferences_other_lock_require_immediately" = "Inmediatamente";
 "preferences_other_lock_require_1min" = "Tras 1 minuto";
