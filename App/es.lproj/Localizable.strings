@@ -404,18 +404,18 @@
 "preferences_lists_terminology_deny_allow" = "Lista Permitido y Bloqueado";
 "preferences_other_navbar" = "Otros";
 "preferences_other_language" = "Idioma";
-"preferences_other_lock_password" = "Lock with password";
-"preferences_other_lock_faceid" = "Lock with Face ID";
-"preferences_other_lock_touchid" = "Lock with Touch ID";
-"preferences_other_lock_footer" = "If enabled, Pi-hole Remote will be locked whenever you close the app. You'll be prompted to authenticate when relaunching.";
-"preferences_other_lock_require" = "Require";
-"preferences_other_lock_require_immediately" = "Immediately";
-"preferences_other_lock_require_1min" = "After 1 minute";
-"preferences_other_lock_require_5min" = "After 5 minutes";
-"preferences_other_lock_require_1hour" = "After 1 hour";
-"preferences_other_lock_unlock_button" = "Unlock";
-"preferences_other_lock_unlock_footnote_tap" = "Tap above to unlock Pi-hole Remote";
-"preferences_other_lock_unlock_footnote_click" = "Click above to unlock Pi-hole Remote";
+"preferences_other_lock_password" = "Bloqueo con contraseña";
+"preferences_other_lock_faceid" = "Bloqueo con Face ID";
+"preferences_other_lock_touchid" = "Bloqueo con Touch ID";
+"preferences_other_lock_footer" = "Si está habilitado, Pi-hole Remote se bloqueará cuando cierres la app. Se requerirá autenticación cuando se reabra.";
+"preferences_other_lock_require" = "Requerir";
+"preferences_other_lock_require_immediately" = "Inmediatamente";
+"preferences_other_lock_require_1min" = "Tras 1 minuto";
+"preferences_other_lock_require_5min" = "Tras 5 minutos";
+"preferences_other_lock_require_1hour" = "Tras 1 hora";
+"preferences_other_lock_unlock_button" = "Desbloquear";
+"preferences_other_lock_unlock_footnote_tap" = "Toca encima para desbloquear Pi-hole Remote";
+"preferences_other_lock_unlock_footnote_click" = "Pulsa encima para desbloquear Pi-hole Remote";
 
 // MARK: Design
 "design_navbar" = "Diseño";
