@@ -394,6 +394,8 @@
 "preferences_statistics_hidedomains_hide_from" = "Ховати з";
 "preferences_statistics_hidedomains_hide_from_statistics_only" = "Тільки Статистики";
 "preferences_statistics_hidedomains_hide_from_statistics_and_querylog" = "Статистики та Журналу запитів";
+"preferences_querylog_navbar" = "Журнал запитів";
+"preferences_querylog_show_sidebar" = "Show sidebar";
 "preferences_lists_navbar" = "Списки";
 "preferences_lists_display" = "Відображення";
 "preferences_lists_sort_by" = "Сортувати списки за";
@@ -495,6 +497,7 @@
 "rocketscience_tipjar_thankyou" = "Дякую!";
 "rocketscience_my_other_apps" = "Мої інші застусунки";
 "rocketscience_adguardhomeremote_subtitle" = "Це як Pi-hole Remote, але для AdGuard Home!";
+"rocketscience_energieradar_subtitle" = "Monitor real-time electricity and gas prices in The Netherlands.";
 "rocketscience_acknoledgements" = "Особлива подяка:";
 
 // MARK: - Disable Durations

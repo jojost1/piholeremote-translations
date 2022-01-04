@@ -394,6 +394,8 @@
 "preferences_statistics_hidedomains_hide_from" = "Hide from";
 "preferences_statistics_hidedomains_hide_from_statistics_only" = "Statistics only";
 "preferences_statistics_hidedomains_hide_from_statistics_and_querylog" = "Statistics & Query Log";
+"preferences_querylog_navbar" = "Αρχείο ερωτημάτων";
+"preferences_querylog_show_sidebar" = "Show sidebar";
 "preferences_lists_navbar" = "Λίστες";
 "preferences_lists_display" = "Εμφάνιση";
 "preferences_lists_sort_by" = "Ταξινόμηση λιστών με";
@@ -495,6 +497,7 @@
 "rocketscience_tipjar_thankyou" = "Ευχαριστώ!";
 "rocketscience_my_other_apps" = "Οι άλλες εφαρμογές μου";
 "rocketscience_adguardhomeremote_subtitle" = "Είναι σαν το Pi-hole Remote, αλλά για το AdGuard Home!";
+"rocketscience_energieradar_subtitle" = "Monitor real-time electricity and gas prices in The Netherlands.";
 "rocketscience_acknoledgements" = "Ιδιαίτερες ευχαριστίες στους";
 
 // MARK: - Disable Durations

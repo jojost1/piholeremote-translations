@@ -394,6 +394,8 @@
 "preferences_statistics_hidedomains_hide_from" = "Nascondi da";
 "preferences_statistics_hidedomains_hide_from_statistics_only" = "Solo statistiche";
 "preferences_statistics_hidedomains_hide_from_statistics_and_querylog" = "Statistiche & Log delle richieste";
+"preferences_querylog_navbar" = "Log richieste";
+"preferences_querylog_show_sidebar" = "Show sidebar";
 "preferences_lists_navbar" = "Liste";
 "preferences_lists_display" = "Display";
 "preferences_lists_sort_by" = "Ordina lista";
@@ -495,6 +497,7 @@
 "rocketscience_tipjar_thankyou" = "Grazie!";
 "rocketscience_my_other_apps" = "Le mie altre apps";
 "rocketscience_adguardhomeremote_subtitle" = "È come Pi-hole Remote, ma per AdGuard Home!";
+"rocketscience_energieradar_subtitle" = "Monitor real-time electricity and gas prices in The Netherlands.";
 "rocketscience_acknoledgements" = "Ringraziamenti speciali a:";
 
 // MARK: - Disable Durations

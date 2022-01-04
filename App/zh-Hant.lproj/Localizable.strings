@@ -283,7 +283,7 @@
 "lists_export_successful_copied_%@" = "%@ entries were copied to your clipboard.";
 
 // MARK: - Settings-tab
-"settings_navbar" = "Settings";
+"settings_navbar" = "設定";
 "settings_add_pihole" = "Add Pi-hole";
 "settings_add_primary" = "Add Primary Pi-hole";
 "settings_manage_primary" = "Manage Primary Pi-hole";
@@ -297,8 +297,8 @@
 "settings_preferences" = "Preferences";
 "settings_support_development" = "Support Development";
 "settings_home" = "Home";
-"settings_statistics" = "Statistics";
-"settings_lists" = "Lists";
+"settings_statistics" = "統計資料";
+"settings_lists" = "清單";
 "settings_design" = "Design";
 "settings_other" = "Other";
 "settings_force_watch_sync" = "Force Apple Watch Sync";
@@ -360,7 +360,7 @@
 "preferences_home_refresh" = "Refresh";
 "preferences_home_refresh_footer" = "Will automatically refresh every 10 seconds when the Home-tab is opened and the app is in the foreground.";
 "preferences_home_auto_refresh" = "Auto Refresh";
-"preferences_statistics_navbar" = "Statistics";
+"preferences_statistics_navbar" = "統計資料";
 "preferences_statistics_graphs" = "Graphs";
 "preferences_statistics_graphs_type" = "Type";
 "preferences_statistics_graphs_hide" = "Hide graph";
@@ -394,7 +394,9 @@
 "preferences_statistics_hidedomains_hide_from" = "Hide from";
 "preferences_statistics_hidedomains_hide_from_statistics_only" = "Statistics only";
 "preferences_statistics_hidedomains_hide_from_statistics_and_querylog" = "Statistics & Query Log";
-"preferences_lists_navbar" = "Lists";
+"preferences_querylog_navbar" = "查詢記錄";
+"preferences_querylog_show_sidebar" = "Show sidebar";
+"preferences_lists_navbar" = "清單";
 "preferences_lists_display" = "Display";
 "preferences_lists_sort_by" = "Sort Lists By";
 "preferences_lists_alphabet" = "Alphabet";
@@ -495,6 +497,7 @@
 "rocketscience_tipjar_thankyou" = "Thank you!";
 "rocketscience_my_other_apps" = "My Other Apps";
 "rocketscience_adguardhomeremote_subtitle" = "It's like Pi-hole Remote, but for AdGuard Home!";
+"rocketscience_energieradar_subtitle" = "Monitor real-time electricity and gas prices in The Netherlands.";
 "rocketscience_acknoledgements" = "Special thanks to";
 
 // MARK: - Disable Durations
