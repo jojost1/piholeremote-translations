@@ -305,6 +305,7 @@
 "settings_force_icloud_sync" = "Примусово синхронізувати iCloud";
 "settings_whats_new" = "Що нового";
 "settings_help" = "Допомога та фідбек";
+"settings_help_contact_footer" = "Please use English for support requests!";
 "settings_advanced" = "Розширені";
 "settings_twitter" = "Слідкувати у Twitter";
 "settings_tipjar" = "Банка для чайових";
