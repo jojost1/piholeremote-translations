@@ -305,6 +305,7 @@
 "settings_force_icloud_sync" = "Forzar Sincronización en iCloud";
 "settings_whats_new" = "Novedades";
 "settings_help" = "Ayuda & Comentarios";
+"help_callout" = "Need help?";
 "settings_help_contact_footer" = "En caso de contactar, agradeceremos que nos escribas en inglés.";
 "settings_advanced" = "Avanzado";
 "settings_twitter" = "Seguir en Twitter";

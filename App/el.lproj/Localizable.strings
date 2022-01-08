@@ -305,6 +305,7 @@
 "settings_force_icloud_sync" = "Αναγκαστικός συγχρονισμός του iCloud";
 "settings_whats_new" = "Τι νέο υπάρχει";
 "settings_help" = "Βοήθεια & σχόλια";
+"help_callout" = "Need help?";
 "settings_help_contact_footer" = "Please use English for support requests!";
 "settings_advanced" = "Προχωρημένα";
 "settings_twitter" = "Ακολουθήστε στο Twitter";
