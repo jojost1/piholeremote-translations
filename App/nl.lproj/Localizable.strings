@@ -408,6 +408,8 @@
 "preferences_lists_terminology_deny_allow" = "Deny & Allowlist";
 "preferences_other_navbar" = "Overig";
 "preferences_other_language" = "Taal";
+"preferences_other_language_macos_alert" = "Taal wijzigen";
+"preferences_other_language_macos_alert_body" = "Om de taal van de app te wijzigen op macOS, open 'Systeemvoorkeuren > Taal en regio > Apps' en voeg de app daar toe.";
 "preferences_other_lock_password" = "Vergrendel met wachtwoord";
 "preferences_other_lock_faceid" = "Vergrendel met Face ID";
 "preferences_other_lock_touchid" = "Vergrendel met Touch ID";

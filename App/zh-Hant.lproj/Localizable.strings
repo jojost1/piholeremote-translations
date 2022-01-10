@@ -408,6 +408,8 @@
 "preferences_lists_terminology_deny_allow" = "Deny & Allowlist";
 "preferences_other_navbar" = "Other";
 "preferences_other_language" = "Language";
+"preferences_other_language_macos_alert" = "Change Language";
+"preferences_other_language_macos_alert_body" = "To change the language of the app on macOS, open 'System Preferences > Language & Region > Apps' and add the app there.";
 "preferences_other_lock_password" = "Lock with password";
 "preferences_other_lock_faceid" = "Lock with Face ID";
 "preferences_other_lock_touchid" = "Lock with Touch ID";
