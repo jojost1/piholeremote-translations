@@ -100,6 +100,8 @@
 "statistics_dns_cache_size" = "Taille du Cache :";
 "statistics_dns_cache_evictions" = "Exclusion du Cache :";
 "statistics_dns_cache_inserted" = "Insertion du Cache :";
+"statistics_database" = "Database";
+"statistics_database_filesize" = "Filesize:";
 "statistics_github" = "GitHub";
 "statistics_update_explainer" = "Vous pouvez mettre à jour en utilisant l'interface de ligne de commandes avec la commande 'pihole -up'.";
 "statistics_update_explainer_%@" = "Vous pouvez mettre à jour en utilisant l'interface de ligne de commandes avec la commande  %@ .";
@@ -218,6 +220,8 @@
 "lists_addentry_add_as_wildcard" = "Ajouter en tant que Wildcard";
 "lists_addentry_regex_tutorial_click" = "Cliquer ici pour un tutoriel RegEx.";
 "lists_addentry_regex_tutorial_tap" = "Toucher ici pour un tutoriel RegEx.";
+"lists_addentry_regex_test_click" = "Click here to test your RegEx on regex101.";
+"lists_addentry_regex_test_tap" = "Tap here to test your RegEx on regex101.";
 "lists_addentry_wildcard_%@" = "Wildcard: %@";
 "lists_addentry_wildcard_alert" = "Ajouter le domaine en tant que Wildcard";
 "lists_addentry_wildcard_alert_body" = "Utiliser cette option si vous voulez inclure tous les sous-domaines. Le domaine sera converti en filtre RegEx lors de l'ajout.";

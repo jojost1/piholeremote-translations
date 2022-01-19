@@ -100,6 +100,8 @@
 "statistics_dns_cache_size" = "Cache grootte:";
 "statistics_dns_cache_evictions" = "Cache verwijderingen:";
 "statistics_dns_cache_inserted" = "Cache invoegingen:";
+"statistics_database" = "Database";
+"statistics_database_filesize" = "Bestandsgrootte:";
 "statistics_github" = "GitHub";
 "statistics_update_explainer" = "Je kan updaten met de command line interface met het commando 'pihole -up'.";
 "statistics_update_explainer_%@" = "Je kan updaten met de command line interface met het commando %@ .";
@@ -218,6 +220,8 @@
 "lists_addentry_add_as_wildcard" = "Voeg toe als wildcard";
 "lists_addentry_regex_tutorial_click" = "Klik hier voor een RegEx tutorial.";
 "lists_addentry_regex_tutorial_tap" = "Tap hier voor een RegEx tutorial.";
+"lists_addentry_regex_test_click" = "Klik hier om je RegEx te testen op regex101.";
+"lists_addentry_regex_test_tap" = "Tap hier om je RegEx te testen op regex101.";
 "lists_addentry_wildcard_%@" = "Wildcard: %@";
 "lists_addentry_wildcard_alert" = "Voeg domein toe als wildcard";
 "lists_addentry_wildcard_alert_body" = "Gebruik deze optie als je alle sub-domeinen ook wil meetellen. Het domein dat je invult wordt geconverteerd naar een RegEx filter na het toevoegen.";

@@ -100,6 +100,8 @@
 "statistics_dns_cache_size" = "Rozmiar Cache:";
 "statistics_dns_cache_evictions" = "Unieważnienia Cache:";
 "statistics_dns_cache_inserted" = "Wpisy Cache:";
+"statistics_database" = "Database";
+"statistics_database_filesize" = "Filesize:";
 "statistics_github" = "GitHub";
 "statistics_update_explainer" = "Możesz zaktualizować CLI przy pomocy komendy 'pihole -up'.";
 "statistics_update_explainer_%@" = "Możesz zaktualizować CLI przy pomocy komendy %@ .";
@@ -218,6 +220,8 @@
 "lists_addentry_add_as_wildcard" = "Dodaj jako wildcard";
 "lists_addentry_regex_tutorial_click" = "Kliknij tutaj po poradnik RegEx.";
 "lists_addentry_regex_tutorial_tap" = "Dotknij tutaj po poradnik RegEx.";
+"lists_addentry_regex_test_click" = "Click here to test your RegEx on regex101.";
+"lists_addentry_regex_test_tap" = "Tap here to test your RegEx on regex101.";
 "lists_addentry_wildcard_%@" = "Wildcard: %@";
 "lists_addentry_wildcard_alert" = "Dodaj domenę jako wildcard";
 "lists_addentry_wildcard_alert_body" = "Używaj tej opcji jeżeli chcesz zastosować to dla wszystkich subdomen. Dodana domena będzie przekonwertowana na RegEx.";
