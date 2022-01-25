@@ -60,6 +60,7 @@ Statistics:
 - Pi-hole Version
 - API Info
 - DNS Cache
+- Database Size
 
 * The in-app-purchases are only there for the Tip Jar, to support future development of the app. This is completely optional.
 

@@ -58,6 +58,7 @@ Statistieken:
 - Pi-hole versie
 - API info
 - DNS cache
+- Database bestandsgrootte
 
 * De in-app aankopen zijn er puur voor de Tip Jar om verdere ontwikkeling van de app te ondersteunen. Dit is optioneel!
 
