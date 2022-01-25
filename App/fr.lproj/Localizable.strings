@@ -445,6 +445,7 @@
 "design_icon" = "Icône de l'app";
 "design_icon_pihole" = "Pi-hole Remote";
 "design_icon_pihole_dark" = "Pi-hole Remote sombre";
+"design_icon_pihole_blueprint" = "Pi-hole Remote Blueprint";
 "design_icon_classic" = "Classique";
 "design_icon_classic_dark" = "Classique sombre";
 "design_theme" = "Thème";

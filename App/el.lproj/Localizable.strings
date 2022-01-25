@@ -445,6 +445,7 @@
 "design_icon" = "Εικονίδιο εφαρμογής";
 "design_icon_pihole" = "Pi-hole Remote";
 "design_icon_pihole_dark" = "Pi-hole Remote Σκούρο";
+"design_icon_pihole_blueprint" = "Pi-hole Remote Blueprint";
 "design_icon_classic" = "Κλασικό";
 "design_icon_classic_dark" = "Κλασικό σκούρο";
 "design_theme" = "Θέμα";
