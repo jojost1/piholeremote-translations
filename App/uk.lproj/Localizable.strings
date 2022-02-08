@@ -32,7 +32,7 @@
 "home_enable_blocking" = "Увімкнути блокування";
 "home_enable_blocking_pihole" = "Увімкнути Pi-hole блокування";
 "home_enable_blocking_alert_%@" = "Ви впевнені, що хочете увімкнути блокування для %@?";
-"home_enable_%@_disabled_until_%@" = "Увімкнути (%@вимкунте до %@)";
+"home_enable_%@_disabled_until_%@" = "Увімкнути (%@вимкнуте до %@)";
 "home_data_from_%@" = "Дані від %@";
 "home_update_gravity" = "Оновити Gravity";
 "home_update_gravity_explainer" = "Перейти до /admin/gravity для якого пристрою?";
@@ -70,7 +70,7 @@
 "statistics_navbar" = "Статистика";
 "statistics_queries" = "Запити";
 "statistics_segments_10min" = "Сегменти по 10 хв.";
-"statistics_loading_graph" = "Графік завантажуєтся...";
+"statistics_loading_graph" = "Графік завантажується...";
 "statistics_now" = "зараз";
 "statistics_%@_h_ago" = "%@ год. тому";
 "statistics_%@_hours_ago" = "%@ годин тому";
@@ -100,8 +100,8 @@
 "statistics_dns_cache_size" = "Розмір кешу:";
 "statistics_dns_cache_evictions" = "Кеш заміщено:";
 "statistics_dns_cache_inserted" = "Кеш використано:";
-"statistics_database" = "Database";
-"statistics_database_filesize" = "Filesize:";
+"statistics_database" = "База даних";
+"statistics_database_filesize" = "Розмір файлу:";
 "statistics_github" = "GitHub";
 "statistics_update_explainer" = "Ви можете оновити, використовуючи інтерфейс командного рядка, командою 'pihole -up'.";
 "statistics_update_explainer_%@" = "Ви можете оновити, використовуючи інтерфейс командного рядка, командою %@ .";
@@ -218,10 +218,10 @@
 "lists_addentry_save" = "Додати запис";
 "lists_addentry_domain_or_regex" = "Домен або RegEx";
 "lists_addentry_add_as_wildcard" = "Додати як замінний знак";
-"lists_addentry_regex_tutorial_click" = "Натисніть сюди для інструкції з RegEx.";
-"lists_addentry_regex_tutorial_tap" = "Натисніть сюди для інструкції з RegEx.";
-"lists_addentry_regex_test_click" = "Click here to test your RegEx on regex101.";
-"lists_addentry_regex_test_tap" = "Tap here to test your RegEx on regex101.";
+"lists_addentry_regex_tutorial_click" = "Клікніть тут для інструкції з RegEx.";
+"lists_addentry_regex_tutorial_tap" = "Натисніть тут для інструкції з RegEx.";
+"lists_addentry_regex_test_click" = "Клікніть тут, щоб протестувати ваш RegEx на regex101.";
+"lists_addentry_regex_test_tap" = "Натисніть тут, щоб протестувати ваш RegEx на regex101.";
 "lists_addentry_wildcard_%@" = "Замінний знак: %@";
 "lists_addentry_wildcard_alert" = "Додати домен як замінний знак";
 "lists_addentry_wildcard_alert_body" = "Використовуйте цю опцію якщо ви хочете включити всі піддомени. Введений домен буде конвертований у RegEx фільтр при доадаванні.";
@@ -230,7 +230,7 @@
 "lists_bulk_navbar" = "Додати записи";
 "lists_bulk_save" = "Додати записи";
 "lists_bulk_settings" = "Налаштування";
-"lists_bulk_settings_footer" = "Ці налаштування застосувуються до всіх нових записів.";
+"lists_bulk_settings_footer" = "Ці налаштування застосовуються до всіх нових записів.";
 "lists_bulk_domains_or_regex" = "Домени або RegEx";
 "lists_bulk_add_as_wildcards" = "Додати всі як замінний знак";
 "lists_bulk_new_entries_%lld" = "Нові записи (%lld)";
@@ -248,7 +248,7 @@
 "lists_bulk_done_added_%lld" = "Готово! Додано %lld записів.";
 
 // MARK: Sync Lists
-"lists_sync_navbar" = "Синхронізувати прострої";
+"lists_sync_navbar" = "Синхронізувати пристрої";
 "lists_sync_start_sync" = "Почати синхронізацію";
 "lists_sync_start_sync_alert" = "Ця дія додасть записи з першого пристрою до другого і навпаки. Ви впевнені, що хочете зробити це?";
 "lists_sync_explainer" = "Ця функція синхронізує записи між двома вашими пристроями, додаючи записи з одного з пристроїв на інший і навкапи.\n\nБудь ласка, перегляньте списки нижче, щоб перепевнитись, що синхронізація зробить те, що ви очікуєте. Сам процес може тривати деякий час або перерватись, якщо ви синхронізуєте багато записів, тримайте цей екран відкритим у процесі синхронізації.";
@@ -309,8 +309,8 @@
 "settings_force_icloud_sync" = "Примусово синхронізувати iCloud";
 "settings_whats_new" = "Що нового";
 "settings_help" = "Допомога та фідбек";
-"help_callout" = "Need help?";
-"settings_help_contact_footer" = "Please use English for support requests!";
+"help_callout" = "Потрібна допомога?";
+"settings_help_contact_footer" = "Будь ласка використовуйте англійську для запитів підтримки!";
 "settings_advanced" = "Розширені";
 "settings_twitter" = "Слідкувати у Twitter";
 "settings_tipjar" = "Банка для чайових";
@@ -334,11 +334,11 @@
 "instance_port_placeholder" = "80";
 "instance_token" = "API токен";
 "instance_token_placeholder" = "a1b2c3d4...";
-"instance_token_explainer" = "Необхідний для увімкнення/вимнення та статистики. Якщо у вас не встановлений пароль, залишіть це місце порожнім.\nВи можете знайти токен у Web Interface > Settings > API.";
+"instance_token_explainer" = "Необхідний для увімкнення/вимкнення та статистики. Якщо у вас не встановлений пароль, залишіть це місце порожнім.\nВи можете знайти токен у Web Interface > Settings > API.";
 "instance_token_alert_title" = "Pi-hole API токен";
 "instance_token_alert_body" = "Ви можете знайти свій Pi-hole API токен у веб-інтерфейсі.\n\nУвійдіть до існуючого облікового запису, зайдіть у 'Settings > API / Web Interface > Show API token' та ви побачите QR код, який можете зісканувати!";
 "instance_token_scan_navbar" = "Сканувати API токен";
-"instance_token_scan_permission" = "Будь ласка, відкрийте доступ до камери у спливаючому вікні або у Налаштування > Приватність > Камера.";
+"instance_token_scan_permission" = "Будь ласка, відкрийте доступ до камери у вспливаючому вікні або у Налаштування > Приватність > Камера.";
 "instance_other" = "Інше";
 "instance_reverseproxy" = "Зворотний проксі";
 "instance_reverseproxy_explainer" = "Увімкнений 'Зворотний проксі' прибере '/admin' з усіх API запитів.";
@@ -392,7 +392,7 @@
 "preferences_statistics_hidedomains_list_navbar" = "Приховати домени";
 "preferences_statistics_hidedomains_list_footer" = "Ці домени (їх частини) будуть приховані з ‘Топ’ списків. Вони все ще будуть включені до статистики на вкладці Основне та відображатимуться у Журналі запитів.";
 "preferences_statistics_hidedomains_list_none" = "Нема. Додати записи можна справа зверху!";
-"preferences_statistics_hidedomains_new_placeholder" = "Введть домен (його частину)";
+"preferences_statistics_hidedomains_new_placeholder" = "Введіть домен (його частину)";
 "preferences_statistics_hidedomains_new_picker" = "Умова збігу";
 "preferences_statistics_hidedomains_new_picker_exactly" = "Точно";
 "preferences_statistics_hidedomains_new_picker_contains" = "Містить";
@@ -412,8 +412,8 @@
 "preferences_lists_terminology_deny_allow" = "Заборонений та Дозволений списки";
 "preferences_other_navbar" = "Інше";
 "preferences_other_language" = "Мова";
-"preferences_other_language_macos_alert" = "Change Language";
-"preferences_other_language_macos_alert_body" = "To change the language of the app on macOS, open 'System Preferences > Language & Region > Apps' and add the app there.";
+"preferences_other_language_macos_alert" = "Змінити мову";
+"preferences_other_language_macos_alert_body" = "Щоб змінити мову програми на macOS, відкрийте 'Системні параметри > Мова і регіон > Програми' та додайте програму там.";
 "preferences_other_lock_password" = "Блокування за допомогою пароля";
 "preferences_other_lock_faceid" = "Блокування за допомогою Face ID";
 "preferences_other_lock_touchid" = "Блокування за допомогою Touch ID";
@@ -445,7 +445,7 @@
 "design_icon" = "Іконка застосунку";
 "design_icon_pihole" = "Pi-hole Remote";
 "design_icon_pihole_dark" = "Pi-hole Remote темна";
-"design_icon_pihole_blueprint" = "Pi-hole Remote Blueprint";
+"design_icon_pihole_blueprint" = "Pi-hole Remote креслення";
 "design_icon_classic" = "Класична";
 "design_icon_classic_dark" = "Класична темна";
 "design_theme" = "Тема";
@@ -466,7 +466,7 @@
 "tipjar_thankyou_tip" = "Дякую за вашу щедрі чайові!";
 "tipjar_thankyou_tips" = "Дякую за вашу щедрі чайові!";
 "tipjar_thankyou_loveyou" = "Люблю вас! ❤️";
-"tipjar_testflight_explainer" = "Примітка: у вас встановлений білд з TestFlight, тому платежі працюють у тестовому режимі і не відбуваються насправді.\n\nЯкщо ви хочете залишити на чай, будь ласка, завантажте застосунок з App Store! Після того ви можете завантажити бету знову. Дякую!";
+"tipjar_testflight_explainer" = "Примітка: у вас встановлено збірку з TestFlight, тому платежі працюють у тестовому режимі і не відбуваються насправді.\n\nЯкщо ви хочете залишити на чай, будь ласка, завантажте застосунок з App Store! Після того ви можете завантажити бету знову. Дякую!";
 "tipjar_payment_successful" = "Оплата успішна";
 "tipjar_thankyou_alert" = "Велике вам дякую, я насправді дуже вдячний, що вам настільки подобається застосунок, що ви хочете залишити на чай. Це також надзвичайно мотивує. Люблю вас!\n\nJoost";
 
@@ -504,7 +504,7 @@
 "rocketscience_twitter" = "Twitter";
 "rocketscience_tipjar" = "Банка для чайових";
 "rocketscience_tipjar_thankyou" = "Дякую!";
-"rocketscience_my_other_apps" = "Мої інші застусунки";
+"rocketscience_my_other_apps" = "Мої інші застосунки";
 "rocketscience_adguardhomeremote_subtitle" = "Це як Pi-hole Remote, але для AdGuard Home!";
 "rocketscience_energieradar_subtitle" = "Monitor real-time electricity and gas prices in The Netherlands.";
 "rocketscience_acknoledgements" = "Особлива подяка:";
