@@ -298,6 +298,18 @@
 "settings_add_fourth" = "Add Fourth Pi-hole";
 "settings_manage_fourth" = "Manage Fourth Pi-hole";
 "settings_combine_in_home" = "Combine in Home";
+"settings_localdns" = "Local DNS";
+"settings_localdns_dns_records" = "DNS records";
+"settings_localdns_cname_records" = "CNAME records";
+"settings_localdns_no_records_found" = "No records found.";
+"settings_localdns_add_record" = "Add Record";
+"settings_localdns_domain" = "Domain";
+"settings_localdns_domain_placeholder" = "example.com or sub.example.com";
+"settings_localdns_ip" = "IP Address";
+"settings_localdns_ip_placeholder" = "Associated IP address";
+"settings_localdns_targetdomain" = "Target Domain";
+"settings_localdns_targetdomain_placeholder" = "Associated Target Domain";
+"settings_localdns_update_notice" = "This feature requires Pi-hole v5.9.";
 "settings_preferences" = "Preferences";
 "settings_support_development" = "Support Development";
 "settings_home" = "Home";
@@ -340,6 +352,8 @@
 "instance_token_scan_navbar" = "Scan API Token";
 "instance_token_scan_permission" = "Please give permission to access the camera in the pop-up or in Settings > Privacy > Camera.";
 "instance_other" = "Other";
+"instance_hidefromdashboard" = "Hide on Home-tab";
+"instance_showondashboard" = "Show on Home-tab";
 "instance_reverseproxy" = "Reverse Proxy";
 "instance_reverseproxy_explainer" = "Turning on 'Reverse Proxy' will remove '/admin' from all API requests.";
 "instance_hideerrors" = "Hide Error Banners";
