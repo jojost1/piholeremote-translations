@@ -42,7 +42,7 @@
 
 "7HcZp4" = "Quale istanza vuoi mostrare?";
 
-"7MuxdM-IgP3Na" = "Solo per conferma, vuoi ‘1 hour’?";
+"7MuxdM-IgP3Na" = "Solo per conferma, vuoi ‘1 ora?‘";
 
 "7MuxdM-VLERQ1" = "Solo per conferma, vuoi ‘15 minuti’?";
 
@@ -70,9 +70,9 @@
 
 "8kg56g-awUBTf" = "Ci sono ${count} opzioni per ‘Apri Home’.";
 
-"8kg56g-nqHRwh" = "Ci sono ${count} opzioni per ‘Apri Lists’.";
+"8kg56g-nqHRwh" = "Ci sono ${count} opzioni per ‘Apri Liste’.";
 
-"8kg56g-wMJOmd" = "Ci sono ${count} opzioni per ‘Disable all for 1 minuto’.";
+"8kg56g-wMJOmd" = "Ci sono ${count} opzioni per ‘Disabilita tutto per un minuto‘.";
 
 "8w3JVZ" = "Istanza";
 
@@ -80,7 +80,7 @@
 
 "9hXLZd" = "Istanza";
 
-"9rFgTD-IgP3Na" = "Ci sono ${count} opzioni per ‘1 hour’.";
+"9rFgTD-IgP3Na" = "Ci sono ${count} opzioni per ‘1 ora’.";
 
 "9rFgTD-VLERQ1" = "Ci sono ${count} opzioni per ‘15 minuti’.";
 
@@ -116,7 +116,7 @@
 
 "CVEdAO" = "Aspetto";
 
-"Ck4LzC-IgP3Na" = "Ci sono ${count} opzioni per ‘1 hour’.";
+"Ck4LzC-IgP3Na" = "Ci sono ${count} opzioni per ‘1 ora’.";
 
 "Ck4LzC-VLERQ1" = "Ci sono ${count} opzioni per ‘15 minuti’.";
 
@@ -134,7 +134,7 @@
 
 "CkCBJU" = "Color";
 
-"CrtSD6-IgP3Na" = "Solo per conferma, vuoi ‘1 hour’?";
+"CrtSD6-IgP3Na" = "Solo per conferma, vuoi ‘1 ora’?";
 
 "CrtSD6-VLERQ1" = "Solo per conferma, vuoi ‘15 minuti’?";
 
@@ -172,7 +172,7 @@
 
 "G9xiY4-nqHRwh" = "Solo per conferma, vuoi ‘Apri Lists’?";
 
-"G9xiY4-wMJOmd" = "Solo per conferma, vuoi ‘Disable all for 1 minuto’?";
+"G9xiY4-wMJOmd" = "Solo per conferma, vuoi ‘Disabilita tutto per 1 minuto’?";
 
 "Hb868n" = "Arancione";
 
@@ -182,11 +182,11 @@
 
 "Ixk02y" = "Apri Statistiche";
 
-"J9L8YR-42Koi6" = "Ci sono ${count} opzioni per ‘System (Pure Black)’.";
+"J9L8YR-42Koi6" = "Ci sono ${count} opzioni per ‘Sistema (Pure Black)’.";
 
 "J9L8YR-Ey6npg" = "Ci sono ${count} opzioni per ‘Chiaro’.";
 
-"J9L8YR-VEO3IS" = "Ci sono ${count} opzioni per ‘System’.";
+"J9L8YR-VEO3IS" = "Ci sono ${count} opzioni per ‘Sistema’.";
 
 "J9L8YR-YW3QEp" = "Ci sono ${count} opzioni per ‘Scuro (Pure Black)’.";
 
@@ -214,7 +214,7 @@
 
 "KWaHmV-zQ6Jw8" = "Ci sono ${count} opzioni per ‘30 secondi’.";
 
-"LeRij8" = "What instance to display?";
+"LeRij8" = "Quale istanza mostrare?";
 
 "LfwXuE-8Udkqh" = "Ci sono ${count} opzioni per ‘All’.";
 
@@ -236,11 +236,11 @@
 
 "QfsqZh" = "Widget per le statistiche";
 
-"RCLzIe-42Koi6" = "Solo per conferma, vuoi ‘System (Pure Black)’?";
+"RCLzIe-42Koi6" = "Solo per conferma, vuoi ‘Sistema (Pure Black)’?";
 
 "RCLzIe-Ey6npg" = "Solo per conferma, vuoi ‘Chiaro’?";
 
-"RCLzIe-VEO3IS" = "Solo per conferma, vuoi ‘System’?";
+"RCLzIe-VEO3IS" = "Solo per conferma, vuoi ‘Sistema’?";
 
 "RCLzIe-YW3QEp" = "Solo per conferma, vuoi ‘Scuro (Pure Black)’?";
 
@@ -270,7 +270,7 @@
 
 "UVDY6A-wMJOmd" = "Ci sono ${count} opzioni per ‘Disabilita tutti per 1 minuto’.";
 
-"UkA3eM-IgP3Na" = "Ci sono ${count} opzioni per ‘1 hour’.";
+"UkA3eM-IgP3Na" = "Ci sono ${count} opzioni per ‘1 ora’.";
 
 "UkA3eM-VLERQ1" = "Ci sono ${count} opzioni per ‘15 minuti’.";
 
@@ -290,11 +290,11 @@
 
 "VLERQ1" = "15 minuti";
 
-"W4Ek1o-42Koi6" = "Solo per conferma, vuoi ‘System (Pure Black)’?";
+"W4Ek1o-42Koi6" = "Solo per conferma, vuoi ‘Sistema (Pure Black)’?";
 
 "W4Ek1o-Ey6npg" = "Solo per conferma, vuoi ‘Chiaro’?";
 
-"W4Ek1o-VEO3IS" = "Solo per conferma, vuoi ‘System’?";
+"W4Ek1o-VEO3IS" = "Solo per conferma, vuoi ‘Sistema’?";
 
 "W4Ek1o-YW3QEp" = "Solo per conferma, vuoi ‘Scuro (Pure Black)’?";
 
@@ -320,11 +320,11 @@
 
 "a81Lx9" = "Disabilita il Widget delle statistiche";
 
-"alorX8-42Koi6" = "Solo per conferma, vuoi ‘System (Pure Black)’?";
+"alorX8-42Koi6" = "Solo per conferma, vuoi ‘Sistema (Pure Black)’?";
 
 "alorX8-Ey6npg" = "Solo per conferma, vuoi ‘Chiaro’?";
 
-"alorX8-VEO3IS" = "Solo per conferma, vuoi ‘System’?";
+"alorX8-VEO3IS" = "Solo per conferma, vuoi ‘Sistema’?";
 
 "alorX8-YW3QEp" = "Solo per conferma, vuoi ‘Scuro (Pure Black)’?";
 
@@ -332,7 +332,7 @@
 
 "awUBTf" = "Apri Home";
 
-"cDT0lC-IgP3Na" = "Solo per conferma, vuoi ‘1 hour’?";
+"cDT0lC-IgP3Na" = "Solo per conferma, vuoi ‘1 ora’?";
 
 "cDT0lC-VLERQ1" = "Solo per conferma, vuoi ‘15 minuti’?";
 
@@ -356,7 +356,7 @@
 
 "ceTqFH-nqHRwh" = "Solo per conferma, vuoi ‘Apri Lists’?";
 
-"ceTqFH-wMJOmd" = "Solo per conferma, vuoi ‘Disable all for 1 minuto’?";
+"ceTqFH-wMJOmd" = "Solo per conferma, vuoi ‘Disabilita tutto per 1 minuto’?";
 
 "eHf5lH" = "Scuro";
 
@@ -388,7 +388,7 @@
 
 "hY8wJZ-nqHRwh" = "Solo per conferma, vuoi ‘Apri Lists’?";
 
-"hY8wJZ-wMJOmd" = "Solo per conferma, vuoi ‘Disable all for 1 minuto’?";
+"hY8wJZ-wMJOmd" = "Solo per conferma, vuoi ‘Disabilita tutto per 1 minuto’?";
 
 "j5tl6I" = "Bloccate";
 
@@ -406,17 +406,17 @@
 
 "kH9rkk-m60OS4" = "Solo per conferma, vuoi ‘Rosso’?";
 
-"kgyNHm-8Udkqh" = "Solo per conferma, vuoi ‘All’?";
+"kgyNHm-8Udkqh" = "Solo per conferma, vuoi ‘Tutti’?";
 
 "kgyNHm-DIItEm" = "Solo per conferma, vuoi ‘Permessi’?";
 
-"kgyNHm-j5tl6I" = "Solo per conferma, vuoi ‘Blocked’?";
+"kgyNHm-j5tl6I" = "Solo per conferma, vuoi ‘Bloccati’?";
 
 "lug6ns" = "Widget Statistiche";
 
 "m60OS4" = "Rosso";
 
-"mP5CWX-IgP3Na" = "Ci sono ${count} opzioni per ‘1 hour’.";
+"mP5CWX-IgP3Na" = "Ci sono ${count} opzioni per ‘1 ora’.";
 
 "mP5CWX-VLERQ1" = "Ci sono ${count} opzioni per ‘15 minuti’.";
 
@@ -438,7 +438,7 @@
 
 "nqHRwh" = "Apri Liste";
 
-"oYBSfl-IgP3Na" = "Ci sono ${count} opzioni per ‘1 hour’.";
+"oYBSfl-IgP3Na" = "Ci sono ${count} opzioni per ‘1 ora’.";
 
 "oYBSfl-VLERQ1" = "Ci sono ${count} opzioni per ‘15 minuti’.";
 
@@ -454,7 +454,7 @@
 
 "oYBSfl-zQ6Jw8" = "Ci sono ${count} opzioni per ‘30 secondi’.";
 
-"s0H1c8-IgP3Na" = "Solo per conferma, vuoi ‘1 hour’?";
+"s0H1c8-IgP3Na" = "Solo per conferma, vuoi ‘1 ora’?";
 
 "s0H1c8-VLERQ1" = "Solo per conferma, vuoi ‘15 minuti’?";
 
@@ -486,17 +486,17 @@
 
 "vTQMcK-m60OS4" = "Ci sono ${count} opzioni per ‘Rosso’.";
 
-"vfUdD2-42Koi6" = "Ci sono ${count} opzioni per ‘System (Pure Black)’.";
+"vfUdD2-42Koi6" = "Ci sono ${count} opzioni per ‘Sistema (Pure Black)’.";
 
 "vfUdD2-Ey6npg" = "Ci sono ${count} opzioni per ‘Chiaro’.";
 
-"vfUdD2-VEO3IS" = "Ci sono ${count} opzioni per ‘System’.";
+"vfUdD2-VEO3IS" = "Ci sono ${count} opzioni per ‘Sistema’.";
 
 "vfUdD2-YW3QEp" = "Ci sono ${count} opzioni per ‘Scuro (Pure Black)’.";
 
 "vfUdD2-eHf5lH" = "Ci sono ${count} opzioni per ‘Scuro’.";
 
-"vnH3Ih-IgP3Na" = "Solo per conferma, vuoi ‘1 hour’?";
+"vnH3Ih-IgP3Na" = "Solo per conferma, vuoi ‘1 ora’?";
 
 "vnH3Ih-VLERQ1" = "Solo per conferma, vuoi ‘15 minuti’?";
 
@@ -516,11 +516,11 @@
 
 "xDxdFy" = "5 minuti";
 
-"xKogH3-42Koi6" = "Ci sono ${count} opzioni per ‘System (Pure Black)’.";
+"xKogH3-42Koi6" = "Ci sono ${count} opzioni per ‘Sistema (Pure Black)’.";
 
 "xKogH3-Ey6npg" = "Ci sono ${count} opzioni per ‘Chiaro’.";
 
-"xKogH3-VEO3IS" = "Ci sono ${count} opzioni per ‘System’.";
+"xKogH3-VEO3IS" = "Ci sono ${count} opzioni per ‘Sistema’.";
 
 "xKogH3-YW3QEp" = "Ci sono ${count} opzioni per ‘Scuro (Pure Black)’.";
 

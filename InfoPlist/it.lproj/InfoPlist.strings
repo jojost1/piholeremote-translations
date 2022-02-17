@@ -7,5 +7,5 @@
 */
 
 "NSCameraUsageDescription" = "Pi-hole Remote usa la fotocamera per scannerizzare il token API di Pi-hole in formato QR-code.";
-"NSFaceIDUsageDescription" = "Pi-hole Remote uses Face ID to unlock the app.";
+"NSFaceIDUsageDescription" = "Pi-hole Remote usa Face ID per sbloccare l'app.";
 "NSLocalNetworkUsageDescription" = "Pi-hole Remote usa la rete locale per connettersi alle tue istanze Pi-hole.";
