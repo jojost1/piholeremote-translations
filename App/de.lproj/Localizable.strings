@@ -19,7 +19,7 @@
 "home_queries_blocked" = "Blockierte Anfragen";
 "home_percent_blocked" = "Anteil geblockt";
 "home_blocklist" = "Blocklist";
-"home_refreshing_dots" = "Aktualiseren...";
+"home_refreshing_dots" = "Aktualisieren...";
 "home_no_response" = "Keine Antwort";
 "home_not_responding" = "Antwortet nicht";
 "home_disable" = "Deaktivieren";
