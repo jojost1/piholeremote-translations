@@ -100,8 +100,8 @@
 "statistics_dns_cache_size" = "Caché Tamaño:";
 "statistics_dns_cache_evictions" = "Caché Desalojos:";
 "statistics_dns_cache_inserted" = "Caché Inserciones:";
-"statistics_database" = "Database";
-"statistics_database_filesize" = "Filesize:";
+"statistics_database" = "Base de datos";
+"statistics_database_filesize" = "Tamaño del fichero:";
 "statistics_github" = "GitHub";
 "statistics_update_explainer" = "Puedes actualizar usando la interfaz de línea de comandos, con el comando 'pihole -up'.";
 "statistics_update_explainer_%@" = "Puedes actualizar usando la interfaz de línea de comandos, con el comando %@ .";
@@ -220,8 +220,8 @@
 "lists_addentry_add_as_wildcard" = "Añadir como Comodín";
 "lists_addentry_regex_tutorial_click" = "Pulsa aquí para un tutorial de RegEx.";
 "lists_addentry_regex_tutorial_tap" = "Pulsa aquí para un tutorial de RegEx.";
-"lists_addentry_regex_test_click" = "Click here to test your RegEx on regex101.";
-"lists_addentry_regex_test_tap" = "Tap here to test your RegEx on regex101.";
+"lists_addentry_regex_test_click" = "Pulsa aquí para probar tu RegEx en regex101.";
+"lists_addentry_regex_test_tap" = "Pulsa aquí para probar tu RegEx en regex101.";
 "lists_addentry_wildcard_%@" = "Comodín: %@";
 "lists_addentry_wildcard_alert" = "Añadir Dominio como Comodín";
 "lists_addentry_wildcard_alert_body" = "Usa esta opción si quieres incluir todos los subdominios. El dominio introducido será convertido a un filtro RegEx.";
@@ -298,18 +298,18 @@
 "settings_add_fourth" = "Añadir Cuarto Pi-hole";
 "settings_manage_fourth" = "Gestionar Cuarto Pi-hole";
 "settings_combine_in_home" = "Combinar en Casa";
-"settings_localdns" = "Local DNS";
-"settings_localdns_dns_records" = "DNS records";
-"settings_localdns_cname_records" = "CNAME records";
-"settings_localdns_no_records_found" = "No records found.";
-"settings_localdns_add_record" = "Add Record";
-"settings_localdns_domain" = "Domain";
-"settings_localdns_domain_placeholder" = "example.com or sub.example.com";
-"settings_localdns_ip" = "IP Address";
-"settings_localdns_ip_placeholder" = "Associated IP address";
-"settings_localdns_targetdomain" = "Target Domain";
-"settings_localdns_targetdomain_placeholder" = "Associated Target Domain";
-"settings_localdns_update_notice" = "This feature requires Pi-hole v5.9.";
+"settings_localdns" = "DNS Local";
+"settings_localdns_dns_records" = "Entradas DNS";
+"settings_localdns_cname_records" = "Registros CNAME";
+"settings_localdns_no_records_found" = "Registros no encontrados.";
+"settings_localdns_add_record" = "Añadir Registro";
+"settings_localdns_domain" = "Dominio";
+"settings_localdns_domain_placeholder" = "ejemplo.com o sub.ejemplo.com";
+"settings_localdns_ip" = "Dirección IP";
+"settings_localdns_ip_placeholder" = "Dirección IP asociada";
+"settings_localdns_targetdomain" = "Dominio destino";
+"settings_localdns_targetdomain_placeholder" = "Dominio destino asociado";
+"settings_localdns_update_notice" = "Esta funcionalidad requiere Pi-hole v5.9.";
 "settings_preferences" = "Preferencias";
 "settings_support_development" = "Apoya al Desarrollo";
 "settings_home" = "Casa";
@@ -321,7 +321,7 @@
 "settings_force_icloud_sync" = "Forzar Sincronización en iCloud";
 "settings_whats_new" = "Novedades";
 "settings_help" = "Ayuda & Comentarios";
-"help_callout" = "Need help?";
+"help_callout" = "¿Necesitas ayuda?";
 "settings_help_contact_footer" = "En caso de contactar, agradeceremos que nos escribas en inglés.";
 "settings_advanced" = "Avanzado";
 "settings_twitter" = "Seguir en Twitter";
@@ -424,8 +424,8 @@
 "preferences_lists_terminology_deny_allow" = "Lista Permitido y Bloqueado";
 "preferences_other_navbar" = "Otros";
 "preferences_other_language" = "Idioma";
-"preferences_other_language_macos_alert" = "Change Language";
-"preferences_other_language_macos_alert_body" = "To change the language of the app on macOS, open 'System Preferences > Language & Region > Apps' and add the app there.";
+"preferences_other_language_macos_alert" = "Cambiar Idioma";
+"preferences_other_language_macos_alert_body" = "Para cambiar el idioma en la app de macOS, abre 'Preferencias del Sistema > Idioma y región > Apps' y añade ahí la aplicación.";
 "preferences_other_lock_password" = "Bloqueo con contraseña";
 "preferences_other_lock_faceid" = "Bloqueo con Face ID";
 "preferences_other_lock_touchid" = "Bloqueo con Touch ID";
@@ -457,7 +457,7 @@
 "design_icon" = "Icono de la App";
 "design_icon_pihole" = "Pi-hole Remote";
 "design_icon_pihole_dark" = "Pi-hole Remote Oscuro";
-"design_icon_pihole_blueprint" = "Pi-hole Remote Blueprint";
+"design_icon_pihole_blueprint" = "Pi-hole Remote Diseño";
 "design_icon_classic" = "Clásico";
 "design_icon_classic_dark" = "Clásico Oscuro";
 "design_theme" = "Tema";
@@ -518,8 +518,8 @@
 "rocketscience_tipjar_thankyou" = "¡Gracias!";
 "rocketscience_my_other_apps" = "Mis Otras Aplicaciones";
 "rocketscience_adguardhomeremote_subtitle" = "Es como Pi-hole Remote, ¡pero para AdGuard Home!";
-"rocketscience_mango_subtitle" = "A clean Anime & Manga tracker app, using the MyAnimeList API.";
-"rocketscience_energieradar_subtitle" = "Monitor real-time electricity and gas prices in The Netherlands.";
+"rocketscience_mango_subtitle" = "Una aplicación limpia de seguimiento de Anime y Manga, usando la API de MyAnimeList.";
+"rocketscience_energieradar_subtitle" = "Monitoriza en tiempo real los precios de la electricidad y el gas en Los Países Bajos.";
 "rocketscience_acknoledgements" = "Un agradecimiento especial a";
 
 // MARK: - Disable Durations
