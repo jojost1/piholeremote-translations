@@ -58,6 +58,7 @@ Estadísticas:
 - Versión Pi-hole
 - API Info
 - DNS Caché
+- Tamaño de la Base de Datos
 
 * Las compras dentro de la aplicación son sólo sobre el Tarro de Propinas, para apoyar el desarrollo futuro de la aplicación. Esto es completamente opcional.
 
