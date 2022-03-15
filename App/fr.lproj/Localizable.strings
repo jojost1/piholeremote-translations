@@ -573,6 +573,7 @@
 "please_check_api_token" = "Veuillez vérifier vos paramètres de jeton d'API (API Token) et de niveau de confidentialité.";
 "could_not_get_data" = "Impossible d'obtenir des données.";
 "no_queries_found" = "Aucune requête trouvée.";
+"no_entries_found" = "No entries found.";
 "search" = "Rechercher";
 "refresh" = "Actualiser";
 "done" = "Terminé";

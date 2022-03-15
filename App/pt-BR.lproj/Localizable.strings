@@ -573,6 +573,7 @@
 "please_check_api_token" = "Favor checar seu Token do API e configurações de privacidade.";
 "could_not_get_data" = "Não foi possível acessar todos os dados.";
 "no_queries_found" = "No queries found.";
+"no_entries_found" = "No entries found.";
 "search" = "Busca";
 "refresh" = "Atualizar";
 "done" = "OK";

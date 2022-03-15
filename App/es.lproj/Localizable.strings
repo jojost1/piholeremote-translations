@@ -573,6 +573,7 @@
 "please_check_api_token" = "Por favor, comprueba tu API Token y el Ajuste del Nivel de Privacidad.";
 "could_not_get_data" = "No se han podido obtener datos.";
 "no_queries_found" = "No se han encontrado consultas.";
+"no_entries_found" = "No entries found.";
 "search" = "Buscar";
 "refresh" = "Refrescar";
 "done" = "Hecho";

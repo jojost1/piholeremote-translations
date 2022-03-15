@@ -573,6 +573,7 @@
 "please_check_api_token" = "Παρακαλώ ελέγξτε το API token σας και τις ρυθμίσεις επιπέδου ιδιωτικότητας.";
 "could_not_get_data" = "Δεν ήταν δυνατή η λήψη δεδομένων.";
 "no_queries_found" = "Δεν βρέθηκαν ερωτήματα.";
+"no_entries_found" = "No entries found.";
 "search" = "Αναζήτηση";
 "refresh" = "Ανανέωση";
 "done" = "Τέλος";

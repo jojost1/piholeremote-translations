@@ -573,6 +573,7 @@
 "please_check_api_token" = "Будь ласка, перевірте свій API токен та налаштування рівня приватності.";
 "could_not_get_data" = "Не вдалося отримати дані.";
 "no_queries_found" = "Запити не знайдено.";
+"no_entries_found" = "No entries found.";
 "search" = "Пошук";
 "refresh" = "Оновити";
 "done" = "Готово";

@@ -573,6 +573,7 @@
 "please_check_api_token" = "Controleer je API token en privacy instellingen.";
 "could_not_get_data" = "Kon geen data ophalen.";
 "no_queries_found" = "Geen queries gevonden.";
+"no_entries_found" = "Geen items gevonden.";
 "search" = "Zoeken";
 "refresh" = "Verversen";
 "done" = "Klaar";
