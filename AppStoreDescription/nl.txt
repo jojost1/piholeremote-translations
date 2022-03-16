@@ -9,8 +9,14 @@ Zie in een oogopslag welke domeinen het meest voorkomen op je netwerk of welke c
 *White- & Blacklisten*
 Voeg snel nieuwe entries toe aan je lijsten via de app of met de iOS Share Extension. Je kan ook entries in bulk toevoegen en je lijsten exporteren. Als je twee instanties hebt, kan je automatisch alle lijsten synchroniseren.
 
-*Widgets (iOS 14)*
+*Lokale DNS*
+Beheer je lokale DNS en CNAME records!
+
+*Widgets*
 Zet widgets op je homescreen om snel je Pi-hole uit te schakelen of om snel statistieken te zien. Alle widgets zijn aan te passen, zoals de kleur, tap-acties of status-indicator.
+
+*Volledig Ecosysteem*
+Koop de app één keer en krijg toegang tot de iOS, watchOS, iPadOS, macOS en tvOS app.
 
 ==
 
@@ -21,13 +27,15 @@ iPhone, iPad, macOS functies:
 - Exporteer en synchroniseer lijsten
 - Query Log met zoekfunctie en filters
 - Live Log voor het bekijken van queries in real-time
+- Beheer lokale DNS & CNAME records
 - Ondersteuning voor maximaal 4 Pi-hole instanties, met gecombineerde statistieken
 - Ondersteuning voor het scannen van je Pi-hole QR code
 - Ondersteuning voor SSL en reverse proxies
-- Widgets (iOS 14 & macOS 11)
+- Widgets
 - Siri Shortcuts
 - Share Extension voor snel white- en blacklisten
 - VoiceOver ondersteuning
+- FaceID/TouchID vergrendeling
 - Donkere modus, kleurenschema's en alternatieven app-iconen
 - Geoptimaliseerd ontwerp voor iPadOS & macOS
 - Modern 100% SwiftUI ontwerp
