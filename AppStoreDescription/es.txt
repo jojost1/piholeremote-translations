@@ -9,8 +9,15 @@ Examina los dominios que más se consultan en tu red, así como los clientes que
 *Listas Blanca & Negra*
 Añade rápidamente nuevas entradas a tus listas dentro de la aplicación o con la extensión Share de iOS. También puedes añadir entradas de forma masiva y exportar las entradas de la lista. Si tienes dos instancias de Pi-hole, ¡incluso puedes sincronizar automáticamente tus listas!
 
-*Widgets para la pantalla de inicio (iOS 14)*
+*DNS Local*
+Gestiona tus registros DNS y CNAME locales ¡directamente desde la app!
+
+*Widgets para la pantalla de inicio*
 Elige entre una amplia gama de widgets para la pantalla de inicio que muestran estadísticas o gráficos de consulta. Todos son personalizables con muchas opciones.
+
+*Ecosistema completo*
+Adquire la app una sola vez y obtenla para iOS, watchOS, iPadOS, macOS y tvOS.
+
 ==
 
 Funcionalidades iPhone, iPad, macOS:
@@ -21,13 +28,15 @@ Funcionalidades iPhone, iPad, macOS:
 - Sincronizar lista de entradas entre dos instancias
 - Registro de consultas completo con búsquedas y filtros
 - Registro en vivo que muestra las consultas en tiempo real
+- Gestionar entradas DNS y CNAME locales
 - Soporte de hasta 4 instancias Pi-hole con estadísticas y consultas combinadas
 - Capacidad de escanear el código QR de token Pi-hole
 - Soporte para SSL, proxies inversos, y distintos Niveles de Privacidad
-- Widgets (iOS 14 y macOS 11)
+- Widgets
 - Atajos de Siri y Acciones Rápidas
 - Compartir Extensión para una lista blanca/negra rápida
 - Soporte para VoiceOver
+- Bloqueo FaceID/TouchID
 - Modo Oscuro, esquemas de color personalizados, varios iconos de la app
 - Diseño optimizado para iPadOS y macOS
 - Diseño 100% SwiftUI limpio y moderno
@@ -55,6 +64,7 @@ Estadísticas:
 - Clientes vistos alguna vez
 - Consultas por Dominio/Cliente
 - Tipos de Consulta
+- Destinos Reenviados
 - Versión Pi-hole
 - API Info
 - DNS Caché
