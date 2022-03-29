@@ -352,6 +352,7 @@
 "instance_token_scan_navbar" = "Scan API Token";
 "instance_token_scan_permission" = "Configure permissão para acesso a câmera no pop-up ou em 'Configurações > Privacidade > Camera.'";
 "instance_other" = "Mais Opções";
+"instance_hidefromdashboard" = "Hide on Home-tab";
 "instance_reverseproxy" = "Proxy Reverso";
 "instance_reverseproxy_explainer" = "Ligar o 'Proxy Reverso' removerá '/admin' de todas as chamadas.";
 "instance_hideerrors" = "Esconder Banner de Erros";

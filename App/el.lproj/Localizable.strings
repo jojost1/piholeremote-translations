@@ -352,6 +352,7 @@
 "instance_token_scan_navbar" = "Σάρωση API token";
 "instance_token_scan_permission" = "Δώστε άδεια πρόσβασης στην κάμερα στο αναδυόμενο παράθυρο ή στις Ρυθμίσεις > Απόρρητο > Κάμερα.";
 "instance_other" = "Άλλα";
+"instance_hidefromdashboard" = "Hide on Home-tab";
 "instance_reverseproxy" = "Reverse Proxy";
 "instance_reverseproxy_explainer" = "Η ενεργοποίηση του 'Reverse Proxy' θα αφαιρέσει το '/admin' από όλα τα αιτήματα API.";
 "instance_hideerrors" = "Απόκρυψη ειδοποιήσεων σφαλμάτων";

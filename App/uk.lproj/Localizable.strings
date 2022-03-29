@@ -352,6 +352,7 @@
 "instance_token_scan_navbar" = "Сканувати API токен";
 "instance_token_scan_permission" = "Будь ласка, відкрийте доступ до камери у вспливаючому вікні або у Налаштування > Приватність > Камера.";
 "instance_other" = "Інше";
+"instance_hidefromdashboard" = "Hide on Home-tab";
 "instance_reverseproxy" = "Зворотний проксі";
 "instance_reverseproxy_explainer" = "Увімкнений 'Зворотний проксі' прибере '/admin' з усіх API запитів.";
 "instance_hideerrors" = "Сховати банери про помилки";

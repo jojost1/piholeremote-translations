@@ -352,6 +352,7 @@
 "instance_token_scan_navbar" = "Scan API Token";
 "instance_token_scan_permission" = "Geef toestemming om de camera te gebruiken in de pop-up of in iOS  Instellingen > Privacy > Camera.";
 "instance_other" = "Overig";
+"instance_hidefromdashboard" = "Verberg op Home-tab";
 "instance_reverseproxy" = "Reverse proxy";
 "instance_reverseproxy_explainer" = "Het aanzetten van 'reverse proxy' zal '/admin' weglaten van alle API verzoeken.";
 "instance_hideerrors" = "Verberg foutmeldingen";

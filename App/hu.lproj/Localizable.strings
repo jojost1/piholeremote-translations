@@ -352,6 +352,7 @@
 "instance_token_scan_navbar" = "Scan API Token";
 "instance_token_scan_permission" = "Please give permission to access the camera in the pop-up or in Settings > Privacy > Camera.";
 "instance_other" = "Other";
+"instance_hidefromdashboard" = "Hide on Home-tab";
 "instance_reverseproxy" = "Reverse Proxy";
 "instance_reverseproxy_explainer" = "Turning on 'Reverse Proxy' will remove '/admin' from all API requests.";
 "instance_hideerrors" = "Hide Error Banners";
