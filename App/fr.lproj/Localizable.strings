@@ -352,7 +352,7 @@
 "instance_token_scan_navbar" = "Scanner le jeton d'API";
 "instance_token_scan_permission" = "Merci de donner les permissions pour accéder à l'appareil photo dans la fenêtre surgissante ou dans Réglages > Confidentialité > Appareil photo.";
 "instance_other" = "Autre";
-"instance_hidefromdashboard" = "Hide on Home-tab";
+"instance_hidefromdashboard" = "Cacher de la page d'accueil";
 "instance_reverseproxy" = "Reverse Proxy";
 "instance_reverseproxy_explainer" = "Activer le 'Reverse Proxy' va retirer '/admin' de toutes les requêtes d'API.";
 "instance_hideerrors" = "Cacher la bannière d'erreurs";
