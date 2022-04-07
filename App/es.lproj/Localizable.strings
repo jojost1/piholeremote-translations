@@ -352,7 +352,7 @@
 "instance_token_scan_navbar" = "Escanear API Token";
 "instance_token_scan_permission" = "Por favor, da permiso para acceder a la cámara en la ventana emergente o en Ajustes > Privacidad > Cámara.";
 "instance_other" = "Otros";
-"instance_hidefromdashboard" = "Hide on Home-tab";
+"instance_hidefromdashboard" = "Ocultar en la pestaña 'Casa'";
 "instance_reverseproxy" = "Proxy Inverso";
 "instance_reverseproxy_explainer" = "Activando 'Proxy Inverso' se eliminará '/admin' de todas las peticiones al API.";
 "instance_hideerrors" = "Ocultar Carteles de Error";
