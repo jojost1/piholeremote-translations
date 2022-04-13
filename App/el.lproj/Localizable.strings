@@ -374,8 +374,12 @@
 "preferences_home_enable_blocking_show_alert" = "Ask confirmation before enabling";
 "preferences_home_notifications" = "Ειδοποιήσεις";
 "preferences_home_notifications_footer" = "Θα στείλει μια ειδοποίηση μόλις ενεργοποιηθεί ξανά ο αποκλεισμός (μετά την απενεργοποίηση του αποκλεισμού).";
+"preferences_home_notifications_enable" = "Ενεργοποίηση αποκλεισμού";
 "preferences_home_notifications_time_sensitive" = "Deliver as 'Time Sensitive'";
-"preferences_home_blocking_enabled" = "Ενεργοποίηση αποκλεισμού";
+"preferences_home_badges" = "Badges";
+"preferences_home_badges_footer" = "Show a '1' badge on the app icon after you disable blocking indefinitely.";
+"preferences_home_badges_enable" = "Badge if 'Disabled Indefinitely'";
+"preferences_home_badges_remove" = "Remove app icon badge";
 "preferences_home_refresh" = "Ανανέωση";
 "preferences_home_refresh_footer" = "Θα ανανεώνεται αυτόματα κάθε 10 δευτερόλεπτα όταν ανοίγει η αρχική καρτέλα και η εφαρμογή βρίσκεται στο προσκήνιο.";
 "preferences_home_auto_refresh" = "Αυτόματη ανανέωση";
@@ -520,7 +524,7 @@
 "rocketscience_my_other_apps" = "Οι άλλες εφαρμογές μου";
 "rocketscience_adguardhomeremote_subtitle" = "Είναι σαν το Pi-hole Remote, αλλά για το AdGuard Home!";
 "rocketscience_mango_subtitle" = "A clean Anime & Manga tracker app, using the MyAnimeList API.";
-"rocketscience_energieradar_subtitle" = "Monitor real-time electricity and gas prices in The Netherlands.";
+"rocketscience_energieradar_subtitle" = "Monitor real-time electricity and gas prices in many European countries.";
 "rocketscience_acknoledgements" = "Ιδιαίτερες ευχαριστίες στους";
 
 // MARK: - Disable Durations

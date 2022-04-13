@@ -374,8 +374,12 @@
 "preferences_home_enable_blocking_show_alert" = "Vraag bevestiging voor inschakelen";
 "preferences_home_notifications" = "Notificaties";
 "preferences_home_notifications_footer" = "Stuurt een notificatie zodra blokkeren weer ingeschakeld is (na het uitschakelen van blokkeren).";
+"preferences_home_notifications_enable" = "Melding wanneer blokkeren ingeschakeld";
 "preferences_home_notifications_time_sensitive" = "Verstuur als 'Tijdgevoelig'";
-"preferences_home_blocking_enabled" = "Blokkeren ingeschakeld";
+"preferences_home_badges" = "Badges";
+"preferences_home_badges_footer" = "Laat een '1' badge zien op het app icoon nadat je blokkeren uitschakeld 'tot weer ingeschakeld'.";
+"preferences_home_badges_enable" = "Badge als blokkeren uitgeschakeld 'tot weer ingeschakeld'";
+"preferences_home_badges_remove" = "Verwijder huidige badge";
 "preferences_home_refresh" = "Ververs";
 "preferences_home_refresh_footer" = "Ververs automatisch iedere 10 seconden wanneer het Home-tab open staat en de app in de voorgrond is.";
 "preferences_home_auto_refresh" = "Ververs automatisch";
@@ -520,7 +524,7 @@
 "rocketscience_my_other_apps" = "Mijn andere apps";
 "rocketscience_adguardhomeremote_subtitle" = "Net als Pi-hole Remote, maar voor AdGuard Home!";
 "rocketscience_mango_subtitle" = "Een Anime & Manga tracking app die gebruik maakt van de MyAnimeList API.";
-"rocketscience_energieradar_subtitle" = "Real-time inzicht in stroom- en gasprijzen in Nederland.";
+"rocketscience_energieradar_subtitle" = "Real-time inzicht in stroom- en gasprijzen in Nederland en andere Europese landen.";
 "rocketscience_acknoledgements" = "Met dank aan";
 
 // MARK: - Disable Durations

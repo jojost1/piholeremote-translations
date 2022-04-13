@@ -374,8 +374,12 @@
 "preferences_home_enable_blocking_show_alert" = "Ask confirmation before enabling";
 "preferences_home_notifications" = "Notificações";
 "preferences_home_notifications_footer" = "Uma notificação será enviada assim que o bloqueamento for habilitado novamente.";
+"preferences_home_notifications_enable" = "Bloqueamento Habilitado";
 "preferences_home_notifications_time_sensitive" = "Deliver as 'Time Sensitive'";
-"preferences_home_blocking_enabled" = "Bloqueamento Habilitado";
+"preferences_home_badges" = "Badges";
+"preferences_home_badges_footer" = "Show a '1' badge on the app icon after you disable blocking indefinitely.";
+"preferences_home_badges_enable" = "Badge if 'Disabled Indefinitely'";
+"preferences_home_badges_remove" = "Remove app icon badge";
 "preferences_home_refresh" = "Atualizar";
 "preferences_home_refresh_footer" = "A aba início será atualizada a cada 10 segundos enquanto estiver aberta e o aplicativo estiver aberto em destaque.";
 "preferences_home_auto_refresh" = "Auto Atualizar";
@@ -520,7 +524,7 @@
 "rocketscience_my_other_apps" = "Meus Outros Apps";
 "rocketscience_adguardhomeremote_subtitle" = "É exatamente como o Pi-hole Remote mas para AdGuard Home!";
 "rocketscience_mango_subtitle" = "A clean Anime & Manga tracker app, using the MyAnimeList API.";
-"rocketscience_energieradar_subtitle" = "Monitor real-time electricity and gas prices in The Netherlands.";
+"rocketscience_energieradar_subtitle" = "Monitor real-time electricity and gas prices in many European countries.";
 "rocketscience_acknoledgements" = "Agradecimento especial a";
 
 // MARK: - Disable Durations

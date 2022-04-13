@@ -374,8 +374,12 @@
 "preferences_home_enable_blocking_show_alert" = "Запитувати підтвердження перед вмиканням";
 "preferences_home_notifications" = "Сповіщення";
 "preferences_home_notifications_footer" = "Відправлятиме сповіщення, коли блокування знову увімкнеться (після вимкнення блокування).";
+"preferences_home_notifications_enable" = "Блокування ввімкнено";
 "preferences_home_notifications_time_sensitive" = "Доставляти як 'Термінові'";
-"preferences_home_blocking_enabled" = "Блокування ввімкнено";
+"preferences_home_badges" = "Badges";
+"preferences_home_badges_footer" = "Show a '1' badge on the app icon after you disable blocking indefinitely.";
+"preferences_home_badges_enable" = "Badge if 'Disabled Indefinitely'";
+"preferences_home_badges_remove" = "Remove app icon badge";
 "preferences_home_refresh" = "Оновлення";
 "preferences_home_refresh_footer" = "Оновлюватиметься автоматично кожні 10 секунд, коли вкладка Основне відкрита і застосунок на передньому плані.";
 "preferences_home_auto_refresh" = "Автоматичне оновлення";
@@ -520,7 +524,7 @@
 "rocketscience_my_other_apps" = "Мої інші застосунки";
 "rocketscience_adguardhomeremote_subtitle" = "Це як Pi-hole Remote, але для AdGuard Home!";
 "rocketscience_mango_subtitle" = "A clean Anime & Manga tracker app, using the MyAnimeList API.";
-"rocketscience_energieradar_subtitle" = "Monitor real-time electricity and gas prices in The Netherlands.";
+"rocketscience_energieradar_subtitle" = "Monitor real-time electricity and gas prices in many European countries.";
 "rocketscience_acknoledgements" = "Особлива подяка:";
 
 // MARK: - Disable Durations

@@ -374,8 +374,12 @@
 "preferences_home_enable_blocking_show_alert" = "Confirmar antes de activar";
 "preferences_home_notifications" = "Notificaciones";
 "preferences_home_notifications_footer" = "Enviará una notificación tan pronto como el bloqueo se active de nuevo (tras su desactivación).";
+"preferences_home_notifications_enable" = "Bloqueo Activado";
 "preferences_home_notifications_time_sensitive" = "Como 'Sensible al Tiempo'";
-"preferences_home_blocking_enabled" = "Bloqueo Activado";
+"preferences_home_badges" = "Badges";
+"preferences_home_badges_footer" = "Show a '1' badge on the app icon after you disable blocking indefinitely.";
+"preferences_home_badges_enable" = "Badge if 'Disabled Indefinitely'";
+"preferences_home_badges_remove" = "Remove app icon badge";
 "preferences_home_refresh" = "Refrescar";
 "preferences_home_refresh_footer" = "Automáticamente refrescará cada 10 segundos cuando la pestaña Casa esté abierta y la app esté en primer plano.";
 "preferences_home_auto_refresh" = "Autorefrescar";
