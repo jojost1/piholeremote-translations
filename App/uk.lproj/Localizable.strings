@@ -224,7 +224,7 @@
 "lists_addentry_regex_test_tap" = "Натисніть тут, щоб протестувати ваш RegEx на regex101.";
 "lists_addentry_wildcard_%@" = "Замінний знак: %@";
 "lists_addentry_wildcard_alert" = "Додати домен як замінний знак";
-"lists_addentry_wildcard_alert_body" = "Використовуйте цю опцію якщо ви хочете включити всі піддомени. Введений домен буде конвертований у RegEx фільтр при доадаванні.";
+"lists_addentry_wildcard_alert_body" = "Використовуйте цю опцію якщо ви хочете включити всі піддомени. Введений домен буде конвертований у RegEx фільтр при додаванні.";
 
 // MARK: Add Entry Bulk
 "lists_bulk_navbar" = "Додати записи";
@@ -251,7 +251,7 @@
 "lists_sync_navbar" = "Синхронізувати пристрої";
 "lists_sync_start_sync" = "Почати синхронізацію";
 "lists_sync_start_sync_alert" = "Ця дія додасть записи з першого пристрою до другого і навпаки. Ви впевнені, що хочете зробити це?";
-"lists_sync_explainer" = "Ця функція синхронізує записи між двома вашими пристроями, додаючи записи з одного з пристроїв на інший і навкапи.\n\nБудь ласка, перегляньте списки нижче, щоб перепевнитись, що синхронізація зробить те, що ви очікуєте. Сам процес може тривати деякий час або перерватись, якщо ви синхронізуєте багато записів, тримайте цей екран відкритим у процесі синхронізації.";
+"lists_sync_explainer" = "Ця функція синхронізує записи між двома вашими пристроями, додаючи записи з одного з пристроїв на інший і навпаки.\n\nБудь ласка, перегляньте списки нижче, щоб перепевнитись, що синхронізація зробить те, що ви очікуєте. Сам процес може тривати деякий час або перерватись, якщо ви синхронізуєте багато записів, тримайте цей екран відкритим у процесі синхронізації.";
 "lists_sync_calculating" = "Вираховується...";
 "lists_sync_lists_are_in_sync" = "Списки синхронізовані.";
 "lists_sync_activity_log" = "Журнал активності";
@@ -352,7 +352,7 @@
 "instance_token_scan_navbar" = "Сканувати API токен";
 "instance_token_scan_permission" = "Будь ласка, відкрийте доступ до камери у вспливаючому вікні або у Налаштування > Приватність > Камера.";
 "instance_other" = "Інше";
-"instance_hidefromdashboard" = "Hide on Home-tab";
+"instance_hidefromdashboard" = "Сховати на Основному екрані";
 "instance_reverseproxy" = "Зворотний проксі";
 "instance_reverseproxy_explainer" = "Увімкнений 'Зворотний проксі' прибере '/admin' з усіх API запитів.";
 "instance_hideerrors" = "Сховати банери про помилки";
@@ -376,10 +376,10 @@
 "preferences_home_notifications_footer" = "Відправлятиме сповіщення, коли блокування знову увімкнеться (після вимкнення блокування).";
 "preferences_home_notifications_enable" = "Блокування ввімкнено";
 "preferences_home_notifications_time_sensitive" = "Доставляти як 'Термінові'";
-"preferences_home_badges" = "Badges";
-"preferences_home_badges_footer" = "Show a '1' badge on the app icon after you disable blocking indefinitely.";
-"preferences_home_badges_enable" = "Badge if 'Disabled Indefinitely'";
-"preferences_home_badges_remove" = "Remove app icon badge";
+"preferences_home_badges" = "Значки";
+"preferences_home_badges_footer" = "Показувати значок '1' на іконці застосунку, якщо блокування вимкнено на невизначений термін.";
+"preferences_home_badges_enable" = "Значок якщо 'Вимкнено на невизначений термін'";
+"preferences_home_badges_remove" = "Прибрати значок з іконки застосунку";
 "preferences_home_refresh" = "Оновлення";
 "preferences_home_refresh_footer" = "Оновлюватиметься автоматично кожні 10 секунд, коли вкладка Основне відкрита і застосунок на передньому плані.";
 "preferences_home_auto_refresh" = "Автоматичне оновлення";
@@ -418,7 +418,7 @@
 "preferences_statistics_hidedomains_hide_from_statistics_only" = "Тільки Статистики";
 "preferences_statistics_hidedomains_hide_from_statistics_and_querylog" = "Статистики та Журналу запитів";
 "preferences_querylog_navbar" = "Журнал запитів";
-"preferences_querylog_show_sidebar" = "Show sidebar";
+"preferences_querylog_show_sidebar" = "Показати сайдбар";
 "preferences_lists_navbar" = "Списки";
 "preferences_lists_display" = "Відображення";
 "preferences_lists_sort_by" = "Сортувати списки за";
@@ -523,8 +523,8 @@
 "rocketscience_tipjar_thankyou" = "Дякую!";
 "rocketscience_my_other_apps" = "Мої інші застосунки";
 "rocketscience_adguardhomeremote_subtitle" = "Це як Pi-hole Remote, але для AdGuard Home!";
-"rocketscience_mango_subtitle" = "A clean Anime & Manga tracker app, using the MyAnimeList API.";
-"rocketscience_energieradar_subtitle" = "Monitor real-time electricity and gas prices in many European countries.";
+"rocketscience_mango_subtitle" = "Мінімалістичний застосунок трекер Anime & Manga, що використовує MyAnimeList API.";
+"rocketscience_energieradar_subtitle" = "Моніторинг цін на електроенергію та газ у реальному часі в багатьох європейських країнах.";
 "rocketscience_acknoledgements" = "Особлива подяка:";
 
 // MARK: - Disable Durations
@@ -578,7 +578,7 @@
 "please_check_api_token" = "Будь ласка, перевірте свій API токен та налаштування рівня приватності.";
 "could_not_get_data" = "Не вдалося отримати дані.";
 "no_queries_found" = "Запити не знайдено.";
-"no_entries_found" = "No entries found.";
+"no_entries_found" = "Записи не знайдено.";
 "search" = "Пошук";
 "refresh" = "Оновити";
 "done" = "Готово";
