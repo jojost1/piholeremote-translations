@@ -205,11 +205,12 @@
 "lists_sort" = "Sorteer";
 "lists_sorting_options" = "Sorteer opties";
 "lists_alphabetically" = "Alfabetisch";
-"lists_date" = "Datum";
+"lists_date_added" = "Datum toegevoegd";
 "lists_add_entry" = "Voeg item toe";
 "lists_add_entries_bulk" = "Voeg items toe (bulk)";
 "lists_export_lists" = "Exporteer lijsten";
-"lists_remove_from_list" = "Verwijder van lijst";
+"lists_remove" = "Verwijder";
+"lists_remove_and_edit" = "Verwijder & Bewerk";
 "lists_no_entries_found" = "Geen items gevonden.";
 "lists_no_entries_found_subtitle" = "Je hebt geen items in je lijst.\n\nAls je dat wel zou verwachten: draait je Pi-hole versie 5.1 of nieuwer?";
 
@@ -422,8 +423,6 @@
 "preferences_lists_navbar" = "Lijsten";
 "preferences_lists_display" = "Weergave";
 "preferences_lists_sort_by" = "Sorteer op";
-"preferences_lists_alphabet" = "Alfabet";
-"preferences_lists_date" = "Datum";
 "preferences_lists_terminology" = "Terminologie";
 "preferences_lists_terminology_black_white" = "Black & Whitelist";
 "preferences_lists_terminology_deny_allow" = "Deny & Allowlist";

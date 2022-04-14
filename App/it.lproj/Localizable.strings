@@ -205,11 +205,12 @@
 "lists_sort" = "Ordina";
 "lists_sorting_options" = "Opzioni per l'ordinamento";
 "lists_alphabetically" = "Alfabeticamente";
-"lists_date" = "Data";
+"lists_date_added" = "Data";
 "lists_add_entry" = "Aggiungi elemento";
 "lists_add_entries_bulk" = "Aggiungi elementi (Gruppo)";
 "lists_export_lists" = "Esposta liste";
-"lists_remove_from_list" = "Rimuovi dalla lista";
+"lists_remove" = "Rimuovi dalla lista";
+"lists_remove_and_edit" = "Remove & Edit";
 "lists_no_entries_found" = "Nessun elemento trovato.";
 "lists_no_entries_found_subtitle" = "Non hai nessun elemento nella tua lista.\n\nSe ti aspetti di avere elementi qui: stai utilizzando Pi-hole v5.1 o superiore?";
 
@@ -422,8 +423,6 @@
 "preferences_lists_navbar" = "Liste";
 "preferences_lists_display" = "Display";
 "preferences_lists_sort_by" = "Ordina lista";
-"preferences_lists_alphabet" = "Alfabeticamente";
-"preferences_lists_date" = "Data";
 "preferences_lists_terminology" = "Terminologia";
 "preferences_lists_terminology_black_white" = "Black & Whitelist";
 "preferences_lists_terminology_deny_allow" = "Lista bloccati & permessi";

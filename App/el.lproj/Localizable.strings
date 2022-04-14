@@ -205,11 +205,12 @@
 "lists_sort" = "Ταξινόμηση";
 "lists_sorting_options" = "Επιλογές ταξινόμησης";
 "lists_alphabetically" = "Αλφαβητικά";
-"lists_date" = "Ημερομηνία";
+"lists_date_added" = "Ημερομηνία";
 "lists_add_entry" = "Προσθήκη καταχώρησης";
 "lists_add_entries_bulk" = "Προσθήκη καταχωρήσεων (μαζικά)";
 "lists_export_lists" = "Εξαγωγή λιστών";
-"lists_remove_from_list" = "Αφαίρεση από λίστα";
+"lists_remove" = "Αφαίρεση από λίστα";
+"lists_remove_and_edit" = "Remove & Edit";
 "lists_no_entries_found" = "Δεν βρέθηκαν καταχωρήσεις.";
 "lists_no_entries_found_subtitle" = "Δεν έχετε καταχωρήσεις στη λίστα σας.\n\nΕάν περιμένατε να υπάρχουν καταχωρήσεις εδώ: τρέχετε το Pi-hole στην έκδοση 5.1 ή νεότερη;";
 
@@ -422,8 +423,6 @@
 "preferences_lists_navbar" = "Λίστες";
 "preferences_lists_display" = "Εμφάνιση";
 "preferences_lists_sort_by" = "Ταξινόμηση λιστών με";
-"preferences_lists_alphabet" = "Αλφαβητικά";
-"preferences_lists_date" = "Ημερομηνία";
 "preferences_lists_terminology" = "Terminology";
 "preferences_lists_terminology_black_white" = "Black & Whitelist";
 "preferences_lists_terminology_deny_allow" = "Deny & Allowlist";

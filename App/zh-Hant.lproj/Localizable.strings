@@ -205,11 +205,12 @@
 "lists_sort" = "排序";
 "lists_sorting_options" = "排序選項";
 "lists_alphabetically" = "依字母順序";
-"lists_date" = "日期";
+"lists_date_added" = "日期";
 "lists_add_entry" = "新增項目";
 "lists_add_entries_bulk" = "新增項目（批次）";
 "lists_export_lists" = "匯出清單";
-"lists_remove_from_list" = "從清單中移除";
+"lists_remove" = "從清單中移除";
+"lists_remove_and_edit" = "Remove & Edit";
 "lists_no_entries_found" = "無找到的項目。";
 "lists_no_entries_found_subtitle" = "您沒有任何的項目在您的清單中。\n\n如果您確實預計項目在這裡：您正在執行 Pi-hole v5.1 或較高的版本嗎？";
 
@@ -421,9 +422,7 @@
 "preferences_querylog_show_sidebar" = "Show sidebar";
 "preferences_lists_navbar" = "清單";
 "preferences_lists_display" = "Display";
-"preferences_lists_sort_by" = "Sort Lists By";
-"preferences_lists_alphabet" = "Alphabet";
-"preferences_lists_date" = "Date";
+"preferences_lists_sort_by" = "Sort Lists";
 "preferences_lists_terminology" = "Terminology";
 "preferences_lists_terminology_black_white" = "Black & Whitelist";
 "preferences_lists_terminology_deny_allow" = "Deny & Allowlist";
