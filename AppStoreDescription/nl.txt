@@ -43,6 +43,7 @@ iPhone, iPad, macOS functies:
 Apple Watch functies:
 - Bekijk basisstatistieken
 - Zet blokkeren uit
+- Bekijk top toegestaan, top geblokkeerd, top cliënten
 - Complications
 
 Apple TV functies:
