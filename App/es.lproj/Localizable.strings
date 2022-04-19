@@ -210,7 +210,7 @@
 "lists_add_entries_bulk" = "Añadir Entradas (Bulk)";
 "lists_export_lists" = "Exportar Listas";
 "lists_remove" = "Eliminar de la Lista";
-"lists_remove_and_edit" = "Remove & Edit";
+"lists_remove_and_edit" = "Eliminar y Editar";
 "lists_no_entries_found" = "No se han encontrado entradas.";
 "lists_no_entries_found_subtitle" = "No tienes ninguna entrada en tu lista.\n\nSi esperabas entradas aquí: ¿estás ejecutando Pi-hole v5.1 o superior?";
 
@@ -377,10 +377,10 @@
 "preferences_home_notifications_footer" = "Enviará una notificación tan pronto como el bloqueo se active de nuevo (tras su desactivación).";
 "preferences_home_notifications_enable" = "Bloqueo Activado";
 "preferences_home_notifications_time_sensitive" = "Como 'Sensible al Tiempo'";
-"preferences_home_badges" = "Badges";
-"preferences_home_badges_footer" = "Show a '1' badge on the app icon after you disable blocking indefinitely.";
-"preferences_home_badges_enable" = "Badge if 'Disabled Indefinitely'";
-"preferences_home_badges_remove" = "Remove app icon badge";
+"preferences_home_badges" = "Insignias";
+"preferences_home_badges_footer" = "Muestra insignia a '1' en el icono de la app después de deshabilitar el bloqueo indefinidamente.";
+"preferences_home_badges_enable" = "Insignia si 'Deshabilitado Indefinidamente'";
+"preferences_home_badges_remove" = "Eliminar insignia del icono de la app";
 "preferences_home_refresh" = "Refrescar";
 "preferences_home_refresh_footer" = "Automáticamente refrescará cada 10 segundos cuando la pestaña Casa esté abierta y la app esté en primer plano.";
 "preferences_home_auto_refresh" = "Autorefrescar";
@@ -523,7 +523,7 @@
 "rocketscience_my_other_apps" = "Mis Otras Aplicaciones";
 "rocketscience_adguardhomeremote_subtitle" = "Es como Pi-hole Remote, ¡pero para AdGuard Home!";
 "rocketscience_mango_subtitle" = "Una aplicación limpia de seguimiento de Anime y Manga, usando la API de MyAnimeList.";
-"rocketscience_energieradar_subtitle" = "Monitoriza en tiempo real los precios de la electricidad y el gas en Los Países Bajos.";
+"rocketscience_energieradar_subtitle" = "Monitoriza en tiempo real los precios de la electricidad y el gas en muchos países europeos.";
 "rocketscience_acknoledgements" = "Un agradecimiento especial a";
 
 // MARK: - Disable Durations
