@@ -210,7 +210,7 @@
 "lists_add_entries_bulk" = "Додати записи (гуртом)";
 "lists_export_lists" = "Експортувати списки";
 "lists_remove" = "Видалити зі списків";
-"lists_remove_and_edit" = "Remove & Edit";
+"lists_remove_and_edit" = "Видалити та Редагувати";
 "lists_no_entries_found" = "Записів не знайдено.";
 "lists_no_entries_found_subtitle" = "У вашому списку нема записів.\n\nЯкщо ви очікуєте записи тут: версія вашого Pi-hole v5.1 чи вище?";
 
