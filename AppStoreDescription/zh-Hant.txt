@@ -9,8 +9,14 @@ Look up what domains are queried most on your network, as well as clients that s
 *White & Blacklist*
 Quickly add new entries to your lists inside the app or with the iOS Share Extension. You can also add entries in bulk and export list entries. If you have two Pi-hole instances, you can even automatically sync your lists!
 
-*Homescreen Widgets (iOS 14)*
-Choose from a wide range of homescreen widgets that show statistics or a query-graph. All are customisable with a wide range of options!
+*Local DNS*
+Manage your Local DNS and CNAME records, right from the app!
+
+*Homescreen Widgets*
+Choose from a wide range of homescreen widgets that show statistics or graphs. All are customisable with a wide range of options!
+
+*Full Ecosystem*
+Purchase the app once and get access to the iOS, watchOS, iPadOS, macOS, and tvOS app.
 
 ==
 
@@ -22,13 +28,15 @@ iPhone, iPad, macOS features:
 - Sync list entries between two instances
 - Full Query Log with search & filters
 - Live Log which shows queries in real-time
+- Manage Local DNS & CNAME records
 - Support for up to 4 Pi-hole instances with combined statistics and queries
 - Support for scanning Pi-hole token QR code
-- Support for SSL, reverse proxies, and alternative Privacy Levels
-- Widgets (iOS 14 & macOS 11)
+- Support for SSL and reverse proxies
+- Widgets
 - Siri Shortcuts & Quick Action
 - Share Extension for quick white/blacklisting
 - VoiceOver support
+- FaceID/TouchID lock
 - Dark Mode, custom color schemes, alternative app icons
 - Optimised design for iPadOS & macOS
 - Clean and modern 100% SwiftUI design
@@ -36,6 +44,7 @@ iPhone, iPad, macOS features:
 Apple Watch features:
 - View basic statistics
 - Disable Pi-hole blocking
+- View top allowed, top blocked, top clients
 - Complications
 
 Apple TV features:
@@ -56,9 +65,11 @@ Statistics:
 - Clients Ever Seen
 - Queries Per Domain/Client
 - Query Types
+- Forward Destinations
 - Pi-hole Version
 - API Info
 - DNS Cache
+- Database Size
 
 * The in-app-purchases are only there for the Tip Jar, to support future development of the app. This is completely optional.
 

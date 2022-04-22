@@ -44,6 +44,7 @@ iPhone, iPad, macOS features:
 Apple Watch features:
 - View basic statistics
 - Disable Pi-hole blocking
+- View top allowed, top blocked, top clients
 - Complications
 
 Apple TV features:
