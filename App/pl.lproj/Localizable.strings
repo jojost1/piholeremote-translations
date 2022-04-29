@@ -210,7 +210,7 @@
 "lists_add_entries_bulk" = "Dodaj wpisy (masowo)";
 "lists_export_lists" = "Eksportuj listy";
 "lists_remove" = "Usuń z listy";
-"lists_remove_and_edit" = "Remove & Edit";
+"lists_remove_and_edit" = "Usuń albo (&) Edytuj";
 "lists_no_entries_found" = "Nie znaleziono wpisów.";
 "lists_no_entries_found_subtitle" = "Nie masz żadnych wpisów na twojej liście.\n\nJeżeli jesteś pewien, że powinny być tutaj, czy twój Pi-Hole jest zaktualizowany do v5.1 lub nowszej?";
 
