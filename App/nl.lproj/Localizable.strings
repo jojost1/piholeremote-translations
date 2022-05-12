@@ -362,6 +362,12 @@
 "instance_remove_alert_title" = "Verwijder Pi-hole instantie";
 "instance_remove_alert_body" = "Weet je zeker dat je deze instantie wil verwijderen?";
 
+// MARK: Blocked Services
+"blocked_services" = "Geblokkeerde diensten";
+"blocked_services_%lld_entry" = "%lld regex item"; // When one entry
+"blocked_services_%lld_entries" = "%lld regex items"; // When multiple entries
+"blocked_services_block_service" = "Blokkeer dienst";
+
 // MARK: Preferences
 "preferences_home_navbar" = "Home";
 "preferences_home_display" = "Weergave";
@@ -370,6 +376,7 @@
 "preferences_home_usage_metrics" = "Gebruiksstatistieken";
 "preferences_home_usage_metrics_vertical" = "Laat statistieken verticaal zien";
 "preferences_home_temperature_unit" = "Temperatuureenheid";
+"preferences_home_shortcuts" = "Shortcuts";
 "preferences_home_disable_blocking_presets" = "Blokkeren instellingen";
 "preferences_home_enable_blocking" = "Blokkeren inschakelen";
 "preferences_home_enable_blocking_show_alert" = "Vraag bevestiging voor inschakelen";
@@ -554,6 +561,7 @@
 "notification_disable_until_enabled" = "Schakel opnieuw uit tot handmatig ingeschakeld";
 
 // MARK: Context Menus
+"copy" = "Kopieer";
 "copy_domain" = "Kopieer domein";
 "copy_hostname" = "Kopieer hostnaam";
 "copy_ip" = "Kopieer IP";

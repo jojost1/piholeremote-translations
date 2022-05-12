@@ -363,14 +363,21 @@
 "instance_remove_alert_title" = "Remove Pi-hole Instance";
 "instance_remove_alert_body" = "Are you sure you want to remove this instance?";
 
+// MARK: Blocked Services
+"blocked_services" = "Blocked Services";
+"blocked_services_%lld_entry" = "%lld regex entry"; // When one entry
+"blocked_services_%lld_entries" = "%lld regex entries"; // When multiple entries
+"blocked_services_block_service" = "Block service";
+
 // MARK: Preferences
 "preferences_home_navbar" = "Home";
 "preferences_home_display" = "Display";
-"preferences_home_check_for_updates" = "Check for Updates";
+"preferences_home_check_for_updates" = "Check for updates";
 "preferences_home_data_from_label" = "'Data from' label";
 "preferences_home_usage_metrics" = "Usage Metrics";
-"preferences_home_usage_metrics_vertical" = "Display Metrics Vertically";
-"preferences_home_temperature_unit" = "Temperature Unit";
+"preferences_home_usage_metrics_vertical" = "Display metrics vertically";
+"preferences_home_temperature_unit" = "Temperature unit";
+"preferences_home_shortcuts" = "Shortcuts";
 "preferences_home_disable_blocking_presets" = "Disable Blocking Presets";
 "preferences_home_enable_blocking" = "Enable Blocking";
 "preferences_home_enable_blocking_show_alert" = "Ask confirmation before enabling";
@@ -555,6 +562,7 @@
 "notification_disable_until_enabled" = "Disable again until manually enabled";
 
 // MARK: Context Menus
+"copy" = "Copy";
 "copy_domain" = "Copy Domain";
 "copy_hostname" = "Copy Hostname";
 "copy_ip" = "Copy IP";
