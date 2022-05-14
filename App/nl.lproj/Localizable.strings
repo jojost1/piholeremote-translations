@@ -367,6 +367,9 @@
 "blocked_services_%lld_entry" = "%lld regex item"; // When one entry
 "blocked_services_%lld_entries" = "%lld regex items"; // When multiple entries
 "blocked_services_block_service" = "Blokkeer dienst";
+"blocked_services_entries_overview" = "Items in lijst";
+"blocked_services_entries_overview_hide" = "Verbergen";
+"blocked_services_entries_overview_show" = "Weergeven";
 
 // MARK: Preferences
 "preferences_home_navbar" = "Home";

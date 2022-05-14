@@ -367,6 +367,9 @@
 "blocked_services_%lld_entry" = "%lld regex entry"; // When one entry
 "blocked_services_%lld_entries" = "%lld regex entries"; // When multiple entries
 "blocked_services_block_service" = "Block service";
+"blocked_services_entries_overview" = "Entries in overview";
+"blocked_services_entries_overview_hide" = "Hide";
+"blocked_services_entries_overview_show" = "Show";
 
 // MARK: Preferences
 "preferences_home_navbar" = "Accueil";
