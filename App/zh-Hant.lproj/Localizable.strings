@@ -167,6 +167,7 @@
 
 // MARK: QueryLog Detail
 "querylog_detail_navbar" = "查詢";
+"querylog_detail_domain" = "網域";
 "querylog_detail_client" = "用戶端";
 "querylog_detail_request" = "請求";
 "querylog_detail_type" = "類型";

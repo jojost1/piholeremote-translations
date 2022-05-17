@@ -167,6 +167,7 @@
 
 // MARK: QueryLog Detail
 "querylog_detail_navbar" = "Requête";
+"querylog_detail_domain" = "Domaine";
 "querylog_detail_client" = "Client";
 "querylog_detail_request" = "Requête";
 "querylog_detail_type" = "Type";

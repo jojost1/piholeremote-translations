@@ -167,6 +167,7 @@
 
 // MARK: QueryLog Detail
 "querylog_detail_navbar" = "Ερώτημα";
+"querylog_detail_domain" = "Domain";
 "querylog_detail_client" = "Πελάτης";
 "querylog_detail_request" = "Αίτημα";
 "querylog_detail_type" = "Τύπος";

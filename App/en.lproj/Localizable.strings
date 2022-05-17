@@ -167,6 +167,7 @@
 
 // MARK: QueryLog Detail
 "querylog_detail_navbar" = "Query";
+"querylog_detail_domain" = "Domain";
 "querylog_detail_client" = "Client";
 "querylog_detail_request" = "Request";
 "querylog_detail_type" = "Type";
@@ -570,7 +571,7 @@
 "copy_hostname" = "Copy Hostname";
 "copy_ip" = "Copy IP";
 "copy_hostname_or_ip" = "Copy Hostname / IP";
-"add_to_list_dots" = "Add To List...";
+"add_to_list_dots" = "Add to List...";
 "view_queries_to_domain" = "View Queries to Domain";
 "view_queries_from_client" = "View Queries from Client";
 "visit_domain" = "Visit Domain";
