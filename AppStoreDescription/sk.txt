@@ -6,6 +6,9 @@ Quickly disable blocking for a few minutes with only a few taps. You can even us
 *Statistics & Queries*
 Look up what domains are queried most on your network, as well as clients that send out the most requests. See queries sorted by domain, client, or type. You can even view a Live Log that shows requests in real-time!
 
+*Blocked Services*
+Want to quickly restrict access to Facebook, YouTube, Snapchat, and more? Block all kinds of services effortlessly with just one tap.
+
 *White & Blacklist*
 Quickly add new entries to your lists inside the app or with the iOS Share Extension. You can also add entries in bulk and export list entries. If you have two Pi-hole instances, you can even automatically sync your lists!
 

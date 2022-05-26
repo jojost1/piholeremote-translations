@@ -6,6 +6,9 @@ Zet je Pi-hole makkelijk voor een paar minuten op pauze met een paar tikken. Je 
 *Statistieken & Queries*
 Zie in een oogopslag welke domeinen het meest voorkomen op je netwerk of welke cliënten de meeste verzoeken maken. Je kan de queries filteren op domein, cliënt of type. Met het Live Log kan je zelfs alle verzoeken in real-time bekijken!
 
+*Geblokkeerde Diensten*
+Blokkeer toegang tot populaire diensten zoals Facebook, YouTube, Snapchat en meer. Met één schakelaar!
+
 *White- & Blacklisten*
 Voeg snel nieuwe entries toe aan je lijsten via de app of met de iOS Share Extension. Je kan ook entries in bulk toevoegen en je lijsten exporteren. Als je twee instanties hebt, kan je automatisch alle lijsten synchroniseren.
 
