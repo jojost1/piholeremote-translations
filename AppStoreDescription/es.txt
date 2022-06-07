@@ -6,6 +6,9 @@ Desactiva rápidamente el bloqueo durante unos minutos con sólo un par de toque
 *Estadísticas & Consultas*
 Examina los dominios que más se consultan en tu red, así como los clientes que más solicitudes realizan. Observa las consultas ordenadas por dominio, cliente o tipo. ¡Incluso puedes ver el registro en vivo que muestra las consultas en tiempo real!
 
+*Bloqueo de Servicios*
+¿Quieres restringir rápidamente el acceso a Facebook, YouTube, Snapchat y más? Bloquea todo tipo de servicios sin esfuerzo con un sólo toque.
+
 *Listas Blanca & Negra*
 Añade rápidamente nuevas entradas a tus listas dentro de la aplicación o con la extensión Share de iOS. También puedes añadir entradas de forma masiva y exportar las entradas de la lista. Si tienes dos instancias de Pi-hole, ¡incluso puedes sincronizar automáticamente tus listas!
 
