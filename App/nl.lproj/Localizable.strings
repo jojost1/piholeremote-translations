@@ -371,6 +371,10 @@
 "blocked_services_entries_overview" = "Items in lijst";
 "blocked_services_entries_overview_hide" = "Verbergen";
 "blocked_services_entries_overview_show" = "Weergeven";
+"blocked_services_favorites" = "Favorieten";
+"blocked_services_favorites_add" = "Voeg toe aan favorieten";
+"blocked_services_favorites_remove" = "Verwijder uit favorites";
+"blocked_services_other" = "Overig";
 
 // MARK: Preferences
 "preferences_home_navbar" = "Home";
@@ -515,6 +519,7 @@
 "changelog_new" = "Nieuw";
 "changelog_improved" = "Verbeterd";
 "changelog_fixed" = "Opgelost";
+"changelog_accessibility" = "Toegankelijkheid";
 "changelog_just_updated" = "Net geüpdatet!";
 "changelog_current_version" = "Huidige versie";
 "changelog_continue" = "Ga door";
