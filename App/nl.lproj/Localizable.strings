@@ -373,7 +373,8 @@
 "blocked_services_entries_overview_show" = "Weergeven";
 "blocked_services_favorites" = "Favorieten";
 "blocked_services_favorites_add" = "Voeg toe aan favorieten";
-"blocked_services_favorites_remove" = "Verwijder uit favorites";
+"blocked_services_favorites_remove" = "Verwijder uit favorieten";
+"blocked_services_favorites_explainer" = "Swipe naar rechts om een dienst toe te voegen aan je favorieten.";
 "blocked_services_other" = "Overig";
 
 // MARK: Preferences

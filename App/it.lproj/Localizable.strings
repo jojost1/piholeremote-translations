@@ -374,6 +374,7 @@
 "blocked_services_favorites" = "Favorites";
 "blocked_services_favorites_add" = "Add to favorites";
 "blocked_services_favorites_remove" = "Remove from favorites";
+"blocked_services_favorites_explainer" = "Swipe to the right to add a service to your favorites.";
 "blocked_services_other" = "Other";
 
 // MARK: Preferences
