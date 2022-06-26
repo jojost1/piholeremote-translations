@@ -371,11 +371,11 @@
 "blocked_services_entries_overview" = "Entradas en resumen";
 "blocked_services_entries_overview_hide" = "Ocultar";
 "blocked_services_entries_overview_show" = "Mostrar";
-"blocked_services_favorites" = "Favorites";
-"blocked_services_favorites_add" = "Add to favorites";
-"blocked_services_favorites_remove" = "Remove from favorites";
-"blocked_services_favorites_explainer" = "Swipe to the right to add a service to your favorites.";
-"blocked_services_other" = "Other";
+"blocked_services_favorites" = "Favoritos";
+"blocked_services_favorites_add" = "Añadir a favoritos";
+"blocked_services_favorites_remove" = "Eliminar de favoritos";
+"blocked_services_favorites_explainer" = "Desliza a la derecha para añadir un servicio a tus favoritos.";
+"blocked_services_other" = "Otro";
 
 // MARK: Preferences
 "preferences_home_navbar" = "Casa";
@@ -520,7 +520,7 @@
 "changelog_new" = "Nuevo";
 "changelog_improved" = "Mejoras";
 "changelog_fixed" = "Correcciones";
-"changelog_accessibility" = "Accessibility";
+"changelog_accessibility" = "Accesibilidad";
 "changelog_just_updated" = "¡Recién Actualizado!";
 "changelog_current_version" = "Actual";
 "changelog_continue" = "Continuar";
