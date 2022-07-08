@@ -102,6 +102,8 @@
 "statistics_dns_cache_inserted" = "Cache Inserted:";
 "statistics_database" = "Database";
 "statistics_database_filesize" = "Filesize:";
+"statistics_maxlogage" = "Maximum Log Age";
+"statistics_maxlogage_hours_%lld" = "%lld days";
 "statistics_github" = "Github";
 "statistics_update_explainer" = "Du kannst Updates über die Konsole mit dem Befehl 'pihole -up' durchführen.";
 "statistics_update_explainer_%@" = "Du kannst das Update über die Konsole mit folgendem Befehl durchführen %@ .";
@@ -137,6 +139,8 @@
 "querylog_status_retried" = "Wiederholt";
 "querylog_status_retried_dnssec" = "Wiederholt (DNSSEC)";
 "querylog_status_already_forwarded" = "Bereits weitergeleitet";
+"querylog_status_blocked_database_busy" = "Blocked (Database Busy)";
+"querylog_status_blocked_special_domain" = "Blocked (Special Domain)";
 "querylog_min" = "Min:";
 "querylog_max" = "Max:";
 "querylog_avg" = "Durschnitt:";

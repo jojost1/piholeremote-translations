@@ -102,6 +102,8 @@
 "statistics_dns_cache_inserted" = "Cache invoegingen:";
 "statistics_database" = "Database";
 "statistics_database_filesize" = "Bestandsgrootte:";
+"statistics_maxlogage" = "Maximale Bewaarperiode Log";
+"statistics_maxlogage_hours_%lld" = "%lld dagen";
 "statistics_github" = "GitHub";
 "statistics_update_explainer" = "Je kan updaten met de command line interface met het commando 'pihole -up'.";
 "statistics_update_explainer_%@" = "Je kan updaten met de command line interface met het commando %@ .";
@@ -137,6 +139,8 @@
 "querylog_status_retried" = "Opnieuw Geprobeerd";
 "querylog_status_retried_dnssec" = "Opnieuw Geprobeerd (DNSSEC)";
 "querylog_status_already_forwarded" = "Al Doorgestuurd";
+"querylog_status_blocked_database_busy" = "Geblokkeerd (Database Bezig)";
+"querylog_status_blocked_special_domain" = "Geblokkeerd (Speciaal Domein)";
 "querylog_min" = "Min:";
 "querylog_max" = "Max:";
 "querylog_avg" = "Gem:";

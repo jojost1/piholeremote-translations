@@ -102,6 +102,8 @@
 "statistics_dns_cache_inserted" = "Кеш використано:";
 "statistics_database" = "База даних";
 "statistics_database_filesize" = "Розмір файлу:";
+"statistics_maxlogage" = "Maximum Log Age";
+"statistics_maxlogage_hours_%lld" = "%lld days";
 "statistics_github" = "GitHub";
 "statistics_update_explainer" = "Ви можете оновити, використовуючи інтерфейс командного рядка, командою 'pihole -up'.";
 "statistics_update_explainer_%@" = "Ви можете оновити, використовуючи інтерфейс командного рядка, командою %@ .";
@@ -137,6 +139,8 @@
 "querylog_status_retried" = "Повторно";
 "querylog_status_retried_dnssec" = "Повторно (DNSSEC)";
 "querylog_status_already_forwarded" = "Вже переслано";
+"querylog_status_blocked_database_busy" = "Blocked (Database Busy)";
+"querylog_status_blocked_special_domain" = "Blocked (Special Domain)";
 "querylog_min" = "Мін:";
 "querylog_max" = "Макс:";
 "querylog_avg" = "Сер:";

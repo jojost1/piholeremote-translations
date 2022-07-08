@@ -102,6 +102,8 @@
 "statistics_dns_cache_inserted" = "Εισαγωγές στην κρυφή μνήμη:";
 "statistics_database" = "Database";
 "statistics_database_filesize" = "Filesize:";
+"statistics_maxlogage" = "Maximum Log Age";
+"statistics_maxlogage_hours_%lld" = "%lld days";
 "statistics_github" = "GitHub";
 "statistics_update_explainer" = "Μπορείτε να ενημερώσετε μέσω γραμμής εντολών με την εντολή 'pihole -up'.";
 "statistics_update_explainer_%@" = "Μπορείτε να ενημερώσετε μέσω γραμμής εντολών με την εντολή %@ .";
@@ -137,6 +139,8 @@
 "querylog_status_retried" = "Ξαναπροσπάθησε";
 "querylog_status_retried_dnssec" = "Ξαναπροσπάθησε (DNSSEC)";
 "querylog_status_already_forwarded" = "Έχει προωθηθεί ήδη";
+"querylog_status_blocked_database_busy" = "Blocked (Database Busy)";
+"querylog_status_blocked_special_domain" = "Blocked (Special Domain)";
 "querylog_min" = "Ελάχ.:";
 "querylog_max" = "Μέγ.:";
 "querylog_avg" = "Μέσο:";

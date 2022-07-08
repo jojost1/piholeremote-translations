@@ -102,6 +102,8 @@
 "statistics_dns_cache_inserted" = "已插入的快取：";
 "statistics_database" = "Database";
 "statistics_database_filesize" = "Filesize:";
+"statistics_maxlogage" = "Maximum Log Age";
+"statistics_maxlogage_hours_%lld" = "%lld days";
 "statistics_github" = "GitHub";
 "statistics_update_explainer" = "您可用此命令'pihole -up'更新使用命令列介面。";
 "statistics_update_explainer_%@" = "您可用此命令 %@ 更新使用命令列介面。";
@@ -137,6 +139,8 @@
 "querylog_status_retried" = "已重試";
 "querylog_status_retried_dnssec" = "已重試（DNSSEC）";
 "querylog_status_already_forwarded" = "已轉送";
+"querylog_status_blocked_database_busy" = "Blocked (Database Busy)";
+"querylog_status_blocked_special_domain" = "Blocked (Special Domain)";
 "querylog_min" = "最小：";
 "querylog_max" = "最大：";
 "querylog_avg" = "平均：";
