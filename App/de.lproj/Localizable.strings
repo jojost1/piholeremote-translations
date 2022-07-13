@@ -35,7 +35,7 @@
 "home_enable_%@_disabled_until_%@" = "Aktivieren (%@deaktiviert bis %@)";
 "home_data_from_%@" = "Daten von %@";
 "home_update_gravity" = "Gravity aktualisieren";
-"home_update_gravity_explainer" = "Go to /admin/gravity for which instance?";
+"home_update_gravity_explainer" = "Gehe zu /admin/gravity für welche Instanz?";
 "home_update_gravity_alert_body_%@" = "Letztes Gravity-Update am %@";
 "home_update_gravity_alert_button" = "Update Gravity (Web Interface)";
 "home_update_available" = "Update verfügbar!";
@@ -369,7 +369,7 @@
 
 // MARK: Blocked Services
 "blocked_services" = "Geblockter Service";
-"blocked_services_%lld_entry" = "%lld regex Einträge"; // When one entry
+"blocked_services_%lld_entry" = "%lld regex Eintrag"; // When one entry
 "blocked_services_%lld_entries" = "%lld regex Einträge"; // When multiple entries
 "blocked_services_block_service" = "Blockiere Service";
 "blocked_services_entries_overview" = "Einträge in Übersicht";
