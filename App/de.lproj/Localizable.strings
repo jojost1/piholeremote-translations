@@ -449,7 +449,7 @@
 "preferences_other_navbar" = "Sonstiges";
 "preferences_other_language" = "Sprache";
 "preferences_other_language_macos_alert" = "Ändere Sprache";
-"preferences_other_language_macos_alert_body" = "Um die Sprache der App unter macOS zu ändern, öffne die "Systemeinstellungen > Sprache & Region > Apps" und füge die App dort hinzu.";
+"preferences_other_language_macos_alert_body" = "Um die Sprache der App unter macOS zu ändern, öffne die 'Systemeinstellungen > Sprache & Region > Apps' und füge die App dort hinzu.";
 "preferences_other_lock_password" = "Sperre mit Passwort";
 "preferences_other_lock_faceid" = "Sperre mit Face ID";
 "preferences_other_lock_touchid" = "Sperre mit Touch ID";
