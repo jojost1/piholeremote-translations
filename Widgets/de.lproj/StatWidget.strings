@@ -1,543 +1,543 @@
-"0bxmfo-IgP3Na" = "Just to confirm, you wanted ‘1 hour’?";
+"0bxmfo-IgP3Na" = "Nur zur Bestätigung, Du wolltest ‘1 Stunde’?";
 
-"0bxmfo-VLERQ1" = "Just to confirm, you wanted ‘15 minutes’?";
+"0bxmfo-VLERQ1" = "Nur zur Bestätigung, Du wolltest ‘15 Minuten’?";
 
-"0bxmfo-XwHq84" = "Just to confirm, you wanted ‘24 hours’?";
+"0bxmfo-XwHq84" = "Nur zur Bestätigung, Du wolltest ‘24 Stunden’?";
 
-"0bxmfo-YT1Pew" = "Just to confirm, you wanted ‘8 hours’?";
+"0bxmfo-YT1Pew" = "Nur zur Bestätigung, Du wolltest ‘8 Stunden’?";
 
-"0bxmfo-uqnZUq" = "Just to confirm, you wanted ‘30 minutes’?";
+"0bxmfo-uqnZUq" = "Nur zur Bestätigung, Du wolltest ‘30 Minuten’?";
 
-"0bxmfo-xDxdFy" = "Just to confirm, you wanted ‘5 minutes’?";
+"0bxmfo-xDxdFy" = "Nur zur Bestätigung, Du wolltest ‘5 Minuten’?";
 
-"0bxmfo-xLSa62" = "Just to confirm, you wanted ‘1 minute’?";
+"0bxmfo-xLSa62" = "Nur zur Bestätigung, Du wolltest ‘1 Minute’?";
 
-"0bxmfo-zQ6Jw8" = "Just to confirm, you wanted ‘30 seconds’?";
+"0bxmfo-zQ6Jw8" = "Nur zur Bestätigung, Du wolltest ‘30 Sekunden’?";
 
-"0muj7e" = "Appearance";
+"0muj7e" = "Aussehen";
 
-"22mMz8" = "What instance to display?";
+"22mMz8" = "Welche Instanz soll angezeigt werden?";
 
-"2M6piF" = "Instance";
+"2M6piF" = "Instanz";
 
-"3lbWkQ" = "Appearance";
+"3lbWkQ" = "Aussehen";
 
 "42Koi6" = "System (Pure Black)";
 
-"5FTVc8" = "Duration 2";
+"5FTVc8" = "Dauer 2";
 
-"5JYHmU" = "Instance";
+"5JYHmU" = "Instanz";
 
-"5LhKeC-42Koi6" = "There are ${count} options matching ‘System (Pure Black)’.";
+"5LhKeC-42Koi6" = "Es gibt ${count} Optionen für ‘System (Pure Black)’.";
 
-"5LhKeC-Ey6npg" = "There are ${count} options matching ‘Light’.";
+"5LhKeC-Ey6npg" = "Es gibt ${count} Optionen für ‘Light’.";
 
-"5LhKeC-VEO3IS" = "There are ${count} options matching ‘System’.";
+"5LhKeC-VEO3IS" = "Es gibt ${count} Optionen für ‘System’.";
 
-"5LhKeC-YW3QEp" = "There are ${count} options matching ‘Dark (Pure Black)’.";
+"5LhKeC-YW3QEp" = "Es gibt ${count} Optionen für ‘Dark (Pure Black)’.";
 
-"5LhKeC-eHf5lH" = "There are ${count} options matching ‘Dark’.";
+"5LhKeC-eHf5lH" = "Es gibt ${count} Optionen für ‘Dark’.";
 
-"6gOngz" = "What instance to display?";
+"6gOngz" = "Welche Instanz soll angezeigt werden?";
 
-"7HcZp4" = "What instance to display?";
+"7HcZp4" = "Welche Instanz soll angezeigt werden?";
 
-"7MuxdM-IgP3Na" = "Just to confirm, you wanted ‘1 hour’?";
+"7MuxdM-IgP3Na" = "Nur zur Bestätigung, Du wolltest ‘1 Stunde’?";
 
-"7MuxdM-VLERQ1" = "Just to confirm, you wanted ‘15 minutes’?";
+"7MuxdM-VLERQ1" = "Nur zur Bestätigung, Du wolltest ‘15 Minuten’?";
 
-"7MuxdM-XwHq84" = "Just to confirm, you wanted ‘24 hours’?";
+"7MuxdM-XwHq84" = "Nur zur Bestätigung, Du wolltest ‘24 Stunden’?";
 
-"7MuxdM-YT1Pew" = "Just to confirm, you wanted ‘8 hours’?";
+"7MuxdM-YT1Pew" = "Nur zur Bestätigung, Du wolltest ‘8 Stunden’?";
 
-"7MuxdM-uqnZUq" = "Just to confirm, you wanted ‘30 minutes’?";
+"7MuxdM-uqnZUq" = "Nur zur Bestätigung, Du wolltest ‘30 Minuten’?";
 
-"7MuxdM-xDxdFy" = "Just to confirm, you wanted ‘5 minutes’?";
+"7MuxdM-xDxdFy" = "Nur zur Bestätigung, Du wolltest ‘5 Minuten’?";
 
-"7MuxdM-xLSa62" = "Just to confirm, you wanted ‘1 minute’?";
+"7MuxdM-xLSa62" = "Nur zur Bestätigung, Du wolltest ‘1 Minute’?";
 
-"7MuxdM-zQ6Jw8" = "Just to confirm, you wanted ‘30 seconds’?";
+"7MuxdM-zQ6Jw8" = "Nur zur Bestätigung, Du wolltest ‘30 Sekunden’?";
 
-"7fM7XI" = "Duration 4";
+"7fM7XI" = "Dauer 4";
 
-"7gfPrG" = "Instance";
+"7gfPrG" = "Instanz";
 
-"8Udkqh" = "All";
+"8Udkqh" = "Alle";
 
-"8kg56g-Ixk02y" = "There are ${count} options matching ‘Open Statistics’.";
+"8kg56g-Ixk02y" = "Es gibt ${count} Optionen für ‘Statistik öffnen’.";
 
-"8kg56g-ZwOZTZ" = "There are ${count} options matching ‘Open Query Log’.";
+"8kg56g-ZwOZTZ" = "Es gibt ${count} Optionen für ‘Query Log öffnen’.";
 
-"8kg56g-awUBTf" = "There are ${count} options matching ‘Open Home’.";
+"8kg56g-awUBTf" = "Es gibt ${count} Optionen für ‘Home öffnen’.";
 
-"8kg56g-nqHRwh" = "There are ${count} options matching ‘Open Lists’.";
+"8kg56g-nqHRwh" = "Es gibt ${count} Optionen für ‘Listen öffnen’.";
 
-"8kg56g-wMJOmd" = "There are ${count} options matching ‘Disable all for 1 minute’.";
+"8kg56g-wMJOmd" = "Es gibt ${count} Optionen für ‘Alle für 1 Minute deaktivieren’.";
 
-"8w3JVZ" = "Instance";
+"8w3JVZ" = "Instanz";
 
-"9gOTeN" = "Duration 1";
+"9gOTeN" = "Dauer 1";
 
-"9hXLZd" = "Instance";
+"9hXLZd" = "Instanz";
 
-"9rFgTD-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
+"9rFgTD-IgP3Na" = "Es gibt ${count} Optionen für ‘1 Stunde’.";
 
-"9rFgTD-VLERQ1" = "There are ${count} options matching ‘15 minutes’.";
+"9rFgTD-VLERQ1" = "Es gibt ${count} Optionen für ‘15 Minuten’.";
 
-"9rFgTD-XwHq84" = "There are ${count} options matching ‘24 hours’.";
+"9rFgTD-XwHq84" = "Es gibt ${count} Optionen für ‘24 Stunden’.";
 
-"9rFgTD-YT1Pew" = "There are ${count} options matching ‘8 hours’.";
+"9rFgTD-YT1Pew" = "Es gibt ${count} Optionen für ‘8 Stunden’.";
 
-"9rFgTD-uqnZUq" = "There are ${count} options matching ‘30 minutes’.";
+"9rFgTD-uqnZUq" = "Es gibt ${count} Optionen für ‘30 Minuten’.";
 
-"9rFgTD-xDxdFy" = "There are ${count} options matching ‘5 minutes’.";
+"9rFgTD-xDxdFy" = "Es gibt ${count} Optionen für ‘5 Minuten’.";
 
-"9rFgTD-xLSa62" = "There are ${count} options matching ‘1 minute’.";
+"9rFgTD-xLSa62" = "Es gibt ${count} Optionen für ‘1 Minute’.";
 
-"9rFgTD-zQ6Jw8" = "There are ${count} options matching ‘30 seconds’.";
+"9rFgTD-zQ6Jw8" = "Es gibt ${count} Optionen für ‘30 Sekunden’.";
 
-"AJ9lZE-42Koi6" = "Just to confirm, you wanted ‘System (Pure Black)’?";
+"AJ9lZE-42Koi6" = "Nur zur Bestätigung, Du wolltest ‘System (Pure Black)’?";
 
-"AJ9lZE-Ey6npg" = "Just to confirm, you wanted ‘Light’?";
+"AJ9lZE-Ey6npg" = "Nur zur Bestätigung, Du wolltest ‘Light’?";
 
-"AJ9lZE-VEO3IS" = "Just to confirm, you wanted ‘System’?";
+"AJ9lZE-VEO3IS" = "Nur zur Bestätigung, Du wolltest ‘System’?";
 
-"AJ9lZE-YW3QEp" = "Just to confirm, you wanted ‘Dark (Pure Black)’?";
+"AJ9lZE-YW3QEp" = "Nur zur Bestätigung, Du wolltest ‘Dark (Pure Black)’?";
 
-"AJ9lZE-eHf5lH" = "Just to confirm, you wanted ‘Dark’?";
+"AJ9lZE-eHf5lH" = "Nur zur Bestätigung, Du wolltest ‘Dark’?";
 
-"AKytWQ" = "Appearance";
+"AKytWQ" = "Aussehen";
 
 "AlpZki" = "Queries";
 
-"BAafIW" = "Appearance";
+"BAafIW" = "Aussehen";
 
-"BILqn3" = "Percent Blocked";
+"BILqn3" = "Prozent geblockt";
 
-"CVEdAO" = "Appearance";
+"CVEdAO" = "Aussehen";
 
-"Ck4LzC-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
+"Ck4LzC-IgP3Na" = "Es gibt ${count} Optionen für ‘1 Stunde’.";
 
-"Ck4LzC-VLERQ1" = "There are ${count} options matching ‘15 minutes’.";
+"Ck4LzC-VLERQ1" = "Es gibt ${count} Optionen für ‘15 Minuten’.";
 
-"Ck4LzC-XwHq84" = "There are ${count} options matching ‘24 hours’.";
+"Ck4LzC-XwHq84" = "Es gibt ${count} Optionen für ‘24 Stunden’.";
 
-"Ck4LzC-YT1Pew" = "There are ${count} options matching ‘8 hours’.";
+"Ck4LzC-YT1Pew" = "Es gibt${count} Optionen für ‘8 Stunden’.";
 
-"Ck4LzC-uqnZUq" = "There are ${count} options matching ‘30 minutes’.";
+"Ck4LzC-uqnZUq" = "Es gibt ${count} Optionen für ‘30 Minuten’.";
 
-"Ck4LzC-xDxdFy" = "There are ${count} options matching ‘5 minutes’.";
+"Ck4LzC-xDxdFy" = "Es gibt ${count} Optionen für ‘5 Minuten’.";
 
-"Ck4LzC-xLSa62" = "There are ${count} options matching ‘1 minute’.";
+"Ck4LzC-xLSa62" = "Es gibt ${count} Optionen für ‘1 Minute’.";
 
-"Ck4LzC-zQ6Jw8" = "There are ${count} options matching ‘30 seconds’.";
+"Ck4LzC-zQ6Jw8" = "Es gibt ${count} Optionen für ‘30 Sekunden.";
 
-"CkCBJU" = "Color";
+"CkCBJU" = "Farbe";
 
-"CrtSD6-IgP3Na" = "Just to confirm, you wanted ‘1 hour’?";
+"CrtSD6-IgP3Na" = "Nur zur Bestätigung, Du wolltest ‘1 Stunde’?";
 
-"CrtSD6-VLERQ1" = "Just to confirm, you wanted ‘15 minutes’?";
+"CrtSD6-VLERQ1" = "Nur zur Bestätigung, Du wolltest ‘15 Minuten’?";
 
-"CrtSD6-XwHq84" = "Just to confirm, you wanted ‘24 hours’?";
+"CrtSD6-XwHq84" = "Nur zur Bestätigung, Du wolltest ‘24 Stunden’?";
 
-"CrtSD6-YT1Pew" = "Just to confirm, you wanted ‘8 hours’?";
+"CrtSD6-YT1Pew" = "Nur zur Bestätigung, Du wolltest ‘8 Stunden’?";
 
-"CrtSD6-uqnZUq" = "Just to confirm, you wanted ‘30 minutes’?";
+"CrtSD6-uqnZUq" = "Nur zur Bestätigung, Du wolltest ‘30 Minuten’?";
 
-"CrtSD6-xDxdFy" = "Just to confirm, you wanted ‘5 minutes’?";
+"CrtSD6-xDxdFy" = "Nur zur Bestätigung, Du wolltest ‘5 Minuten’?";
 
-"CrtSD6-xLSa62" = "Just to confirm, you wanted ‘1 minute’?";
+"CrtSD6-xLSa62" = "Nur zur Bestätigung, Du wolltest ‘1 Minute’?";
 
-"CrtSD6-zQ6Jw8" = "Just to confirm, you wanted ‘30 seconds’?";
+"CrtSD6-zQ6Jw8" = "Nur zur Bestätigung, Du wolltest ‘30 Sekunden’?";
 
-"CzBWV3" = "Duration 1";
+"CzBWV3" = "Dauer 1";
 
-"DIItEm" = "Allowed";
+"DIItEm" = "Erlaubt";
 
-"DJJsur" = "Widget Disable Duration";
+"DJJsur" = "Widget Dauer deaktivieren";
 
-"DvY8Eg" = "Green";
+"DvY8Eg" = "Grün";
 
-"EUst6o" = "Status Indicator";
+"EUst6o" = "Statusanzeige";
 
-"Ey6npg" = "Light";
+"Ey6npg" = "Hell";
 
 "G5RUst" = "Tap Action";
 
-"G9xiY4-Ixk02y" = "Just to confirm, you wanted ‘Open Statistics’?";
+"G9xiY4-Ixk02y" = "Nur zur Bestätigung, Du wolltest ‘Statistik öffnen’?";
 
-"G9xiY4-ZwOZTZ" = "Just to confirm, you wanted ‘Open Query Log’?";
+"G9xiY4-ZwOZTZ" = "Nur zur Bestätigung, Du wolltest ‘Query Log öffnen’?";
 
-"G9xiY4-awUBTf" = "Just to confirm, you wanted ‘Open Home’?";
+"G9xiY4-awUBTf" = "Nur zur Bestätigung, Du wolltest ‘Home öffnen’?";
 
-"G9xiY4-nqHRwh" = "Just to confirm, you wanted ‘Open Lists’?";
+"G9xiY4-nqHRwh" = "Nur zur Bestätigung, Du wolltest ‘Listen öffnen’?";
 
-"G9xiY4-wMJOmd" = "Just to confirm, you wanted ‘Disable all for 1 minute’?";
+"G9xiY4-wMJOmd" = "Nur zur Bestätigung, Du wolltest ‘Alle für 1 Minute deaktivieren’?";
 
 "Hb868n" = "Orange";
 
-"IbhH23" = "Hide";
+"IbhH23" = "Verstecken";
 
-"IgP3Na" = "1 hour";
+"IgP3Na" = "1 Stunde";
 
-"Ixk02y" = "Open Statistics";
+"Ixk02y" = "Statistik öffnen";
 
-"J9L8YR-42Koi6" = "There are ${count} options matching ‘System (Pure Black)’.";
+"J9L8YR-42Koi6" = "Es gibt ${count} Optionen für ‘System (Pure Black)’.";
 
-"J9L8YR-Ey6npg" = "There are ${count} options matching ‘Light’.";
+"J9L8YR-Ey6npg" = "Es gibt ${count} Optionen für ‘Light’.";
 
-"J9L8YR-VEO3IS" = "There are ${count} options matching ‘System’.";
+"J9L8YR-VEO3IS" = "Es gibt ${count} Optionen für ‘System’.";
 
-"J9L8YR-YW3QEp" = "There are ${count} options matching ‘Dark (Pure Black)’.";
+"J9L8YR-YW3QEp" = "Es gibt ${count} Optionen für ‘Dark (Pure Black)’.";
 
-"J9L8YR-eHf5lH" = "There are ${count} options matching ‘Dark’.";
+"J9L8YR-eHf5lH" = "Es gibt ${count} Optionen für ‘Dark’.";
 
-"JTTM7K" = "Status Indicator";
+"JTTM7K" = "Statusanzeige";
 
-"Jmbf6v" = "Color";
+"Jmbf6v" = "Farbe";
 
-"KL0j9K" = "Show";
+"KL0j9K" = "Zeige";
 
-"KWaHmV-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
+"KWaHmV-IgP3Na" = "Es gibt ${count} Optionen für ‘1 Stunde’.";
 
-"KWaHmV-VLERQ1" = "There are ${count} options matching ‘15 minutes’.";
+"KWaHmV-VLERQ1" = "Es gibt ${count} Optionen für ‘15 Minuten’.";
 
-"KWaHmV-XwHq84" = "There are ${count} options matching ‘24 hours’.";
+"KWaHmV-XwHq84" = "Es gibt ${count} Optionen für ‘24 Stunden’.";
 
-"KWaHmV-YT1Pew" = "There are ${count} options matching ‘8 hours’.";
+"KWaHmV-YT1Pew" = "Es gibt ${count} Optionen für ‘8 Stunden’.";
 
-"KWaHmV-uqnZUq" = "There are ${count} options matching ‘30 minutes’.";
+"KWaHmV-uqnZUq" = "Es gibt ${count} Optionen für ‘30 Minuten’.";
 
-"KWaHmV-xDxdFy" = "There are ${count} options matching ‘5 minutes’.";
+"KWaHmV-xDxdFy" = "Es gibt ${count} Optionen für ‘5 Minuten’.";
 
-"KWaHmV-xLSa62" = "There are ${count} options matching ‘1 minute’.";
+"KWaHmV-xLSa62" = "Es gibt ${count} Optionen für ‘1 Minute’.";
 
-"KWaHmV-zQ6Jw8" = "There are ${count} options matching ‘30 seconds’.";
+"KWaHmV-zQ6Jw8" = "Es gibt ${count} Optionen für ‘30 Sekunden’.";
 
-"LeRij8" = "What instance to display?";
+"LeRij8" = "Welche Instanz soll angezeigt werden?";
 
-"LfwXuE-8Udkqh" = "There are ${count} options matching ‘All’.";
+"LfwXuE-8Udkqh" = "Es gibt ${count} Optionen für ‘All’.";
 
-"LfwXuE-DIItEm" = "There are ${count} options matching ‘Allowed’.";
+"LfwXuE-DIItEm" = "Es gibt ${count} Optionen für ‘Allowed’.";
 
-"LfwXuE-j5tl6I" = "There are ${count} options matching ‘Blocked’.";
+"LfwXuE-j5tl6I" = "Es gibt ${count} Optionen für ‘Blocked’.";
 
 "LldBql" = "WidgetQueries";
 
-"MNziAp" = "Duration 2";
+"MNziAp" = "Dauer 2";
 
-"NYeFKn" = "Blocklist";
+"NYeFKn" = "Blockliste";
 
-"NznF5w" = "Duration 3";
+"NznF5w" = "Dauer 3";
 
 "OYA8gF" = "Widget Tap Action";
 
-"OsIXJN" = "Blue";
+"OsIXJN" = "Blau";
 
-"QfsqZh" = "Stats Text Widget";
+"QfsqZh" = "Statistik Text Widget";
 
-"RCLzIe-42Koi6" = "Just to confirm, you wanted ‘System (Pure Black)’?";
+"RCLzIe-42Koi6" = "Nur zur Bestätigung, Du wolltest ‘System (Pure Black)’?";
 
-"RCLzIe-Ey6npg" = "Just to confirm, you wanted ‘Light’?";
+"RCLzIe-Ey6npg" = "Nur zur Bestätigung, Du wolltest ‘Light’?";
 
-"RCLzIe-VEO3IS" = "Just to confirm, you wanted ‘System’?";
+"RCLzIe-VEO3IS" = "Nur zur Bestätigung, Du wolltest ‘System’?";
 
-"RCLzIe-YW3QEp" = "Just to confirm, you wanted ‘Dark (Pure Black)’?";
+"RCLzIe-YW3QEp" = "Nur zur Bestätigung, Du wolltest ‘Dark (Pure Black)’?";
 
-"RCLzIe-eHf5lH" = "Just to confirm, you wanted ‘Dark’?";
+"RCLzIe-eHf5lH" = "Nur zur Bestätigung, Du wolltest ‘Dark’?";
 
-"RLFPVX" = "Disable Widget";
+"RLFPVX" = "Widget deaktivieren";
 
-"SIOS6E" = "Unknown";
+"SIOS6E" = "Unbekannt";
 
-"T9gWpc-BILqn3" = "There are ${count} options matching ‘Percent Blocked’.";
+"T9gWpc-BILqn3" = "Es gibt ${count} Optionen für ‘Percent Blocked’.";
 
-"T9gWpc-NYeFKn" = "There are ${count} options matching ‘Blocklist’.";
+"T9gWpc-NYeFKn" = "Es gibt ${count} Optionen für ‘Blockliste’.";
 
-"T9gWpc-XmVw2S" = "There are ${count} options matching ‘Total Queries’.";
+"T9gWpc-XmVw2S" = "Es gibt ${count} Optionen für ‘Total Queries’.";
 
-"T9gWpc-YFrrAR" = "There are ${count} options matching ‘Queries Blocked’.";
+"T9gWpc-YFrrAR" = "Es gibt ${count} Optionen für ‘Queries Blocked’.";
 
-"T9gWpc-nIDolD" = "There are ${count} options matching ‘Unknown’.";
+"T9gWpc-nIDolD" = "Es gibt ${count} Optionen für ‘Unbekannt’.";
 
-"UVDY6A-Ixk02y" = "There are ${count} options matching ‘Open Statistics’.";
+"UVDY6A-Ixk02y" = "Es gibt ${count} Optionen für ‘Open Statistics’.";
 
-"UVDY6A-ZwOZTZ" = "There are ${count} options matching ‘Open Query Log’.";
+"UVDY6A-ZwOZTZ" = "Es gibt ${count} Optionen für ‘Open Query Log’.";
 
-"UVDY6A-awUBTf" = "There are ${count} options matching ‘Open Home’.";
+"UVDY6A-awUBTf" = "Es gibt ${count} Optionen für ‘Open Home’.";
 
-"UVDY6A-nqHRwh" = "There are ${count} options matching ‘Open Lists’.";
+"UVDY6A-nqHRwh" = "Es gibt ${count} Optionen für ‘Open Lists’.";
 
-"UVDY6A-wMJOmd" = "There are ${count} options matching ‘Disable all for 1 minute’.";
+"UVDY6A-wMJOmd" = "Es gibt ${count} Optionen für ‘Disable all for 1 Minute’.";
 
-"UkA3eM-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
+"UkA3eM-IgP3Na" = "Es gibt ${count} Optionen für ‘1 Stunde’.";
 
-"UkA3eM-VLERQ1" = "There are ${count} options matching ‘15 minutes’.";
+"UkA3eM-VLERQ1" = "Es gibt ${count} Optionen für ‘15 Minuten’.";
 
-"UkA3eM-XwHq84" = "There are ${count} options matching ‘24 hours’.";
+"UkA3eM-XwHq84" = "Es gibt ${count} Optionen für ‘24 Stunden’.";
 
-"UkA3eM-YT1Pew" = "There are ${count} options matching ‘8 hours’.";
+"UkA3eM-YT1Pew" = "Es gibt ${count} Optionen für ‘8 Stunden’.";
 
-"UkA3eM-uqnZUq" = "There are ${count} options matching ‘30 minutes’.";
+"UkA3eM-uqnZUq" = "Es gibt ${count} Optionen für ‘30 Minuten’.";
 
-"UkA3eM-xDxdFy" = "There are ${count} options matching ‘5 minutes’.";
+"UkA3eM-xDxdFy" = "Es gibt ${count} Optionen für ‘5 Minuten’.";
 
-"UkA3eM-xLSa62" = "There are ${count} options matching ‘1 minute’.";
+"UkA3eM-xLSa62" = "Es gibt ${count} Optionen für ‘1 Minute’.";
 
-"UkA3eM-zQ6Jw8" = "There are ${count} options matching ‘30 seconds’.";
+"UkA3eM-zQ6Jw8" = "Es gibt ${count} Optionen für ‘30 Sekunden’.";
 
 "VEO3IS" = "System";
 
-"VLERQ1" = "15 minutes";
+"VLERQ1" = "15 Minuten";
 
-"W4Ek1o-42Koi6" = "Just to confirm, you wanted ‘System (Pure Black)’?";
+"W4Ek1o-42Koi6" = "Nur zur Bestätigung, Du wolltest ‘System (Pure Black)’?";
 
-"W4Ek1o-Ey6npg" = "Just to confirm, you wanted ‘Light’?";
+"W4Ek1o-Ey6npg" = "Nur zur Bestätigung, Du wolltest ‘Light’?";
 
-"W4Ek1o-VEO3IS" = "Just to confirm, you wanted ‘System’?";
+"W4Ek1o-VEO3IS" = "Nur zur Bestätigung, Du wolltest ‘System’?";
 
-"W4Ek1o-YW3QEp" = "Just to confirm, you wanted ‘Dark (Pure Black)’?";
+"W4Ek1o-YW3QEp" = "Nur zur Bestätigung, Du wolltest ‘Dark (Pure Black)’?";
 
-"W4Ek1o-eHf5lH" = "Just to confirm, you wanted ‘Dark’?";
+"W4Ek1o-eHf5lH" = "Nur zur Bestätigung, Du wolltest ‘Dark’?";
 
-"WMGmup" = "Status Indicator";
+"WMGmup" = "Statusanzeige";
 
-"XmVw2S" = "Total Queries";
+"XmVw2S" = "Insgesamte Queries";
 
-"XwHq84" = "24 hours";
+"XwHq84" = "24 Stunden";
 
-"YFrrAR" = "Queries Blocked";
+"YFrrAR" = "Queries blockiert";
 
-"YT1Pew" = "8 hours";
+"YT1Pew" = "8 Stunden";
 
 "YW3QEp" = "Dark (Pure Black)";
 
-"Yx18vE" = "Statistic";
+"Yx18vE" = "Statistik";
 
 "ZvdWTD" = "Tap Action";
 
-"ZwOZTZ" = "Open Query Log";
+"ZwOZTZ" = "Query Log öffnen";
 
-"a81Lx9" = "Statistics Disable Widget";
+"a81Lx9" = "Statistik Widget deaktivieren";
 
-"alorX8-42Koi6" = "Just to confirm, you wanted ‘System (Pure Black)’?";
+"alorX8-42Koi6" = "Nur zur Bestätigung, Du wolltest ‘System (Pure Black)’?";
 
-"alorX8-Ey6npg" = "Just to confirm, you wanted ‘Light’?";
+"alorX8-Ey6npg" = "Nur zur Bestätigung, Du wolltest ‘Light’?";
 
-"alorX8-VEO3IS" = "Just to confirm, you wanted ‘System’?";
+"alorX8-VEO3IS" = "Nur zur Bestätigung, Du wolltest ‘System’?";
 
-"alorX8-YW3QEp" = "Just to confirm, you wanted ‘Dark (Pure Black)’?";
+"alorX8-YW3QEp" = "Nur zur Bestätigung, Du wolltest ‘Dark (Pure Black)’?";
 
-"alorX8-eHf5lH" = "Just to confirm, you wanted ‘Dark’?";
+"alorX8-eHf5lH" = "Nur zur Bestätigung, Du wolltest ‘Dark’?";
 
-"awUBTf" = "Open Home";
+"awUBTf" = "Home öffnen";
 
-"cDT0lC-IgP3Na" = "Just to confirm, you wanted ‘1 hour’?";
+"cDT0lC-IgP3Na" = "Nur zur Bestätigung, Du wolltest ‘1 Stunde’?";
 
-"cDT0lC-VLERQ1" = "Just to confirm, you wanted ‘15 minutes’?";
+"cDT0lC-VLERQ1" = "Nur zur Bestätigung, Du wolltest ‘15 Minuten’?";
 
-"cDT0lC-XwHq84" = "Just to confirm, you wanted ‘24 hours’?";
+"cDT0lC-XwHq84" = "Nur zur Bestätigung, Du wolltest ‘24 Stunden’?";
 
-"cDT0lC-YT1Pew" = "Just to confirm, you wanted ‘8 hours’?";
+"cDT0lC-YT1Pew" = "Nur zur Bestätigung, Du wolltest ‘8 Stunden’?";
 
-"cDT0lC-uqnZUq" = "Just to confirm, you wanted ‘30 minutes’?";
+"cDT0lC-uqnZUq" = "Nur zur Bestätigung, Du wolltest ‘30 Minuten’?";
 
-"cDT0lC-xDxdFy" = "Just to confirm, you wanted ‘5 minutes’?";
+"cDT0lC-xDxdFy" = "Nur zur Bestätigung, Du wolltest ‘5 Minuten’?";
 
-"cDT0lC-xLSa62" = "Just to confirm, you wanted ‘1 minute’?";
+"cDT0lC-xLSa62" = "Nur zur Bestätigung, Du wolltest ‘1 Minute’?";
 
-"cDT0lC-zQ6Jw8" = "Just to confirm, you wanted ‘30 seconds’?";
+"cDT0lC-zQ6Jw8" = "Nur zur Bestätigung, Du wolltest ‘30 Sekunden’?";
 
-"ceTqFH-Ixk02y" = "Just to confirm, you wanted ‘Open Statistics’?";
+"ceTqFH-Ixk02y" = "Nur zur Bestätigung, Du wolltest ‘Open Statistics’?";
 
-"ceTqFH-ZwOZTZ" = "Just to confirm, you wanted ‘Open Query Log’?";
+"ceTqFH-ZwOZTZ" = "Nur zur Bestätigung, Du wolltest ‘Open Query Log’?";
 
-"ceTqFH-awUBTf" = "Just to confirm, you wanted ‘Open Home’?";
+"ceTqFH-awUBTf" = "Nur zur Bestätigung, Du wolltest ‘Open Home’?";
 
-"ceTqFH-nqHRwh" = "Just to confirm, you wanted ‘Open Lists’?";
+"ceTqFH-nqHRwh" = "Nur zur Bestätigung, Du wolltest ‘Open Lists’?";
 
-"ceTqFH-wMJOmd" = "Just to confirm, you wanted ‘Disable all for 1 minute’?";
+"ceTqFH-wMJOmd" = "Nur zur Bestätigung, Du wolltest ‘Disable all for 1 Minute’?";
 
 "eHf5lH" = "Dark";
 
-"fcvHtM-Ixk02y" = "There are ${count} options matching ‘Open Statistics’.";
+"fcvHtM-Ixk02y" = "Es gibt ${count} Optionen für ‘Open Statistics’.";
 
-"fcvHtM-ZwOZTZ" = "There are ${count} options matching ‘Open Query Log’.";
+"fcvHtM-ZwOZTZ" = "Es gibt ${count} Optionen für ‘Open Query Log’.";
 
-"fcvHtM-awUBTf" = "There are ${count} options matching ‘Open Home’.";
+"fcvHtM-awUBTf" = "Es gibt ${count} Optionen für ‘Open Home’.";
 
-"fcvHtM-nqHRwh" = "There are ${count} options matching ‘Open Lists’.";
+"fcvHtM-nqHRwh" = "Es gibt ${count} Optionen für ‘Open Lists’.";
 
-"fcvHtM-wMJOmd" = "There are ${count} options matching ‘Disable all for 1 minute’.";
+"fcvHtM-wMJOmd" = "Es gibt ${count} Optionen für ‘Disable all for 1 Minute’.";
 
 "fjMa4e" = "Query Graph Widget";
 
-"fmQi7V" = "Disable Widget";
+"fmQi7V" = "Deaktiviere Widget";
 
-"fohyUc" = "Statistics Disable Widget";
+"fohyUc" = "Statistik Widget deaktivieren";
 
-"gf75h8" = "Status Indicator";
+"gf75h8" = "Status Anzeige";
 
-"gpCwrM" = "Stat Widget";
+"gpCwrM" = "Statistik Widget";
 
-"hY8wJZ-Ixk02y" = "Just to confirm, you wanted ‘Open Statistics’?";
+"hY8wJZ-Ixk02y" = "Nur zur Bestätigung, Du wolltest ‘Open Statistics’?";
 
-"hY8wJZ-ZwOZTZ" = "Just to confirm, you wanted ‘Open Query Log’?";
+"hY8wJZ-ZwOZTZ" = "Nur zur Bestätigung, Du wolltest ‘Open Query Log’?";
 
-"hY8wJZ-awUBTf" = "Just to confirm, you wanted ‘Open Home’?";
+"hY8wJZ-awUBTf" = "Nur zur Bestätigung, Du wolltest ‘Open Home’?";
 
-"hY8wJZ-nqHRwh" = "Just to confirm, you wanted ‘Open Lists’?";
+"hY8wJZ-nqHRwh" = "Nur zur Bestätigung, Du wolltest ‘Open Lists’?";
 
-"hY8wJZ-wMJOmd" = "Just to confirm, you wanted ‘Disable all for 1 minute’?";
+"hY8wJZ-wMJOmd" = "Nur zur Bestätigung, Du wolltest ‘Disable all for 1 Minute’?";
 
-"j5tl6I" = "Blocked";
+"j5tl6I" = "Blockiert";
 
-"jiDiIB" = "What instance to display?";
+"jiDiIB" = "Welche Instanz soll angezeigt werden?";
 
 "jwB6hP" = "Overtime Widget";
 
-"kH9rkk-DvY8Eg" = "Just to confirm, you wanted ‘Green’?";
+"kH9rkk-DvY8Eg" = "Nur zur Bestätigung, Du wolltest ‘Green’?";
 
-"kH9rkk-Hb868n" = "Just to confirm, you wanted ‘Orange’?";
+"kH9rkk-Hb868n" = "Nur zur Bestätigung, Du wolltest ‘Orange’?";
 
-"kH9rkk-OsIXJN" = "Just to confirm, you wanted ‘Blue’?";
+"kH9rkk-OsIXJN" = "Nur zur Bestätigung, Du wolltest ‘Blau’?";
 
-"kH9rkk-SIOS6E" = "Just to confirm, you wanted ‘Unknown’?";
+"kH9rkk-SIOS6E" = "Nur zur Bestätigung, Du wolltest ‘Unbekannt’?";
 
-"kH9rkk-m60OS4" = "Just to confirm, you wanted ‘Red’?";
+"kH9rkk-m60OS4" = "Nur zur Bestätigung, Du wolltest ‘Red’?";
 
-"kgyNHm-8Udkqh" = "Just to confirm, you wanted ‘All’?";
+"kgyNHm-8Udkqh" = "Nur zur Bestätigung, Du wolltest ‘All’?";
 
-"kgyNHm-DIItEm" = "Just to confirm, you wanted ‘Allowed’?";
+"kgyNHm-DIItEm" = "Nur zur Bestätigung, Du wolltest ‘Allowed’?";
 
-"kgyNHm-j5tl6I" = "Just to confirm, you wanted ‘Blocked’?";
+"kgyNHm-j5tl6I" = "Nur zur Bestätigung, Du wolltest ‘Blocked’?";
 
-"lug6ns" = "Statistics Widget";
+"lug6ns" = "Statistik Widget";
 
-"m60OS4" = "Red";
+"m60OS4" = "Rot";
 
-"mP5CWX-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
+"mP5CWX-IgP3Na" = "Es gibt ${count} Optionen für ‘1 Stunde’.";
 
-"mP5CWX-VLERQ1" = "There are ${count} options matching ‘15 minutes’.";
+"mP5CWX-VLERQ1" = "Es gibt ${count} Optionen für ‘15 Minuten’.";
 
-"mP5CWX-XwHq84" = "There are ${count} options matching ‘24 hours’.";
+"mP5CWX-XwHq84" = "Es gibt ${count} Optionen für ‘24 Stunden’.";
 
-"mP5CWX-YT1Pew" = "There are ${count} options matching ‘8 hours’.";
+"mP5CWX-YT1Pew" = "Es gibt ${count} Optionen für ‘8 Stunden’.";
 
-"mP5CWX-uqnZUq" = "There are ${count} options matching ‘30 minutes’.";
+"mP5CWX-uqnZUq" = "Es gibt ${count} Optionen für ‘30 Minuten’.";
 
-"mP5CWX-xDxdFy" = "There are ${count} options matching ‘5 minutes’.";
+"mP5CWX-xDxdFy" = "Es gibt ${count} Optionen für ‘5 Minuten’.";
 
-"mP5CWX-xLSa62" = "There are ${count} options matching ‘1 minute’.";
+"mP5CWX-xLSa62" = "Es gibt ${count} Optionen für ‘1 Minute’.";
 
-"mP5CWX-zQ6Jw8" = "There are ${count} options matching ‘30 seconds’.";
+"mP5CWX-zQ6Jw8" = "Es gibt ${count} Optionen für ‘30 Sekunden’.";
 
-"nBNqPC" = "Statistic";
+"nBNqPC" = "Statistik";
 
-"nIDolD" = "Unknown";
+"nIDolD" = "Unbekannt";
 
-"nqHRwh" = "Open Lists";
+"nqHRwh" = "Listen öffnen";
 
-"oYBSfl-IgP3Na" = "There are ${count} options matching ‘1 hour’.";
+"oYBSfl-IgP3Na" = "Es gibt ${count} Optionen für ‘1 Stunde’.";
 
-"oYBSfl-VLERQ1" = "There are ${count} options matching ‘15 minutes’.";
+"oYBSfl-VLERQ1" = "Es gibt ${count} Optionen für ‘15 Minuten’.";
 
-"oYBSfl-XwHq84" = "There are ${count} options matching ‘24 hours’.";
+"oYBSfl-XwHq84" = "Es gibt ${count} Optionen für ‘24 Stunden’.";
 
-"oYBSfl-YT1Pew" = "There are ${count} options matching ‘8 hours’.";
+"oYBSfl-YT1Pew" = "Es gibt ${count} Optionen für ‘8 Stunden’.";
 
-"oYBSfl-uqnZUq" = "There are ${count} options matching ‘30 minutes’.";
+"oYBSfl-uqnZUq" = "Es gibt ${count} Optionen für ‘30 Minuten’.";
 
-"oYBSfl-xDxdFy" = "There are ${count} options matching ‘5 minutes’.";
+"oYBSfl-xDxdFy" = "Es gibt ${count} Optionen für ‘5 Minuten’.";
 
-"oYBSfl-xLSa62" = "There are ${count} options matching ‘1 minute’.";
+"oYBSfl-xLSa62" = "Es gibt ${count} Optionen für ‘1 Minute’.";
 
-"oYBSfl-zQ6Jw8" = "There are ${count} options matching ‘30 seconds’.";
+"oYBSfl-zQ6Jw8" = "Es gibt ${count} Optionen für ‘30 Sekunden’.";
 
-"s0H1c8-IgP3Na" = "Just to confirm, you wanted ‘1 hour’?";
+"s0H1c8-IgP3Na" = "Nur zur Bestätigung, Du wolltest ‘1 Stunde’?";
 
-"s0H1c8-VLERQ1" = "Just to confirm, you wanted ‘15 minutes’?";
+"s0H1c8-VLERQ1" = "Nur zur Bestätigung, Du wolltest ‘15 Minuten’?";
 
-"s0H1c8-XwHq84" = "Just to confirm, you wanted ‘24 hours’?";
+"s0H1c8-XwHq84" = "Nur zur Bestätigung, Du wolltest ‘24 Stunden’?";
 
-"s0H1c8-YT1Pew" = "Just to confirm, you wanted ‘8 hours’?";
+"s0H1c8-YT1Pew" = "Nur zur Bestätigung, Du wolltest ‘8 Stunden’?";
 
-"s0H1c8-uqnZUq" = "Just to confirm, you wanted ‘30 minutes’?";
+"s0H1c8-uqnZUq" = "Nur zur Bestätigung, Du wolltest ‘30 Minuten’?";
 
-"s0H1c8-xDxdFy" = "Just to confirm, you wanted ‘5 minutes’?";
+"s0H1c8-xDxdFy" = "Nur zur Bestätigung, Du wolltest ‘5 Minuten’?";
 
-"s0H1c8-xLSa62" = "Just to confirm, you wanted ‘1 minute’?";
+"s0H1c8-xLSa62" = "Nur zur Bestätigung, Du wolltest ‘1 Minute’?";
 
-"s0H1c8-zQ6Jw8" = "Just to confirm, you wanted ‘30 seconds’?";
+"s0H1c8-zQ6Jw8" = "Nur zur Bestätigung, Du wolltest ‘30 Sekunden’?";
 
 "sRVlCC" = "Tap Action";
 
-"tVvJ9c" = "Single Statistic Widget";
+"tVvJ9c" = "Einzelnes Statistik Widget";
 
-"uqnZUq" = "30 minutes";
+"uqnZUq" = "30 Minuten";
 
-"vTQMcK-DvY8Eg" = "There are ${count} options matching ‘Green’.";
+"vTQMcK-DvY8Eg" = "Es gibt ${count} Optionen für ‘Green’.";
 
-"vTQMcK-Hb868n" = "There are ${count} options matching ‘Orange’.";
+"vTQMcK-Hb868n" = "Es gibt ${count} Optionen für ‘Orange’.";
 
-"vTQMcK-OsIXJN" = "There are ${count} options matching ‘Blue’.";
+"vTQMcK-OsIXJN" = "Es gibt ${count} Optionen für ‘Blau’.";
 
-"vTQMcK-SIOS6E" = "There are ${count} options matching ‘Unknown’.";
+"vTQMcK-SIOS6E" = "Es gibt ${count} Optionen für ‘Unbekannt’.";
 
-"vTQMcK-m60OS4" = "There are ${count} options matching ‘Red’.";
+"vTQMcK-m60OS4" = "Es gibt ${count} Optionen für ‘Red’.";
 
-"vfUdD2-42Koi6" = "There are ${count} options matching ‘System (Pure Black)’.";
+"vfUdD2-42Koi6" = "Es gibt ${count} Optionen für ‘System (Pure Black)’.";
 
-"vfUdD2-Ey6npg" = "There are ${count} options matching ‘Light’.";
+"vfUdD2-Ey6npg" = "Es gibt ${count} Optionen für ‘Light’.";
 
-"vfUdD2-VEO3IS" = "There are ${count} options matching ‘System’.";
+"vfUdD2-VEO3IS" = "Es gibt ${count} Optionen für ‘System’.";
 
-"vfUdD2-YW3QEp" = "There are ${count} options matching ‘Dark (Pure Black)’.";
+"vfUdD2-YW3QEp" = "Es gibt ${count} Optionen für ‘Dark (Pure Black)’.";
 
-"vfUdD2-eHf5lH" = "There are ${count} options matching ‘Dark’.";
+"vfUdD2-eHf5lH" = "Es gibt ${count} Optionen für ‘Dark’.";
 
-"vnH3Ih-IgP3Na" = "Just to confirm, you wanted ‘1 hour’?";
+"vnH3Ih-IgP3Na" = "Nur zur Bestätigung, Du wolltest ‘1 Stunde’?";
 
-"vnH3Ih-VLERQ1" = "Just to confirm, you wanted ‘15 minutes’?";
+"vnH3Ih-VLERQ1" = "Nur zur Bestätigung, Du wolltest ‘15 Minuten’?";
 
-"vnH3Ih-XwHq84" = "Just to confirm, you wanted ‘24 hours’?";
+"vnH3Ih-XwHq84" = "Nur zur Bestätigung, Du wolltest ‘24 Stunden’?";
 
-"vnH3Ih-YT1Pew" = "Just to confirm, you wanted ‘8 hours’?";
+"vnH3Ih-YT1Pew" = "Nur zur Bestätigung, Du wolltest ‘8 Stunden’?";
 
-"vnH3Ih-uqnZUq" = "Just to confirm, you wanted ‘30 minutes’?";
+"vnH3Ih-uqnZUq" = "Nur zur Bestätigung, Du wolltest ‘30 Minuten’?";
 
-"vnH3Ih-xDxdFy" = "Just to confirm, you wanted ‘5 minutes’?";
+"vnH3Ih-xDxdFy" = "Nur zur Bestätigung, Du wolltest ‘5 Minuten’?";
 
-"vnH3Ih-xLSa62" = "Just to confirm, you wanted ‘1 minute’?";
+"vnH3Ih-xLSa62" = "Nur zur Bestätigung, Du wolltest ‘1 Minute’?";
 
-"vnH3Ih-zQ6Jw8" = "Just to confirm, you wanted ‘30 seconds’?";
+"vnH3Ih-zQ6Jw8" = "Nur zur Bestätigung, Du wolltest ‘30 Sekunden’?";
 
-"wMJOmd" = "Disable all for 1 minute";
+"wMJOmd" = "Deaktiviere alle für 1 Minute";
 
-"xDxdFy" = "5 minutes";
+"xDxdFy" = "5 Minuten";
 
-"xKogH3-42Koi6" = "There are ${count} options matching ‘System (Pure Black)’.";
+"xKogH3-42Koi6" = "Es gibt ${count} Optionen für ‘System (Pure Black)’.";
 
-"xKogH3-Ey6npg" = "There are ${count} options matching ‘Light’.";
+"xKogH3-Ey6npg" = "Es gibt ${count} Optionen für ‘Light’.";
 
-"xKogH3-VEO3IS" = "There are ${count} options matching ‘System’.";
+"xKogH3-VEO3IS" = "Es gibt ${count} Optionen für ‘System’.";
 
-"xKogH3-YW3QEp" = "There are ${count} options matching ‘Dark (Pure Black)’.";
+"xKogH3-YW3QEp" = "Es gibt ${count} Optionen für ‘Dark (Pure Black)’.";
 
-"xKogH3-eHf5lH" = "There are ${count} options matching ‘Dark’.";
+"xKogH3-eHf5lH" = "Es gibt ${count} Optionen für ‘Dark’.";
 
-"xLSa62" = "1 minute";
+"xLSa62" = "1 Minute";
 
-"y9py1R-BILqn3" = "Just to confirm, you wanted ‘Percent Blocked’?";
+"y9py1R-BILqn3" = "Nur zur Bestätigung, Du wolltest ‘Percent Blocked’?";
 
-"y9py1R-NYeFKn" = "Just to confirm, you wanted ‘Blocklist’?";
+"y9py1R-NYeFKn" = "Nur zur Bestätigung, Du wolltest ‘Blockliste’?";
 
-"y9py1R-XmVw2S" = "Just to confirm, you wanted ‘Total Queries’?";
+"y9py1R-XmVw2S" = "Nur zur Bestätigung, Du wolltest ‘Total Queries’?";
 
-"y9py1R-YFrrAR" = "Just to confirm, you wanted ‘Queries Blocked’?";
+"y9py1R-YFrrAR" = "Nur zur Bestätigung, Du wolltest ‘Queries Blocked’?";
 
-"y9py1R-nIDolD" = "Just to confirm, you wanted ‘Unknown’?";
+"y9py1R-nIDolD" = "Nur zur Bestätigung, Du wolltest ‘Unbekannt’?";
 
-"zQ6Jw8" = "30 seconds";
+"zQ6Jw8" = "30 Sekunden";
 
-"zeqXsg" = "Instance";
+"zeqXsg" = "Instanz";
