@@ -368,7 +368,7 @@
 "instance_remove_alert_body" = "Bist Du sicher, dass du diese Instanz entfernen möchtest?";
 
 // MARK: Blocked Services
-"blocked_services" = "Geblockter Service";
+"blocked_services" = "Geblockte Services";
 "blocked_services_%lld_entry" = "%lld regex Eintrag"; // When one entry
 "blocked_services_%lld_entries" = "%lld regex Einträge"; // When multiple entries
 "blocked_services_block_service" = "Blockiere Service";
@@ -492,7 +492,7 @@
 // MARK: Tip Jar
 "tipjar_navbar" = "Trinkgeldglas";
 "tipjar_header" = "Eure Trinkgelder helfen Pi-hole Remote am Laufen zu halten. Ihr unterstützt direkt die Entwicklung von großartigen Funktionen und Verbesserungen.";
-"tipjar_header_2" = "Wenn Du diese App gerne benutzt und den Indie-Entwickler unterstützen möchten (hi! 👋), bitte erwäge ein Trinkgeld zu hinterlassen. Ich würde es sehr schätzen!";
+"tipjar_header_2" = "Wenn Du diese App gerne benutzt und den Indie-Entwickler unterstützen möchtest (hi! 👋), bitte erwäge ein Trinkgeld zu hinterlassen. Ich würde es sehr schätzen!";
 "tipjar_header_3" = "Vielen Dank für Deine Unterstützung.\n- Joost";
 "tipjar_tip_coffee" = "Für einen Kaffee";
 "tipjar_tip_whiskey" = "Für einen Whiskey";
