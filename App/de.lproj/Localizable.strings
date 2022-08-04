@@ -103,7 +103,7 @@
 "statistics_database" = "Datenbank";
 "statistics_database_filesize" = "Dateigröße:";
 "statistics_maxlogage" = "Maximales Log Alter";
-"statistics_maxlogage_hours_%lld" = "%lld Tage";
+"statistics_maxlogage_hours_%lld" = "%lld Stunden";
 "statistics_github" = "Github";
 "statistics_update_explainer" = "Du kannst Updates über die Konsole mit dem Befehl 'pihole -up' durchführen.";
 "statistics_update_explainer_%@" = "Du kannst das Update über die Konsole mit folgendem Befehl durchführen %@ .";

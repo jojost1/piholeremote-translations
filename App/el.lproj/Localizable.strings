@@ -103,7 +103,7 @@
 "statistics_database" = "Database";
 "statistics_database_filesize" = "Filesize:";
 "statistics_maxlogage" = "Maximum Log Age";
-"statistics_maxlogage_hours_%lld" = "%lld days";
+"statistics_maxlogage_hours_%lld" = "%lld hours";
 "statistics_github" = "GitHub";
 "statistics_update_explainer" = "Μπορείτε να ενημερώσετε μέσω γραμμής εντολών με την εντολή 'pihole -up'.";
 "statistics_update_explainer_%@" = "Μπορείτε να ενημερώσετε μέσω γραμμής εντολών με την εντολή %@ .";

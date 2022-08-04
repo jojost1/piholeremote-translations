@@ -103,7 +103,7 @@
 "statistics_database" = "Database";
 "statistics_database_filesize" = "Bestandsgrootte:";
 "statistics_maxlogage" = "Maximale Bewaarperiode Log";
-"statistics_maxlogage_hours_%lld" = "%lld dagen";
+"statistics_maxlogage_hours_%lld" = "%lld uur";
 "statistics_github" = "GitHub";
 "statistics_update_explainer" = "Je kan updaten met de command line interface met het commando 'pihole -up'.";
 "statistics_update_explainer_%@" = "Je kan updaten met de command line interface met het commando %@ .";

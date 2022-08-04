@@ -103,7 +103,7 @@
 "statistics_database" = "База даних";
 "statistics_database_filesize" = "Розмір файлу:";
 "statistics_maxlogage" = "Максимальний вік журналу";
-"statistics_maxlogage_hours_%lld" = "%lld днів";
+"statistics_maxlogage_hours_%lld" = "%lld годин";
 "statistics_github" = "GitHub";
 "statistics_update_explainer" = "Ви можете оновити, використовуючи інтерфейс командного рядка, командою 'pihole -up'.";
 "statistics_update_explainer_%@" = "Ви можете оновити, використовуючи інтерфейс командного рядка, командою %@ .";
