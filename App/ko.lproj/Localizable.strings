@@ -72,8 +72,10 @@
 "statistics_segments_10min" = "Segments of 10min";
 "statistics_loading_graph" = "Loading Graph...";
 "statistics_now" = "now";
+"statistics_past_%@_h" = "past %@ hours";
 "statistics_%@_h_ago" = "%@h ago";
 "statistics_%@_hours_ago" = "%@ hours ago";
+"statistics_queries_%@_hours" = "Queries (%@h)";
 "statistics_queries_six_hours" = "Queries (6h)";
 "statistics_top_allowed" = "Top Allowed";
 "statistics_top_allowed_navbar" = "Allowed Domains";
@@ -81,25 +83,25 @@
 "statistics_top_blocked_navbar" = "Blocked Domains";
 "statistics_top_clients" = "Top Clients";
 "statistics_top_clients_navbar" = "Clients";
+"statistics_system_info" = "System Info";
 "statistics_unique_domains_%@" = "Unique Domains: %@";
 "statistics_unique_clients_%@" = "Unique Clients: %@";
 "statistics_unique_clients_ever_seen_%@" = "Clients Ever Seen: %@";
 "statistics_version" = "Version";
 "statistics_pihole" = "Pi-hole";
-"statistics_pihole_colon" = "Pi-hole:";
 "statistics_adminlte" = "AdminLTE";
-"statistics_adminlte_colon" = "AdminLTE:";
 "statistics_ftl" = "FTL";
-"statistics_ftl_colon" = "FTL:";
 "statistics_api" = "API";
 "statistics_api_type" = "API Type";
-"statistics_api_type_colon" = "API Type:";
 "statistics_api_version" = "API Version";
-"statistics_api_version_colon" = "API Version:";
 "statistics_dns_cache" = "DNS Cache";
-"statistics_dns_cache_size" = "Cache Size:";
-"statistics_dns_cache_evictions" = "Cache Evictions:";
-"statistics_dns_cache_inserted" = "Cache Inserted:";
+"statistics_dns_cache_size" = "Cache Size";
+"statistics_dns_cache_evictions" = "Cache Evictions";
+"statistics_dns_cache_inserted" = "Cache Inserted";
+"statistics_database" = "Database";
+"statistics_database_filesize" = "Filesize";
+"statistics_maxlogage" = "Maximum Log Age";
+"statistics_maxlogage_hours_%lld" = "%lld hours";
 "statistics_github" = "GitHub";
 "statistics_update_explainer" = "You can update using command line interface with the command 'pihole -up'.";
 "statistics_update_explainer_%@" = "You can update using command line interface with the command %@ .";
@@ -135,6 +137,8 @@
 "querylog_status_retried" = "Retried";
 "querylog_status_retried_dnssec" = "Retried (DNSSEC)";
 "querylog_status_already_forwarded" = "Already Forwarded";
+"querylog_status_blocked_database_busy" = "Blocked (Database Busy)";
+"querylog_status_blocked_special_domain" = "Blocked (Special Domain)";
 "querylog_min" = "Min:";
 "querylog_max" = "Max:";
 "querylog_avg" = "Avg:";
@@ -165,6 +169,7 @@
 
 // MARK: QueryLog Detail
 "querylog_detail_navbar" = "Query";
+"querylog_detail_domain" = "Domain";
 "querylog_detail_client" = "Client";
 "querylog_detail_request" = "Request";
 "querylog_detail_type" = "Type";
@@ -203,11 +208,12 @@
 "lists_sort" = "Sort";
 "lists_sorting_options" = "Sorting options";
 "lists_alphabetically" = "Alphabetically";
-"lists_date" = "Date";
+"lists_date_added" = "Date Added";
 "lists_add_entry" = "Add Entry";
 "lists_add_entries_bulk" = "Add Entries (Bulk)";
 "lists_export_lists" = "Export Lists";
-"lists_remove_from_list" = "Remove From List";
+"lists_remove" = "Remove";
+"lists_remove_and_edit" = "Remove & Edit";
 "lists_no_entries_found" = "No entries found.";
 "lists_no_entries_found_subtitle" = "You do not have any entries in your list.\n\nIf you do expect entries here: are you running Pi-hole v5.1 or higher?";
 
@@ -218,6 +224,8 @@
 "lists_addentry_add_as_wildcard" = "Add as Wildcard";
 "lists_addentry_regex_tutorial_click" = "Click here for a RegEx tutorial.";
 "lists_addentry_regex_tutorial_tap" = "Tap here for a RegEx tutorial.";
+"lists_addentry_regex_test_click" = "Click here to test your RegEx on regex101.";
+"lists_addentry_regex_test_tap" = "Tap here to test your RegEx on regex101.";
 "lists_addentry_wildcard_%@" = "Wildcard: %@";
 "lists_addentry_wildcard_alert" = "Add Domain as Wildcard";
 "lists_addentry_wildcard_alert_body" = "Use this option if you want to involve all subdomains. The entered domain will be converted to a RegEx filter while adding.";
@@ -347,7 +355,13 @@
 "instance_token_alert_body" = "You can find your Pi-hole API token on the Web Interface.\n\nLog in and go to 'Settings > API / Web Interface > Show API token' and you'll see a QR Code that you can scan!";
 "instance_token_scan_navbar" = "Scan API Token";
 "instance_token_scan_permission" = "Please give permission to access the camera in the pop-up or in Settings > Privacy > Camera.";
+"instance_advanced" = "Advanced";
+"instance_advanced_settings" = "Advanced settings";
+"instance_password" = "Password";
+"instance_password_explainer" = "To display CPU/RAM/Temp we need your **web interface password**. Like the API token, your password is never shared with anyone.";
 "instance_other" = "Other";
+"instance_hidefromdashboard" = "Hide on Home-tab";
+"instance_showondashboard" = "Show on Home-tab";
 "instance_reverseproxy" = "Reverse Proxy";
 "instance_reverseproxy_explainer" = "Turning on 'Reverse Proxy' will remove '/admin' from all API requests.";
 "instance_hideerrors" = "Hide Error Banners";
@@ -356,21 +370,40 @@
 "instance_remove_alert_title" = "Remove Pi-hole Instance";
 "instance_remove_alert_body" = "Are you sure you want to remove this instance?";
 
+// MARK: Blocked Services
+"blocked_services" = "Blocked Services";
+"blocked_services_%lld_entry" = "%lld regex entry"; // When one entry
+"blocked_services_%lld_entries" = "%lld regex entries"; // When multiple entries
+"blocked_services_block_service" = "Block service";
+"blocked_services_entries_overview" = "Entries in overview";
+"blocked_services_entries_overview_hide" = "Hide";
+"blocked_services_entries_overview_show" = "Show";
+"blocked_services_favorites" = "Favorites";
+"blocked_services_favorites_add" = "Add to favorites";
+"blocked_services_favorites_remove" = "Remove from favorites";
+"blocked_services_favorites_explainer" = "Swipe to the right to add a service to your favorites.";
+"blocked_services_other" = "Other";
+
 // MARK: Preferences
 "preferences_home_navbar" = "Home";
 "preferences_home_display" = "Display";
-"preferences_home_check_for_updates" = "Check for Updates";
+"preferences_home_check_for_updates" = "Check for updates";
 "preferences_home_data_from_label" = "'Data from' label";
 "preferences_home_usage_metrics" = "Usage Metrics";
-"preferences_home_usage_metrics_vertical" = "Display Metrics Vertically";
-"preferences_home_temperature_unit" = "Temperature Unit";
+"preferences_home_usage_metrics_vertical" = "Display metrics vertically";
+"preferences_home_temperature_unit" = "Temperature unit";
+"preferences_home_shortcuts" = "Shortcuts";
 "preferences_home_disable_blocking_presets" = "Disable Blocking Presets";
 "preferences_home_enable_blocking" = "Enable Blocking";
 "preferences_home_enable_blocking_show_alert" = "Ask confirmation before enabling";
 "preferences_home_notifications" = "Notifications";
 "preferences_home_notifications_footer" = "Will send a notification as soon as blocking is enabled again (after disabling blocking).";
+"preferences_home_notifications_enable" = "Notification on 'Blocking Enabled'";
 "preferences_home_notifications_time_sensitive" = "Deliver as 'Time Sensitive'";
-"preferences_home_blocking_enabled" = "Blocking Enabled";
+"preferences_home_badges" = "Badges";
+"preferences_home_badges_footer" = "Show a '1' badge on the app icon after you disable blocking indefinitely.";
+"preferences_home_badges_enable" = "Badge if 'Disabled Indefinitely'";
+"preferences_home_badges_remove" = "Remove app icon badge";
 "preferences_home_refresh" = "Refresh";
 "preferences_home_refresh_footer" = "Will automatically refresh every 10 seconds when the Home-tab is opened and the app is in the foreground.";
 "preferences_home_auto_refresh" = "Auto Refresh";
@@ -394,6 +427,7 @@
 "preferences_statistics_other" = "Other";
 "preferences_statistics_other_footer" = "Show Pi-hole version, API version, and DNS cache information.";
 "preferences_statistics_show_other" = "Show Other Info";
+"preferences_statistics_show_systeminfo" = "Show System Info";
 "preferences_statistics_hidden_domains" = "Hidden domains";
 "preferences_statistics_hidedomains_header" = "Hide Domains";
 "preferences_statistics_hidedomains_footer" = "Hide certain domains in statistics.";
@@ -412,9 +446,7 @@
 "preferences_querylog_show_sidebar" = "Show sidebar";
 "preferences_lists_navbar" = "Lists";
 "preferences_lists_display" = "Display";
-"preferences_lists_sort_by" = "Sort Lists By";
-"preferences_lists_alphabet" = "Alphabet";
-"preferences_lists_date" = "Date";
+"preferences_lists_sort_by" = "Sort Lists";
 "preferences_lists_terminology" = "Terminology";
 "preferences_lists_terminology_black_white" = "Black & Whitelist";
 "preferences_lists_terminology_deny_allow" = "Deny & Allowlist";
@@ -453,6 +485,7 @@
 "design_icon" = "App Icon";
 "design_icon_pihole" = "Pi-hole Remote";
 "design_icon_pihole_dark" = "Pi-hole Remote Dark";
+"design_icon_pihole_blueprint" = "Pi-hole Remote Blueprint";
 "design_icon_classic" = "Classic";
 "design_icon_classic_dark" = "Classic Dark";
 "design_theme" = "Theme";
@@ -495,6 +528,7 @@
 "changelog_new" = "New";
 "changelog_improved" = "Improved";
 "changelog_fixed" = "Fixed";
+"changelog_accessibility" = "Accessibility";
 "changelog_just_updated" = "Just Updated!";
 "changelog_current_version" = "Current";
 "changelog_continue" = "Continue";
@@ -506,14 +540,15 @@
 
 // MARK: Made by RocketScience
 "rocketscience_hi_title" = "Hi, I'm Joost!";
-"rocketscience_hi_subtitle" = "In June 2020 I started building my own apps as an independent developer, under the name 'RocketScience IT'.\n\nMy main goal is to learn: design, development, testing, support, promotion - maybe even more! Right now, I have two apps in the store which I'm continuously improving & have many ideas for other apps I might want to make in the future.";
+"rocketscience_hi_subtitle" = "In June 2020 I started building my own apps as an independent developer, under the name 'RocketScience IT'.\n\nMy main goal is to learn: design, development, testing, support, promotion - maybe even more! Right now, I have several apps in the store which I'm continuously improving & have many ideas for other apps I might want to make in the future.";
 "rocketscience_website" = "Website";
 "rocketscience_twitter" = "Twitter";
 "rocketscience_tipjar" = "Tip Jar";
 "rocketscience_tipjar_thankyou" = "Thank you!";
 "rocketscience_my_other_apps" = "My Other Apps";
 "rocketscience_adguardhomeremote_subtitle" = "It's like Pi-hole Remote, but for AdGuard Home!";
-"rocketscience_energieradar_subtitle" = "Monitor real-time electricity and gas prices in The Netherlands.";
+"rocketscience_mango_subtitle" = "A clean Anime & Manga tracker app, using the MyAnimeList API.";
+"rocketscience_energieradar_subtitle" = "Monitor real-time electricity and gas prices in many European countries.";
 "rocketscience_acknoledgements" = "Special thanks to";
 
 // MARK: - Disable Durations
@@ -544,11 +579,12 @@
 "notification_disable_until_enabled" = "Disable again until manually enabled";
 
 // MARK: Context Menus
+"copy" = "Copy";
 "copy_domain" = "Copy Domain";
 "copy_hostname" = "Copy Hostname";
 "copy_ip" = "Copy IP";
 "copy_hostname_or_ip" = "Copy Hostname / IP";
-"add_to_list_dots" = "Add To List...";
+"add_to_list_dots" = "Add to List...";
 "view_queries_to_domain" = "View Queries to Domain";
 "view_queries_from_client" = "View Queries from Client";
 "visit_domain" = "Visit Domain";
@@ -567,6 +603,7 @@
 "please_check_api_token" = "Please check your API Token and Privacy Level settings.";
 "could_not_get_data" = "Couldn't get data.";
 "no_queries_found" = "No queries found.";
+"no_entries_found" = "No entries found.";
 "search" = "Search";
 "refresh" = "Refresh";
 "done" = "Done";
@@ -578,6 +615,7 @@
 "cancel" = "Cancel";
 "edit" = "Edit";
 "remove" = "Remove";
+"more_dots" = "More...";
 "off" = "Off";
 "on" = "On";
 "ms" = "ms";
