@@ -358,6 +358,7 @@
 "instance_advanced" = "Advanced";
 "instance_advanced_settings" = "Advanced settings";
 "instance_password" = "Password";
+"instance_password_placeholder" = "password";
 "instance_password_explainer" = "To display CPU/RAM/Temp we need your **web interface password**. Like the API token, your password is never shared with anyone.";
 "instance_other" = "Sonstiges";
 "instance_hidefromdashboard" = "Verberge im Home-Tab";

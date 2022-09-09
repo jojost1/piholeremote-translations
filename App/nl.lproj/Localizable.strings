@@ -358,6 +358,7 @@
 "instance_advanced" = "Geavanceerd";
 "instance_advanced_settings" = "Geavanceerde instellingen";
 "instance_password" = "Wachtwoord";
+"instance_password_placeholder" = "wachtwoord";
 "instance_password_explainer" = "Om CPU/RAM/Temp te laten zien is je **web interface wachtwoord** nodig. Net als de API token wordt je wachtwoord nooit gedeeld met andere partijen.";
 "instance_other" = "Overig";
 "instance_hidefromdashboard" = "Verberg op Home-tab";
