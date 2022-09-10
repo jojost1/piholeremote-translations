@@ -72,7 +72,7 @@
 "statistics_segments_10min" = "Segmentos de 10min";
 "statistics_loading_graph" = "Cargando Gráfico...";
 "statistics_now" = "ahora";
-"statistics_past_%@_h" = "past %@ hours";
+"statistics_past_%@_h" = "últimas %@ horas";
 "statistics_%@_h_ago" = "hace %@h";
 "statistics_%@_hours_ago" = "hace %@ horas";
 "statistics_queries_%@_hours" = "Consultas (%@h)";
@@ -83,7 +83,7 @@
 "statistics_top_blocked_navbar" = "Dominios Bloqueados";
 "statistics_top_clients" = "Top Clientes";
 "statistics_top_clients_navbar" = "Clientes";
-"statistics_system_info" = "System Info";
+"statistics_system_info" = "Información de Sistema";
 "statistics_unique_domains_%@" = "Dominios Únicos: %@";
 "statistics_unique_clients_%@" = "Clientes Únicos: %@";
 "statistics_unique_clients_ever_seen_%@" = "Clientes Vistos Alguna Vez: %@";
@@ -355,14 +355,14 @@
 "instance_token_alert_body" = "Puedes encontrar el Pi-hole API token en la Interfaz Web.\n\nEntra en la página y ve a 'Settings > API / Web Interface > Show API token' y ¡Verás un Código QR que podrás escanear!";
 "instance_token_scan_navbar" = "Escanear API Token";
 "instance_token_scan_permission" = "Por favor, da permiso para acceder a la cámara en la ventana emergente o en Ajustes > Privacidad > Cámara.";
-"instance_advanced" = "Advanced";
-"instance_advanced_settings" = "Advanced settings";
-"instance_password" = "Password";
-"instance_password_placeholder" = "password";
-"instance_password_explainer" = "To display CPU/RAM/Temp we need your **web interface password**. Like the API token, your password is never shared with anyone.";
+"instance_advanced" = "Avanzado";
+"instance_advanced_settings" = "Ajustes avanzados";
+"instance_password" = "Contraseña";
+"instance_password_placeholder" = "contraseña";
+"instance_password_explainer" = "Para mostrar CPU/RAM/Temp se necesita la **contraseña de la interfaz web**. Al igual que el API token, nunca se comparte con nadie.";
 "instance_other" = "Otros";
 "instance_hidefromdashboard" = "Ocultar en la pestaña 'Casa'";
-"instance_showondashboard" = "Show on Home-tab";
+"instance_showondashboard" = "Mostrar en la pestaña Casa";
 "instance_reverseproxy" = "Proxy Inverso";
 "instance_reverseproxy_explainer" = "Activando 'Proxy Inverso' se eliminará '/admin' de todas las peticiones al API.";
 "instance_hideerrors" = "Ocultar Carteles de Error";
@@ -428,7 +428,7 @@
 "preferences_statistics_other" = "Otros";
 "preferences_statistics_other_footer" = "Ver versión Pi-hole, versión API, e información DNS caché.";
 "preferences_statistics_show_other" = "Ver Otra Información";
-"preferences_statistics_show_systeminfo" = "Show System Info";
+"preferences_statistics_show_systeminfo" = "Ver Información de Sistema";
 "preferences_statistics_hidden_domains" = "Dominios Ocultos";
 "preferences_statistics_hidedomains_header" = "Ocultar Dominios";
 "preferences_statistics_hidedomains_footer" = "Ocultar ciertos (partes de) dominios en las estadísticas.";
@@ -616,7 +616,7 @@
 "cancel" = "Cancelar";
 "edit" = "Editar";
 "remove" = "Eliminar";
-"more_dots" = "More...";
+"more_dots" = "Más...";
 "off" = "Off";
 "on" = "On";
 "ms" = "ms";
