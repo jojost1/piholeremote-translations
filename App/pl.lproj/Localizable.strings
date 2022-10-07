@@ -639,6 +639,10 @@
 "widget_disable" = "Disable";
 "widget_disable_description" = "Quickly disable blocking with customizable buttons.";
 
+// MARK: - Live Activities & Dynamic Island
+"live_activity_until_enabled" = "until enabled";
+"live_activity_end" = "End Live Activity";
+
 // MARK: - watchOS Specific
 "watchos_home_queries" = "Zapytania";
 "watchos_home_blocked" = "Zablokowane";

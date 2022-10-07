@@ -639,6 +639,10 @@
 "widget_disable" = "Uitschakelen";
 "widget_disable_description" = "Schakel snel blokkeren uit met zelf aan te passen knoppen.";
 
+// MARK: - Live Activities & Dynamic Island
+"live_activity_until_enabled" = "tot ingeschakeld";
+"live_activity_end" = "Stop Live Activity";
+
 // MARK: - watchOS Specific
 "watchos_home_queries" = "Queries";
 "watchos_home_blocked" = "Geblokkeerd";

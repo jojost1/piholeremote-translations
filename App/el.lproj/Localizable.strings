@@ -639,6 +639,10 @@
 "widget_disable" = "Απενεργοποίηση";
 "widget_disable_description" = "Απενεργοποιήστε γρήγορα τον αποκλεισμό με προσαρμόσιμα κουμπιά.";
 
+// MARK: - Live Activities & Dynamic Island
+"live_activity_until_enabled" = "until enabled";
+"live_activity_end" = "End Live Activity";
+
 // MARK: - watchOS Specific
 "watchos_home_queries" = "Ερωτήματα";
 "watchos_home_blocked" = "Αποκλεισμένα";
