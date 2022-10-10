@@ -640,8 +640,8 @@
 "widget_disable_description" = "Desactivar rápidamente el bloqueo con botones personalizados.";
 
 // MARK: - Live Activities & Dynamic Island
-"live_activity_until_enabled" = "until enabled";
-"live_activity_end" = "End Live Activity";
+"live_activity_until_enabled" = "hasta que esté habilitado";
+"live_activity_end" = "Finalizar Actividad en Vivo";
 
 // MARK: - watchOS Specific
 "watchos_home_queries" = "Consultas";
