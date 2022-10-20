@@ -9,7 +9,7 @@
 // MARK: - TabView
 "tab_home" = "Home";
 "tab_statistics" = "Statistiken";
-"tab_querylog" = "Anfrage-Log";
+"tab_querylog" = "Anfrageprotokoll";
 "tab_lists" = "Listen";
 "tab_settings" = "Einstellungen";
 
@@ -17,32 +17,32 @@
 "home_navbar" = "Pi-hole Remote";
 "home_total_queries" = "Anfragen insgesamt";
 "home_queries_blocked" = "Blockierte Anfragen";
-"home_percent_blocked" = "Anteil geblockt";
-"home_blocklist" = "Blocklist";
-"home_refreshing_dots" = "Aktualisieren...";
+"home_percent_blocked" = "Blockierter Anteil";
+"home_blocklist" = "Blockierliste";
+"home_refreshing_dots" = "Aktualisieren …";
 "home_no_response" = "Keine Antwort";
 "home_not_responding" = "Antwortet nicht";
 "home_disable" = "Deaktivieren";
 "home_disable_all" = "Alles deaktivieren";
 "home_disable_blocking" = "Blockierung deaktivieren";
-"home_disable_blocking_pihole" = "Pi-hole Blockierung deaktivieren";
+"home_disable_blocking_pihole" = "Pi-hole-Blockierung deaktivieren";
 "home_disable_blocking_alert_%@" = "Für wie lange willst Du die Blockierung mit %@ deaktivieren?";
 "home_enable" = "Aktivieren";
 "home_enable_all" = "Alles aktivieren";
 "home_enable_blocking" = "Blockierung aktivieren";
-"home_enable_blocking_pihole" = "Pi-hole Blockierung aktivieren";
+"home_enable_blocking_pihole" = "Pi-hole-Blockierung aktivieren";
 "home_enable_blocking_alert_%@" = "Bist Du sicher, dass Du die Blockierung reaktivieren willst auf %@?";
 "home_enable_%@_disabled_until_%@" = "Aktivieren (%@deaktiviert bis %@)";
 "home_data_from_%@" = "Daten von %@";
 "home_update_gravity" = "Gravity aktualisieren";
 "home_update_gravity_explainer" = "Gehe zu /admin/gravity für welche Instanz?";
 "home_update_gravity_alert_body_%@" = "Letztes Gravity-Update am %@";
-"home_update_gravity_alert_button" = "Update Gravity (Web Interface)";
+"home_update_gravity_alert_button" = "Gravity aktualisieren (Web Interface)";
 "home_update_available" = "Update verfügbar!";
 "home_update_available_alert_body" = "Du kannst das Update über die Konsole mit dem Befehl\n\npihole -up\n\ndurchführen";
 
 // MARK: Usage Metrics
-"usage_metrics_navbar" = "Nutzungsmetriken";
+"usage_metrics_navbar" = "Nutzungsstatistiken";
 "usage_metrics_temperature" = "Temperatur";
 "usage_metrics_cpu" = "CPU";
 "usage_metrics_cpu_usage" = "CPU-Auslastung";
@@ -51,7 +51,7 @@
 "usage_metrics_cpu_1min" = "Letzte Minute";
 "usage_metrics_cpu_5min" = "Letzten 5 Minuten";
 "usage_metrics_cpu_15min" = "Letzten 15 Minuten";
-"usage_metrics_cpu_usage_alert" = "Diese Prozentsätze stellen die durchschnittliche CPU-Last der letzten Minuten dar.\n\nDie Daumenregel lautet, dass eine Auslastung von 70 % okay ist. Sobald sie konstant über 70 % liegt, solltest Du mit der Planung einer Erweiterung beginnen.";
+"usage_metrics_cpu_usage_alert" = "Diese Prozentsätze stellen die durchschnittliche CPU-Last der letzten Minuten dar.\n\nEine Auslastung von 70% ist akzeptabel, sobald sie aber konstant über 70% liegt, solltest Du eine Erweiterung ins Auge fassen.";
 "usage_metrics_memory" = "Arbeitsspeicher";
 "usage_metrics_data_from_%@" = "\nDaten von: %@";
 "usage_metrics_error" = "Fehler beim Datenabruf.";
@@ -61,7 +61,7 @@
 "disable_duration" = "Dauer";
 "disable_duration_placeholder_%@" = "Dauer in %@";
 "disable_until" = "Bis";
-"disable_until_dots" = "Bis...";
+"disable_until_dots" = "Bis …";
 "disable_time_unit" = "Zeiteinheit";
 "disable_notifications" = "Benachrichtigungen";
 "disable_alert_on_blocking_enabled" = "Nachricht bei Reaktivierung";
@@ -69,24 +69,24 @@
 // MARK: - Statistics-tab
 "statistics_navbar" = "Statistiken";
 "statistics_queries" = "Anfragen";
-"statistics_segments_10min" = "10 Minuten Segmente";
-"statistics_loading_graph" = "Diagram wird geladen...";
+"statistics_segments_10min" = "Zehnminutensegmente";
+"statistics_loading_graph" = "Diagram wird geladen …";
 "statistics_now" = "jetzt";
 "statistics_past_%@_h" = "past %@ hours";
 "statistics_%@_h_ago" = "%@h zuvor";
 "statistics_%@_hours_ago" = "%@ Stunden zuvor";
 "statistics_queries_%@_hours" = "Anfragen (%@h)";
 "statistics_queries_six_hours" = "Anfragen (6h)";
-"statistics_top_allowed" = "Top erlaubte Anfragen";
-"statistics_top_allowed_navbar" = "Erlaubte Domains";
-"statistics_top_blocked" = "Top blockierte Anfragen";
-"statistics_top_blocked_navbar" = "Blockierte Domains";
-"statistics_top_clients" = "Top Netzwerkgeräte";
+"statistics_top_allowed" = "Meisterlaubte Anfragen";
+"statistics_top_allowed_navbar" = "Erlaubte Domänen";
+"statistics_top_blocked" = "Meistblockierte Anfragen";
+"statistics_top_blocked_navbar" = "Blockierte Domänen";
+"statistics_top_clients" = "Häufigste Netzwerkklienten";
 "statistics_top_clients_navbar" = "Netzwerkgeräte";
-"statistics_system_info" = "System Info";
-"statistics_unique_domains_%@" = "Eindeutige Domains: %@";
-"statistics_unique_clients_%@" = "Eindeutige Clients: %@";
-"statistics_unique_clients_ever_seen_%@" = "Gesamtzahl Clients: %@";
+"statistics_system_info" = "Systeminfo";
+"statistics_unique_domains_%@" = "Eindeutige Domänen: %@";
+"statistics_unique_clients_%@" = "Eindeutige Klienten: %@";
+"statistics_unique_clients_ever_seen_%@" = "Gesamtzahl der Klienten: %@";
 "statistics_version" = "Version";
 "statistics_pihole" = "Pi-hole";
 "statistics_adminlte" = "AdminLTE";
@@ -100,24 +100,24 @@
 "statistics_dns_cache_inserted" = "Cache hinzugefügt";
 "statistics_database" = "Datenbank";
 "statistics_database_filesize" = "Dateigröße";
-"statistics_maxlogage" = "Maximales Log Alter";
+"statistics_maxlogage" = "Maximales Protokollalter";
 "statistics_maxlogage_hours_%lld" = "%lld Stunden";
 "statistics_github" = "Github";
-"statistics_update_explainer" = "Du kannst Updates über die Konsole mit dem Befehl 'pihole -up' durchführen.";
-"statistics_update_explainer_%@" = "Du kannst das Update über die Konsole mit folgendem Befehl durchführen %@ .";
+"statistics_update_explainer" = "Du kannst Aktualisierungen über die Konsole mit dem Befehl 'pihole -up' durchführen.";
+"statistics_update_explainer_%@" = "Du kannst die Aktualisierung über die Konsole mit folgendem Befehl durchführen %@ .";
 
 // MARK: Graphs
 "graphs_navbar" = "Diagramme";
 "graphs_allowed" = "Erlaubt";
 "graphs_blocked" = "Blockiert";
-"graphs_query_types" = "Anfragen-Art";
+"graphs_query_types" = "Anfragenart";
 "graphs_answered_by" = "Beantwortet von";
 
 // MARK: - QueryLog-tab
 "querylog_navbar" = "Anfrage-Log";
 "querylog_filter" = "Filter";
 "querylog_filtered" = "Gefiltert";
-"querylog_sidebar_explainer" = "Wähle links eine Abfrage um Details zu sehen.";
+"querylog_sidebar_explainer" = "Wähle links eine Abfrage, um Details zu sehen.";
 "querylog_status_unknown" = "Unbekannt";
 "querylog_status_gravity" = "Gravity";
 "querylog_status_upstream" = "Upstream-Server";
@@ -129,7 +129,7 @@
 "querylog_status_denylist_regex" = "Regex Denylist";
 "querylog_status_denylist_regex_cname" = "Regex Denylist (CNAME)";
 "querylog_status_denylist_exact" = "Exact Denylist";
-"querylog_status_denylist_exact_cname" = "Exact Denylist (CNAME)";
+"querylog_status_denylist_exact_cname" = "Exakte Denylist (CNAME)";
 "querylog_status_upstream_ip" = "Upstream-Server (IP)";
 "querylog_status_upstream_0000" = "Upstream-Server (0.0.0.0 or ::)";
 "querylog_status_upstream_nxdomain" = "Upstream-Server (NXDOMAIN)";
@@ -137,11 +137,11 @@
 "querylog_status_retried" = "Wiederholt";
 "querylog_status_retried_dnssec" = "Wiederholt (DNSSEC)";
 "querylog_status_already_forwarded" = "Bereits weitergeleitet";
-"querylog_status_blocked_database_busy" = "Geblockt (Datenbank beschäftigt)";
-"querylog_status_blocked_special_domain" = "Geblockt (Spezielle Domain)";
+"querylog_status_blocked_database_busy" = "Blockiert (Datenbank beschäftigt)";
+"querylog_status_blocked_special_domain" = "Blockiert (spezielle Domäne)";
 "querylog_min" = "Min:";
 "querylog_max" = "Max:";
-"querylog_avg" = "Durschnitt:";
+"querylog_avg" = "Durchschnitt:";
 "querylog_type" = "Typ:";
 "querylog_reply" = "Antwort:";
 
@@ -155,52 +155,52 @@
 "querylog_filter_status_blocked" = "Blockierte";
 "querylog_filter_status_blocked_only" = "Nur Blockierte";
 "querylog_filter_type" = "Typ";
-"querylog_filter_type_hide_https" = "HTTPS Anfragen verbergen";
-"querylog_filter_type_hide_ds_dnskey" = "DS & DNSKEY Anfragen verbergen";
+"querylog_filter_type_hide_https" = "HTTPS-Anfragen verbergen";
+"querylog_filter_type_hide_ds_dnskey" = "DS/DNSKEY-Anfragen verbergen";
 "querylog_filter_sort" = "Sortieren";
 "querylog_filter_sort_new_old" = "Neu > Alt";
 "querylog_filter_sort_old_new" = "Alt > Neu";
 "querylog_filter_other" = "Sonstige";
 "querylog_filter_other_footer" = "Anfragetyp, Antwort und Dauer anzeigen (ms).";
-"querylog_filter_show_detail" = "Details zeigen";
-"querylog_filter_hide_detail" = "Details verbergen";
+"querylog_filter_show_detail" = "Details anzeigen";
+"querylog_filter_hide_detail" = "Details ausblenden";
 "querylog_filter_preserve_filter_footer" = "Filteroptionen zwischen App-Neustarts beibehalten.";
 "querylog_filter_save_filters" = "Filter speichern";
 
 // MARK: QueryLog Detail
 "querylog_detail_navbar" = "Anfragen";
-"querylog_detail_domain" = "Domain";
-"querylog_detail_client" = "Client";
+"querylog_detail_domain" = "Domäne";
+"querylog_detail_client" = "Klient";
 "querylog_detail_request" = "Anfrage";
 "querylog_detail_type" = "Typ";
 "querylog_detail_response" = "Reaktion";
 "querylog_detail_reply" = "Antwort";
 "querylog_detail_responsetime" = "Reaktionszeit";
 "querylog_detail_upstream" = "Upstream";
-"querylog_detail_cname" = "CNAME-Domain";
-"querylog_detail_id_blocking_regex" = "ID des Blocking Regex";
+"querylog_detail_cname" = "CNAME-Domäne";
+"querylog_detail_id_blocking_regex" = "ID des Blockier-Regex";
 
 // MARK: QueryLog LiveLog
-"livelog" = "Live Log";
-"livelog_navbar" = "Live Log";
-"livelog_noqueriesfoundyet" = "Bisher keine Anfragen gefunden...";
+"livelog" = "Liveprotokoll";
+"livelog_navbar" = "Liveprotokoll";
+"livelog_noqueriesfoundyet" = "Bisher keine Anfragen gefunden …";
 
 // MARK: - Lists-tab
 "lists_navbar" = "Listen";
 "lists_entry" = "Einträge";
 "lists_list" = "Liste";
-"lists_blacklist" = "Blacklist";
-"lists_blacklist_regex" = "Blacklist (Regex)";
-"lists_whitelist" = "Whitelist";
-"lists_whitelist_regex" = "Whitelist (Regex)";
-"lists_denylist" = "Denylist";
-"lists_denylist_regex" = "Denylist (Regex)";
-"lists_allowlist" = "Allowlist";
-"lists_allowlist_regex" = "Allowlist (Regex)";
-"lists_domain" = "Domain";
-"lists_domains" = "Domains";
+"lists_blacklist" = "Schwarze Liste";
+"lists_blacklist_regex" = "Schwarze Liste (Regex)";
+"lists_whitelist" = "Weiße Liste";
+"lists_whitelist_regex" = "Weiße Liste (Regex)";
+"lists_denylist" = "Verbotsliste";
+"lists_denylist_regex" = "Verbotsliste (Regex)";
+"lists_allowlist" = "Erlaubnisliste";
+"lists_allowlist_regex" = "Erlaubnisliste (Regex)";
+"lists_domain" = "Domäne";
+"lists_domains" = "Domäne";
 "lists_regex" = "RegEx";
-"lists_regular_expression" = "Regular Expression";
+"lists_regular_expression" = "Regulärer Ausdruck";
 "lists_added_%@" = "%@ hinzugefügt";
 "lists_added_%@_modified_%@" = "%@ hinzugefügt (Modifiziert %@)";
 "lists_disabled" = "Deaktiviert";
@@ -215,27 +215,27 @@
 "lists_remove" = "Aus Liste entfernen";
 "lists_remove_and_edit" = "Löschen & Bearbeiten";
 "lists_no_entries_found" = "Keine Einträge gefunden.";
-"lists_no_entries_found_subtitle" = "Du hast keine Einträge in deiner Liste.\n\nSofern Du hier Einträge erwartest: Nutzt du Pi-hole Version 5.1 oder höher?";
+"lists_no_entries_found_subtitle" = "Du hast keine Einträge in deiner Liste.\n\nSofern Du hier Einträge erwartest: nutzt Du Pi-hole Version 5.1 oder höher?";
 
 // MARK: Add Entry
 "lists_addentry_navbar" = "Eintrag hinzufügen";
 "lists_addentry_save" = "Eintrag hinzufügen";
-"lists_addentry_domain_or_regex" = "Domain oder RegEx";
+"lists_addentry_domain_or_regex" = "Domäne oder RegEx";
 "lists_addentry_add_as_wildcard" = "Als Wildcard hinzugefügt";
 "lists_addentry_regex_tutorial_click" = "Für ein RegEx-Tutorial hier klicken.";
 "lists_addentry_regex_tutorial_tap" = "Für ein RegEx-Tutorial hier tippen.";
-"lists_addentry_regex_test_click" = "Klicke hier um dein RegEx auf regex101 zu testen.";
-"lists_addentry_regex_test_tap" = "Tippe hier um dein RegEx auf regex101 zu testen.";
+"lists_addentry_regex_test_click" = "Klicke hier, um Dein RegEx auf regex101 zu testen.";
+"lists_addentry_regex_test_tap" = "Tippe hier, um Dein RegEx auf regex101 zu testen.";
 "lists_addentry_wildcard_%@" = "Wildcard: %@";
-"lists_addentry_wildcard_alert" = "Domain als Wildcard hinzugefügt";
-"lists_addentry_wildcard_alert_body" = "Verwende diese Option, wenn Du alle Subdomains einbeziehen möchtest. Die eingegebene Domain wird beim Hinzufügen in einen RegEx-Filter umgewandelt.";
+"lists_addentry_wildcard_alert" = "Domäne als Wildcard hinzugefügt";
+"lists_addentry_wildcard_alert_body" = "Verwende diese Option, wenn Du alle Subdomänen einbeziehen möchtest. Die eingegebene Domäne wird beim Hinzufügen in einen RegEx-Filter umgewandelt.";
 
 // MARK: Add Entry Bulk
 "lists_bulk_navbar" = "Einträge hinzufügen";
 "lists_bulk_save" = "Einträge hinzufügen";
 "lists_bulk_settings" = "Einstellungen";
 "lists_bulk_settings_footer" = "Diese Einstellungen gelten für alle neuen Einträge.";
-"lists_bulk_domains_or_regex" = "Domains oder RegEx";
+"lists_bulk_domains_or_regex" = "Domänen oder RegEx";
 "lists_bulk_add_as_wildcards" = "Alles als Wildcards hinzufügen";
 "lists_bulk_new_entries_%lld" = "Neue Einträge (%lld)";
 "lists_bulk_new_entries_footer" = "Es können auch mehrere Einträge hinzugefügt werden, indem eine Liste eingefügt wird, die durch einen Zeilenumbruch, ein Leerzeichen oder ein Komma getrennt ist.";
@@ -247,15 +247,15 @@
 "lists_bulk_adding_entries" = "Hinzufügen...";
 "lists_bulk_adding_entries_%lld_%lld" = "Hinzufügen (%lld/%lld)";
 "lists_bulk_completion_log" = "Fertigstellungsprotokoll";
-"lists_bulk_keep_screen_open" = "Bitte halte diesen Bildschirm während des Vorgangs geöffnet!";
-"lists_bulk_move_failed" = "Verschieben zu 'Neue Einträge' erneut fehlgeschlagen";
+"lists_bulk_keep_screen_open" = "Bitte halte dieses Fenster während des Vorgangs geöffnet!";
+"lists_bulk_move_failed" = "Verschieben zu 'Neue Einträge' erneut fehlgeschlagen!";
 "lists_bulk_done_added_%lld" = "Fertig! %lld Einträge hinzugefügt.";
 
 // MARK: Sync Lists
-"lists_sync_navbar" = "Instanzen Synchronisieren";
+"lists_sync_navbar" = "Instanzen synchronisieren";
 "lists_sync_start_sync" = "Synchronisierung starten";
 "lists_sync_start_sync_alert" = "Mit dieser Aktion werden Listeneinträge aus der ersten Instanz in die zweite Instanz übernommen und umgekehrt. Bist Du sicher, dass Du dies tun willst?";
-"lists_sync_explainer" = "Diese Funktion synchronisiert die Listeneinträge zwischen zwei Deiner Instanzen, indem sie Listeneinträge von einer Deiner Instanzen zur anderen hinzufügt und umgekehrt.\n\nBitte überprüfe die unten stehenden Listen, um sicherzustellen, dass die Synchronisierung das tut, was Du erwarten würdest. Der Vorgang selbst kann eine Weile dauern oder fehlschlagen, wenn Du viele Einträge synchronisierst, halte diesen Bildschirm während der Synchronisierung geöffnet!";
+"lists_sync_explainer" = "Diese Funktion synchronisiert die Listeneinträge zwischen zwei Deiner Instanzen, indem sie Listeneinträge von einer Deiner Instanzen zur anderen hinzufügt und umgekehrt.\n\nBitte überprüfe die unten stehenden Listen, um sicherzustellen, dass die Synchronisierung das tut, was Du erwartest. Der Vorgang selbst kann eine Weile dauern oder fehlschlagen, wenn Du viele Einträge synchronisierst, halte dieses Fenster während der Synchronisierung geöffnet!";
 "lists_sync_calculating" = "Wird berechnet...";
 "lists_sync_lists_are_in_sync" = "Listen sind synchron.";
 "lists_sync_activity_log" = "Aktivitätsprotokoll";
@@ -279,14 +279,14 @@
 "lists_export_separator_point" = "Punkt .";
 "lists_export_separator_colon" = "Doppelpunkt :";
 "lists_export_separator_tab" = "Tabulator";
-"lists_export_blacklist" = "Blacklist";
-"lists_export_blacklist_regex" = "Blacklist Regex";
-"lists_export_whitelist" = "Whitelist";
-"lists_export_whitelist_regex" = "Whitelist Regex";
-"lists_export_denylist" = "Denylist";
-"lists_export_denylist_regex" = "Denylist Regex";
-"lists_export_allowlist" = "Allowlist";
-"lists_export_allowlist_regex" = "Allowlist Regex";
+"lists_export_blacklist" = "Schwarze Liste";
+"lists_export_blacklist_regex" = "Schwarze Liste Regex";
+"lists_export_whitelist" = "Weiße Liste";
+"lists_export_whitelist_regex" = "Weiße Liste Regex";
+"lists_export_denylist" = "Verbotsliste";
+"lists_export_denylist_regex" = "Verbotsliste Regex";
+"lists_export_allowlist" = "Erlaubnisliste";
+"lists_export_allowlist_regex" = "Erlaubnisliste Regex";
 "lists_export_successful" = "Export erfolgreich";
 "lists_export_successful_copied_%@" = "%@ Einträge werden in Deine Zwischenablage kopiert.";
 
@@ -303,17 +303,17 @@
 "settings_manage_fourth" = "Vierten Pi-hole verwalten";
 "settings_combine_in_home" = "In Home zusammenfassen";
 "settings_localdns" = "Lokaler DNS";
-"settings_localdns_dns_records" = "DNS Einträge";
-"settings_localdns_cname_records" = "CNAME Einträge";
+"settings_localdns_dns_records" = "DNS-Einträge";
+"settings_localdns_cname_records" = "CNAME-Einträge";
 "settings_localdns_no_records_found" = "Keine Einträge gefunden.";
 "settings_localdns_add_record" = "Füge Eintrag hinzu";
-"settings_localdns_domain" = "Domain";
+"settings_localdns_domain" = "Domäne";
 "settings_localdns_domain_placeholder" = "example.com oder sub.example.com";
 "settings_localdns_ip" = "IP-Addresse";
 "settings_localdns_ip_placeholder" = "Zugehörige IP-Adresse";
-"settings_localdns_targetdomain" = "Ziel Domain";
-"settings_localdns_targetdomain_placeholder" = "Zugehörige Ziel Domain";
-"settings_localdns_update_notice" = "Dieses Feature erfordert Pi-hole v5.9.";
+"settings_localdns_targetdomain" = "Zieldomäne";
+"settings_localdns_targetdomain_placeholder" = "Zugehörige Zieldomäne";
+"settings_localdns_update_notice" = "Dieses Ausstattungsmerkmal erfordert Pi-hole v5.9.";
 "settings_preferences" = "Einstellungen";
 "settings_support_development" = "Weiterentwicklung unterstützen";
 "settings_home" = "Home";
@@ -328,13 +328,13 @@
 "help_callout" = "Benötigst Du Hilfe?";
 "settings_help_contact_footer" = "Bitte verwende die englische Sprache für Supportanfragen!";
 "settings_advanced" = "Erweitert";
-"settings_twitter" = "Folg mir auf Twitter";
+"settings_twitter" = "Folge mir auf Twitter";
 "settings_tipjar" = "Trinkgeldglas";
 "settings_tipjar_thankyou" = "Vielen Dank!";
-"settings_rate" = "Pi-hole Bewerten";
-"settings_leave_review" = "Bewertung hinterlassen";
+"settings_rate" = "Pi-hole bewerten";
+"settings_leave_review" = "Bewertung abgeben";
 "settings_share" = "Pi-hole Remote teilen";
-"settings_made_by_rocketscience" = "Made by RocketScience";
+"settings_made_by_rocketscience" = "Hergestellt von RocketScience";
 
 // MARK: Edit Instance
 "instance_new_navbar" = "Neue Instanz";
@@ -350,107 +350,107 @@
 "instance_port_placeholder" = "80";
 "instance_token" = "API Token";
 "instance_token_placeholder" = "a1b2c3d4...";
-"instance_token_explainer" = "Erforderlich für Aktivieren/Deaktivieren & Statistik. Wenn Du kein Passwort eingerichtet hast, lass dieses Feld leer.\nDu findest das API-Token im Webinterface > Einstellungen > API.";
+"instance_token_explainer" = "Erforderlich für Aktivieren/Deaktivieren & Statistik. Wenn Du kein Kennwort eingerichtet hast, lass dieses Feld leer.\nDu findest das API-Token im Webinterface > Einstellungen > API.";
 "instance_token_alert_title" = "Pi-hole API-Token";
-"instance_token_alert_body" = "Du findest das API-Token im Webinterface.\n\nLogge Dich ein und wähle 'Settings > API / Web Interface > Show API token' hier findest Du einen QR Code den Du einscannen kannst!";
-"instance_token_scan_navbar" = "API Token scannen";
-"instance_token_scan_permission" = "Bitte erlaube den Zugriff auf die Kamera im Popup oder in den Einstellungen > Privatsphäre > Kamera.";
-"instance_advanced" = "Advanced";
-"instance_advanced_settings" = "Advanced settings";
-"instance_password" = "Password";
-"instance_password_placeholder" = "password";
-"instance_password_explainer" = "To display CPU/RAM/Temp we need your **web interface password**. Like the API token, your password is never shared with anyone.";
+"instance_token_alert_body" = "Du findest das API-Token im Webinterface.\n\nLogge Dich ein und wähle 'Settings > API / Web Interface > Show API token'. Dort findest Du einen QR-Code, den Du scannen kannst!";
+"instance_token_scan_navbar" = "API-Token scannen";
+"instance_token_scan_permission" = "Bitte erlaube den Zugriff auf die Kamera im Pop-Up oder in den Einstellungen > Privatsphäre > Kamera.";
+"instance_advanced" = "Erweitert";
+"instance_advanced_settings" = "Erweiterte Einstellungen";
+"instance_password" = "Kennwort";
+"instance_password_placeholder" = "kennwort";
+"instance_password_explainer" = "Zur Anzeige von CPU/RAM/Temp wird Dein **web interface password** benötigt. Wie auch beim API-Token, wird Dein Kennwort niemals weitergegeben.";
 "instance_other" = "Sonstiges";
-"instance_hidefromdashboard" = "Verberge im Home-Tab";
-"instance_showondashboard" = "Show on Home-tab";
-"instance_reverseproxy" = "Reverse Proxy";
-"instance_reverseproxy_explainer" = "Das Aktivieren von 'Reverse Proxy' entfernt '/admin' aus allen API-Anfragen.";
-"instance_hideerrors" = "Fehlermeldungsbanner verbergen";
+"instance_hidefromdashboard" = "In Home-Tab ausblenden";
+"instance_showondashboard" = "In Home-Tab anzeigen";
+"instance_reverseproxy" = "Umgekehrter Proxy";
+"instance_reverseproxy_explainer" = "Das Aktivieren von 'Umgekehrter Proxy' entfernt '/admin' aus allen API-Anfragen.";
+"instance_hideerrors" = "Fehlermeldungen ausblenden";
 "instance_test_connection" = "Verbindung testen";
 "instance_remove" = "Instanz entfernen";
 "instance_remove_alert_title" = "Pi-hole-Instanz entfernen";
 "instance_remove_alert_body" = "Bist Du sicher, dass du diese Instanz entfernen möchtest?";
 
 // MARK: Blocked Services
-"blocked_services" = "Geblockte Services";
-"blocked_services_%lld_entry" = "%lld regex Eintrag"; // When one entry
-"blocked_services_%lld_entries" = "%lld regex Einträge"; // When multiple entries
-"blocked_services_block_service" = "Blockiere Service";
+"blocked_services" = "Blockierte Dienste";
+"blocked_services_%lld_entry" = "%lld regex Eintrag"; // Bei einem Eintrag
+"blocked_services_%lld_entries" = "%lld regex Einträge"; // Bei mehreren Einträgen
+"blocked_services_block_service" = "Dienst blockieren";
 "blocked_services_entries_overview" = "Einträge in Übersicht";
-"blocked_services_entries_overview_hide" = "Verstecke";
-"blocked_services_entries_overview_show" = "Zeige";
-"blocked_services_favorites" = "Favorites";
+"blocked_services_entries_overview_hide" = "Ausblenden";
+"blocked_services_entries_overview_show" = "Anzeigen";
+"blocked_services_favorites" = "Favoriten";
 "blocked_services_favorites_add" = "Zu Favoriten hinzufügen";
 "blocked_services_favorites_remove" = "Aus Favoriten entfernen";
-"blocked_services_favorites_explainer" = "Wische nach rechts um einen Service zu Deinen Favoriten hinzuzufügen.";
+"blocked_services_favorites_explainer" = "Wische nach rechts, um einen Dienst zu Deinen Favoriten hinzuzufügen.";
 "blocked_services_other" = "Andere";
 
 // MARK: Preferences
 "preferences_home_navbar" = "Home";
 "preferences_home_display" = "Anzeige";
-"preferences_home_check_for_updates" = "Updatesuche";
-"preferences_home_data_from_label" = "'Daten von' Label";
+"preferences_home_check_for_updates" = "Suche nach Aktualisierungen";
+"preferences_home_data_from_label" = "'Daten von'-Etikett";
 "preferences_home_usage_metrics" = "Nutzungsdaten";
 "preferences_home_usage_metrics_vertical" = "Nutzungsdaten vertikal anzeigen";
 "preferences_home_temperature_unit" = "Temperatureinheit";
 "preferences_home_shortcuts" = "Verknüpfungen";
-"preferences_home_disable_blocking_presets" = "Presets für 'Blockieren deaktiveren'";
+"preferences_home_disable_blocking_presets" = "Voreinstellungen für 'Blockieren deaktivieren'";
 "preferences_home_enable_blocking" = "Aktiviere Blockierung";
 "preferences_home_enable_blocking_show_alert" = "Frage nach Bestätigung vor Aktivierung";
 "preferences_home_notifications" = "Benachrichtigungen";
-"preferences_home_notifications_footer" = "Sendet eine Benachrichtigung sobald das Blockieren wieder aktiviert ist (nachdem das Blockieren deaktiviert wurde).";
+"preferences_home_notifications_footer" = "Sendet eine Benachrichtigung, sobald das Blockieren wieder aktiviert ist (nachdem das Blockieren deaktiviert wurde).";
 "preferences_home_notifications_enable" = "Blockieren aktiv";
-"preferences_home_notifications_time_sensitive" = "Als 'Zeit kritisch' ausgeben";
+"preferences_home_notifications_time_sensitive" = "Zeitnah darstellen";
 "preferences_home_badges" = "Badges";
-"preferences_home_badges_footer" = "Zeige ein '1' Badge auf dem App-Symbol, nachdem Du die Blockierung auf unbestimmte Zeit deaktiviert hast.";
-"preferences_home_badges_enable" = "Badge wenn 'Unbegrenzt deaktiviert'";
-"preferences_home_badges_remove" = "Entferne App icon Badges";
+"preferences_home_badges_footer" = "Zeige ein '1'-Kennzeichen auf dem App-Symbol, nachdem Du die Blockierung auf unbestimmte Zeit deaktiviert hast.";
+"preferences_home_badges_enable" = "Kennzeichen, wenn 'Unbegrenzt deaktiviert'";
+"preferences_home_badges_remove" = "Entferne App-Symbolkennzeichen";
 "preferences_home_refresh" = "Aktualisieren";
 "preferences_home_refresh_footer" = "Wird automatisch alle 10 Sekunden aktualisiert, wenn der Home-Tab geöffnet ist und die App im Vordergrund ist.";
-"preferences_home_auto_refresh" = "Auto-Refresh";
+"preferences_home_auto_refresh" = "Autoaktualisierung";
 "preferences_statistics_navbar" = "Statistiken";
 "preferences_statistics_graphs" = "Diagramme";
 "preferences_statistics_graphs_type" = "Typ";
-"preferences_statistics_graphs_hide" = "Verberge Graph";
+"preferences_statistics_graphs_hide" = "Diagramme ausblenden";
 "preferences_statistics_graphs_type_bar" = "Balkendiagramm";
 "preferences_statistics_graphs_type_line" = "Liniendiagramm";
 "preferences_statistics_show_recent_queries" = "'Letzte Anfragen' anzeigen";
 "preferences_statistics_hours_visible" = "Anzahl der Stunden";
 "preferences_statistics_animate_graphs" = "Diagrame animieren";
 "preferences_statistics_animation_duration" = "Animationsdauer";
-"preferences_statistics_top_domains" = "Top-Domains";
-"preferences_statistics_show_top_allowed" = "Top zugelassene zeigen";
-"preferences_statistics_show_top_blocked" = "Top blockierte zeigen";
-"preferences_statistics_number_of_domains" = "Anzahl Domains";
-"preferences_statistics_top_clients" = "Top-Geräte";
-"preferences_statistics_show_top_clients" = "Top-Geräte zeigen";
-"preferences_statistics_number_of_clients" = "Anzahl Geräte";
+"preferences_statistics_top_domains" = "Top-Domänen";
+"preferences_statistics_show_top_allowed" = "Meistzugelassene zeigen";
+"preferences_statistics_show_top_blocked" = "Meistblockierte zeigen";
+"preferences_statistics_number_of_domains" = "Domänen-Anzahl";
+"preferences_statistics_top_clients" = "Top-Klienten";
+"preferences_statistics_show_top_clients" = "Top-Klienten zeigen";
+"preferences_statistics_number_of_clients" = "Klienten-Anzahl";
 "preferences_statistics_other" = "Sonstiges";
 "preferences_statistics_other_footer" = "Pi-hole-Version anzeigen, API-Version und DNS-Cache-Informationen.";
 "preferences_statistics_hidden_domains" = "Ausgeblendete Domains";
-"preferences_statistics_show_systeminfo" = "Show System Info";
-"preferences_statistics_hidedomains_header" = "Domains ausblenden";
-"preferences_statistics_hidedomains_footer" = "Bestimmte Domains in der Statistik ausblenden.";
-"preferences_statistics_hidedomains_list_navbar" = "Domains ausblenden";
-"preferences_statistics_hidedomains_list_footer" = "Diese (Teil-)Domains werden in den Top-Listen ausgeblendet. Sie werden weiterhin in der Statistik auf der Registerkarte 'Home' berücksichtigt und erscheinen weiterhin im Anfrageprotokoll.";
+"preferences_statistics_show_systeminfo" = "Systemdaten anzeigen";
+"preferences_statistics_hidedomains_header" = "Domänen ausblenden";
+"preferences_statistics_hidedomains_footer" = "Bestimmte Domänen in der Statistik ausblenden.";
+"preferences_statistics_hidedomains_list_navbar" = "Domänen ausblenden";
+"preferences_statistics_hidedomains_list_footer" = "Diese (Teil-)Domänen werden in den Top-Listen ausgeblendet. Sie werden weiterhin in der Statistik auf der Registerkarte 'Home' berücksichtigt und erscheinen weiterhin im Anfrageprotokoll.";
 "preferences_statistics_hidedomains_list_none" = "Keine. Du kannst Einträge oben rechts hinzufügen!";
-"preferences_statistics_hidedomains_new_placeholder" = "Eingabe einer (Teil-)Domain";
+"preferences_statistics_hidedomains_new_placeholder" = "Eingabe einer (Teil-)Domäne";
 "preferences_statistics_hidedomains_new_picker" = "Übereinstimmende Bedingung";
 "preferences_statistics_hidedomains_new_picker_exactly" = "Genau";
 "preferences_statistics_hidedomains_new_picker_contains" = "Enthält";
-"preferences_statistics_hidedomains_new_navbar" = "Domain ausblenden";
+"preferences_statistics_hidedomains_new_navbar" = "Domäne ausblenden";
 "preferences_statistics_hidedomains_hide_from" = "Verberge von";
 "preferences_statistics_hidedomains_hide_from_statistics_only" = "Nur Statistiken";
-"preferences_statistics_hidedomains_hide_from_statistics_and_querylog" = "Statistik & Query Log";
-"preferences_querylog_navbar" = "Anfrage-Log";
-"preferences_querylog_show_sidebar" = "Sidebar anzeigen";
+"preferences_statistics_hidedomains_hide_from_statistics_and_querylog" = "Statistik- & Anfrageprotokoll";
+"preferences_querylog_navbar" = "Anfrageprotokoll";
+"preferences_querylog_show_sidebar" = "Seitenleiste anzeigen";
 "preferences_statistics_show_other" = "Weitere Informationen zeigen";
 "preferences_lists_navbar" = "Listen";
 "preferences_lists_display" = "Anzeigen";
 "preferences_lists_sort_by" = "Sortieren nach";
 "preferences_lists_terminology" = "Terminologie";
-"preferences_lists_terminology_black_white" = "Black & Whitelist";
-"preferences_lists_terminology_deny_allow" = "Deny & Allowlist";
+"preferences_lists_terminology_black_white" = "Schwarze & weiße Liste";
+"preferences_lists_terminology_deny_allow" = "Verbots- & Erlaubnisliste";
 "preferences_other_navbar" = "Sonstiges";
 "preferences_other_language" = "Sprache";
 "preferences_other_language_macos_alert" = "Ändere Sprache";
@@ -458,46 +458,46 @@
 "preferences_other_lock_password" = "Sperre mit Passwort";
 "preferences_other_lock_faceid" = "Sperre mit Face ID";
 "preferences_other_lock_touchid" = "Sperre mit Touch ID";
-"preferences_other_lock_footer" = "Wenn diese Option aktiviert ist, wird Pi-hole Remote gesperrt, wenn Du die App schließt. Beim erneuten Start wirst Du aufgefordert, Dich zu authentifizieren.";
+"preferences_other_lock_footer" = "Wenn diese Option aktiviert ist, wird Pi-hole Remote gesperrt, sobald Du die App schließt. Beim erneuten Start wirst Du aufgefordert, Dich zu authentifizieren.";
 "preferences_other_lock_require" = "erfordert";
 "preferences_other_lock_require_immediately" = "Sofort";
 "preferences_other_lock_require_1min" = "Nach 1 Minute";
 "preferences_other_lock_require_5min" = "Nach 5 Minuten";
 "preferences_other_lock_require_1hour" = "Nach 1 Stunde";
 "preferences_other_lock_unlock_button" = "Entsperren";
-"preferences_other_lock_unlock_footnote_tap" = "Tippe oben um Pi-hole Remote zu entsperren";
-"preferences_other_lock_unlock_footnote_click" = "Klicke oben um Pi-hole Remote zu entsperren";
+"preferences_other_lock_unlock_footnote_tap" = "Tippe oben, um Pi-hole Remote zu entsperren";
+"preferences_other_lock_unlock_footnote_click" = "Klicke oben, um Pi-hole Remote zu entsperren";
 
 // MARK: Design
 "design_navbar" = "Design";
 "design_colorscheme" = "Farbschema";
-"design_tint" = "App Farbe";
+"design_tint" = "App-Farbe";
 "design_tint_blue" = "Blau";
 "design_tint_indigo" = "Indigo";
 "design_tint_purple" = "Lila";
 "design_tint_teal" = "Türkis";
-"design_tint_mint" = "Mint";
+"design_tint_mint" = "Minze";
 "design_tint_green" = "Grün";
 "design_tint_yellow" = "Gelb";
 "design_tint_orange" = "Orange";
 "design_tint_pink" = "Rosa";
 "design_tint_red" = "Rot";
 "design_tint_brown" = "Braun";
-"design_icon" = "App Icon";
+"design_icon" = "App-Symbol";
 "design_icon_pihole" = "Pi-hole Remote";
-"design_icon_pihole_dark" = "Pi-hole Remote Dark";
-"design_icon_pihole_blueprint" = "Pi-hole Remote Blueprint";
-"design_icon_classic" = "Classic";
-"design_icon_classic_dark" = "Classic Dark";
-"design_theme" = "Theme";
+"design_icon_pihole_dark" = "Pi-hole Remote Dunkel";
+"design_icon_pihole_blueprint" = "Pi-hole Remote Blaupause";
+"design_icon_classic" = "Klassisch";
+"design_icon_classic_dark" = "Klassisch dunkel";
+"design_theme" = "Thema";
 "design_system" = "System";
-"design_light_mode" = "Light Mode";
-"design_dark_mode" = "Dark Mode";
+"design_light_mode" = "Standardmodus";
+"design_dark_mode" = "Dunkelmodus";
 
 // MARK: Tip Jar
 "tipjar_navbar" = "Trinkgeldglas";
 "tipjar_header" = "Eure Trinkgelder helfen Pi-hole Remote am Laufen zu halten. Ihr unterstützt direkt die Entwicklung von großartigen Funktionen und Verbesserungen.";
-"tipjar_header_2" = "Wenn Du diese App gerne benutzt und den Indie-Entwickler unterstützen möchtest (hi! 👋), bitte erwäge ein Trinkgeld zu hinterlassen. Ich würde es sehr schätzen!";
+"tipjar_header_2" = "Wenn Du diese App gerne benutzt und einen unabhängigen Entwickler unterstützen möchtest (Hallo! 👋), bitte erwäge ein Trinkgeld zu hinterlassen. Ich würde es sehr schätzen!";
 "tipjar_header_3" = "Vielen Dank für Deine Unterstützung.\n- Joost";
 "tipjar_tip_coffee" = "Für einen Kaffee";
 "tipjar_tip_whiskey" = "Für einen Whiskey";
@@ -506,14 +506,14 @@
 "tipjar_blush" = "*blush*";
 "tipjar_thankyou_tip" = "Danke für Dein großzügiges Trinkgeld!";
 "tipjar_thankyou_tips" = "Danke für Deine großzügigen Trinkgelder!";
-"tipjar_thankyou_loveyou" = "I love you! ❤️";
-"tipjar_testflight_explainer" = "Hinweis: Du testest einen TestFlight-Build aus, daher laufen die Zahlungen im Sandbox-Modus und werden nicht tatsächlich verarbeitet.\n\nWenn Du mir Trinkgeld geben möchtest, lade bitte die App aus dem App Store herunter! Danach kannst Du die Beta erneut herunterladen. Vielen Dank!";
+"tipjar_thankyou_loveyou" = "Ich liebe Dich! ❤️";
+"tipjar_testflight_explainer" = "Hinweis: Du testest eine TestFlight-Version, daher laufen die Zahlungen im Sandbox-Modus und werden nicht tatsächlich verarbeitet.\n\nWenn Du mir Trinkgeld geben möchtest, lade bitte die App aus dem App Store herunter! Danach kannst Du dann die Beta erneut herunterladen. Vielen Dank!";
 "tipjar_payment_successful" = "Zahlung erfolgreich";
-"tipjar_thankyou_alert" = "Vielen Dank, ich weiß es wirklich zu schätzen, dass Du die App so sehr liebst und bereit bist, mir Trinkgeld zu geben. Es ist extrem motivierend für mich. I love you!\n\nJoost";
+"tipjar_thankyou_alert" = "Vielen Dank, ich weiß es wirklich zu schätzen, dass Du die App so sehr liebst und bereit bist, mir Trinkgeld zu geben. Es ist extrem motivierend für mich. Ich liebe Dich!\n\nJoost";
 
 // MARK: Help & Feedback
 "help_navbar" = "Support";
-"help_faq" = "Frequently Asked Questions";
+"help_faq" = "Meistgestellte Fragen";
 "help_faq_short" = "FAQ";
 "help_contact" = "Kontakt";
 "help_actions" = "Aktionen";
@@ -521,8 +521,8 @@
 "help_actions_watch" = "Watch-Synchronisierung erzwingen";
 "help_actions_widgets" = "Widgets-Synchronisierung erzwingen";
 "help_logs" = "Logs";
-"help_logs_footer" = "Logs werden lokal aufgezeichnet und verlassen nie Dein Gerät. Wische nach unten, um den Log-Viewer zu verlassen.";
-"help_logs_show" = "Logs anzeigen";
+"help_logs_footer" = "Protokolle werden lokal aufgezeichnet und verlassen nie Dein Gerät. Wische nach unten, um die Protokollanzeige zu verlassen.";
+"help_logs_show" = "Protokoll anzeigen";
 
 // MARK: Changelog
 "changelog_navbar" = "Was ist neu";
@@ -533,21 +533,21 @@
 "changelog_just_updated" = "Gerade aktualisiert!";
 "changelog_current_version" = "Aktuell";
 "changelog_continue" = "Fortfahren";
-"changelog_view_full" = "Vollständiges Changelog anzeigen";
-"changelog_show_feature_promo" = "Feature Promo anzeigen";
-"changelog_settings" = "Changelog-Einstellungen";
-"changelog_settings_show" = "Beim App-Update anzeigen";
-"changelog_settings_show_footer" = "Das Changelog wird nur für Feature-Updates angezeigt, nicht für Updates, die nur Bugfixes enthalten.";
+"changelog_view_full" = "Vollständige Änderungen anzeigen";
+"changelog_show_feature_promo" = "Ausstattungsmerkmale anzeigen";
+"changelog_settings" = "Änderungseinstellungen";
+"changelog_settings_show" = "Bei der App-Aktualisierung anzeigen";
+"changelog_settings_show_footer" = "Die Änderungsliste wird nur für Aktualisierungen mit neuen Funktionen angezeigt, nicht jedoch, wenn lediglich Fehlerbereinigungen enthalten sind.";
 
 // MARK: Made by RocketScience
-"rocketscience_hi_title" = "Hi, ich bin Joost!";
-"rocketscience_hi_subtitle" = "Im Juni 2020 begann ich, als unabhängiger Entwickler unter dem Namen 'RocketScience IT' meine eigenen Anwendungen zu entwickeln.\n\nMein Hauptziel ist es, zu lernen: Design, Entwicklung, Testen, Support, Förderung - vielleicht sogar mehr! Im Moment habe ich mehrere Apps im Store, die ich ständig verbessere und ich habe viele Ideen für andere Apps, die ich in Zukunft machen möchte.";
+"rocketscience_hi_title" = "Hallo, ich bin Joost!";
+"rocketscience_hi_subtitle" = "Im Juni 2020 begann ich, als unabhängiger Entwickler unter dem Namen 'RocketScience IT' meine eigenen Anwendungen zu entwickeln.\n\nMein Hauptziel ist es, zu lernen: Design, Entwicklung, Testen, Support, Förderung – vielleicht sogar mehr! Im Moment habe ich mehrere Apps im Store, die ich ständig verbessere und habe viele Ideen für weitere Apps, die ich in Zukunft entwickeln möchte.";
 "rocketscience_website" = "Website";
 "rocketscience_twitter" = "Twitter";
 "rocketscience_tipjar" = "Trinkgeldglas";
 "rocketscience_tipjar_thankyou" = "Dankeschön!";
 "rocketscience_my_other_apps" = "Meine weiteren Apps";
-"rocketscience_adguardhomeremote_subtitle" = "Es ist wie Pi-hole Remote, aber für AdGuard Home!";
+"rocketscience_adguardhomeremote_subtitle" = "Wie Pi-hole Remote, aber für AdGuard Home!";
 "rocketscience_mango_subtitle" = "Eine saubere Anime & Manga Tracker App, die die MyAnimeList API benutzt.";
 "rocketscience_energieradar_subtitle" = "Überwache die Strom- und Gaspreise in Echtzeit in vielen europäischen Ländern.";
 "rocketscience_acknoledgements" = "Besonderen Dank an";
@@ -568,7 +568,7 @@
 "until_turned_on" = "Bis zum Reaktivieren";
 "indefinitely" = "Unbegrenzt";
 "custom" = "Individuell";
-"custom_dots" = "Individuell ...";
+"custom_dots" = "Individuell …";
 
 // MARK: - Other
 
@@ -577,7 +577,7 @@
 "notification_instance_blocking_enabled_subtitle" = "Blockierung ist nun wieder aktiv.";
 "notification_disable_60" = "Erneut für 1 Minute deaktivieren";
 "notification_disable_300" = "Erneut für 5 Minuten deaktivieren";
-"notification_disable_until_enabled" = "Wieder deaktivieren, bis manuell aktiviert";
+"notification_disable_until_enabled" = "Erneut deaktivieren bis manuell aktiviert";
 
 // MARK: Context Menus
 "copy" = "Kopieren";
@@ -586,10 +586,10 @@
 "copy_ip" = "IP kopieren";
 "copy_hostname_or_ip" = "Hostname / IP kopieren";
 "add_to_list_dots" = "Zur Liste hinzufügen...";
-"view_queries_to_domain" = "Domainanfragen anzeigen";
+"view_queries_to_domain" = "Domänenanfragen anzeigen";
 "view_queries_from_client" = "Anfragen von Geräten anzeigen";
-"visit_domain" = "Domain besuchen";
-"statistics_hide_domain" = "Domains in der Statistik ausblenden";
+"visit_domain" = "Domäne besuchen";
+"statistics_hide_domain" = "Domänen in der Statistik ausblenden";
 
 // MARK: Miscellaneous
 "instances" = "Instanzen";
@@ -599,7 +599,7 @@
 "choose_instance" = "Instanze auswählen";
 "show_instance" = "Instance anzeigen:";
 "add_pihole" = "Pi-hole hinzufügen";
-"loading_dots" = "Lädt...";
+"loading_dots" = "Lädt …";
 "something_went_wrong" = "Etwas ist schief gelaufen.";
 "please_check_api_token" = "Bitte überprüfe Deine Einstellungen für API-Token und die Datenschutzstufe.";
 "could_not_get_data" = "Konnte keine Daten abrufen.";
@@ -614,39 +614,39 @@
 "save" = "Speichern";
 "apply" = "Anwenden";
 "cancel" = "Abbrechen";
-"edit" = "Editieren";
+"edit" = "Bearbeiten";
 "remove" = "Entfernen";
-"more_dots" = "More...";
+"more_dots" = "Mehr …";
 "off" = "Aus";
 "on" = "An";
 "ms" = "ms";
-"dots" = "...";
+"dots" = "…";
 
 // MARK: - Widgets
 "total" = "Total";
 "blocked" = "Blockiert";
 "entries" = "Einträge";
 "queries" = "Anfragen";
-"blocklist" = "Blockliste";
+"blocklist" = "Blockierliste";
 "widget_statistic" = "Statistik";
 "widget_statistic_description" = "Behalte eine Statistik im Auge.";
 "widget_statistics" = "Statistiken";
 "widget_statistics_description" = "Behalte alle Statistiken im Auge.";
 "widget_statistics_and_disable" = "Statistiken & Deaktivieren";
 "widget_statistics_and_disable_description" = "Statistik mit anpassbaren Schaltflächen zum schnellen Deaktivieren der Blockierung.";
-"widget_querygraph" = "Anfrage-Grafik";
+"widget_querygraph" = "Anfragegrafik";
 "widget_querygraph_description" = "Überprüfe Deine Anfragen im Laufe der Zeit.";
 "widget_disable" = "Deaktivieren";
 "widget_disable_description" = "Schnelles Deaktivieren der Blockierung mit anpassbaren Tasten.";
 
 // MARK: - Live Activities & Dynamic Island
-"live_activity_until_enabled" = "until enabled";
-"live_activity_end" = "End Live Activity";
+"live_activity_until_enabled" = "bis zur Aktivierung";
+"live_activity_end" = "Live-Aktivierung beenden";
 
 // MARK: - watchOS Specific
 "watchos_home_queries" = "Anfragen";
 "watchos_home_blocked" = "Blockiert";
-"watchos_home_blocklist" = "Blockliste";
+"watchos_home_blocklist" = "Blockierliste";
 "watchos_home_navbar" = "Pi-hole";
 "watchos_home_both" = "Beide";
 "watchos_home_disable" = "Deaktivieren";
@@ -654,7 +654,7 @@
 "watchos_blocking_alert_title" = "Blockierung deaktivieren";
 "watchos_for_how_long" = "Für wie lange?";
 "watchos_no_instances_headline" = "Bitte füge eine Pi-Hole-Instanz in der iPhone-App hinzu.";
-"watchos_no_instances_subheadline" = "Wenn Du dies bereits getan hast, geh bitte zu Deiner Instanz, drück 'Bearbeiten' und anschließend direkt erneut 'Speichern'. Danach sollte die Instanz hier auftauchen. Wenn die Statistik zunächst nicht geladen wird, starte bitte die Watch-App neu. Danke!";
+"watchos_no_instances_subheadline" = "Wenn Du dies bereits getan hast, gehe bitte zu Deiner Instanz, drücke 'Bearbeiten' und anschließend direkt erneut 'Speichern'. Danach sollte die Instanz hier erscheinen. Wenn die Statistik zunächst nicht geladen wird, starte bitte die Watch-App neu. Danke!";
 
 // MARK: - tvOS Specific
 "tvos_blocking_alert_body" = "Blockierung deaktivieren";
@@ -669,5 +669,5 @@
 "tvos_enter_passcode" = "Passcode eingeben";
 "tvos_go_back" = "Zurück";
 "tvos_disable_%@" = "Deaktiviere | %@";
-"tvos_no_instances_headline" = "Keine Instanz gefunden.\n\nBitte stelle sicher, dass dein Pi-hole über die Pi-hole Remote App für iPhone oder iPad konfiguriert ist und du dort mit dem selben iCloud-Konto angemeldet bist, wie der derzeit aktive Apple TV-Benutzer.";
-"tvos_no_instances_subheadline" = "Benötigt Pi-hole Remote v2.8+ auf iOS, iPadOS oder macOS.";
+"tvos_no_instances_headline" = "Keine Instanz gefunden.\n\nBitte stelle sicher, dass Dein Pi-hole über die Pi-hole Remote App für iPhone oder iPad konfiguriert ist und Du dort mit dem selben iCloud-Konto angemeldet bist, wie der derzeit aktive Apple TV-Benutzer.";
+"tvos_no_instances_subheadline" = "Benötigt Pi-hole Remote v2.8 oder neuer auf iOS, iPadOS oder macOS.";
