@@ -27,6 +27,7 @@
 "home_disable_blocking" = "Απενεργοποίηση αποκλεισμού";
 "home_disable_blocking_pihole" = "Απενεργοποίηση αποκλεισμού Pi-hole";
 "home_disable_blocking_alert_%@" = "Για πόσο θέλετε να απενεργοποιήσετε το %@;";
+"home_disabled" = "Απενεργοποιήθηκαν";
 "home_enable" = "Ενεργοποίηση";
 "home_enable_all" = "Ενεργοποίηση όλων";
 "home_enable_blocking" = "Ενεργοποίηση αποκλεισμού";
@@ -452,6 +453,7 @@
 "preferences_lists_terminology_black_white" = "Black & Whitelist";
 "preferences_lists_terminology_deny_allow" = "Deny & Allowlist";
 "preferences_other_navbar" = "Άλλα";
+"preferences_other_live_activity" = "Live Activity";
 "preferences_other_language" = "Γλώσσα";
 "preferences_other_language_macos_alert" = "Change Language";
 "preferences_other_language_macos_alert_body" = "To change the language of the app on macOS, open 'System Preferences > Language & Region > Apps' and add the app there.";

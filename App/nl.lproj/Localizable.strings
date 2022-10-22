@@ -27,6 +27,7 @@
 "home_disable_blocking" = "Schakel blokkeren uit";
 "home_disable_blocking_pihole" = "Schakel Pi-hole blokkeren uit";
 "home_disable_blocking_alert_%@" = "Hoe lang wil je blokkeren uitschakelen voor %@?";
+"home_disabled" = "Uitgeschakeld";
 "home_enable" = "Schakel in";
 "home_enable_all" = "Schakel alle in";
 "home_enable_blocking" = "Schakel blokkeren in";
@@ -452,6 +453,7 @@
 "preferences_lists_terminology_black_white" = "Black & Whitelist";
 "preferences_lists_terminology_deny_allow" = "Deny & Allowlist";
 "preferences_other_navbar" = "Overig";
+"preferences_other_live_activity" = "Live Activiteit";
 "preferences_other_language" = "Taal";
 "preferences_other_language_macos_alert" = "Taal wijzigen";
 "preferences_other_language_macos_alert_body" = "Om de taal van de app te wijzigen op macOS, open 'Systeemvoorkeuren > Taal en regio > Apps' en voeg de app daar toe.";

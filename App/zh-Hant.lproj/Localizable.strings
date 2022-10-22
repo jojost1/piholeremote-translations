@@ -27,6 +27,7 @@
 "home_disable_blocking" = "禁用封鎖";
 "home_disable_blocking_pihole" = "禁用 Pi-hole 封鎖";
 "home_disable_blocking_alert_%@" = "您想要對 %@ 禁用封鎖多久呢？";
+"home_disabled" = "已禁用";
 "home_enable" = "啟用";
 "home_enable_all" = "啟用全部";
 "home_enable_blocking" = "啟用封鎖";
@@ -452,6 +453,7 @@
 "preferences_lists_terminology_black_white" = "Black & Whitelist";
 "preferences_lists_terminology_deny_allow" = "Deny & Allowlist";
 "preferences_other_navbar" = "Other";
+"preferences_other_live_activity" = "Live Activity";
 "preferences_other_language" = "Language";
 "preferences_other_language_macos_alert" = "Change Language";
 "preferences_other_language_macos_alert_body" = "To change the language of the app on macOS, open 'System Preferences > Language & Region > Apps' and add the app there.";

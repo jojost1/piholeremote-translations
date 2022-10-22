@@ -27,6 +27,7 @@
 "home_disable_blocking" = "Вимкнути блокування";
 "home_disable_blocking_pihole" = "Вимкнути Pi-hole блокування";
 "home_disable_blocking_alert_%@" = "На який проміжок часу ви хочете вимкнути блокування для %@?";
+"home_disabled" = "Вимкнено";
 "home_enable" = "Увімкнути";
 "home_enable_all" = "Увімкнути всі";
 "home_enable_blocking" = "Увімкнути блокування";
@@ -452,6 +453,7 @@
 "preferences_lists_terminology_black_white" = "Чорний та Білий списки";
 "preferences_lists_terminology_deny_allow" = "Заборонений та Дозволений списки";
 "preferences_other_navbar" = "Інше";
+"preferences_other_live_activity" = "Live Activity";
 "preferences_other_language" = "Мова";
 "preferences_other_language_macos_alert" = "Змінити мову";
 "preferences_other_language_macos_alert_body" = "Щоб змінити мову програми на macOS, відкрийте 'Системні параметри > Мова і регіон > Програми' та додайте програму там.";

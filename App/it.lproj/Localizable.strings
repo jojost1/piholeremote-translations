@@ -27,6 +27,7 @@
 "home_disable_blocking" = "Disabilita il blocco";
 "home_disable_blocking_pihole" = "Disabilita il blocco di Pi-hole";
 "home_disable_blocking_alert_%@" = "Per quanto tempo vuoi disabilitare il blocco per %@?";
+"home_disabled" = "Disabilitato";
 "home_enable" = "Abilita";
 "home_enable_all" = "Abilita tutto";
 "home_enable_blocking" = "Abilita il blocco";
@@ -452,6 +453,7 @@
 "preferences_lists_terminology_black_white" = "Black & Whitelist";
 "preferences_lists_terminology_deny_allow" = "Lista bloccati & permessi";
 "preferences_other_navbar" = "Altro";
+"preferences_other_live_activity" = "Live Activity";
 "preferences_other_language" = "Lingua";
 "preferences_other_language_macos_alert" = "Cambia lingua";
 "preferences_other_language_macos_alert_body" = "Per cambiare la lingua sull'app macOS, apri 'Preferenze di Sistema > Lingua & Zona > App' e aggiungi l'app alla lista.";
