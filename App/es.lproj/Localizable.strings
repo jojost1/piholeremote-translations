@@ -182,8 +182,8 @@
 "querylog_detail_id_blocking_regex" = "ID de Regex Bloqueante";
 
 // MARK: QueryLog LiveLog
-"livelog" = "Registro en Vivo";
-"livelog_navbar" = "Registro en Vivo";
+"livelog" = "Registro en Directo";
+"livelog_navbar" = "Registro en Directo";
 "livelog_noqueriesfoundyet" = "No se han encontrado consultas aún...";
 
 // MARK: - Lists-tab
@@ -453,7 +453,7 @@
 "preferences_lists_terminology_black_white" = "Lista Blanca y Negra";
 "preferences_lists_terminology_deny_allow" = "Lista Permitido y Bloqueado";
 "preferences_other_navbar" = "Otros";
-"preferences_other_live_activity" = "Actividad en Vivo";
+"preferences_other_live_activity" = "Actividad en Directo";
 "preferences_other_language" = "Idioma";
 "preferences_other_language_macos_alert" = "Cambiar Idioma";
 "preferences_other_language_macos_alert_body" = "Para cambiar el idioma en la app de macOS, abre 'Preferencias del Sistema > Idioma y región > Apps' y añade ahí la aplicación.";
@@ -643,7 +643,7 @@
 
 // MARK: - Live Activities & Dynamic Island
 "live_activity_until_enabled" = "hasta que esté habilitado";
-"live_activity_end" = "Finalizar Actividad en Vivo";
+"live_activity_end" = "Finalizar Actividad en Directo";
 
 // MARK: - watchOS Specific
 "watchos_home_queries" = "Consultas";
