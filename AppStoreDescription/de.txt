@@ -10,7 +10,7 @@ Schaue Dir an, welche Domains in Deinem Netzwerk am häufigsten abgefragt werden
 *White & Blacklist*
 Füge schnell neue Einträge zu Deinen Listen innerhalb der App oder mit der iOS Share Extension hinzu. Du kannst auch Bulk-Einträge hinzufügen und Listeneinträge exportieren. Wenn Du zwei Pi-hole-Instanzen hast, kannst Du die Filterlisten sogar automatisch synchronisieren!
 
-*Widgets (ab iOS 14)*
+*Widgets & Live Activity*
 Wähle aus einer breiten Palette von Widgets für den Homescreen, die Statistiken oder Anfrage-Diagramme anzeigen. Die Widgets sind mit vielen Optionen individuell anpassbar!
 
 ==
