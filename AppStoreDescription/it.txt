@@ -9,7 +9,7 @@ Dai un'occhiata a quali domini sono i più interrogati sulla tua rete, così com
 *Whitelist & Blacklist*
 Aggiungi rapidamente elementi alle tue liste all'interno dell'app o tramite il menu condividi di iOS. Puoi anche aggiungere elementi in gruppo o esportare le tue liste. Se hai due istanze Pi-hole puoi anche sincronizzarle!
 
-*Widget per la Homescreen*
+*Widget per la Homescreen (iOS 14)*
 Seleziona tra una vasta scelta di widget per la schermata home che mostrano le statistiche o il grafico delle interrogazioni. Tutti personalizzabili con un folta serie di opzioni!
 
 ==

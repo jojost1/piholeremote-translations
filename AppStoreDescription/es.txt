@@ -4,7 +4,7 @@ Pi-hole Remote es una aplicación de terceros sobre Pi-hole que te permite activ
 Desactiva rápidamente el bloqueo durante unos minutos con sólo un par de toques. ¡Incluso puedes utilizar los atajos de Siri para desactivar el bloqueo con tu voz! Si tienes varias instancias, puedes desactivar el bloqueo para todas ellas con un solo toque.
 
 *Estadísticas & Consultas*
-Examina los dominios que más se consultan en tu red, así como los clientes que más solicitudes realizan. Observa las consultas ordenadas por dominio, cliente o tipo. ¡Incluso puedes ver el registro en directo que muestra las consultas en tiempo real!
+Examina los dominios que más se consultan en tu red, así como los clientes que más solicitudes realizan. Observa las consultas ordenadas por dominio, cliente o tipo. ¡Incluso puedes ver el registro en vivo que muestra las consultas en tiempo real!
 
 *Bloqueo de Servicios*
 ¿Quieres restringir rápidamente el acceso a Facebook, YouTube, Snapchat y más? Bloquea todo tipo de servicios sin esfuerzo con un sólo toque.
@@ -30,7 +30,7 @@ Funcionalidades iPhone, iPad, macOS:
 - Exportar la lista de entradas
 - Sincronizar lista de entradas entre dos instancias
 - Registro de consultas completo con búsquedas y filtros
-- Registro en directo que muestra las consultas en tiempo real
+- Registro en vivo que muestra las consultas en tiempo real
 - Gestionar entradas DNS y CNAME locales
 - Soporte de hasta 4 instancias Pi-hole con estadísticas y consultas combinadas
 - Capacidad de escanear el código QR de token Pi-hole

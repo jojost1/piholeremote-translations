@@ -15,8 +15,8 @@ Voeg snel nieuwe entries toe aan je lijsten via de app of met de iOS Share Exten
 *Lokale DNS*
 Beheer je lokale DNS en CNAME records!
 
-*Widgets & Live Activiteit*
-Zet widgets op je homescreen of lock screen om snel je Pi-hole uit te schakelen of om snel statistieken te zien. Alle widgets zijn aan te passen, zoals de kleur, tap-acties of status-indicator. Daarnaast zie je een Live Activiteit op je lock screen en Dynamic Island wanneer je blokkeren tijdelijk uitschakelt!
+*Widgets*
+Zet widgets op je homescreen om snel je Pi-hole uit te schakelen of om snel statistieken te zien. Alle widgets zijn aan te passen, zoals de kleur, tap-acties of status-indicator.
 
 *Volledig Ecosysteem*
 Koop de app één keer en krijg toegang tot de iOS, watchOS, iPadOS, macOS en tvOS app.

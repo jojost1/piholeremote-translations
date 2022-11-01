@@ -6,6 +6,6 @@
   Copyright © 2021 RocketScience. All rights reserved.
 */
 
-"NSCameraUsageDescription" = "Pi-hole Remote uses your camera to scan your Pi-hole API token QR-code.";
-"NSFaceIDUsageDescription" = "Pi-hole Remote uses Face ID to unlock the app.";
-"NSLocalNetworkUsageDescription" = "Pi-hole Remote uses the local network to connect with your Pi-hole instances.";
+"NSCameraUsageDescription" = "Pi-hole Remote sử dụng camera của bạn để quét mã QR token của Pi-hole API.";
+"NSFaceIDUsageDescription" = "Pi-hole Remote sử dụng Face ID để mở khóa ứng dụng.";
+"NSLocalNetworkUsageDescription" = "Pi-hole Remote sử dụng mạng nội bộ để kết nối tới các máy chủ Pi-hole của bạn.";

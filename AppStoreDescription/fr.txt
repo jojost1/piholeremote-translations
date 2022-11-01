@@ -9,7 +9,7 @@ Découvrez les domaines les plus interrogés sur votre réseau, ainsi que les cl
 *Liste blanche et liste noire
 Ajoutez rapidement de nouvelles entrées à vos listes dans l'application ou avec l'extension iOS Share. Vous pouvez également ajouter des entrées en masse et exporter des entrées de liste. Si vous avez deux instances de Pi-hole, vous pouvez même synchroniser automatiquement vos listes !
 
-*Widgets d'écran d'accueil
+*Widgets d'écran d'accueil (iOS 14)
 Choisissez parmi une large gamme de widgets d'écran d'accueil qui affichent des statistiques ou un graphique de requête. Tous sont personnalisables grâce à un large éventail d'options !
 
 ==

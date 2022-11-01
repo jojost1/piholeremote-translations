@@ -9,7 +9,7 @@ Descubra quais domínios são os mais consultados, assim como quais clientes na 
 *White & Blacklist*
 Adicione novas entradas rapidamente, tanto de dentro do aplicativo ou usando a extensão para iOS. Você pode também adicionar entradas em massa ou exportar listas. Se você tem mais de um Pi-Hole na sua rede você pode automaticamente sincronizar suas listas entre todos os Pi-Holes!
 
-*Widgets*
+*Homescreen Widgets (iOS 14)*
 Escolha entre uma variada lista de opções de widgets para o homescreen do seu iPhone que mostram gráficos e estatísticas. Todas as opções são customizáveis e oferecem uma grande gama de opções!
 
 ==

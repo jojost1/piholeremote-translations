@@ -15,8 +15,8 @@ Quickly add new entries to your lists inside the app or with the iOS Share Exten
 *Local DNS*
 Manage your Local DNS and CNAME records, right from the app!
 
-*Widgets & Live Activity*
-Choose from a wide range of homescreen and lock screen widgets that show statistics or graphs. All are customisable with a wide range of options! When you disable blocking, you will even see a Live Activity on your lock screen and Dynamic Island.
+*Homescreen Widgets*
+Choose from a wide range of homescreen widgets that show statistics or graphs. All are customisable with a wide range of options!
 
 *Full Ecosystem*
 Purchase the app once and get access to the iOS, watchOS, iPadOS, macOS, and tvOS app.

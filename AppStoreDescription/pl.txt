@@ -9,7 +9,7 @@ Przeglądaj, które domeny są najczęściej wyszukiwane oraz którzy klienci wy
 *Białe i czarne listy*
 Szybko dodawaj nowe domeny do twoich list, przy pomocy przycisku "Udostępnij" wbudowanego w iOS. Możesz również dodawać masowo wpisy do twoich list. Również jak masz dwie instację, możesz włączyć pomiędzy nimi automatyczą synchronizację!
 
-*Widżety*
+*Widżety (iOS 14)*
 Wybieraj spośród wielu widżetów, które będą ci w szybki sposób pokazywać aktualne statystyki lub wykresy.
 
 ==
