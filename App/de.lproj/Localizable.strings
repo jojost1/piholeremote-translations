@@ -550,6 +550,7 @@
 "rocketscience_tipjar_thankyou" = "Dankeschön!";
 "rocketscience_my_other_apps" = "Meine weiteren Apps";
 "rocketscience_adguardhomeremote_subtitle" = "Wie Pi-hole Remote, aber für AdGuard Home!";
+"rocketscience_adguarddnsremote_subtitle" = "Rather use AdGuard DNS? I've got you covered.";
 "rocketscience_mango_subtitle" = "Eine saubere Anime & Manga Tracker App, die die MyAnimeList API benutzt.";
 "rocketscience_energieradar_subtitle" = "Überwache die Strom- und Gaspreise in Echtzeit in vielen europäischen Ländern.";
 "rocketscience_acknoledgements" = "Besonderen Dank an";
