@@ -1,37 +1,37 @@
-"52ZpIp" = "Enable blocking of all Pi-hole instances.";
+"52ZpIp" = "Bật chế độ chặn của tất cả máy chủ Pi-hole.";
 
-"5NF9k6" = "Blocking is disabled.";
+"5NF9k6" = "Chế độ chặn được tắt.";
 
-"5ojS3R" = "Disable Blocking";
+"5ojS3R" = "Tắt chế độ chặn";
 
-"9FPMmR" = "${displayName} can’t be negative.";
+"9FPMmR" = "${displayName} không thể có giá trị âm.";
 
-"DV9FMe" = "${displayName} can’t be lower than ${minimumValue}.";
+"DV9FMe" = "${displayName} không thể nhỏ hơn ${minimumValue}.";
 
-"DWtISX" = "Disable Pi-hole blocking for ${duration} seconds on all instances";
+"DWtISX" = "Tắt chế độ chặn của Pi-hole trong vòng ${duration} giây trên tất cả các máy chủ";
 
-"M5KC9R" = "${displayName} can’t be higher than ${maximumValue}.";
+"M5KC9R" = "${displayName} không thể lớn hơn ${maximumValue}.";
 
-"NCc7a7" = "Duration (seconds)";
+"NCc7a7" = "Khoảng thời gian (giây)";
 
-"ONPW00" = "Something went wrong.";
+"ONPW00" = "Đã có lỗi xảy ra.";
 
-"Q3m6RA" = "Enable Blocking";
+"Q3m6RA" = "Bật chế độ chặn";
 
-"ReHHsS" = "For what duration (in seconds)?";
+"ReHHsS" = "Trong khoảng thời gian bao nhiêu (tính bằng giây)?";
 
-"ReQD4w" = "Enable Pi-hole blocking on all instances";
+"ReQD4w" = "Bật chế độ chặn trên tất cả các máy chủ Pi-hole";
 
-"WEZcVp" = "Something went wrong.";
+"WEZcVp" = "Đã có lỗi xảy ra.";
 
-"ZGxE4l" = "Blocking is enabled.";
+"ZGxE4l" = "Chế độ chặn được bật.";
 
-"bsYmWU" = "Blocking is enabled.";
+"bsYmWU" = "Chế độ chặn được bật.";
 
-"fh8rEK" = "Disable blocking of all Pi-hole instances for a certain duration.";
+"fh8rEK" = "Tắt chế độ chặn của tất cả các máy chủ Pi-hole trong một khoảng thời gian nhất định.";
 
-"qJR6Qa" = "Result";
+"qJR6Qa" = "Kết quả";
 
-"y2Dkc8" = "Result";
+"y2Dkc8" = "Kết quả";
 
-"zI7r5m" = "Blocking is disabled.";
+"zI7r5m" = "Chế độ chặn được tắt.";

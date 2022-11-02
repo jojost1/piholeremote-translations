@@ -1,82 +1,82 @@
-Pi-hole Remote is a third party Pi-hole application that lets you quickly enable/disable your Pi-hole, as well as add domains to your whitelist/blacklist and view statistics such as top allowed and blocked domains!
+Pi-hole Remote là một ứng dụng Pi-hole bên thứ ba giúp bạn bật/tắt máy chủ Pi-hole của bạn tiện lợi hơn, đồng thời thêm tên miền vào danh sách chặn/danh sách cho phép của bạn và xem thống kê như những tên miền được cho phép và chặn nhiều nhất!
 
-*Disable Blocking*
-Quickly disable blocking for a few minutes with only a few taps. You can even use Siri Shortcuts to disable blocking with your voice! If you have multiple instances, you can disable blocking for all of them with one tap.
+*Tắt chế độ chặn*
+Nhanh chóng tắt chế độ chặn trong vài phút chỉ với vài cú chạm. Bạn cũng có thể dùng phím tắt Siri để tắt chế độ chặn bằng giọng nói của bạn! Nếu bạn có nhiều máy chủ Pi-hole khác nhau, bạn cũng có thể tắt chế độ chặn trên tất cả chỗ máy chủ đó chỉ bằng một chú chạm tay!
 
-*Statistics & Queries*
-Look up what domains are queried most on your network, as well as clients that send out the most requests. See queries sorted by domain, client, or type. You can even view a Live Log that shows requests in real-time!
+*Thống kê & truy vấn*
+Xem tên miền nào được truy vấn nhiều nhất trong mạng của bạn, đồng thời xem thiết bị nào kết nối nhiều nhất!. Xem các truy vấn trong dạng được sắp xếp dựa theo tên miền, thiết bị hoặc loại. Bạn cũng có thể xem các lượt truy vấn được tạo trên máy chủ Pi-hole của bạn trong thời gian thực!
 
-*Blocked Services*
-Want to quickly restrict access to Facebook, YouTube, Snapchat, and more? Block all kinds of services effortlessly with just one tap.
+*Chặn dịch vụ dễ dàng*
+Muốn chặn các dịch vụ như Facebook, YouTube, Snapchat, và hơn nữa một cách nhanh chóng? Chặn các dịch vụ một cách dễ dàng chỉ với một cú nhấp!
 
-*White & Blacklist*
-Quickly add new entries to your lists inside the app or with the iOS Share Extension. You can also add entries in bulk and export list entries. If you have two Pi-hole instances, you can even automatically sync your lists!
+*Danh sách cho phép & chặn*
+Nhanh chóng thêm nhiều chỉ mục vào các danh sách ngay ở bên trong ứng dụng, hoặc qua tiện ích chia sẻ của iOS. Bạn còn có thể thêm các chỉ mục dưới số lượng lớn và xuất chúng ra ngoài. Nếu bạn có hai máy chủ Pi-hole, bạn còn có thể đồng bộ danh sách của chúng lại với nhau!
 
-*Local DNS*
-Manage your Local DNS and CNAME records, right from the app!
+*DNS nội bộ*
+Quản lý DNS nội bộ và and bản ghi CNAME, ngay trong ứng dụng!
 
-*Widgets & Live Activity*
-Choose from a wide range of homescreen and lock screen widgets that show statistics or graphs. All are customisable with a wide range of options! When you disable blocking, you will even see a Live Activity on your lock screen and Dynamic Island.
+*Tiện ích màn hình chính và Hoạt động trực tiếp*
+Chọn nhiều loại tiện ích khác nhau hiển thị thống kê hoặc biểu đồ theo sở thích của bạn! Tất cả đều có thể tùy biến được với nhiều lựa chọn khác nhau! Khi bạn tắt chế độ chặn, bạn sẽ còn thấy cả một tiện ích hoạt động trực tiếp *nhìn rất là chất* trên màn hình khóa và trên cả cái 'Đảo động' của bạn nữa!
 
-*Full Ecosystem*
-Purchase the app once and get access to the iOS, watchOS, iPadOS, macOS, and tvOS app.
+*Hệ sinh thái toàn diện*
+Mua ứng dụng một lần và có ngay ứng dụng trên mọi nền tảng hệ điều hành của Apple: iOS, watchOS, iPadOS, macOS và tvOS!
 
 ==
 
-iPhone, iPad, macOS features:
-- Disable Pi-hole blocking
-- View basic & advanced statistics
-- Add domains to your whitelist or blacklist (in bulk)
-- Export your list entries
-- Sync list entries between two instances
-- Full Query Log with search & filters
-- Live Log which shows queries in real-time
-- Manage Local DNS & CNAME records
-- Support for up to 4 Pi-hole instances with combined statistics and queries
-- Support for scanning Pi-hole token QR code
-- Support for SSL and reverse proxies
-- Widgets
-- Siri Shortcuts & Quick Action
-- Share Extension for quick white/blacklisting
-- VoiceOver support
-- FaceID/TouchID lock
-- Dark Mode, custom color schemes, alternative app icons
-- Optimised design for iPadOS & macOS
-- Clean and modern 100% SwiftUI design
+Tính năng của iPhone, iPad và macOS:
+- Tắt chế độ chặn Pi-hole
+- Xem thống kê sơ lược và chi tiết
+- Thêm tên miền vào danh sách chặn/cho phép (có thể trong số lượng lớn)
+- Xuất các chỉ mục trong danh sách
+- Đồng bộ danh sách giữa 2 máy chủ
+- Bản ghi truy vấn đầy đủ với tìm kiếm và bộ lọc
+- Bản ghi trực tiếp cho phép xem các truy vấn trong thời gian thực
+- Quản lý DNS nội bộ và bản ghi CNAME
+- Hỗ trợ lên tới 4 máy chủ Pi-hole với thông kế và truy vấn kết hợp
+- Hỗ trợ quét mã QR token Pi-hole
+- Hỗ trợ SSL và reverse proxy
+- Hỗ trợ tiện ích
+- Phím tắt Siri & Hành động nhanh
+- Tiện ích chia sẻ nhanh cho việc thêm chỉ mục vào danh sách cấm/cho phép dễ dàng hơn
+- Hỗ trợ VoiceOver
+- Khóa FaceID/TouchID
+- Chế độ tối, chỉnh màu app, nhiều biểu tượng app khác nhau
+- Thiết kế được tối ưu cho iPadOS và macOS
+- 100% Thiết kế SwiftUI gọn gàng và hiện đại
 
 Apple Watch features:
-- View basic statistics
-- Disable Pi-hole blocking
-- View top allowed, top blocked, top clients
-- Complications
+- Xem thống kê cơ bản
+- Tắt chế độ chặn Pi-hole
+- Xem số lượng cho phép/chặn và thiết bị nhiều nhất
+- Hỗ trợ tổ hợp trên mặt đồng hồ
 
 Apple TV features:
-- View basic statistics
-- Disable Pi-hole blocking
-- Require Passcode on Disable
+- Xem thống kê cơ bản
+- Tắt chế độ chặn Pi-hole
+- Yêu cầu mật khẩu khi tắt chế độ chặn Pi-hole
 
 Statistics:
-- Total Queries
-- Queries/Percentage Blocked
-- Blocklist + Gravity Last Updated
-- Temperature & Memory Usage
-- Graph Queries Overtime
-- Top Allowed Domains
-- Top Blocked Domains
-- Top Clients
-- Unique Domains/Clients
-- Clients Ever Seen
-- Queries Per Domain/Client
-- Query Types
-- Forward Destinations
-- Pi-hole Version
-- API Info
-- DNS Cache
-- Database Size
+- Tổng lượt truy vấn
+- Số lượt truy vấn/phần trăm đã chặn
+- Xem được lần cuối danh sách chặn + vũ trụ miền được cập nhật
+- Nhiệt độ và mức độ sử dụng bộ nhớ
+- Biểu đồ truy vấn theo thời gian
+- Top các tên miền được cho phép nhiều nhất
+- Top các tên miền được chặn nhiều nhất
+- Top thiết bị
+- Xem thiết bị và tên miền riêng
+- Thiết bị từng thấy
+- Xem truy vấn theo thiết bị hoặc tên miền
+- Xem các loại truy vấn
+- Chuyển hướng điểm đến
+- Phiên bản Pi-hole
+- Thông tin API
+- Bộ nhớ đệm DNS
+- Kích cỡ cơ sở dữ liệu
 
-* The in-app-purchases are only there for the Tip Jar, to support future development of the app. This is completely optional.
+* Các mục mua ở trong ứng dụng chỉ để dành cho việc ủng hộ cho nhà phát triển ứng dụng, để hỗ trợ quá trình phát triển ứng dụng về sau và hoàn toàn không bắt buộc.
 
 ==
 
-Note: 
-You need at least one working Pi-hole instance running on another device for this app to function and you must use Pi-hole Version 5.1 or up. Find out more about Pi-hole at https://pi-hole.net/.
+Lưu ý: 
+Bạn cần ít nhất một máy chủ Pi-hole đang chạy trên một thiết bị khác để cho ứng dụng hoạt động, và đồng thời bạn cần phiên bản Pi-hole 5.1 hoặc mới hơn. Tìm hiểu thêm về Pi-hole tại https://pi-hole.net/.
