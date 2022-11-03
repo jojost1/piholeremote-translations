@@ -1,61 +1,61 @@
 Pi-hole Remote ist eine Pi-hole-Anwendung, mit der Du Dein Pi-hole schnell aktivieren und deaktivieren sowie Domains zu Deiner Whitelist/Blacklist hinzufügen und Statistiken wie die Top erlaubten und blockierten Domains einsehen kannst!
 
 
-*Blockieren Deaktivieren*
-Deaktiviere die Blacklist-Funktion für ein paar Minuten mit nur ein paar Fingertipps. Du kannst sogar Siri-Shortcuts verwenden, um die Blockierung mit deiner Stimme zu deaktivieren! Wenn Du mehrere Pi-hole-Instanzen hast, kannst Du die Sperrung für alle Instanzen mit einem Tippen deaktivieren.
+*Sperrung Deaktivieren*
+Deaktiviere die Sperrlistenfunktion mit nur wenigen Fingertipps für ein paar Minuten. Du kannst sogar Siri-Shortcuts verwenden, um die Sperrung mit deiner Stimme zu deaktivieren! Wenn Du mehrere Pi-hole-Instanzen hast, kannst Du die Sperrung für alle Instanzen mit einem Tippen deaktivieren.
 
 *Statistiken & Anfragen*
-Schaue Dir an, welche Domains in Deinem Netzwerk am häufigsten abgefragt werden, sowie die Clients, die die meisten Anfragen aussenden. Sieh Dir Anfragen sortiert nach Domain, Client oder Typ an. Du kannst sogar ein Live-Protokoll anzeigen, das die Anfragen in Echtzeit darstellt!
+Schau Dir an, welche Domänen in Deinem Netzwerk am häufigsten abgefragt werden oder welche Klienten die meisten Anfragen aussenden. Sieh Dir Anfragen sortiert nach Domäne, Klient oder Typ an. Du kannst sogar ein Liveprotokoll anzeigen, das die Anfragen in Echtzeit darstellt!
 
-*White & Blacklist*
-Füge schnell neue Einträge zu Deinen Listen innerhalb der App oder mit der iOS Share Extension hinzu. Du kannst auch Bulk-Einträge hinzufügen und Listeneinträge exportieren. Wenn Du zwei Pi-hole-Instanzen hast, kannst Du die Filterlisten sogar automatisch synchronisieren!
+*Weiße & schwarze Liste*
+Füge schnell neue Einträge zu Deinen Listen innerhalb der App oder mit der iOS Share Extension hinzu. Du kannst auch Bulk-Einträge ergänzen und Listeneinträge exportieren. Wenn Du zwei Pi-hole-Instanzen hast, kannst Du die Filterlisten sogar automatisch synchronisieren!
 
 *Widgets & Live Activity*
-Wähle aus einer breiten Palette von Widgets für den Homescreen, die Statistiken oder Anfrage-Diagramme anzeigen. Die Widgets sind mit vielen Optionen individuell anpassbar!
+Wähle aus einer breiten Palette von Widgets für den Homescreen zur Anzeige von Statistiken oder Anfragediagrammen. Die Widgets sind mit vielen Optionen individuell anpassbar!
 
 ==
 
-iPhone, iPad, macOS-Features:
-- Pi-hole Blockierung deaktivieren/aktivieren
+Ausstattungsmerkmale für iPhone, iPad und Mac:
+- Pi-hole-Sperrung deaktivieren/aktivieren
 - Einfache & erweiterte Statistiken einsehen
-- Domains zur Blacklist & Whitelist hinzufügen
+- Domänen zur schwarzen oder weißen Liste hinzufügen
 - Listen exportieren
 - Listen zwischen zwei Pi-hole-Instanzen synchronisieren
-- Vollständiges, filter- und sortierbares Anfrage-Log
-- Live Log-Funktion mit Echtzeitdaten
-- Bis zu 4 Pi-hole-Instanzen können darüber gepflegt werden und Statistiken gemeinsam erfasst werden
+- Vollständiges, filter- und sortierbares Anfrageprotokoll
+- Liveprotokollfunktion mit Echtzeitdaten
+- Bis zu vier Pi-hole-Instanzen können darüber gepflegt und Statistiken gemeinsam erfasst werden
 - Unterstützung für den QR-Code mit dem API-Token
 - SSL-Unterstützung, Reverse Proxies und weitere Privatsphäreneinstellungen
 - Widgets (ab iOS 14 & macOS 11)
 - Siri Shortcuts & Kurzbefehle
-- Teilen-Erweiterung zum schnellen White- & Blacklisting
-- VoiceOver Unterstützung
-- Dark Mode, Benutzerdefinierte Farbschemen, alternative App-Icons
+- Teilen-Erweiterung zum schnellen Erlauben & Sperren
+- VoiceOver-Unterstützung
+- Dark Mode, benutzerdefinierte Farbschemen, alternative App-Symbole
 - Für iPadOS & macOS optimiertes Design
-- Sauberes und modernes '100% SwiftUI-Design'
+- Sauberes und modernes reines SwiftUI-Design
 
 Apple Watch-Features:
-- Einfache Statistiken einsehen
-- Pi-hole Blockierung deaktivieren/aktivieren
+- Einfache Statistiken ansehen
+- Pi-hole-Sperrung deaktivieren/aktivieren
 - Komplikationen
 
 Apple TV-Features:
-- Einfache Statistiken einsehen
-- Pi-hole Blockierung deaktivieren/aktivieren
-- Passcodesperre für deaktivieren/aktivieren
+- Einfache Statistiken ansehen
+- Pi-hole-Sperrung deaktivieren/aktivieren
+- Passcodesperre deaktivieren/aktivieren
 
 Statikstiken:
 - Vollständige Anfragen
-- Anfragen/Prozentualer Anteil blockiert
-- Letztes Update der Blocklist + Gravity
+- Anfragen/Prozentualer Anteil gesperrt
+- Letztes Update der Sperrliste + Gravity
 - Temperatur und Speicherauslastung
-- Zeitbasierte Anfragen-Diagramme
-- Topliste erlaubte Domains
-- Topliste blockierte Domains
-- Topliste Netzwerkgeräte
-- Einzigartige Domains/Geräte
+- Zeitbasierte Anfragendiagramme
+- Liste der meiterlaubten Domänen
+- Liste der meistgesperrten Domänen
+- Liste der häufigsten Netzwerkgeräte
+- Einzigartige Domänen/Geräte
 - Gesamtzahl aller bisherigen Netzwerkgeräte
-- Anfragen pro Domain/Netzwerkgerät
+- Anfragen pro Domäne/Netzwerkgerät
 - Anfragetypen
 - Pi-hole-Version
 - API-Info
@@ -66,4 +66,4 @@ Statikstiken:
 ==
 
 Hinweis: 
-Du benötigst mindestens eine funktionierende Pi-hole-Instanz, die auf einem anderen Gerät läuft, damit diese App funktioniert. Und Sie müssen Pi-hole Version 5.1 oder höher verwenden. Mehr Informationen zu Pi-hole auf https://pi-hole.net/.
+Du benötigst mindestens eine funktionierende Pi-hole-Instanz, die auf einem anderen Gerät läuft, damit diese App funktioniert. Dazu ist Pi-hole ab Version 5.1 nötig. Mehr Informationen zu Pi-hole unter https://pi-hole.net/.
