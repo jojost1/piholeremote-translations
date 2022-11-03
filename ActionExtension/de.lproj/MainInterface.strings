@@ -1,4 +1,3 @@
-
 /* Class = "UINavigationItem"; title = "Add to List"; ObjectID = "3HJ-uW-3hn"; */
 "3HJ-uW-3hn.title" = "Zu Liste hinzufügen";
 
@@ -12,13 +11,13 @@
 "ObA-dk-sSI.title" = "Bild";
 
 /* Class = "UITextField"; placeholder = "Domain"; ObjectID = "Qbt-JN-40t"; */
-"Qbt-JN-40t.placeholder" = "Domain";
+"Qbt-JN-40t.placeholder" = "Domäne";
 
 /* Class = "UILabel"; text = "RegEx"; ObjectID = "qZy-2G-fBb"; */
 "qZy-2G-fBb.text" = "RegEx";
 
 /* Class = "UISegmentedControl"; sWA-Lh-jNh.segmentTitles[0] = "Blacklist"; ObjectID = "sWA-Lh-jNh"; */
-"sWA-Lh-jNh.segmentTitles[0]" = "Blacklist";
+"sWA-Lh-jNh.segmentTitles[0]" = "Schwarze Liste";
 
 /* Class = "UISegmentedControl"; sWA-Lh-jNh.segmentTitles[1] = "Whitelist"; ObjectID = "sWA-Lh-jNh"; */
-"sWA-Lh-jNh.segmentTitles[1]" = "Whitelist";
+"sWA-Lh-jNh.segmentTitles[1]" = "Weiße Liste";
