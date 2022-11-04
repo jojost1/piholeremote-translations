@@ -11,6 +11,7 @@
 "tab_statistics" = "Statistieken";
 "tab_querylog" = "Query Log";
 "tab_lists" = "Lijsten";
+"tab_services" = "Diensten";
 "tab_settings" = "Instellingen";
 
 // MARK: - Home-tab
@@ -453,6 +454,10 @@
 "preferences_lists_terminology_black_white" = "Black & Whitelist";
 "preferences_lists_terminology_deny_allow" = "Deny & Allowlist";
 "preferences_other_navbar" = "Overig";
+"preferences_other_security" = "Beveiliging";
+"preferences_other_tabbar" = "Tabbar";
+"preferences_other_other" = "Overig";
+"preferences_other_tab_four" = "Vierde Tab";
 "preferences_other_live_activity" = "Live Activiteit";
 "preferences_other_language" = "Taal";
 "preferences_other_language_macos_alert" = "Taal wijzigen";

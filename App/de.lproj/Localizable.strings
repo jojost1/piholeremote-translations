@@ -11,6 +11,7 @@
 "tab_statistics" = "Statistiken";
 "tab_querylog" = "Anfrageprotokoll";
 "tab_lists" = "Listen";
+"tab_services" = "Dienste";
 "tab_settings" = "Einstellungen";
 
 // MARK: - Home-tab
@@ -453,6 +454,10 @@
 "preferences_lists_terminology_black_white" = "Schwarze & weiße Liste";
 "preferences_lists_terminology_deny_allow" = "Abweisungs- & Erlaubnisliste";
 "preferences_other_navbar" = "Sonstiges";
+"preferences_other_security" = "Security";
+"preferences_other_tabbar" = "Tabbar";
+"preferences_other_other" = "Sonstiges";
+"preferences_other_tab_four" = "Fourth Tab";
 "preferences_other_live_activity" = "Live-Aktivität";
 "preferences_other_language" = "Sprache";
 "preferences_other_language_macos_alert" = "Ändere Sprache";

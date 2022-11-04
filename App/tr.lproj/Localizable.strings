@@ -11,6 +11,7 @@
 "tab_statistics" = "Statistics";
 "tab_querylog" = "Query Log";
 "tab_lists" = "Lists";
+"tab_services" = "Services";
 "tab_settings" = "Settings";
 
 // MARK: - Home-tab
@@ -453,6 +454,10 @@
 "preferences_lists_terminology_black_white" = "Black & Whitelist";
 "preferences_lists_terminology_deny_allow" = "Deny & Allowlist";
 "preferences_other_navbar" = "Other";
+"preferences_other_security" = "Security";
+"preferences_other_tabbar" = "Tabbar";
+"preferences_other_other" = "Other";
+"preferences_other_tab_four" = "Fourth Tab";
 "preferences_other_live_activity" = "Live Activity";
 "preferences_other_language" = "Language";
 "preferences_other_language_macos_alert" = "Change Language";

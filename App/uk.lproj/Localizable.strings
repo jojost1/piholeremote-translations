@@ -11,6 +11,7 @@
 "tab_statistics" = "Статистика";
 "tab_querylog" = "Журнал запитів";
 "tab_lists" = "Списки";
+"tab_services" = "Сервіси";
 "tab_settings" = "Налаштування";
 
 // MARK: - Home-tab
@@ -453,6 +454,10 @@
 "preferences_lists_terminology_black_white" = "Чорний та Білий списки";
 "preferences_lists_terminology_deny_allow" = "Заборонений та Дозволений списки";
 "preferences_other_navbar" = "Інше";
+"preferences_other_security" = "Security";
+"preferences_other_tabbar" = "Tabbar";
+"preferences_other_other" = "Інше";
+"preferences_other_tab_four" = "Fourth Tab";
 "preferences_other_live_activity" = "Live Activity";
 "preferences_other_language" = "Мова";
 "preferences_other_language_macos_alert" = "Змінити мову";
