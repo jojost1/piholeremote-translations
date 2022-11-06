@@ -11,7 +11,7 @@
 "tab_statistics" = "Thống kê";
 "tab_querylog" = "Bản ghi truy vấn";
 "tab_lists" = "Danh sách";
-"tab_services" = "Services";
+"tab_services" = "Dịch vụ";
 "tab_settings" = "Cài đặt";
 
 // MARK: - Home-tab
@@ -454,10 +454,10 @@
 "preferences_lists_terminology_black_white" = "Danh sách đen & trắng";
 "preferences_lists_terminology_deny_allow" = "Danh sách từ chối & cho phép";
 "preferences_other_navbar" = "Khác";
-"preferences_other_security" = "Security";
+"preferences_other_security" = "Bảo mật";
 "preferences_other_tabbar" = "Tabbar";
 "preferences_other_other" = "Khác";
-"preferences_other_tab_four" = "Fourth Tab";
+"preferences_other_tab_four" = "Tab thứ tư";
 "preferences_other_live_activity" = "Hoạt động trực tiếp";
 "preferences_other_language" = "Ngôn ngữ";
 "preferences_other_language_macos_alert" = "Thay đổi ngôn ngữ";
