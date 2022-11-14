@@ -416,6 +416,9 @@
 "preferences_statistics_graphs_hide" = "Verberg grafiek";
 "preferences_statistics_graphs_type_bar" = "Staafdiagram";
 "preferences_statistics_graphs_type_line" = "Lijngrafiek";
+"preferences_statistics_graphs_line_type" = "Lijntype";
+"preferences_statistics_graphs_line_smooth" = "Geleidelijk";
+"preferences_statistics_graphs_line_steps" = "Stappen";
 "preferences_statistics_show_recent_queries" = "Laat 'Recente Queries' zien";
 "preferences_statistics_hours_visible" = "Uren zichtbaar";
 "preferences_statistics_animate_graphs" = "Animatie";

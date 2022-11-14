@@ -416,6 +416,9 @@
 "preferences_statistics_graphs_hide" = "Hide graph";
 "preferences_statistics_graphs_type_bar" = "Bar chart";
 "preferences_statistics_graphs_type_line" = "Line chart";
+"preferences_statistics_graphs_line_type" = "Line type";
+"preferences_statistics_graphs_line_smooth" = "Smooth";
+"preferences_statistics_graphs_line_steps" = "Steps";
 "preferences_statistics_show_recent_queries" = "Εμφάνιση «Πρόσφατων ερωτημάτων»";
 "preferences_statistics_hours_visible" = "Ώρες εμφάνισης";
 "preferences_statistics_animate_graphs" = "Κινούμενα γραφήματα";
