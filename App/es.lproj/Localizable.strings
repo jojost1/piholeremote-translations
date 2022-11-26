@@ -416,9 +416,9 @@
 "preferences_statistics_graphs_hide" = "Ocultar gráfico";
 "preferences_statistics_graphs_type_bar" = "Gráfico de barras";
 "preferences_statistics_graphs_type_line" = "Gráfico de líneas";
-"preferences_statistics_graphs_line_type" = "Line type";
-"preferences_statistics_graphs_line_smooth" = "Smooth";
-"preferences_statistics_graphs_line_steps" = "Steps";
+"preferences_statistics_graphs_line_type" = "Tipo de línea";
+"preferences_statistics_graphs_line_smooth" = "Suave";
+"preferences_statistics_graphs_line_steps" = "Pasos";
 "preferences_statistics_show_recent_queries" = "Ver 'Consultas Recientes'";
 "preferences_statistics_hours_visible" = "Horas Visibles";
 "preferences_statistics_animate_graphs" = "Animar Gráficos";
