@@ -416,9 +416,9 @@
 "preferences_statistics_graphs_hide" = "Ocultar gráfico";
 "preferences_statistics_graphs_type_bar" = "Gráfico de barras";
 "preferences_statistics_graphs_type_line" = "Gráfico de líneas";
-"preferences_statistics_graphs_line_type" = "Line type";
-"preferences_statistics_graphs_line_smooth" = "Smooth";
-"preferences_statistics_graphs_line_steps" = "Steps";
+"preferences_statistics_graphs_line_type" = "Tipo de línea";
+"preferences_statistics_graphs_line_smooth" = "Suave";
+"preferences_statistics_graphs_line_steps" = "Pasos";
 "preferences_statistics_show_recent_queries" = "Ver 'Consultas Recientes'";
 "preferences_statistics_hours_visible" = "Horas Visibles";
 "preferences_statistics_animate_graphs" = "Animar Gráficos";
@@ -558,7 +558,7 @@
 "rocketscience_tipjar_thankyou" = "¡Gracias!";
 "rocketscience_my_other_apps" = "Mis Otras Aplicaciones";
 "rocketscience_adguardhomeremote_subtitle" = "Es como Pi-hole Remote, ¡pero para AdGuard Home!";
-"rocketscience_adguarddnsremote_subtitle" = "Rather use AdGuard DNS? I've got you covered.";
+"rocketscience_adguarddnsremote_subtitle" = "¿Prefieres usar AdGuard DNS? Te tengo cubierto.";
 "rocketscience_mango_subtitle" = "Una aplicación limpia de seguimiento de Anime y Manga, usando la API de MyAnimeList.";
 "rocketscience_energieradar_subtitle" = "Monitoriza en tiempo real los precios de la electricidad y el gas en muchos países europeos.";
 "rocketscience_acknoledgements" = "Un agradecimiento especial a";

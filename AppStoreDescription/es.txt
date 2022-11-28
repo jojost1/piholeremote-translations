@@ -15,8 +15,8 @@ Añade rápidamente nuevas entradas a tus listas dentro de la aplicación o con 
 *DNS Local*
 Gestiona tus registros DNS y CNAME locales ¡directamente desde la app!
 
-*Widgets para la pantalla de inicio*
-Elige entre una amplia gama de widgets para la pantalla de inicio que muestran estadísticas o gráficos de consulta. Todos son personalizables con muchas opciones.
+*Widgets y Actividad en Directo*
+Elige entre una amplia gama de widgets para las pantallas de inicio y de bloqueo que muestran estadísticas o gráficos. Todos son personalizables con muchas opciones! Cuando deshabilitas el bloqueo incluso verás la Actividad en Directo en la pantalla de bloqueo y en la Isla Dinámica.
 
 *Ecosistema completo*
 Adquire la app una sola vez y obtenla para iOS, watchOS, iPadOS, macOS y tvOS.
