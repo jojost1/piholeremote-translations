@@ -416,9 +416,9 @@
 "preferences_statistics_graphs_hide" = "Ẩn đồ thị";
 "preferences_statistics_graphs_type_bar" = "Đồ thị thanh";
 "preferences_statistics_graphs_type_line" = "Đồ thị đường";
-"preferences_statistics_graphs_line_type" = "Line type";
-"preferences_statistics_graphs_line_smooth" = "Smooth";
-"preferences_statistics_graphs_line_steps" = "Steps";
+"preferences_statistics_graphs_line_type" = "Loại đường";
+"preferences_statistics_graphs_line_smooth" = "Mượt";
+"preferences_statistics_graphs_line_steps" = "Các bước";
 "preferences_statistics_show_recent_queries" = "Hiện các truy vấn gần nhất";
 "preferences_statistics_hours_visible" = "Số giờ được hiển thị";
 "preferences_statistics_animate_graphs" = "Đồ thị động";
