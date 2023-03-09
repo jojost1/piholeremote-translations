@@ -28,7 +28,7 @@
 "home_disable_blocking" = "Afbryd Blokkering";
 "home_disable_blocking_pihole" = "Afbryd Pi-Hole blokkering";
 "home_disable_blocking_alert_%@" = "Hvor længe vil du afbryde blokkering for %@?";
-"home_disabled" = "Disabled";
+"home_disabled" = "Afbrudt";
 "home_enable" = "Aktiver";
 "home_enable_all" = "Aktiver Alle";
 "home_enable_blocking" = "Aktiver Blokkering";
@@ -360,7 +360,7 @@
 "instance_advanced" = "Avanceret";
 "instance_advanced_settings" = "Avancerede indstillinger";
 "instance_password" = "Kodeord";
-"instance_password_placeholder" = "password";
+"instance_password_placeholder" = "kodeord";
 "instance_password_explainer" = "For at vise CPU/RAM/Temperatur skal vi bruge din **web interface password**. Ligesom dit API-token vil kodeordet aldrig blive delt med nogen.";
 "instance_other" = "Andre";
 "instance_hidefromdashboard" = "Gem på Hjemme-tab";
@@ -416,9 +416,9 @@
 "preferences_statistics_graphs_hide" = "Gem graf";
 "preferences_statistics_graphs_type_bar" = "Bar chart";
 "preferences_statistics_graphs_type_line" = "Line chart";
-"preferences_statistics_graphs_line_type" = "Line type";
+"preferences_statistics_graphs_line_type" = "Linje type";
 "preferences_statistics_graphs_line_smooth" = "Smooth";
-"preferences_statistics_graphs_line_steps" = "Steps";
+"preferences_statistics_graphs_line_steps" = "Skridt";
 "preferences_statistics_show_recent_queries" = "Vis 'Nylige Forespørgsler'";
 "preferences_statistics_hours_visible" = "Timer Synlig";
 "preferences_statistics_animate_graphs" = "Animer Grafer";
@@ -457,11 +457,11 @@
 "preferences_lists_terminology_black_white" = "Black & Whitelist";
 "preferences_lists_terminology_deny_allow" = "Deny & Allowlist";
 "preferences_other_navbar" = "Andre";
-"preferences_other_security" = "Security";
+"preferences_other_security" = "Sikkerhed";
 "preferences_other_tabbar" = "Tabbar";
-"preferences_other_other" = "Other";
-"preferences_other_tab_four" = "Fourth Tab";
-"preferences_other_live_activity" = "Live Activity";
+"preferences_other_other" = "Andre";
+"preferences_other_tab_four" = "Fjerde Tab";
+"preferences_other_live_activity" = "Igangværende Aktivitet";
 "preferences_other_language" = "Sprog";
 "preferences_other_language_macos_alert" = "Ændr sprog";
 "preferences_other_language_macos_alert_body" = "For at ændre sproget til macOS app'en skal du åbne System Præferencer > Sprog og Region > Apps, der skal den tilføjes.";
@@ -558,7 +558,7 @@
 "rocketscience_tipjar_thankyou" = "Tak!";
 "rocketscience_my_other_apps" = "Mine Andre Apps";
 "rocketscience_adguardhomeremote_subtitle" = "Ligesom Pi-hole Remote, men til AdGuard Home!";
-"rocketscience_adguarddnsremote_subtitle" = "Rather use AdGuard DNS? I've got you covered.";
+"rocketscience_adguarddnsremote_subtitle" = "Vil du hellere bruge AdGuard? Så har jeg dig dækket.";
 "rocketscience_mango_subtitle" = "En ren Anime & Manga tracker app, som bruger MyAnimeList API'en.";
 "rocketscience_energieradar_subtitle" = "Få overblik over gas og elektricitets priserne i mange Europæiske lande.";
 "rocketscience_acknoledgements" = "Specielt tak til";
@@ -651,8 +651,8 @@
 "widget_disable_description" = "Deaktiver hurtigt blokkering med konfigurerbare knapper.";
 
 // MARK: - Live Activities & Dynamic Island
-"live_activity_until_enabled" = "until enabled";
-"live_activity_end" = "End Live Activity";
+"live_activity_until_enabled" = "indtil aktiveret";
+"live_activity_end" = "Slut Igangværende Aktivitet";
 
 // MARK: - watchOS Specific
 "watchos_home_queries" = "Forespørgsler";
