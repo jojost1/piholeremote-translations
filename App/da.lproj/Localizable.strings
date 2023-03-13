@@ -340,7 +340,7 @@
 
 // MARK: Edit Instance
 "instance_new_navbar" = "Ny Instans";
-"instance_edit_navbar" = "Rediger Instants";
+"instance_edit_navbar" = "Rediger Instans";
 "instance_display_name" = "Navn der bliver vist";
 "instance_display_name_placeholder" = "Pi-hole";
 "instance_ip_or_hostname" = "IP Adresse eller Værtsnavn";
