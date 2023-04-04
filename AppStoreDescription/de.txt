@@ -5,7 +5,7 @@ Pi-hole Remote ist eine Pi-hole-Anwendung, mit der Du Dein Pi-hole schnell aktiv
 Deaktiviere die Sperrlistenfunktion mit nur wenigen Fingertipps für ein paar Minuten. Du kannst sogar Siri-Shortcuts verwenden, um die Sperrung mit deiner Stimme zu deaktivieren! Wenn Du mehrere Pi-hole-Instanzen hast, kannst Du die Sperrung für alle Instanzen mit einem Tippen deaktivieren.
 
 *Statistiken & Anfragen*
-Schau Dir an, welche Domänen in Deinem Netzwerk am häufigsten abgefragt werden oder welche Klienten die meisten Anfragen aussenden. Sieh Dir Anfragen sortiert nach Domäne, Klient oder Typ an. Du kannst sogar ein Liveprotokoll anzeigen, das die Anfragen in Echtzeit darstellt!
+Schau Dir an, welche Domänen in Deinem Netzwerk am häufigsten abgefragt werden oder welche Clients die meisten Anfragen aussenden. Sieh Dir Anfragen sortiert nach Domäne, Client oder Typ an. Du kannst sogar ein Liveprotokoll anzeigen, das die Anfragen in Echtzeit darstellt!
 
 *Weiße & schwarze Liste*
 Füge schnell neue Einträge zu Deinen Listen innerhalb der App oder mit der iOS Share Extension hinzu. Du kannst auch Bulk-Einträge ergänzen und Listeneinträge exportieren. Wenn Du zwei Pi-hole-Instanzen hast, kannst Du die Filterlisten sogar automatisch synchronisieren!
@@ -52,10 +52,10 @@ Statikstiken:
 - Zeitbasierte Anfragendiagramme
 - Liste der meiterlaubten Domänen
 - Liste der meistgesperrten Domänen
-- Liste der häufigsten Netzwerkgeräte
+- Liste der häufigsten Clients
 - Einzigartige Domänen/Geräte
-- Gesamtzahl aller bisherigen Netzwerkgeräte
-- Anfragen pro Domäne/Netzwerkgerät
+- Gesamtzahl aller bisherigen Clients
+- Anfragen pro Domäne/Client
 - Anfragetypen
 - Pi-hole-Version
 - API-Info
