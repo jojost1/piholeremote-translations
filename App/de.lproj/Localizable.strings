@@ -39,7 +39,7 @@
 "home_update_gravity" = "Gravity aktualisieren";
 "home_update_gravity_explainer" = "Gehe zu /admin/gravity für welche Instanz?";
 "home_update_gravity_alert_body_%@" = "Letztes Gravity-Update am %@";
-"home_update_gravity_alert_button" = "Gravity aktualisieren (Web-Interface)";
+"home_update_gravity_alert_button" = "Gravity aktualisieren (Webinterface)";
 "home_update_available" = "Update verfügbar!";
 "home_update_available_alert_body" = "Du kannst das Update über die Konsole mit dem Befehl\n\npihole -up\n\ndurchführen";
 
@@ -71,7 +71,7 @@
 // MARK: - Statistics-tab
 "statistics_navbar" = "Statistiken";
 "statistics_queries" = "Anfragen";
-"statistics_segments_10min" = "Zehnminutensegmente";
+"statistics_segments_10min" = "Zehn Minuten Segmente";
 "statistics_loading_graph" = "Diagramm wird geladen …";
 "statistics_now" = "jetzt";
 "statistics_past_%@_h" = "letzte %@ Stunden";
@@ -83,12 +83,12 @@
 "statistics_top_allowed_navbar" = "Erlaubte Domänen";
 "statistics_top_blocked" = "Meistgesperrte Anfragen";
 "statistics_top_blocked_navbar" = "Gesperrte Domänen";
-"statistics_top_clients" = "Häufigste Netzwerkklienten";
-"statistics_top_clients_navbar" = "Netzwerkgeräte";
+"statistics_top_clients" = "Häufigste Clients";
+"statistics_top_clients_navbar" = "Clients";
 "statistics_system_info" = "Systeminfo";
 "statistics_unique_domains_%@" = "Eindeutige Domänen: %@";
-"statistics_unique_clients_%@" = "Eindeutige Klienten: %@";
-"statistics_unique_clients_ever_seen_%@" = "Gesamtzahl der Klienten: %@";
+"statistics_unique_clients_%@" = "Eindeutige Clients: %@";
+"statistics_unique_clients_ever_seen_%@" = "Gesamtzahl der Clients: %@";
 "statistics_version" = "Version";
 "statistics_pihole" = "Pi-hole";
 "statistics_adminlte" = "AdminLTE";
@@ -217,7 +217,7 @@
 "lists_remove" = "Aus Liste entfernen";
 "lists_remove_and_edit" = "Löschen & Bearbeiten";
 "lists_no_entries_found" = "Keine Einträge gefunden.";
-"lists_no_entries_found_subtitle" = "Du hast keine Einträge in deiner Liste.\n\nSofern Du hier Einträge erwartest: nutzt Du Pi-hole Version 5.1 oder höher?";
+"lists_no_entries_found_subtitle" = "Du hast keine Einträge in Deiner Liste.\n\nSofern Du hier Einträge erwartest: Nutzt Du Pi-hole Version 5.1 oder höher?";
 
 // MARK: Add Entry
 "lists_addentry_navbar" = "Eintrag hinzufügen";
@@ -422,15 +422,15 @@
 "preferences_statistics_graphs_line_steps" = "Steps";
 "preferences_statistics_show_recent_queries" = "'Letzte Anfragen' anzeigen";
 "preferences_statistics_hours_visible" = "Anzahl der Stunden";
-"preferences_statistics_animate_graphs" = "Diagrame animieren";
+"preferences_statistics_animate_graphs" = "Diagramme animieren";
 "preferences_statistics_animation_duration" = "Animationsdauer";
 "preferences_statistics_top_domains" = "Top-Domänen";
 "preferences_statistics_show_top_allowed" = "Meistzugelassene zeigen";
 "preferences_statistics_show_top_blocked" = "Meistgesperrte zeigen";
 "preferences_statistics_number_of_domains" = "Domänen-Anzahl";
-"preferences_statistics_top_clients" = "Top-Klienten";
-"preferences_statistics_show_top_clients" = "Top-Klienten zeigen";
-"preferences_statistics_number_of_clients" = "Klienten-Anzahl";
+"preferences_statistics_top_clients" = "Top-Clients";
+"preferences_statistics_show_top_clients" = "Top-Clients zeigen";
+"preferences_statistics_number_of_clients" = "Anzahl der Clients";
 "preferences_statistics_other" = "Sonstiges";
 "preferences_statistics_other_footer" = "Pi-hole-Version anzeigen, API-Version und DNS-Cache-Informationen.";
 "preferences_statistics_hidden_domains" = "Ausgeblendete Domänen";
@@ -548,11 +548,11 @@
 "changelog_show_feature_promo" = "Ausstattungsmerkmale anzeigen";
 "changelog_settings" = "Änderungseinstellungen";
 "changelog_settings_show" = "Bei der App-Aktualisierung anzeigen";
-"changelog_settings_show_footer" = "Die Änderungsliste wird nur für Aktualisierungen mit neuen Funktionen angezeigt, nicht jedoch, wenn lediglich Fehlerbereinigungen enthalten sind.";
+"changelog_settings_show_footer" = "Die Änderungsliste wird nur für Aktualisierungen mit neuen Funktionen angezeigt, nicht jedoch, wenn lediglich Fehlerbehebungen enthalten sind.";
 
 // MARK: Made by RocketScience
 "rocketscience_hi_title" = "Hallo, ich bin Joost!";
-"rocketscience_hi_subtitle" = "Im Juni 2020 begann ich, als unabhängiger Entwickler unter dem Namen 'RocketScience IT' meine eigenen Anwendungen zu entwickeln.\n\nMein Hauptziel ist es, zu lernen: Design, Entwicklung, Testen, Support, Förderung – vielleicht sogar mehr! Im Moment habe ich mehrere Apps im Store, die ich ständig verbessere und habe viele Ideen für weitere Apps, die ich in Zukunft entwickeln möchte.";
+"rocketscience_hi_subtitle" = "Im Juni 2020 begann ich, als unabhängiger Entwickler unter dem Namen 'RocketScience IT' meine eigenen Anwendungen zu entwickeln.\n\nMein Hauptziel ist es zu lernen; Design, Entwicklung, Testen, Support, Förderung – vielleicht sogar mehr! Im Moment habe ich mehrere Apps im Store, die ich ständig verbessere und ich habe viele Ideen für weitere Apps, die ich in Zukunft entwickeln möchte.";
 "rocketscience_website" = "Website";
 "rocketscience_twitter" = "Twitter";
 "rocketscience_tipjar" = "Trinkgeldglas";
