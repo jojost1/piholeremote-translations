@@ -1,6 +1,5 @@
 Pi-hole Remote ist eine Pi-hole-Anwendung, mit der Du Dein Pi-hole schnell aktivieren und deaktivieren sowie Domains zu Deiner Whitelist/Blacklist hinzufügen und Statistiken wie die Top erlaubten und blockierten Domains einsehen kannst!
 
-
 *Sperrung Deaktivieren*
 Deaktiviere die Sperrlistenfunktion mit nur wenigen Fingertipps für ein paar Minuten. Du kannst sogar Siri-Shortcuts verwenden, um die Sperrung mit deiner Stimme zu deaktivieren! Wenn Du mehrere Pi-hole-Instanzen hast, kannst Du die Sperrung für alle Instanzen mit einem Tippen deaktivieren.
 
