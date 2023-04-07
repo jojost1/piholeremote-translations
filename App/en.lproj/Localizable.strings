@@ -512,7 +512,7 @@
 // MARK: Tip Jar
 "tipjar_navbar" = "Tip Jar";
 "tipjar_header" = "The Tip Jar helps keep Pi-hole Remote running and directly supports development of awesome features and improvements.";
-"tipjar_header_2" = "If you enjoy using this app and want to support the indie developer (hi! 👋), please consider leaving a tip. I would greatly appreciate it!";
+"tipjar_header_2" = "If you enjoy using this app and want to support a one-man-team indie developer (hi! 👋), please consider leaving a tip. I would greatly appreciate it!";
 "tipjar_header_3" = "Thank you for your support.\n- Joost";
 "tipjar_tip_coffee" = "Coffee Tip";
 "tipjar_tip_whiskey" = "Whiskey Tip";
