@@ -85,6 +85,8 @@
 "statistics_top_blocked_navbar" = "Заблоковані домени";
 "statistics_top_clients" = "Топ клієнтів";
 "statistics_top_clients_navbar" = "Клієнти";
+"statistics_top_clientsblocked" = "Топ Blocked клієнтів";
+"statistics_top_clientsblocked_navbar" = "Клієнти (Blocked)";
 "statistics_system_info" = "Системна інформація";
 "statistics_unique_domains_%@" = "Унікальні домени: %@";
 "statistics_unique_clients_%@" = "Унікальні клієнти: %@";
@@ -430,6 +432,8 @@
 "preferences_statistics_number_of_domains" = "Кількість доменів";
 "preferences_statistics_top_clients" = "Топ клієнтів";
 "preferences_statistics_show_top_clients" = "Показувати топ клієнтів";
+"preferences_statistics_top_clientsblocked" = "Top Blocked Clients";
+"preferences_statistics_show_top_clientsblocked" = "Show Top Blocked Clients";
 "preferences_statistics_number_of_clients" = "Кількість клієнтів";
 "preferences_statistics_other" = "Інше";
 "preferences_statistics_other_footer" = "Показувати версію Pi-hole, версію API та інформацію про кеш DNS.";

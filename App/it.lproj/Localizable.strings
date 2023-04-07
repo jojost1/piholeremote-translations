@@ -85,6 +85,8 @@
 "statistics_top_blocked_navbar" = "Domini bloccati";
 "statistics_top_clients" = "Top dispositivi";
 "statistics_top_clients_navbar" = "Dispositivi";
+"statistics_top_clientsblocked" = "Top Bloccati Dispositivi";
+"statistics_top_clientsblocked_navbar" = "Dispositivi (Bloccati)";
 "statistics_system_info" = "System Info";
 "statistics_unique_domains_%@" = "Domini unici: %@";
 "statistics_unique_clients_%@" = "Dispositivi unici: %@";
@@ -430,6 +432,8 @@
 "preferences_statistics_number_of_domains" = "Numero di domini";
 "preferences_statistics_top_clients" = "Top Dispositivi";
 "preferences_statistics_show_top_clients" = "Mostra i dispositivi top";
+"preferences_statistics_top_clientsblocked" = "Top Blocked Clients";
+"preferences_statistics_show_top_clientsblocked" = "Show Top Blocked Clients";
 "preferences_statistics_number_of_clients" = "Numero di dispositivi";
 "preferences_statistics_other" = "Altro";
 "preferences_statistics_other_footer" = "Mostra la versione di Pi-hole, la versione delle API e le informazione sulla cache DNS.";

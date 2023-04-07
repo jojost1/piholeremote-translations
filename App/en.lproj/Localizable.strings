@@ -85,6 +85,8 @@
 "statistics_top_blocked_navbar" = "Blocked Domains";
 "statistics_top_clients" = "Top Clients";
 "statistics_top_clients_navbar" = "Clients";
+"statistics_top_clientsblocked" = "Top Blocked Clients";
+"statistics_top_clientsblocked_navbar" = "Clients (Blocked)";
 "statistics_system_info" = "System Info";
 "statistics_unique_domains_%@" = "Unique Domains: %@";
 "statistics_unique_clients_%@" = "Unique Clients: %@";
@@ -430,6 +432,8 @@
 "preferences_statistics_number_of_domains" = "Number of Domains";
 "preferences_statistics_top_clients" = "Top Clients";
 "preferences_statistics_show_top_clients" = "Show Top Clients";
+"preferences_statistics_top_clientsblocked" = "Top Blocked Clients";
+"preferences_statistics_show_top_clientsblocked" = "Show Top Blocked Clients";
 "preferences_statistics_number_of_clients" = "Number of Clients";
 "preferences_statistics_other" = "Other";
 "preferences_statistics_other_footer" = "Show Pi-hole version, API version, and DNS cache information.";

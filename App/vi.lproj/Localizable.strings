@@ -85,6 +85,8 @@
 "statistics_top_blocked_navbar" = "Tên miền chặn";
 "statistics_top_clients" = "Top thiết bị";
 "statistics_top_clients_navbar" = "Thiết bị";
+"statistics_top_clientsblocked" = "Top Blocked Thiết bị";
+"statistics_top_clientsblocked_navbar" = "Thiết bị (Blocked)";
 "statistics_system_info" = "Thông tin hệ thống";
 "statistics_unique_domains_%@" = "Tên miền đơn nhất: %@";
 "statistics_unique_clients_%@" = "Thiết bị đơn nhất: %@";
@@ -430,6 +432,8 @@
 "preferences_statistics_number_of_domains" = "Số lượng tên miền";
 "preferences_statistics_top_clients" = "Top thiết bị";
 "preferences_statistics_show_top_clients" = "Hiển thị top thiết bị";
+"preferences_statistics_top_clientsblocked" = "Top Blocked Clients";
+"preferences_statistics_show_top_clientsblocked" = "Show Top Blocked Clients";
 "preferences_statistics_number_of_clients" = "Hiển thị số lượng thiết bị";
 "preferences_statistics_other" = "Khác";
 "preferences_statistics_other_footer" = "Hiển thị phiên bản Pi-hole, phiên bản API và thông tin bộ nhớ đệm DNS.";

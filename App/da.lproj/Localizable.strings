@@ -85,6 +85,8 @@
 "statistics_top_blocked_navbar" = "Blokkerede Domæner";
 "statistics_top_clients" = "Top Klienter";
 "statistics_top_clients_navbar" = "Klienter";
+"statistics_top_clientsblocked" = "Top Blokkerede Klienter";
+"statistics_top_clientsblocked_navbar" = "Klienter (Blocked)";
 "statistics_system_info" = "System Information";
 "statistics_unique_domains_%@" = "Unikke Domæner: %@";
 "statistics_unique_clients_%@" = "Unikke Klienter: %@";
@@ -430,6 +432,8 @@
 "preferences_statistics_number_of_domains" = "Nummer af domæner";
 "preferences_statistics_top_clients" = "Top Klienter";
 "preferences_statistics_show_top_clients" = "Vis Top Klienter";
+"preferences_statistics_top_clientsblocked" = "Top Blocked Clients";
+"preferences_statistics_show_top_clientsblocked" = "Show Top Blocked Clients";
 "preferences_statistics_number_of_clients" = "Antal Klienter";
 "preferences_statistics_other" = "Andre";
 "preferences_statistics_other_footer" = "Vis Pi-hole version, API version, og DNS cache information.";

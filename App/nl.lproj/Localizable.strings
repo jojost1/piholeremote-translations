@@ -85,6 +85,8 @@
 "statistics_top_blocked_navbar" = "Geblokkeerde domeinen";
 "statistics_top_clients" = "Top Cliënten";
 "statistics_top_clients_navbar" = "Cliënten";
+"statistics_top_clientsblocked" = "Top Geblokkeerde Cliënten";
+"statistics_top_clientsblocked_navbar" = "Cliënten (geblokkeerd)";
 "statistics_system_info" = "Systeem Info";
 "statistics_unique_domains_%@" = "Unieke domeinen: %@";
 "statistics_unique_clients_%@" = "Unieke cliënten: %@";
@@ -430,6 +432,8 @@
 "preferences_statistics_number_of_domains" = "Aantal domeinen";
 "preferences_statistics_top_clients" = "Top Cliënten";
 "preferences_statistics_show_top_clients" = "Laat 'Top Cliënten' zien";
+"preferences_statistics_top_clientsblocked" = "Top Geblokkeerde Clients";
+"preferences_statistics_show_top_clientsblocked" = "Laat 'Top Geblokkeerde Clients' zien";
 "preferences_statistics_number_of_clients" = "Aantal cliënten";
 "preferences_statistics_other" = "Overig";
 "preferences_statistics_other_footer" = "Laat Pi-hole versie, API versie en DNS cache informatie zien.";

@@ -85,6 +85,8 @@
 "statistics_top_blocked_navbar" = "Αποκλεισμένα domains";
 "statistics_top_clients" = "Κορυφαίοι πελάτες";
 "statistics_top_clients_navbar" = "Πελάτες";
+"statistics_top_clientsblocked" = "Κορυφαία Αποκλεισμένα Πελάτες";
+"statistics_top_clientsblocked_navbar" = "Πελάτες (Blocked)";
 "statistics_system_info" = "System Info";
 "statistics_unique_domains_%@" = "Μοναδικά domains: %@";
 "statistics_unique_clients_%@" = "Μοναδικοί πελάτες: %@";
@@ -430,6 +432,8 @@
 "preferences_statistics_number_of_domains" = "Αριθμός domain";
 "preferences_statistics_top_clients" = "Κορυφαίοι πελάτες";
 "preferences_statistics_show_top_clients" = "Εμφάνιση κορυφαίων πελατών";
+"preferences_statistics_top_clientsblocked" = "Top Blocked Clients";
+"preferences_statistics_show_top_clientsblocked" = "Show Top Blocked Clients";
 "preferences_statistics_number_of_clients" = "Αριθμός πελατών";
 "preferences_statistics_other" = "Άλλα";
 "preferences_statistics_other_footer" = "Εμφάνιση έκδοσης Pi-hole, έκδοσης API και πληροφοριών κρυφής μνήμης DNS.";
