@@ -95,6 +95,7 @@
 "statistics_pihole" = "Pi-hole";
 "statistics_adminlte" = "AdminLTE";
 "statistics_ftl" = "FTL";
+"statistics_docker" = "Docker";
 "statistics_api" = "API";
 "statistics_api_type" = "Tipo de API";
 "statistics_api_version" = "Versão de API";
