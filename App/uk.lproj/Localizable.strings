@@ -649,6 +649,8 @@
 "widget_statistic_description" = "Слідкуйте за статистикою однієї категорії.";
 "widget_statistics" = "Статистика";
 "widget_statistics_description" = "Слідкуйте за статистикою всіх категорій.";
+"widget_statistics_and_chart" = "Statistics & Chart";
+"widget_statistics_and_chart_description" = "Statistics with a 6-hour query log chart.";
 "widget_statistics_and_disable" = "Статистика та Вимкнення";
 "widget_statistics_and_disable_description" = "Статистика з гнучким налаштуванням кнопок для швидкого відключення блокування.";
 "widget_querygraph" = "Графік запитів";

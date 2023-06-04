@@ -649,6 +649,8 @@
 "widget_statistic_description" = "Παρακολουθήστε ένα στατιστικό.";
 "widget_statistics" = "Στατιστικά";
 "widget_statistics_description" = "Παρακολουθήστε όλα τα στατιστικά σας.";
+"widget_statistics_and_chart" = "Statistics & Chart";
+"widget_statistics_and_chart_description" = "Statistics with a 6-hour query log chart.";
 "widget_statistics_and_disable" = "Στατιστικά & Απενεργοποίηση";
 "widget_statistics_and_disable_description" = "Στατιστικά με προσαρμόσιμα κουμπιά για γρήγορη απενεργοποίηση του αποκλεισμού.";
 "widget_querygraph" = "Γράφημα ερωτημάτων";

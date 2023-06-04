@@ -649,6 +649,8 @@
 "widget_statistic_description" = "Keep an eye on one statistic.";
 "widget_statistics" = "Statistics";
 "widget_statistics_description" = "Keep an eye on all your statistics.";
+"widget_statistics_and_chart" = "Statistics & Chart";
+"widget_statistics_and_chart_description" = "Statistics with a 6-hour query log chart.";
 "widget_statistics_and_disable" = "Statistics & Disable";
 "widget_statistics_and_disable_description" = "Statistics with customizable buttons to quickly disable blocking.";
 "widget_querygraph" = "Query Graph";

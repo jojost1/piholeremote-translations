@@ -649,6 +649,8 @@
 "widget_statistic_description" = "Monitoriza una estadística.";
 "widget_statistics" = "Estadísticas";
 "widget_statistics_description" = "Monitoriza todas las estadísticas.";
+"widget_statistics_and_chart" = "Statistics & Chart";
+"widget_statistics_and_chart_description" = "Statistics with a 6-hour query log chart.";
 "widget_statistics_and_disable" = "Estadísticas y Desactivar";
 "widget_statistics_and_disable_description" = "Estadísticas con botones personalizables para desactivar rápidamente el bloqueo.";
 "widget_querygraph" = "Gráfico de Consultas";

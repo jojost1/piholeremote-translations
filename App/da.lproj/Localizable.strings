@@ -649,6 +649,8 @@
 "widget_statistic_description" = "Hold øje med en statistik.";
 "widget_statistics" = "Statistikker";
 "widget_statistics_description" = "Hold øje med alle statistikekr.";
+"widget_statistics_and_chart" = "Statistics & Chart";
+"widget_statistics_and_chart_description" = "Statistics with a 6-hour query log chart.";
 "widget_statistics_and_disable" = "Statistikker & Deaktiver";
 "widget_statistics_and_disable_description" = "Statistikker med konfigurerbare knapper til hurtigt at stoppe blokkering.";
 "widget_querygraph" = "Forespørgselsgraf";

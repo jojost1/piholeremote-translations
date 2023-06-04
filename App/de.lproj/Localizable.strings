@@ -648,6 +648,8 @@
 "widget_statistic_description" = "Behalte eine Statistik im Auge.";
 "widget_statistics" = "Statistiken";
 "widget_statistics_description" = "Behalte alle Statistiken im Auge.";
+"widget_statistics_and_chart" = "Statistics & Chart";
+"widget_statistics_and_chart_description" = "Statistics with a 6-hour query log chart.";
 "widget_statistics_and_disable" = "Statistiken & Deaktivieren";
 "widget_statistics_and_disable_description" = "Statistik mit anpassbaren Schaltflächen zum schnellen Deaktivieren der Blockierung.";
 "widget_querygraph" = "Anfragegrafik";

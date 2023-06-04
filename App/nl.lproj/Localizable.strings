@@ -649,6 +649,8 @@
 "widget_statistic_description" = "Houd een statistiek in de gaten.";
 "widget_statistics" = "Statistieken";
 "widget_statistics_description" = "Alle statistieken in een oogopslag.";
+"widget_statistics_and_chart" = "Statistics & Grafiek";
+"widget_statistics_and_chart_description" = "Statistieken met een query log grafiek.";
 "widget_statistics_and_disable" = "Statistieken & Uitschakelen";
 "widget_statistics_and_disable_description" = "Statistieken met aanpasbare knoppen om snel blokkeren uit te schakelen.";
 "widget_querygraph" = "Query Grafiek";

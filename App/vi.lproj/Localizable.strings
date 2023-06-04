@@ -649,6 +649,8 @@
 "widget_statistic_description" = "Để mắt vào một thống kê.";
 "widget_statistics" = "Thống kê";
 "widget_statistics_description" = "Để mắt thống kê vào tất cả các máy chủ của bạn.";
+"widget_statistics_and_chart" = "Statistics & Chart";
+"widget_statistics_and_chart_description" = "Statistics with a 6-hour query log chart.";
 "widget_statistics_and_disable" = "Thống kê & Tắt";
 "widget_statistics_and_disable_description" = "Thống kê và nút có thể tùy chỉnh để có thể tắt chế độ chặn một cách dễ dàng.";
 "widget_querygraph" = "Biểu đồ truy vấn";
