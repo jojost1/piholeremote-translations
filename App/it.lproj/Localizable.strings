@@ -351,6 +351,7 @@
 "instance_ssl_explainer" = "Usare http (default) o https?";
 "instance_ssl_http" = "http (default)";
 "instance_ssl_https" = "https";
+"instance_connecting_to_%@" = "Connecting to: '%@'";
 "instance_port" = "Porta";
 "instance_port_placeholder" = "80";
 "instance_token" = "API Token";
