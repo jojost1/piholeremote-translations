@@ -351,7 +351,7 @@
 "instance_ssl_explainer" = "¿Usar http (por defecto) o https?";
 "instance_ssl_http" = "http (por defecto)";
 "instance_ssl_https" = "https";
-"instance_connecting_to_%@" = "Connecting to: '%@'";
+"instance_connecting_to_%@" = "Conectando a: '%@'";
 "instance_port" = "Puerto";
 "instance_port_placeholder" = "80";
 "instance_token" = "API Token";
@@ -650,8 +650,8 @@
 "widget_statistic_description" = "Monitoriza una estadística.";
 "widget_statistics" = "Estadísticas";
 "widget_statistics_description" = "Monitoriza todas las estadísticas.";
-"widget_statistics_and_chart" = "Statistics & Chart";
-"widget_statistics_and_chart_description" = "Statistics with a 6-hour query log chart.";
+"widget_statistics_and_chart" = "Estadísticas y Gráfico";
+"widget_statistics_and_chart_description" = "Estadísticas con gráfico de registro de consultas de 6 horas.";
 "widget_statistics_and_disable" = "Estadísticas y Desactivar";
 "widget_statistics_and_disable_description" = "Estadísticas con botones personalizables para desactivar rápidamente el bloqueo.";
 "widget_querygraph" = "Gráfico de Consultas";
