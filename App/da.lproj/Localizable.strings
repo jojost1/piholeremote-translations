@@ -333,7 +333,7 @@
 "help_callout" = "Brug for hjælp?";
 "settings_help_contact_footer" = "Venligst brug Engelsk til support-anmodninger!";
 "settings_advanced" = "Avanceret";
-"settings_twitter" = "Følg på Twitter";
+"settings_twitter" = "Følg på X";
 "settings_tipjar" = "Tip Krukke";
 "settings_tipjar_thankyou" = "Tak!";
 "settings_rate" = "Anmeld Pi-hole Remote";
@@ -560,7 +560,6 @@
 "rocketscience_hi_title" = "Hej, Jeg hedder Joost!";
 "rocketscience_hi_subtitle" = "I Juni 2020 begyndte jeg at lave mine egne apps som en indie udvikler under navnet 'RocketScience IT'\n\nHovedmålet for mig er at lære: design, udvikling, testen, support, reklammering - måske endda mere! Lige nu har jeg flere apps som jeg løbende opdaterer og forbedrer & jeg har mange ideer til fremtidige apps jeg kunne finde på at arbejde på i fremtiden.";
 "rocketscience_website" = "Hjemmeside";
-"rocketscience_twitter" = "Twitter";
 "rocketscience_tipjar" = "Tip Krukke";
 "rocketscience_tipjar_thankyou" = "Tak!";
 "rocketscience_my_other_apps" = "Mine Andre Apps";

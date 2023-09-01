@@ -333,7 +333,7 @@
 "help_callout" = "Need help?";
 "settings_help_contact_footer" = "Please use English for support requests!";
 "settings_advanced" = "Προχωρημένα";
-"settings_twitter" = "Ακολουθήστε στο Twitter";
+"settings_twitter" = "Ακολουθήστε στο X";
 "settings_tipjar" = "Βάζο φιλοδωρημάτων";
 "settings_tipjar_thankyou" = "Ευχαριστώ!";
 "settings_rate" = "Αξιολογήστε το Pi-hole Remote";
@@ -560,7 +560,6 @@
 "rocketscience_hi_title" = "Γεια, είμαι ο Joost!";
 "rocketscience_hi_subtitle" = "Τον Ιούνιο του 2020 ξεκίνησα να φτιάχνω τις δικές μου εφαρμογές σαν ανεξάρτητος προγραμματιστής, με το όνομα «RocketScience IT».\n\nΟ κύριος στόχος μου είναι να μάθω: σχεδιασμό, προγραμματισμό, δοκιμή, υποστήριξη, προώθηση - ίσως ακόμη περισσότερα! Αυτή τη στιγμή, έχω δύο εφαρμογές στο App Store τις οποίες συνεχώς βελτιώνω & έχω πολλές ιδέες για άλλες εφαρμογές που ίσως θέλω να φτιάξω στο μέλλον.";
 "rocketscience_website" = "Ιστοσελίδα";
-"rocketscience_twitter" = "Twitter";
 "rocketscience_tipjar" = "Βάζο φιλοδωρημάτων";
 "rocketscience_tipjar_thankyou" = "Ευχαριστώ!";
 "rocketscience_my_other_apps" = "Οι άλλες εφαρμογές μου";

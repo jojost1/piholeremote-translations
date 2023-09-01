@@ -333,7 +333,7 @@
 "help_callout" = "¿Necesitas ayuda?";
 "settings_help_contact_footer" = "En caso de contactar, agradeceremos que nos escribas en inglés.";
 "settings_advanced" = "Avanzado";
-"settings_twitter" = "Seguir en Twitter";
+"settings_twitter" = "Seguir en X";
 "settings_tipjar" = "Tarro de Propinas";
 "settings_tipjar_thankyou" = "¡Gracias!";
 "settings_rate" = "Califica Pi-hole Remote";
@@ -560,7 +560,6 @@
 "rocketscience_hi_title" = "¡Hola, soy Joost!";
 "rocketscience_hi_subtitle" = "En Junio de 2020 empecé a construir mis propias apps como desarrollador independiente, bajo el nombre 'RocketScience IT'.\n\nMi principal objetivo es aprender: diseño, desarrollo, pruebas, soporte, promoción... ¡y quizá incluso más! Hasta el momento tengo varias aplicaciones en la tienda, las cuales estoy continuamente mejorando. También tengo muchas ideas para otras apps que querría hacer en el futuro.";
 "rocketscience_website" = "Sitio watchos_home_both";
-"rocketscience_twitter" = "Twitter";
 "rocketscience_tipjar" = "Tarro de Propinas";
 "rocketscience_tipjar_thankyou" = "¡Gracias!";
 "rocketscience_my_other_apps" = "Mis Otras Aplicaciones";

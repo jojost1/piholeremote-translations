@@ -333,7 +333,7 @@
 "help_callout" = "Cần trợ giúp?";
 "settings_help_contact_footer" = "Hãy sử dụng tiếng Anh cho các yêu cầu trợ giúp!";
 "settings_advanced" = "Nâng cao";
-"settings_twitter" = "Theo dõi chúng tôi trên Twitter";
+"settings_twitter" = "Theo dõi chúng tôi trên X";
 "settings_tipjar" = "Ủng hộ";
 "settings_tipjar_thankyou" = "Cảm ơn!";
 "settings_rate" = "Đánh giá Pi-hole Remote";
@@ -560,7 +560,6 @@
 "rocketscience_hi_title" = "Chào, tôi là Joost!";
 "rocketscience_hi_subtitle" = "Vào tháng 6 năm 2020, tôi đã bắt đầu tạo ra những ứng dụng riêng với một tư cách là một nhà phát triển ứng dụng độc lập, và dưới cái tên 'RocketScience IT'.\n\n Mục tiêu chính của tôi là: để học thiết kế, phát triển, thử nghiệm, hỗ trợ và quảng bá - và có thể nhiều hơn nữa! Hiện tại, tôi đang có một số ứng dụng ở trong cửa hàng mà tôi đang ngày ngày cải thiện & có nhiều ý tưởng cho những ứng dụng khác mà tôi sẽ làm trong tương lai.";
 "rocketscience_website" = "Trang web";
-"rocketscience_twitter" = "Twitter";
 "rocketscience_tipjar" = "Ủng hộ";
 "rocketscience_tipjar_thankyou" = "Cảm ơn!";
 "rocketscience_my_other_apps" = "Những ứng dụng khác của tôi";

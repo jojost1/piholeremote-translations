@@ -333,7 +333,7 @@
 "help_callout" = "Потрібна допомога?";
 "settings_help_contact_footer" = "Будь ласка використовуйте англійську для запитів підтримки!";
 "settings_advanced" = "Розширені";
-"settings_twitter" = "Слідкувати у Twitter";
+"settings_twitter" = "Слідкувати у X";
 "settings_tipjar" = "Банка для чайових";
 "settings_tipjar_thankyou" = "Дякую!";
 "settings_rate" = "Оцінити Pi-hole Remote";
@@ -560,7 +560,6 @@
 "rocketscience_hi_title" = "Привіт, я Joost!";
 "rocketscience_hi_subtitle" = "У червні 2020-го я почав розробляти свої власні застосунки як незалежний розробник під іменем 'RocketScience IT'.\n\nМоя основна ціль — вивчити: дизайн, розробку, тестування, підтримку, просування — можливо навіть більше! Зараз я маю два застосунки в магазині, які я постійно покращую та маю багато ідей щодо інших застосунків, які я хотів би зробити у майбутньому.";
 "rocketscience_website" = "Website";
-"rocketscience_twitter" = "Twitter";
 "rocketscience_tipjar" = "Банка для чайових";
 "rocketscience_tipjar_thankyou" = "Дякую!";
 "rocketscience_my_other_apps" = "Мої інші застосунки";

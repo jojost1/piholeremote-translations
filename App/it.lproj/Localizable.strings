@@ -333,7 +333,7 @@
 "help_callout" = "Hai bisogno di aiuto?";
 "settings_help_contact_footer" = "Per favore usa l'inglese per le richieste di supporto!";
 "settings_advanced" = "Avanzate";
-"settings_twitter" = "Seguici su Twitter";
+"settings_twitter" = "Seguici su X";
 "settings_tipjar" = "Mancia";
 "settings_tipjar_thankyou" = "Grazie!";
 "settings_rate" = "Valuta Pi-hole Remote";
@@ -560,7 +560,6 @@
 "rocketscience_hi_title" = "Ciao, sono Joost!";
 "rocketscience_hi_subtitle" = "A Giugno 2020 ho iniziato a creare le mie app come sviluppatore indipendente, sotto il nome di 'RocketScience IT'.\n\nIl mio obiettivo principale è di imparare: design, sviluppo, testing, supporto e promozione - e magari anche altro! Al momento, ho due app nello store che miglioro continuamente e ho tante idee per altre app che vorrei realizzare in futuro.";
 "rocketscience_website" = "Sito";
-"rocketscience_twitter" = "Twitter";
 "rocketscience_tipjar" = "Mancia";
 "rocketscience_tipjar_thankyou" = "Grazie!";
 "rocketscience_my_other_apps" = "Le mie altre apps";
