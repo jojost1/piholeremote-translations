@@ -35,6 +35,7 @@
 "home_enable_blocking_pihole" = "Ενεργοποίηση αποκλεισμού Pi-hole";
 "home_enable_blocking_alert_%@" = "Θέλετε σίγουρα να ενεργοποιήσετε τον αποκλεισμό του %@;";
 "home_enable_%@_disabled_until_%@" = "Ενεργοποίηση (%@απενεργοποιημένο έως %@)";
+"home_enabled" = "Enabled";
 "home_data_from_%@" = "Δεδομένα από %@";
 "home_update_gravity" = "Ενημέρωση Gravity";
 "home_update_gravity_explainer" = "Μετάβαση στο /admin/gravity για ποια εκδοχή;";
@@ -584,6 +585,10 @@
 "24_hours" = "24 ώρες";
 "until_turned_on" = "Μέχρι να ανοίξει";
 "indefinitely" = "Επ’ αόριστον";
+"for_%lld_minute_short" = "%lld min";
+"for_%lld_minutes_short" = "%lld mins";
+"for_%lld_hour_short" = "%lld hour";
+"for_%lld_hours_short" = "%lld hours";
 "custom" = "Προσαρμογή";
 "custom_dots" = "Προσαρμογή...";
 
@@ -609,6 +614,7 @@
 "statistics_hide_domain" = "Απόκρυψη domain από τα στατιστικά";
 
 // MARK: Miscellaneous
+"instance" = "Εκδοχής";
 "instances" = "Εκδοχές";
 "instances_colon" = "Εκδοχές:";
 "all_instances" = "Όλες οι εκδοχές";
@@ -661,6 +667,14 @@
 // MARK: - Live Activities & Dynamic Island
 "live_activity_until_enabled" = "until enabled";
 "live_activity_end" = "End Live Activity";
+
+// MARK: - App Intents
+"appintent_enableblocking_description" = "Enable Pi-hole blocking on one or all of your instances.";
+"appintent_enableblocking_summary_${instance}" = "Enable Pi-hole blocking for ${instance}";
+"appintent_disableblocking_description" = "Disable Pi-hole blocking on one or all of your instances for a specific duration.";
+"appintent_disableblocking_summary_${instance}" = "Disable Pi-hole blocking for ${instance}";
+"appintent_instance_description" = "Specifies which instance(s) to use.";
+"appintent_duration_description" = "Specifies the duration to disable for, in minutes. Set to '0' to disable indefinitely.";
 
 // MARK: - watchOS Specific
 "watchos_home_queries" = "Ερωτήματα";

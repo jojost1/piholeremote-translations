@@ -35,6 +35,7 @@
 "home_enable_blocking_pihole" = "啟用 Pi-hole 封鎖";
 "home_enable_blocking_alert_%@" = "您確定您想要對 %@ 啟用封鎖嗎？";
 "home_enable_%@_disabled_until_%@" = "啟用（%@ 被禁用直到 %@ 為止）";
+"home_enabled" = "Enabled";
 "home_data_from_%@" = "來自 %@ 的數據";
 "home_update_gravity" = "更新 Gravity";
 "home_update_gravity_explainer" = "前往 /admin/gravity 以達到某個實例嗎？";
@@ -584,6 +585,10 @@
 "24_hours" = "24 hours";
 "until_turned_on" = "Until Turned On";
 "indefinitely" = "Indefinitely";
+"for_%lld_minute_short" = "%lld min";
+"for_%lld_minutes_short" = "%lld mins";
+"for_%lld_hour_short" = "%lld hour";
+"for_%lld_hours_short" = "%lld hours";
 "custom" = "Custom";
 "custom_dots" = "Custom...";
 
@@ -609,6 +614,7 @@
 "statistics_hide_domain" = "Hide Domain from Statistics";
 
 // MARK: Miscellaneous
+"instance" = "Instance";
 "instances" = "Instances";
 "instances_colon" = "Instances:";
 "all_instances" = "All Instances";
@@ -661,6 +667,14 @@
 // MARK: - Live Activities & Dynamic Island
 "live_activity_until_enabled" = "until enabled";
 "live_activity_end" = "End Live Activity";
+
+// MARK: - App Intents
+"appintent_enableblocking_description" = "Enable Pi-hole blocking on one or all of your instances.";
+"appintent_enableblocking_summary_${instance}" = "Enable Pi-hole blocking for ${instance}";
+"appintent_disableblocking_description" = "Disable Pi-hole blocking on one or all of your instances for a specific duration.";
+"appintent_disableblocking_summary_${instance}" = "Disable Pi-hole blocking for ${instance}";
+"appintent_instance_description" = "Specifies which instance(s) to use.";
+"appintent_duration_description" = "Specifies the duration to disable for, in minutes. Set to '0' to disable indefinitely.";
 
 // MARK: - watchOS Specific
 "watchos_home_queries" = "Queries";

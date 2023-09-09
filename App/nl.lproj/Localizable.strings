@@ -35,6 +35,7 @@
 "home_enable_blocking_pihole" = "Schakel Pi-hole blokkeren in";
 "home_enable_blocking_alert_%@" = "Weet je zeker dat je blokkeren wil inschakelen voor %@?";
 "home_enable_%@_disabled_until_%@" = "Schakel in (%@uitgeschakeld tot %@)";
+"home_enabled" = "Ingeschakeld";
 "home_data_from_%@" = "Data van %@";
 "home_update_gravity" = "Update Gravity";
 "home_update_gravity_explainer" = "Ga naar /admin/gravity voor welke instance?";
@@ -584,6 +585,10 @@
 "24_hours" = "24 uur";
 "until_turned_on" = "Tot weer ingeschakeld";
 "indefinitely" = "Altijd";
+"for_%lld_minute_short" = "%lld min";
+"for_%lld_minutes_short" = "%lld min";
+"for_%lld_hour_short" = "%lld uur";
+"for_%lld_hours_short" = "%lld uur";
 "custom" = "Aangepast";
 "custom_dots" = "Aangepast...";
 
@@ -609,6 +614,7 @@
 "statistics_hide_domain" = "Verberg domein in statistieken";
 
 // MARK: Miscellaneous
+"instance" = "Instantie";
 "instances" = "Instanties";
 "instances_colon" = "Instanties:";
 "all_instances" = "Alle instanties";
@@ -661,6 +667,14 @@
 // MARK: - Live Activities & Dynamic Island
 "live_activity_until_enabled" = "tot ingeschakeld";
 "live_activity_end" = "Stop Live Activity";
+
+// MARK: - App Intents
+"appintent_enableblocking_description" = "Schakel blokkeren in voor een of meerdere instanties.";
+"appintent_enableblocking_summary_${instance}" = "Blokkeren inschakelen voor ${instance}";
+"appintent_disableblocking_description" = "Schakel blokkeren uit voor een of meerdere instanties, voor een bepaalde tijd.";
+"appintent_disableblocking_summary_${instance}" = "Blokkeren uitschakelen voor ${instance}";
+"appintent_instance_description" = "Welke instantie(s) gebruikt moet(en) worden.";
+"appintent_duration_description" = "Voor hoe lang blokkeren uitgeschakeld moet worden, in minuten. Zet op '0' om uit te schakelen tot je blokkeren weer aanzet.";
 
 // MARK: - watchOS Specific
 "watchos_home_queries" = "Queries";

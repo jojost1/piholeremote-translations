@@ -35,6 +35,7 @@
 "home_enable_blocking_pihole" = "Увімкнути Pi-hole блокування";
 "home_enable_blocking_alert_%@" = "Ви впевнені, що хочете увімкнути блокування для %@?";
 "home_enable_%@_disabled_until_%@" = "Увімкнути (%@вимкнуте до %@)";
+"home_enabled" = "Enabled";
 "home_data_from_%@" = "Дані від %@";
 "home_update_gravity" = "Оновити Gravity";
 "home_update_gravity_explainer" = "Перейти до /admin/gravity для якого пристрою?";
@@ -584,6 +585,10 @@
 "24_hours" = "24 години";
 "until_turned_on" = "Поки не буде увімкнено";
 "indefinitely" = "На невизначений термін";
+"for_%lld_minute_short" = "%lld min";
+"for_%lld_minutes_short" = "%lld mins";
+"for_%lld_hour_short" = "%lld hour";
+"for_%lld_hours_short" = "%lld hours";
 "custom" = "Власне";
 "custom_dots" = "Власне...";
 
@@ -609,6 +614,7 @@
 "statistics_hide_domain" = "Приховати домен зі статистики";
 
 // MARK: Miscellaneous
+"instance" = "Пристрій";
 "instances" = "Пристрої";
 "instances_colon" = "Пристрої:";
 "all_instances" = "Всі пристрої";
@@ -661,6 +667,14 @@
 // MARK: - Live Activities & Dynamic Island
 "live_activity_until_enabled" = "until enabled";
 "live_activity_end" = "End Live Activity";
+
+// MARK: - App Intents
+"appintent_enableblocking_description" = "Enable Pi-hole blocking on one or all of your instances.";
+"appintent_enableblocking_summary_${instance}" = "Enable Pi-hole blocking for ${instance}";
+"appintent_disableblocking_description" = "Disable Pi-hole blocking on one or all of your instances for a specific duration.";
+"appintent_disableblocking_summary_${instance}" = "Disable Pi-hole blocking for ${instance}";
+"appintent_instance_description" = "Specifies which instance(s) to use.";
+"appintent_duration_description" = "Specifies the duration to disable for, in minutes. Set to '0' to disable indefinitely.";
 
 // MARK: - watchOS Specific
 "watchos_home_queries" = "Запити";

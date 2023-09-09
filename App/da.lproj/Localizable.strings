@@ -35,6 +35,7 @@
 "home_enable_blocking_pihole" = "Aktiver Pi-hole Blokkering";
 "home_enable_blocking_alert_%@" = "Er du sikker på du vil aktivere blokkering af %@?";
 "home_enable_%@_disabled_until_%@" = "Aktiver (%@disabled until %@)";
+"home_enabled" = "Enabled";
 "home_data_from_%@" = "Data fra %@";
 "home_update_gravity" = "Opdater Gravity";
 "home_update_gravity_explainer" = "Go to /admin/gravity for which instance?";
@@ -584,6 +585,10 @@
 "24_hours" = "24 timer";
 "until_turned_on" = "Indtil tændt";
 "indefinitely" = "På ubestemt tid";
+"for_%lld_minute_short" = "%lld min";
+"for_%lld_minutes_short" = "%lld mins";
+"for_%lld_hour_short" = "%lld hour";
+"for_%lld_hours_short" = "%lld hours";
 "custom" = "Brugerdefineret";
 "custom_dots" = "Brugerdefineret...";
 
@@ -609,6 +614,7 @@
 "statistics_hide_domain" = "Skjul domæne fra statistikker";
 
 // MARK: Miscellaneous
+"instance" = "Instanser";
 "instances" = "Instanser";
 "instances_colon" = "Instanser:";
 "all_instances" = "Alle Instanser";
@@ -661,6 +667,14 @@
 // MARK: - Live Activities & Dynamic Island
 "live_activity_until_enabled" = "indtil aktiveret";
 "live_activity_end" = "Slut Igangværende Aktivitet";
+
+// MARK: - App Intents
+"appintent_enableblocking_description" = "Enable Pi-hole blocking on one or all of your instances.";
+"appintent_enableblocking_summary_${instance}" = "Enable Pi-hole blocking for ${instance}";
+"appintent_disableblocking_description" = "Disable Pi-hole blocking on one or all of your instances for a specific duration.";
+"appintent_disableblocking_summary_${instance}" = "Disable Pi-hole blocking for ${instance}";
+"appintent_instance_description" = "Specifies which instance(s) to use.";
+"appintent_duration_description" = "Specifies the duration to disable for, in minutes. Set to '0' to disable indefinitely.";
 
 // MARK: - watchOS Specific
 "watchos_home_queries" = "Forespørgsler";
