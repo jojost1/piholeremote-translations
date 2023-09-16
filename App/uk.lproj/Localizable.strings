@@ -35,7 +35,7 @@
 "home_enable_blocking_pihole" = "Увімкнути Pi-hole блокування";
 "home_enable_blocking_alert_%@" = "Ви впевнені, що хочете увімкнути блокування для %@?";
 "home_enable_%@_disabled_until_%@" = "Увімкнути (%@вимкнуте до %@)";
-"home_enabled" = "Enabled";
+"home_enabled" = "Увімкнено";
 "home_data_from_%@" = "Дані від %@";
 "home_update_gravity" = "Оновити Gravity";
 "home_update_gravity_explainer" = "Перейти до /admin/gravity для якого пристрою?";
@@ -86,8 +86,8 @@
 "statistics_top_blocked_navbar" = "Заблоковані домени";
 "statistics_top_clients" = "Топ клієнтів";
 "statistics_top_clients_navbar" = "Клієнти";
-"statistics_top_clientsblocked" = "Топ Blocked клієнтів";
-"statistics_top_clientsblocked_navbar" = "Клієнти (Blocked)";
+"statistics_top_clientsblocked" = "Топ заблокованих клієнтів";
+"statistics_top_clientsblocked_navbar" = "Клієнти (заблоковані)";
 "statistics_system_info" = "Системна інформація";
 "statistics_unique_domains_%@" = "Унікальні домени: %@";
 "statistics_unique_clients_%@" = "Унікальні клієнти: %@";
@@ -352,7 +352,7 @@
 "instance_ssl_explainer" = "Використовувати http (за замовч.) або https?";
 "instance_ssl_http" = "http (за замовч.)";
 "instance_ssl_https" = "https";
-"instance_connecting_to_%@" = "Connecting to: '%@'";
+"instance_connecting_to_%@" = "Підключення до: '%@'";
 "instance_port" = "Порт";
 "instance_port_placeholder" = "80";
 "instance_token" = "API токен";
@@ -421,10 +421,10 @@
 "preferences_statistics_graphs_hide" = "Сховати графік";
 "preferences_statistics_graphs_type_bar" = "Стовпчиковий графік";
 "preferences_statistics_graphs_type_line" = "Лінійний графік";
-"preferences_statistics_graphs_line_type" = "Line type";
-"preferences_statistics_graphs_line_smooth" = "Smooth";
-"preferences_statistics_graphs_line_linear" = "Linear";
-"preferences_statistics_graphs_line_steps" = "Steps";
+"preferences_statistics_graphs_line_type" = "Тип лінії";
+"preferences_statistics_graphs_line_smooth" = "Плавна";
+"preferences_statistics_graphs_line_linear" = "Лінійна";
+"preferences_statistics_graphs_line_steps" = "Кроки";
 "preferences_statistics_show_recent_queries" = "Показувати 'Останні запити'";
 "preferences_statistics_hours_visible" = "Відображати годин";
 "preferences_statistics_animate_graphs" = "Анімувати графіки";
@@ -435,8 +435,8 @@
 "preferences_statistics_number_of_domains" = "Кількість доменів";
 "preferences_statistics_top_clients" = "Топ клієнтів";
 "preferences_statistics_show_top_clients" = "Показувати топ клієнтів";
-"preferences_statistics_top_clientsblocked" = "Top Blocked Clients";
-"preferences_statistics_show_top_clientsblocked" = "Show Top Blocked Clients";
+"preferences_statistics_top_clientsblocked" = "Топ заблокованих клієнтів";
+"preferences_statistics_show_top_clientsblocked" = "Показувати топ заблокованих клієнтів";
 "preferences_statistics_number_of_clients" = "Кількість клієнтів";
 "preferences_statistics_other" = "Інше";
 "preferences_statistics_other_footer" = "Показувати версію Pi-hole, версію API та інформацію про кеш DNS.";
@@ -465,10 +465,10 @@
 "preferences_lists_terminology_black_white" = "Чорний та Білий списки";
 "preferences_lists_terminology_deny_allow" = "Заборонений та Дозволений списки";
 "preferences_other_navbar" = "Інше";
-"preferences_other_security" = "Security";
+"preferences_other_security" = "Безпека";
 "preferences_other_tabbar" = "Tabbar";
 "preferences_other_other" = "Інше";
-"preferences_other_tab_four" = "Fourth Tab";
+"preferences_other_tab_four" = "Четверта вкладка";
 "preferences_other_live_activity" = "Live Activity";
 "preferences_other_language" = "Мова";
 "preferences_other_language_macos_alert" = "Змінити мову";
@@ -565,7 +565,7 @@
 "rocketscience_tipjar_thankyou" = "Дякую!";
 "rocketscience_my_other_apps" = "Мої інші застосунки";
 "rocketscience_adguardhomeremote_subtitle" = "Це як Pi-hole Remote, тільки для AdGuard Home!";
-"rocketscience_adguarddnsremote_subtitle" = "Rather use AdGuard DNS? I've got you covered.";
+"rocketscience_adguarddnsremote_subtitle" = "Може AdGuard DNS? Я про це теж попіклувався.";
 "rocketscience_mango_subtitle" = "Мінімалістичний застосунок трекер Anime & Manga, що використовує MyAnimeList API.";
 "rocketscience_energieradar_subtitle" = "Моніторинг цін на електроенергію та газ в реальному часі у багатьох європейських країнах.";
 "rocketscience_acknoledgements" = "Особлива подяка:";
@@ -585,10 +585,10 @@
 "24_hours" = "24 години";
 "until_turned_on" = "Поки не буде увімкнено";
 "indefinitely" = "На невизначений термін";
-"for_%lld_minute_short" = "%lld min";
-"for_%lld_minutes_short" = "%lld mins";
-"for_%lld_hour_short" = "%lld hour";
-"for_%lld_hours_short" = "%lld hours";
+"for_%lld_minute_short" = "%lld хв";
+"for_%lld_minutes_short" = "%lld хвилин";
+"for_%lld_hour_short" = "%lld год";
+"for_%lld_hours_short" = "%lld годин";
 "custom" = "Власне";
 "custom_dots" = "Власне...";
 
@@ -655,8 +655,8 @@
 "widget_statistic_description" = "Слідкуйте за статистикою однієї категорії.";
 "widget_statistics" = "Статистика";
 "widget_statistics_description" = "Слідкуйте за статистикою всіх категорій.";
-"widget_statistics_and_chart" = "Statistics & Chart";
-"widget_statistics_and_chart_description" = "Statistics with a 6-hour query log chart.";
+"widget_statistics_and_chart" = "Статистика та Діаграма";
+"widget_statistics_and_chart_description" = "Статистика з 6-годинною діаграмою журналу запитів.";
 "widget_statistics_and_disable" = "Статистика та Вимкнення";
 "widget_statistics_and_disable_description" = "Статистика з гнучким налаштуванням кнопок для швидкого відключення блокування.";
 "widget_querygraph" = "Графік запитів";
@@ -665,16 +665,16 @@
 "widget_disable_description" = "Швидко вимикайте блокування за допомогою кнопок з гнучким налаштуванням.";
 
 // MARK: - Live Activities & Dynamic Island
-"live_activity_until_enabled" = "until enabled";
-"live_activity_end" = "End Live Activity";
+"live_activity_until_enabled" = "доки не буде увімкнено";
+"live_activity_end" = "Завершити Live Activity";
 
 // MARK: - App Intents
-"appintent_enableblocking_description" = "Enable Pi-hole blocking on one or all of your instances.";
-"appintent_enableblocking_summary_${instance}" = "Enable Pi-hole blocking for ${instance}";
-"appintent_disableblocking_description" = "Disable Pi-hole blocking on one or all of your instances for a specific duration.";
-"appintent_disableblocking_summary_${instance}" = "Disable Pi-hole blocking for ${instance}";
-"appintent_instance_description" = "Specifies which instance(s) to use.";
-"appintent_duration_description" = "Specifies the duration to disable for, in minutes. Set to '0' to disable indefinitely.";
+"appintent_enableblocking_description" = "Увімкнути блокування Pi-hole на одному або всіх своїх пристроях.";
+"appintent_enableblocking_summary_${instance}" = "Увімкнути блокування Pi-hole для ${instance}";
+"appintent_disableblocking_description" = "Вимкнути блокування Pi-hole для одного чи всіх ваших пристроїв на певний час.";
+"appintent_disableblocking_summary_${instance}" = "Вимкнути блокування Pi-hole для ${instance}";
+"appintent_instance_description" = "Визначає, які пристрої використовувати.";
+"appintent_duration_description" = "Визначає тривалість вимкнення у хвилинах. Вкажіть «0», щоб вимкнути на невизначений термін.";
 
 // MARK: - watchOS Specific
 "watchos_home_queries" = "Запити";
