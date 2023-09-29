@@ -677,6 +677,8 @@
 "appintent_duration_description" = "Voor hoe lang blokkeren uitgeschakeld moet worden, in minuten. Zet op '0' om uit te schakelen tot je blokkeren weer aanzet.";
 
 // MARK: - watchOS Specific
+"watchos_blocking" = "Blokkeren";
+"watchos_top_lists" = "Top lijsten";
 "watchos_home_queries" = "Queries";
 "watchos_home_blocked" = "Geblokkeerd";
 "watchos_home_blocklist" = "Blocklist";

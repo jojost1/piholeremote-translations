@@ -677,6 +677,8 @@
 "appintent_duration_description" = "Визначає тривалість вимкнення у хвилинах. Вкажіть «0», щоб вимкнути на невизначений термін.";
 
 // MARK: - watchOS Specific
+"watchos_blocking" = "Blocking";
+"watchos_top_lists" = "Top Lists";
 "watchos_home_queries" = "Запити";
 "watchos_home_blocked" = "Заблоковані";
 "watchos_home_blocklist" = "Список блокування";

@@ -676,6 +676,8 @@
 "appintent_duration_description" = "Specifies the duration to disable for, in minutes. Set to '0' to disable indefinitely.";
 
 // MARK: - watchOS Specific
+"watchos_blocking" = "Blocking";
+"watchos_top_lists" = "Top Lists";
 "watchos_home_queries" = "Anfragen";
 "watchos_home_blocked" = "Gesperrt";
 "watchos_home_blocklist" = "Sperrliste";
