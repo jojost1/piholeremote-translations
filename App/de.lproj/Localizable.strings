@@ -668,16 +668,16 @@
 "live_activity_end" = "Live-Aktivierung beenden";
 
 // MARK: - App Intents
-"appintent_enableblocking_description" = "Enable Pi-hole blocking on one or all of your instances.";
-"appintent_enableblocking_summary_${instance}" = "Enable Pi-hole blocking for ${instance}";
-"appintent_disableblocking_description" = "Disable Pi-hole blocking on one or all of your instances for a specific duration.";
-"appintent_disableblocking_summary_${instance}" = "Disable Pi-hole blocking for ${instance}";
-"appintent_instance_description" = "Specifies which instance(s) to use.";
-"appintent_duration_description" = "Specifies the duration to disable for, in minutes. Set to '0' to disable indefinitely.";
+"appintent_enableblocking_description" = "Aktiviere Pi-Hole Blockierung auf einer oder allen Deinen Instanzen.";
+"appintent_enableblocking_summary_${instance}" = "Aktiviere Pi-hole Blockierung für ${instance}";
+"appintent_disableblocking_description" = "Deaktiviere Pi-hole Blockierung auf einer oder allen Deinen Instanzen für eine bestimmte Dauer.";
+"appintent_disableblocking_summary_${instance}" = "Deaktiviere Pi-hole Blockierung für ${instance}";
+"appintent_instance_description" = "Gibt an, welche Instanz(en) verwendet werden sollen.";
+"appintent_duration_description" = "Gibt die Dauer der Deaktivierung in Minuten an. Setze den Wert auf "0", um die Funktion auf unbestimmte Zeit zu deaktivieren.";
 
 // MARK: - watchOS Specific
-"watchos_blocking" = "Blocking";
-"watchos_top_lists" = "Top Lists";
+"watchos_blocking" = "Blockieren";
+"watchos_top_lists" = "Top-Listen";
 "watchos_home_queries" = "Anfragen";
 "watchos_home_blocked" = "Gesperrt";
 "watchos_home_blocklist" = "Sperrliste";
