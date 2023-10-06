@@ -31,7 +31,7 @@
                  {
                      "id": 3,
                      "title": "API Key",
-                     "subtitle": "Um mit Deinem Pi-hole kommunizieren zu können, braucht die App Dein API-Token. Du findest das Token im Pi-hole Web Interface unter "Einstellungen > API / Web Interface > API-Token anzeigen". Kopiere das Token und füge es ein oder scanne den QR-Code mit Pi-hole Remote!",
+                     "subtitle": "Um mit Deinem Pi-hole kommunizieren zu können, braucht die App Dein API-Token. Du findest das Token im Pi-hole Web Interface unter 'Einstellungen > API / Web Interface > API-Token anzeigen'. Kopiere das Token und füge es ein oder scanne den QR-Code mit Pi-hole Remote!",
                      "videoURL": "https://rocketscience-it.nl/phr/support/api-key-video.mp4"
                  },
                  {
@@ -103,7 +103,7 @@
                         {
                             "id": 3,
                             "title": "API Key",
-                            "subtitle": "Um mit Deinem Pi-hole kommunizieren zu können, braucht die App Dein API-Token. Du findest das Token im Pi-hole Web Interface unter "Einstellungen > API / Web Interface > API-Token anzeigen". Kopiere das Token und füge es ein oder scanne den QR-Code mit Pi-hole Remote!",
+                            "subtitle": "Um mit Deinem Pi-hole kommunizieren zu können, braucht die App Dein API-Token. Du findest das Token im Pi-hole Web Interface unter 'Einstellungen > API / Web Interface > API-Token anzeigen'. Kopiere das Token und füge es ein oder scanne den QR-Code mit Pi-hole Remote!",
                             "videoURL": "https://rocketscience-it.nl/phr/support/api-key-video.mp4"
                         },
                         {
