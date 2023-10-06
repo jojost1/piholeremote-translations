@@ -15,8 +15,8 @@ Quickly add new entries to your lists inside the app or with the iOS Share Exten
 *Local DNS*
 Manage your Local DNS and CNAME records, right from the app!
 
-*Widgets & Live Activity*
-Choose from a wide range of homescreen and lock screen widgets that show statistics or graphs. All are customisable with a wide range of options! When you disable blocking, you will even see a Live Activity on your lock screen and Dynamic Island.
+*Interactive Widgets & Live Activity*
+Choose from a wide range of homescreen and lock screen widgets that show statistics or graphs. There are also interactive widgets to disable blocking without opening the app! When you disable blocking, you will even see a Live Activity on your lock screen and Dynamic Island.
 
 *Full Ecosystem*
 Purchase the app once and get access to the iOS, watchOS, iPadOS, macOS, and tvOS app.
@@ -27,6 +27,7 @@ iPhone, iPad, macOS features:
 - Disable Pi-hole blocking
 - View basic & advanced statistics
 - Add domains to your whitelist or blacklist (in bulk)
+- One-tap blocking of entire services
 - Export your list entries
 - Sync list entries between two instances
 - Full Query Log with search & filters
@@ -35,7 +36,7 @@ iPhone, iPad, macOS features:
 - Support for up to 4 Pi-hole instances with combined statistics and queries
 - Support for scanning Pi-hole token QR code
 - Support for SSL and reverse proxies
-- Widgets
+- Interactive widgets & Live Activity
 - Siri Shortcuts & Quick Action
 - Share Extension for quick white/blacklisting
 - VoiceOver support
@@ -45,10 +46,12 @@ iPhone, iPad, macOS features:
 - Clean and modern 100% SwiftUI design
 
 Apple Watch features:
-- View basic statistics
 - Disable Pi-hole blocking
-- View top allowed, top blocked, top clients
+- Change Blocked Services settings
+- View basic statistics
+- View top lists
 - Complications
+- Support for the Smart Stack
 
 Apple TV features:
 - View basic statistics
@@ -79,4 +82,4 @@ Statistics:
 ==
 
 Note: 
-You need at least one working Pi-hole instance running on another device for this app to function and you must use Pi-hole Version 5.1 or up. Find out more about Pi-hole at https://pi-hole.net/.
+You need at least one working Pi-hole instance running on another device for this app to function and you must use Pi-hole Version 5.17 or up. Find out more about Pi-hole at https://pi-hole.net/.
