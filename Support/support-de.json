@@ -31,7 +31,7 @@
                  {
                      "id": 3,
                      "title": "API Key",
-                     "subtitle": "Um mit deinem Pi-hole kommunizieren zu können, braucht die App Dein API-Token. Du findest das Token im Pi-hole Web Interface unter "Einstellungen > API / Web Interface > API-Token anzeigen". Kopiere das Token und füge es ein oder scanne den QR-Code mit Pi-hole Remote!",
+                     "subtitle": "Um mit Deinem Pi-hole kommunizieren zu können, braucht die App Dein API-Token. Du findest das Token im Pi-hole Web Interface unter "Einstellungen > API / Web Interface > API-Token anzeigen". Kopiere das Token und füge es ein oder scanne den QR-Code mit Pi-hole Remote!",
                      "videoURL": "https://rocketscience-it.nl/phr/support/api-key-video.mp4"
                  },
                  {
@@ -74,7 +74,7 @@
             "items": [
                 {
                     "id": 5,
-                    "title": "Füge dein Pi-hole hinzu",
+                    "title": "Füge Dein Pi-hole hinzu",
                     "subtitle": "Wie fügt man eine Pi-hole Instanz hinzu?",
                     "imageName": "plus.circle.fill",
                     "color": 2,
@@ -103,7 +103,7 @@
                         {
                             "id": 3,
                             "title": "API Key",
-                            "subtitle": "Um mit deinem Pi-hole kommunizieren zu können, braucht die App Dein API-Token. Du findest das Token im Pi-hole Web Interface unter "Einstellungen > API / Web Interface > API-Token anzeigen". Kopiere das Token und füge es ein oder scanne den QR-Code mit Pi-hole Remote!",
+                            "subtitle": "Um mit Deinem Pi-hole kommunizieren zu können, braucht die App Dein API-Token. Du findest das Token im Pi-hole Web Interface unter "Einstellungen > API / Web Interface > API-Token anzeigen". Kopiere das Token und füge es ein oder scanne den QR-Code mit Pi-hole Remote!",
                             "videoURL": "https://rocketscience-it.nl/phr/support/api-key-video.mp4"
                         },
                         {
@@ -145,7 +145,7 @@
                 {
                     "id": 0,
                     "title": "Ich erhalte sofort eine Fehlermeldung, Hilfe!",
-                    "text": "Läuft bei Dir die neueste Version von Pi-hole und Pi-hole Remote? Hast Du in den iOS-Einstellungen die Erlaubnis für 'Lokalen Netzwerkzugriff' erteilt? Kannst Du es mit der IP-Adresse anstelle des Hostnamens versuchen oder andersherum? Kannst Du dein API-Token noch einmal überprüfen?"
+                    "text": "Läuft bei Dir die neueste Version von Pi-hole und Pi-hole Remote? Hast Du in den iOS-Einstellungen die Erlaubnis für 'Lokalen Netzwerkzugriff' erteilt? Kannst Du es mit der IP-Adresse anstelle des Hostnamens versuchen oder andersherum? Kannst Du Dein API-Token noch einmal überprüfen?"
                 },
                 {
                     "id": 1,
@@ -155,7 +155,7 @@
                 {
                     "id": 2,
                     "title": "Warum werden die Informationen nicht geladen, wenn ich nicht zu Hause bin?",
-                    "text": "Auf dein Pi-hole kannst du wahrscheinlich nur von deinem lokalen Netzwerk aus zugreifen (also wenn du zu Hause bist). Der beste Weg, um auch von außerhalb deines Netzwerks auf Dein Pi-hole zuzugreifen und es zu nutzen, ist die Nutzung eines VPNs. Ich kann Dir [PiVPN](https://pivpn.io) oder [Tailscale](https://tailscale.com) empfehlen. So kannst Du von überall aus sicher auf dein Pi-hole zugreifen!"
+                    "text": "Auf Dein Pi-hole kannst Du wahrscheinlich nur von Deinem lokalen Netzwerk aus zugreifen (also wenn Du zu Hause bist). Der beste Weg, um auch von außerhalb Deines Netzwerks auf Dein Pi-hole zuzugreifen und es zu nutzen, ist die Nutzung eines VPNs. Ich kann Dir [PiVPN](https://pivpn.io) oder [Tailscale](https://tailscale.com) empfehlen. So kannst Du von überall aus sicher auf dein Pi-hole zugreifen!"
                 },
                 {
                     "id": 3,
@@ -165,7 +165,7 @@
                 {
                     "id": 4,
                     "title": "Warum zeigt mein Homescreen-Widget keine Daten an?",
-                    "text": "Vergewissere Dich, dass Du Dich in einem Netzwerk befindest, in dem Dein Gerät deine Pi-hole-Instanz erreichen kann, z. B. in Deinem Heim-WLAN. Du kannst auch versuchen, Dein Gerät neu zu starten, wodurch das Widget komplett neu gestartet wird. Wenn das nicht funktioniert, versuche das Widget zu löschen, speichere Deine Instanz in der App neu und füge das Widget erneut hinzu."
+                    "text": "Vergewissere Dich, dass Du Dich in einem Netzwerk befindest, in dem Dein Gerät Deine Pi-hole-Instanz erreichen kann, z. B. in Deinem Heim-WLAN. Du kannst auch versuchen, Dein Gerät neu zu starten, wodurch das Widget komplett neu gestartet wird. Wenn das nicht funktioniert, versuche das Widget zu löschen, speichere Deine Instanz in der App neu und füge das Widget erneut hinzu."
                 },
                 {
                     "id": 5,
