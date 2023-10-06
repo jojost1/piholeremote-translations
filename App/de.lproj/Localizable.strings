@@ -673,7 +673,7 @@
 "appintent_disableblocking_description" = "Deaktiviere Pi-hole Blockierung auf einer oder allen Deinen Instanzen für eine bestimmte Dauer.";
 "appintent_disableblocking_summary_${instance}" = "Deaktiviere Pi-hole Blockierung für ${instance}";
 "appintent_instance_description" = "Gibt an, welche Instanz(en) verwendet werden sollen.";
-"appintent_duration_description" = "Gibt die Dauer der Deaktivierung in Minuten an. Setze den Wert auf "0", um die Funktion auf unbestimmte Zeit zu deaktivieren.";
+"appintent_duration_description" = "Gibt die Dauer der Deaktivierung in Minuten an. Setze den Wert auf '0', um die Funktion auf unbestimmte Zeit zu deaktivieren.";
 
 // MARK: - watchOS Specific
 "watchos_blocking" = "Blockieren";
