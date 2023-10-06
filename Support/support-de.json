@@ -170,7 +170,7 @@
                 {
                     "id": 5,
                     "title": "Warum kann ich die App unter macOS nicht aktualisieren??",
-                    "text": "Das scheint ein macOS-Fehler zu sein. Zum Glück gibt es einen Workaround: Öffne die Aktivitätsanzeige, suche nach "Pi-hole", halte alle Prozesse an (App + Widget) und stoße dann erneut eine App-Aktualisierung an."
+                    "text": "Das scheint ein macOS-Fehler zu sein. Zum Glück gibt es einen Workaround: Öffne die 'Aktivitätsanzeige', suche nach 'Pi-hole', halte alle Prozesse an (App + Widget) und stoße dann erneut eine App-Aktualisierung an."
                 },
                 {
                     "id": 6,
