@@ -84,14 +84,14 @@
 "statistics_top_allowed_navbar" = "Erlaubte Domänen";
 "statistics_top_blocked" = "Meistgesperrte Anfragen";
 "statistics_top_blocked_navbar" = "Gesperrte Domänen";
-"statistics_top_clients" = "Häufigste Klienten";
-"statistics_top_clients_navbar" = "Klienten";
-"statistics_top_clientsblocked" = "Meistgesperrte Klienten";
-"statistics_top_clientsblocked_navbar" = "Klienten (Blockiert)";
+"statistics_top_clients" = "Häufigste Clients";
+"statistics_top_clients_navbar" = "Clients";
+"statistics_top_clientsblocked" = "Meistgesperrte Clients";
+"statistics_top_clientsblocked_navbar" = "Clients (Blockiert)";
 "statistics_system_info" = "Systeminfo";
 "statistics_unique_domains_%@" = "Eindeutige Domänen: %@";
-"statistics_unique_clients_%@" = "Eindeutige Klienten: %@";
-"statistics_unique_clients_ever_seen_%@" = "Gesamtzahl der Klienten: %@";
+"statistics_unique_clients_%@" = "Eindeutige Clients: %@";
+"statistics_unique_clients_ever_seen_%@" = "Gesamtzahl der Clients: %@";
 "statistics_version" = "Version";
 "statistics_pihole" = "Pi-hole";
 "statistics_adminlte" = "AdminLTE";
@@ -176,7 +176,7 @@
 // MARK: QueryLog Detail
 "querylog_detail_navbar" = "Anfragen";
 "querylog_detail_domain" = "Domäne";
-"querylog_detail_client" = "Klient";
+"querylog_detail_client" = "Client";
 "querylog_detail_request" = "Anfrage";
 "querylog_detail_type" = "Typ";
 "querylog_detail_response" = "Reaktion";
@@ -433,11 +433,11 @@
 "preferences_statistics_show_top_allowed" = "Meistzugelassene anzeigen";
 "preferences_statistics_show_top_blocked" = "Meistgesperrte anzeigen";
 "preferences_statistics_number_of_domains" = "Domänen-Anzahl";
-"preferences_statistics_top_clients" = "Top-Klienten";
-"preferences_statistics_show_top_clients" = "Top-Klienten anzeigen";
-"preferences_statistics_top_clientsblocked" = "Meistgesperrte Klienten";
-"preferences_statistics_show_top_clientsblocked" = "Meistgesperrte Klienten anzeigen";
-"preferences_statistics_number_of_clients" = "Anzahl der Klienten";
+"preferences_statistics_top_clients" = "Top-Clients";
+"preferences_statistics_show_top_clients" = "Top-Clients anzeigen";
+"preferences_statistics_top_clientsblocked" = "Meistgesperrte Clients";
+"preferences_statistics_show_top_clientsblocked" = "Meistgesperrte Clients anzeigen";
+"preferences_statistics_number_of_clients" = "Anzahl der Clients";
 "preferences_statistics_other" = "Sonstiges";
 "preferences_statistics_other_footer" = "Pi-hole-Version anzeigen, API-Version und DNS-Cache-Informationen.";
 "preferences_statistics_hidden_domains" = "Ausgeblendete Domänen";
@@ -608,7 +608,7 @@
 "copy_hostname_or_ip" = "Hostname / IP kopieren";
 "add_to_list_dots" = "Zur Liste hinzufügen …";
 "view_queries_to_domain" = "Domänenanfragen anzeigen";
-"view_queries_from_client" = "Anfragen von Geräten anzeigen";
+"view_queries_from_client" = "Anfragen von Clients anzeigen";
 "visit_domain" = "Domäne besuchen";
 "statistics_hide_domain" = "Domänen in der Statistik ausblenden";
 
