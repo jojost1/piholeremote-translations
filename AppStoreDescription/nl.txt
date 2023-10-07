@@ -15,8 +15,8 @@ Voeg snel nieuwe entries toe aan je lijsten via de app of met de iOS Share Exten
 *Lokale DNS*
 Beheer je lokale DNS en CNAME records!
 
-*Widgets & Live Activiteit*
-Zet widgets op je homescreen of lock screen om snel je Pi-hole uit te schakelen of om snel statistieken te zien. Alle widgets zijn aan te passen, zoals de kleur, tap-acties of status-indicator. Daarnaast zie je een Live Activiteit op je lock screen en Dynamic Island wanneer je blokkeren tijdelijk uitschakelt!
+*Interactieve Widgets & Live Activiteit*
+Zet widgets op je homescreen of lock screen om snel je Pi-hole uit te schakelen of om snel statistieken te zien. Er zijn ook interactieve widgets om blokkeren uit te schakelen zonder de app te openen. Daarnaast zie je een Live Activiteit op je lock screen en Dynamic Island wanneer je blokkeren tijdelijk uitschakelt!
 
 *Volledig Ecosysteem*
 Koop de app één keer en krijg toegang tot de iOS, watchOS, iPadOS, macOS en tvOS app.
@@ -27,6 +27,7 @@ iPhone, iPad, macOS functies:
 - Zet blokkeren uit
 - Bekijk geavanceerde statistieken
 - Voeg domeinen toe aan je white- of blacklist
+- Met één tik uitschakelen van hele diensten
 - Exporteer en synchroniseer lijsten
 - Query Log met zoekfunctie en filters
 - Live Log voor het bekijken van queries in real-time
@@ -34,7 +35,7 @@ iPhone, iPad, macOS functies:
 - Ondersteuning voor maximaal 4 Pi-hole instanties, met gecombineerde statistieken
 - Ondersteuning voor het scannen van je Pi-hole QR code
 - Ondersteuning voor SSL en reverse proxies
-- Widgets
+- Interactieve widgets & Live Activiteit
 - Siri Shortcuts
 - Share Extension voor snel white- en blacklisten
 - VoiceOver ondersteuning
@@ -44,10 +45,12 @@ iPhone, iPad, macOS functies:
 - Modern 100% SwiftUI ontwerp
 
 Apple Watch functies:
-- Bekijk basisstatistieken
 - Zet blokkeren uit
-- Bekijk top toegestaan, top geblokkeerd, top cliënten
-- Complications
+- Pas 'Geblokkeerde Diensten' instellingen aan
+- Bekijk basisstatistieken
+- Bekijk top lijsten
+- Complicaties
+- Ondersteuning voor de Smart Stack
 
 Apple TV functies:
 - Bekijk basisstatistieken
@@ -77,4 +80,4 @@ Statistieken:
 ==
 
 Belangrijk:
-Je hebt een werkende Pi-hole instantie nodig op je netwerk die draait op een ander apparaat om deze app te gebruiken. Ook moet Pi-hole versie 5.1 of hoger gebruikt worden. Lees meer over Pi-hole op https://pi-hole.net/.
+Je hebt een werkende Pi-hole instantie nodig op je netwerk die draait op een ander apparaat om deze app te gebruiken. Ook moet Pi-hole versie 5.17 of hoger gebruikt worden. Lees meer over Pi-hole op https://pi-hole.net/.
