@@ -52,8 +52,8 @@
 "usage_metrics_cpu_core" = "1 Kern";
 "usage_metrics_cpu_cores_%lld" = "%lld Kerne";
 "usage_metrics_cpu_1min" = "Letzte Minute";
-"usage_metrics_cpu_5min" = "Letzten 5 Minuten";
-"usage_metrics_cpu_15min" = "Letzten 15 Minuten";
+"usage_metrics_cpu_5min" = "Letzte 5 Minuten";
+"usage_metrics_cpu_15min" = "Letzte 15 Minuten";
 "usage_metrics_cpu_usage_alert" = "Diese Prozentsätze stellen die durchschnittliche CPU-Last der letzten Minuten dar.\n\nEine Auslastung von 70% ist akzeptabel, sobald sie aber konstant über 70% liegt, solltest Du eine Erweiterung ins Auge fassen.";
 "usage_metrics_memory" = "Arbeitsspeicher";
 "usage_metrics_data_from_%@" = "\nDaten von: %@";
