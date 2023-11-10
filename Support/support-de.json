@@ -2,42 +2,42 @@
     "headerItems": [
         {
             "id": 5,
-            "title": "Add your instance",
-            "subtitle": "Easy!",
+            "title": "Füge Deine Instanz hinzu",
+            "subtitle": "Einfach!",
             "imageName": "server.rack",
             "color": 1,
             "supportPages": [
                 {
                     "id": 0,
-                    "title": "Your Instance",
-                    "subtitle": "First, find out the IP address and port of your Pi-hole installation. You can find it by looking at your Safari address bar! Please go to the Pi-hole Web Interface in Safari.",
+                    "title": "Deine Instanz",
+                    "subtitle": "Finde zuerst die IP-Adresse und den Port Deiner Pi-hole-Installation heraus. Du findest sie, indem Du in die Adressleiste Deines Safari-Browsers schaust! Bitte gehe zum Pi-hole Web Interface in Safari.",
                     "imageURL": "https://rocketscience-it.nl/phr/support/safari-dashboard.png",
                     "darkImageURL": "https://rocketscience-it.nl/phr/support/safari-dashboard-dark.png"
                 },
                 {
                     "id": 1,
-                    "title": "Find IP & Port",
-                    "subtitle": "Tap the Safari address bar and you'll find the IP (or Hostname) and a port. Don't sweat it if you don't see a port number, in that case it's probably 80 (that's the default). Next step: enter this data inside the app!",
+                    "title": "Finde IP & Port",
+                    "subtitle": "Tippe auf die Safari-Adressleiste und Du wirst die IP (oder den Hostnamen) und einen Port finden. Mach Dir nichts draus, wenn Du keine Portnummer siehst. In diesem Fall ist es wahrscheinlich 80 (das ist die Standardeinstellung). Nächster Schritt: Gib diese Daten in der App ein!",
                     "imageURL": "https://rocketscience-it.nl/phr/support/safari-dashboard-addressbar-annotated.png",
                     "darkImageURL": "https://rocketscience-it.nl/phr/support/safari-dashboard-addressbar-annotated.png"
                 },
                  {
                      "id": 2,
-                     "title": "Enter Details",
-                     "subtitle": "Now open Pi-hole Remote and tap Settings > Add Pi-hole. You can enter the IP and port right there! One last step...",
+                     "title": "Details eingeben",
+                     "subtitle": "Öffne nun Pi-hole Remote und tippe auf Einstellungen > Pi-hole hinzufügen. Dort kannst Du die IP und den Port eingeben! Ein letzter Schritt...",
                     "imageURL": "https://rocketscience-it.nl/phr/support/app-addinstance-top-annotated.png",
                     "darkImageURL": "https://rocketscience-it.nl/phr/support/app-addinstance-top-annotated-dark.png"
                  },
                  {
                      "id": 3,
                      "title": "API Key",
-                     "subtitle": "To be able to communicate with your Pi-hole, the app needs your API token. You can find it in the Pi-hole Web Interface by going to 'Settings > API / Web Interface > Show API token'. Copy and paste the token, or scan the QR code with Pi-hole Remote!",
+                     "subtitle": "Um mit Deinem Pi-hole kommunizieren zu können, braucht die App Dein API-Token. Du findest das Token im Pi-hole Web Interface unter 'Einstellungen > API / Web Interface > API-Token anzeigen'. Kopiere das Token und füge es ein oder scanne den QR-Code mit Pi-hole Remote!",
                      "videoURL": "https://rocketscience-it.nl/phr/support/api-key-video.mp4"
                  },
                  {
                      "id": 4,
                      "title": "Voilà!",
-                     "subtitle": "Tap 'Test Connection' and you should see a green checkmark! Tap 'Save' in the top right and you're all set. Not seeing the green checkmark? Please double check all the data you entered. Enjoy the app!",
+                     "subtitle": "Tippe auf 'Verbindung testen', dann Du solltest ein grünes Häkchen sehen! Tippe oben rechts auf 'Speichern' und schon bist Du fertig. Du siehst das grüne Häkchen nicht? Bitte überprüfe noch einmal alle Daten, die Du eingegeben hast. Viel Spaß mit der App!",
                     "imageURL": "https://rocketscience-it.nl/phr/support/app-dashboard.png",
                     "darkImageURL": "https://rocketscience-it.nl/phr/support/app-dashboard-dark.png"
                  }
@@ -45,22 +45,22 @@
         },
         {
             "id": 6,
-            "title": "Query Log tips & tricks",
-            "subtitle": "Some handy tips!",
+            "title": "Tipps und Tricks zum Abfrageprotokoll",
+            "subtitle": "Einige praktische Tipps!",
             "imageName": "doc.text.magnifyingglass",
             "color": 2,
             "supportPages": [
                 {
                     "id": 7,
-                    "title": "Long Press",
-                    "subtitle": "Did you know you can tap & hold a query to view quick actions?",
+                    "title": "Langes Drücken",
+                    "subtitle": "Wusstest Du, dass Du eine Abfrage antippen und halten kannst, um Schnellaktionen anzuzeigen?",
                     "imageURL": "https://rocketscience-it.nl/phr/support/querylog-contextmenu-light.png",
                     "darkImageURL": "https://rocketscience-it.nl/phr/support/querylog-contextmenu-dark.png"
                 },
                 {
                     "id": 8,
-                    "title": "Show Detail",
-                    "subtitle": "Turn on 'Show detail' to make the Query Log a bit more detailed.",
+                    "title": "Details anzeigen",
+                    "subtitle": "Aktiviere 'Details anzeigen', um das Abfrageprotokoll etwas detaillierter zu gestalten.",
                     "imageURL": "https://rocketscience-it.nl/phr/support/querylog-extradetail-light.png",
                     "darkImageURL": "https://rocketscience-it.nl/phr/support/querylog-extradetail-dark.png"
                 }
@@ -70,46 +70,46 @@
     "highlightedSections": [
         {
             "id": 0,
-            "title": "Setup",
+            "title": "Einrichtung",
             "items": [
                 {
                     "id": 5,
-                    "title": "Add your Pi-hole",
-                    "subtitle": "How do you add an instance?",
+                    "title": "Füge Dein Pi-hole hinzu",
+                    "subtitle": "Wie fügt man eine Pi-hole Instanz hinzu?",
                     "imageName": "plus.circle.fill",
                     "color": 2,
                     "supportPages": [
                         {
                             "id": 0,
-                            "title": "Your Instance",
-                            "subtitle": "First, find out the IP address and port of your Pi-hole installation. You can find it by looking at your Safari address bar! Please go to the Pi-hole Web Interface in Safari.",
+                            "title": "Deine Instanz",
+                            "subtitle": "Finde zuerst die IP-Adresse und den Port Deiner Pi-hole-Installation heraus. Du findest sie, indem Du in die Adressleiste Deines Safari-Browsers schaust! Bitte gehe zum Pi-hole Web Interface in Safari.",
                             "imageURL": "https://rocketscience-it.nl/phr/support/safari-dashboard.png",
                             "darkImageURL": "https://rocketscience-it.nl/phr/support/safari-dashboard-dark.png"
                         },
                         {
                             "id": 1,
-                            "title": "Find IP & Port",
-                            "subtitle": "Tap the Safari address bar and you'll find the IP (or Hostname) and a port. Don't sweat it if you don't see a port number, in that case it's probably 80 (that's the default). Next step: enter this data inside the app!",
+                            "title": "Finde IP & Port",
+                            "subtitle": "Tippe auf die Safari-Adressleiste und Du wirst die IP (oder den Hostnamen) und einen Port finden. Mach Dir nichts draus, wenn Du keine Portnummer siehst. In diesem Fall ist es wahrscheinlich 80 (das ist die Standardeinstellung). Nächster Schritt: Gib diese Daten in der App ein!",
                             "imageURL": "https://rocketscience-it.nl/phr/support/safari-dashboard-addressbar-annotated.png",
                             "darkImageURL": "https://rocketscience-it.nl/phr/support/safari-dashboard-addressbar-annotated.png"
                         },
                         {
                             "id": 2,
-                            "title": "Enter Details",
-                            "subtitle": "Now open Pi-hole Remote and tap Settings > Add Pi-hole. You can enter the IP and port right there! One last step...",
+                            "title": "Details eingeben",
+                            "subtitle": "Öffne nun Pi-hole Remote und tippe auf Einstellungen > Pi-hole hinzufügen. Dort kannst Du die IP und den Port eingeben! Ein letzter Schritt...",
                             "imageURL": "https://rocketscience-it.nl/phr/support/app-addinstance-top-annotated.png",
                             "darkImageURL": "https://rocketscience-it.nl/phr/support/app-addinstance-top-annotated-dark.png"
                         },
                         {
                             "id": 3,
                             "title": "API Key",
-                            "subtitle": "To be able to communicate with your Pi-hole, the app needs your API token. You can find it in the Pi-hole Web Interface by going to 'Settings > API / Web Interface > Show API token'. Copy and paste the token, or scan the QR code with Pi-hole Remote!",
+                            "subtitle": "Um mit Deinem Pi-hole kommunizieren zu können, braucht die App Dein API-Token. Du findest das Token im Pi-hole Web Interface unter 'Einstellungen > API / Web Interface > API-Token anzeigen'. Kopiere das Token und füge es ein oder scanne den QR-Code mit Pi-hole Remote!",
                             "videoURL": "https://rocketscience-it.nl/phr/support/api-key-video.mp4"
                         },
                         {
                             "id": 4,
                             "title": "Voilà!",
-                            "subtitle": "Tap 'Test Connection' and you should see a green checkmark! Tap 'Save' in the top right and you're all set. Not seeing the green checkmark? Please double check all the data you entered. Enjoy the app!",
+                            "subtitle": "Tippe auf 'Verbindung testen', dann Du solltest ein grünes Häkchen sehen! Tippe oben rechts auf 'Speichern' und schon bist Du fertig. Du siehst das grüne Häkchen nicht? Bitte überprüfe noch einmal alle Daten, die Du eingegeben hast. Viel Spaß mit der App!",
                             "imageURL": "https://rocketscience-it.nl/phr/support/app-dashboard.png",
                             "darkImageURL": "https://rocketscience-it.nl/phr/support/app-dashboard-dark.png"
                         }
@@ -119,17 +119,17 @@
         },
         {
             "id": 1,
-            "title": "Development",
+            "title": "Entwicklung",
             "items": [
                 {
                     "id": 6,
                     "title": "Roadmap",
-                    "subtitle": "A rough idea of what's coming (maybe).",
+                    "subtitle": "Eine ungefähre Idee von dem, was kommen wird (vielleicht).",
                     "imageName": "map.circle.fill",
                     "supportPages": [{
                             "id": 5,
-                            "title": "Rough Roadmap",
-                            "subtitle": "Pi-hole Remote is just one of the apps I build as a one-man-team, which - together with my other apps and job - makes it a little difficult to predict exactly what the roadmap will look like. But here's my best guess at what is coming soon.\n\n#1 - Improvements for new upcoming iOS features.\n\n#2 - Improved Siri Shortcuts if possible, for example enable you to query statistics from within Shortcuts.\n\n#3 - Improvements to widgets.\n\n#4 - Improved Query Log search.\n\n#5 - Implement new Pi-hole API features as soon as they are released.\n\nAlongside these things there are quite a few other ideas I have planned as well. If you have any suggestions please send them my way, I'm all ears!\nThanks, Joost",
+                            "title": "Grobe Roadmap",
+                            "subtitle": "Pi-hole Remote ist nur eine der Anwendungen, die ich als Ein-Mann-Team entwickle, was es - zusammen mit meinen anderen Anwendungen und meinem Job - ein wenig schwierig macht, genau vorherzusagen, wie die Roadmap aussehen wird. Aber hier ist meine beste Einschätzung, was bald kommen wird.\n\n#1 - Verbesserungen für neue kommende iOS-Funktionen.\n\n#2 - Verbesserte Siri-Kurzbefehle, wenn möglich, z. B. zur Abfrage von Statistiken aus den Kurzbefehlen heraus.\n\n#3 - Verbesserungen der Widgets.\n\n#4 - Verbesserte Suche im Abfrageprotokoll.\n\n#5 - Neue Pi-hole API-Funktionen implementieren, sobald sie veröffentlicht werden.\n\nAußerdem habe ich noch eine ganze Reihe anderer Ideen in Planung. Wenn Du Vorschläge hast, schicke sie mir bitte zu, ich bin ganz Ohr!\nDanke, Joost",
                             "imageURL": "https://rocketscience-it.nl/phr/support/blueprint-rounded-light.png",
                             "darkImageURL": "https://rocketscience-it.nl/phr/support/blueprint-rounded-dark.png"
                         }
@@ -144,38 +144,38 @@
             "items": [
                 {
                     "id": 0,
-                    "title": "I'm getting an error right away, help!",
-                    "text": "Are you running the latest version of Pi-hole and Pi-hole Remote? Did you give permission for 'Local Network Access' in iOS settings? Can you try IP instead of hostname or the other way around? Can you double check your API token?"
+                    "title": "Ich erhalte sofort eine Fehlermeldung, Hilfe!",
+                    "text": "Läuft bei Dir die neueste Version von Pi-hole und Pi-hole Remote? Hast Du in den iOS-Einstellungen die Erlaubnis für 'Lokalen Netzwerkzugriff' erteilt? Kannst Du es mit der IP-Adresse anstelle des Hostnamens versuchen oder andersherum? Kannst Du Dein API-Token noch einmal überprüfen?"
                 },
                 {
                     "id": 1,
-                    "title": "What can I do about 'Invalid authentication' errors?",
-                    "text": "Please check if your token is correct. Note: the token is not the password of the Web Interface! You can find your token on the Web Interface > Settings > API > Show API Token. It should be a long string of seemingly random characters."
+                    "title": "Was kann ich gegen den Fehler 'Ungültige Authentifizierung" tun?',
+                    "text": "Bitte überprüfe, ob Dein Token korrekt ist. Hinweis: Das Token ist nicht das Passwort für das Webinterface! Du findest Dein Token unter Webinterface > Einstellungen > API > API-Token anzeigen. Es sollte eine lange Zeichenfolge aus scheinbar zufälligen Zeichen sein."
                 },
                 {
                     "id": 2,
-                    "title": "Why is data not loading when I'm away from home?",
-                    "text": "Your Pi-hole is probably only accessible from your local network (so when you're at home). The best way to be able to access & use your Pi-hole from outside your network as well, is to run a VPN. I can recommend looking into [PiVPN](https://pivpn.io) or [Tailscale](https://tailscale.com). That way you can safely access your Pi-hole from anywhere!"
+                    "title": "Warum werden die Informationen nicht geladen, wenn ich nicht zu Hause bin?",
+                    "text": "Auf Dein Pi-hole kannst Du wahrscheinlich nur von Deinem lokalen Netzwerk aus zugreifen (also wenn Du zu Hause bist). Der beste Weg, um auch von außerhalb Deines Netzwerks auf Dein Pi-hole zuzugreifen und es zu nutzen, ist die Nutzung eines VPNs. Ich kann Dir [PiVPN](https://pivpn.io) oder [Tailscale](https://tailscale.com) empfehlen. So kannst Du von überall aus sicher auf dein Pi-hole zugreifen!"
                 },
                 {
                     "id": 3,
-                    "title": "Why is my Apple Watch not showing my instance?",
-                    "text": "It seems like there is a bug in watchOS that sometimes prevents some hostnames from resolving. Please use an IP address for your instances and see if it resolves the issue, otherwise please contact me."
+                    "title": "Warum zeigt meine Apple Watch meine Instanz nicht an?",
+                    "text": "Es scheint, als gäbe es einen Fehler in watchOS, der manchmal verhindert, dass einige Hostnamen aufgelöst werden. Bitte verwende eine IP-Adresse für Deine Instanzen und schaue, ob das Problem dadurch gelöst wird, ansonsten kontaktiere mich bitte."
                 },
                 {
                     "id": 4,
-                    "title": "Why is my homescreen widget not showing data?",
-                    "text": "Make sure you are currently on a network where your device can reach your Pi-hole instance, such as your home wifi. You can also try to restart your device which will restart the widget completely. If that doesn't work, try to delete the widget, re-save your instance in the app, then add the widget again."
+                    "title": "Warum zeigt mein Homescreen-Widget keine Daten an?",
+                    "text": "Vergewissere Dich, dass Du Dich in einem Netzwerk befindest, in dem Dein Gerät Deine Pi-hole-Instanz erreichen kann, z. B. in Deinem Heim-WLAN. Du kannst auch versuchen, Dein Gerät neu zu starten, wodurch das Widget komplett neu gestartet wird. Wenn das nicht funktioniert, versuche das Widget zu löschen, speichere Deine Instanz in der App neu und füge das Widget erneut hinzu."
                 },
                 {
                     "id": 5,
-                    "title": "Why can't I update the app on macOS?",
-                    "text": "This seems to be a macOS bug. Fortunately there is a workaround: open 'Activity Monitor', search for 'Pi-hole', stop all processes (app + widget), then trigger an app update again."
+                    "title": "Warum kann ich die App unter macOS nicht aktualisieren??",
+                    "text": "Das scheint ein macOS-Fehler zu sein. Zum Glück gibt es einen Workaround: Öffne die 'Aktivitätsanzeige', suche nach 'Pi-hole', halte alle Prozesse an (App + Widget) und stoße dann erneut eine App-Aktualisierung an."
                 },
                 {
                     "id": 6,
-                    "title": "What is Pi-hole?",
-                    "text": "Pi-hole® is a DNS sinkhole that protects your devices from unwanted content without installing any client-side software. In short: it provides network-wide ad blocking via your own Linux hardware. Find out more about Pi-hole on [GitHub](https://github.com/pi-hole/pi-hole#readme)."
+                    "title": "Was is Pi-hole?",
+                    "text": "Pi-hole® ist ein DNS-Sinkhole, das Deine Geräte vor unerwünschten Inhalten schützt, ohne dass Du eine clientseitige Software installieren musst. Kurz gesagt: Es bietet einen netzwerkweiten Werbeblocker über Deine eigene Linux-Hardware. Erfahre mehr über Pi-hole auf [GitHub](https://github.com/pi-hole/pi-hole#readme)."
                 }
             ]
         },
@@ -185,18 +185,18 @@
             "items": [
                 {
                     "id": 0,
-                    "title": "I have a feature idea / request!",
-                    "text": "Many potential features are not supported by the Pi-hole API at the moment, such as managing groups, enabling/disabling list entries, adding local DNS records, etc. I'd love to hear your suggestion though! Many of the cool features in Pi-hole Remote come directly from user feedback! Please pitch me your ideas using the contact buttons below 😊"
+                    "title": "Ich habe eine Idee / einen Wunsch für eine Funktion!",
+                    "text": "Viele potenzielle Funktionen werden von der Pi-hole-API derzeit nicht unterstützt, z. B. die Verwaltung von Gruppen, das Aktivieren/Deaktivieren von Listeneinträgen, das Hinzufügen lokaler DNS-Einträge usw. Ich würde mich aber sehr über Deine Vorschläge freuen! Viele der coolen Funktionen in Pi-hole Remote gehen direkt auf das Feedback der Nutzerinnen und Nutzer zurück! Bitte teile mir Deine Ideen mit, indem Du die unten stehenden Kontaktbuttons benutzt 😊"
                 },
                 {
                     "id": 1,
-                    "title": "I want to help translate the app into my language!",
-                    "text": "Awesome! Please contact me using the buttons below 😊"
+                    "title": "Ich möchte helfen, die App in meine Sprache zu übersetzen!",
+                    "text": "Wahnsinn! Bitte kontaktiere mich über die Schaltflächen unten 😊"
                 },
                 {
                     "id": 2,
-                    "title": "I want to request a new 'blocked service'",
-                    "text": "Cool, please reach out using the buttons below and I'll see if I can add it."
+                    "title": "Ich möchte einen neuen 'blockierten Dienst' beantragen",
+                    "text": "Cool, bitte melde Dich über die Buttons unten und ich schaue, ob ich den Dienst hinzufügen kann."
                 }
             ]
         }
@@ -204,7 +204,7 @@
 
     "contactItems": [{
             "id": 0,
-            "title": "Twitter",
+            "title": "Twitter/X",
             "url": "https://www.twitter.com/PiHoleRemote",
             "imageName": "message.fill",
             "color": 1
