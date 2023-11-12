@@ -149,7 +149,7 @@
                 },
                 {
                     "id": 1,
-                    "title": "Was kann ich gegen den Fehler 'Ungültige Authentifizierung" tun?',
+                    "title": "Was kann ich gegen den Fehler 'Ungültige Authentifizierung' tun?",
                     "text": "Bitte überprüfe, ob Dein Token korrekt ist. Hinweis: Das Token ist nicht das Passwort für das Webinterface! Du findest Dein Token unter Webinterface > Einstellungen > API > API-Token anzeigen. Es sollte eine lange Zeichenfolge aus scheinbar zufälligen Zeichen sein."
                 },
                 {
