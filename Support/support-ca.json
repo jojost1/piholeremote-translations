@@ -1,0 +1,220 @@
+{
+    "headerItems": [
+        {
+            "id": 5,
+            "title": "Afegeix la teva instància",
+            "subtitle": "És fàcil!",
+            "imageName": "server.rack",
+            "color": 1,
+            "supportPages": [
+                {
+                    "id": 0,
+                    "title": "La teva instància",
+                    "subtitle": "Primer, troba l'adreça IP i el port de la teva instal·lació Pi-hole. Ho pots trobar mirant la barra d'adreces de Safari! Si us plau, ves a la interfície web de Pi-hole a Safari.",
+                    "imageURL": "https://rocketscience-it.nl/phr/support/safari-dashboard.png",
+                    "darkImageURL": "https://rocketscience-it.nl/phr/support/safari-dashboard-dark.png"
+                },
+                {
+                    "id": 1,
+                    "title": "Troba la IP i el Port",
+                    "subtitle": "Toca la barra d'adreces de Safari i trobaràs la IP (o nom d'amfitrió) i un port. No et preocupis si no veus un número de port, en aquest cas probablement és 80 (que és el predeterminat). Següent pas: introdueix aquestes dades dins de l'aplicació!",
+                    "imageURL": "https://rocketscience-it.nl/phr/support/safari-dashboard-addressbar-annotated.png",
+                    "darkImageURL": "https://rocketscience-it.nl/phr/support/safari-dashboard-addressbar-annotated.png"
+                },
+                {
+                    "id": 2,
+                    "title": "Introdueix els detalls",
+                    "subtitle": "Ara obre Pi-hole Remote i toca Configuració > Afegir Pi-hole. Pots introduir la IP i el port allà mateix! Un últim pas...",
+                    "imageURL": "https://rocketscience-it.nl/phr/support/app-addinstance-top-annotated.png",
+                    "darkImageURL": "https://rocketscience-it.nl/phr/support/app-addinstance-top-annotated-dark.png"
+                },
+                {
+                    "id": 3,
+                    "title": "API Key",
+                    "subtitle": "Per poder comunicar-se amb el teu Pi-hole, l'aplicació necessita el teu token API. El pots trobar a la interfície web de Pi-hole anant a 'Configuració > API / Interfície web > Mostrar token API'. Copia i enganxa el token, o escaneja el codi QR amb Pi-hole Remote!",
+                    "videoURL": "https://rocketscience-it.nl/phr/support/api-key-video.mp4"
+                },
+                {
+                    "id": 4,
+                    "title": "Voilà!",
+                    "subtitle": "Toca 'Provar connexió' i hauries de veure una marca verda! Toca 'Desar' a la part superior dreta i ja està tot llest. No veus la marca verda? Si us plau, comprova totes les dades que has introduït. Gaudeix de l'aplicació!",
+                    "imageURL": "https://rocketscience-it.nl/phr/support/app-dashboard.png",
+                    "darkImageURL": "https://rocketscience-it.nl/phr/support/app-dashboard-dark.png"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Consells i trucs del registre de consultes",
+            "subtitle": "Alguns consells útils!",
+            "imageName": "doc.text.magnifyingglass",
+            "color": 2,
+            "supportPages": [
+                {
+                    "id": 7,
+                    "title": "Pulsació llarga",
+                    "subtitle": "Sabies que pots mantenir premuda una consulta per veure accions ràpides?",
+                    "imageURL": "https://rocketscience-it.nl/phr/support/querylog-contextmenu-light.png",
+                    "darkImageURL": "https://rocketscience-it.nl/phr/support/querylog-contextmenu-dark.png"
+                },
+                {
+                    "id": 8,
+                    "title": "Mostra detalls",
+                    "subtitle": "Activa 'Mostra detalls' per fer que el registre de consultes sigui una mica més detallat.",
+                    "imageURL": "https://rocketscience-it.nl/phr/support/querylog-extradetail-light.png",
+                    "darkImageURL": "https://rocketscience-it.nl/phr/support/querylog-extradetail-dark.png"
+                }
+            ]
+        }
+    ],
+    "highlightedSections": [
+        {
+            "id": 0,
+            "title": "Configuració",
+            "items": [
+                {
+                    "id": 5,
+                    "title": "Afegeix el teu Pi-hole",
+                    "subtitle": "Com afegeixes una instància?",
+                    "imageName": "plus.circle.fill",
+                    "color": 2,
+                    "supportPages": [
+                        {
+                            "id": 0,
+                            "title": "La teva instància",
+                            "subtitle": "Primer, troba l'adreça IP i el port de la teva instal·lació Pi-hole. Ho pots trobar mirant la barra d'adreces de Safari! Si us plau, ves a la interfície web de Pi-hole a Safari.",
+                            "imageURL": "https://rocketscience-it.nl/phr/support/safari-dashboard.png",
+                            "darkImageURL": "https://rocketscience-it.nl/phr/support/safari-dashboard-dark.png"
+                        },
+                        {
+                            "id": 1,
+                            "title": "Troba la IP i el Port",
+                            "subtitle": "Toca la barra d'adreces de Safari i trobaràs la IP (o nom d'amfitrió) i un port. No et preocupis si no veus un número de port, en aquest cas probablement és 80 (que és el predeterminat). Següent pas: introdueix aquestes dades dins de l'aplicació!",
+                            "imageURL": "https://rocketscience-it.nl/phr/support/safari-dashboard-addressbar-annotated.png",
+                            "darkImageURL": "https://rocketscience-it.nl/phr/support/safari-dashboard-addressbar-annotated.png"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Introdueix els detalls",
+                            "subtitle": "Ara obre Pi-hole Remote i toca Configuració > Afegir Pi-hole. Pots introduir la IP i el port allà mateix! Un últim pas...",
+                            "imageURL": "https://rocketscience-it.nl/phr/support/app-addinstance-top-annotated.png",
+                            "darkImageURL": "https://rocketscience-it.nl/phr/support/app-addinstance-top-annotated-dark.png"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Clau API",
+                            "subtitle": "Per poder comunicar-se amb el teu Pi-hole, l'aplicació necessita el teu token API. El pots trobar a la interfície web de Pi-hole anant a 'Configuració > API / Interfície web > Mostrar token API'. Copia i enganxa el token, o escaneja el codi QR amb Pi-hole Remote!",
+                            "videoURL": "https://rocketscience-it.nl/phr/support/api-key-video.mp4"
+                        },
+                        {
+                            "id": 4,
+                            "title": "Voilà!",
+                            "subtitle": "Toca 'Provar connexió' i hauries de veure una marca verda! Toca 'Desar' a la part superior dreta i ja està tot llest. No veus la marca verda? Si us plau, comprova totes les dades que has introduït. Gaudeix de l'aplicació!",
+                            "imageURL": "https://rocketscience-it.nl/phr/support/app-dashboard.png",
+                            "darkImageURL": "https://rocketscience-it.nl/phr/support/app-dashboard-dark.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Desenvolupament",
+            "items": [
+                {
+                    "id": 6,
+                    "title": "Full de ruta",
+                    "subtitle": "Una idea aproximada del que vindrà (potser).",
+                    "imageName": "map.circle.fill",
+                    "supportPages": [{
+                            "id": 5,
+                            "title": "Full de ruta aproximat",
+                            "subtitle": "Pi-hole Remote és només una de les aplicacions que construeixo com a equip unipersonal, la qual cosa - juntament amb les meves altres aplicacions i feina - fa una mica difícil predir exactament com serà el full de ruta. Però aquí tens la meva millor suposició del que vindrà aviat.\n\n#1 - Millores per a les noves funcions d'iOS que vindran.\n\n#2 - Dreceres de Siri millorades si és possible, per exemple, per consultar estadístiques des de les Dreceres.\n\n#3 - Millores als widgets.\n\n#4 - Cerca millorada al registre de consultes.\n\n#5 - Implementar noves funcions de l'API de Pi-hole tan aviat com siguin llançades.\n\nA més d'aquestes coses, tinc bastantes altres idees planejades també. Si tens algun suggeriment, si us plau, fes-me'l arribar, estic obert a escoltar-te!\nGràcies, Joost",
+                            "imageURL": "https://rocketscience-it.nl/phr/support/blueprint-rounded-light.png",
+                            "darkImageURL": "https://rocketscience-it.nl/phr/support/blueprint-rounded-dark.png"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "faqSections": [{
+            "id": 0,
+            "title": "Preguntes freqüents",
+            "items": [
+                {
+                    "id": 0,
+                    "title": "Estic rebent un error immediatament, ajuda!",
+                    "text": "Estàs executant l'última versió de Pi-hole i Pi-hole Remote? Has donat permís per a 'Accés a la xarxa local' a la configuració d'iOS? Pots provar amb IP en lloc de nom d'amfitrió o al revés? Pots comprovar de nou el teu token API?"
+                },
+                {
+                    "id": 1,
+                    "title": "Què puc fer amb els errors d''Autenticació invàlida'?",
+                    "text": "Si us plau, comprova si el teu token és correcte. Nota: el token no és la contrasenya de la interfície web! Pots trobar el teu token a la interfície web > Configuració > API > Mostrar token API. Hauria de ser una cadena llarga de caràcters aparentment aleatoris."
+                },
+                {
+                    "id": 2,
+                    "title": "Per què no es carreguen les dades quan sóc fora de casa?",
+                    "text": "El teu Pi-hole probablement només és accessible des de la teva xarxa local (quan ets a casa). La millor manera de poder accedir i utilitzar el teu Pi-hole des de fora de la xarxa també, és executar una VPN. Et puc recomanar mirar [PiVPN](https://pivpn.io) o [Tailscale](https://tailscale.com). D'aquesta manera pots accedir al teu Pi-hole de manera segura des de qualsevol lloc!"
+                },
+                {
+                    "id": 3,
+                    "title": "Per què el meu Apple Watch no mostra la meva instància?",
+                    "text": "Sembla que hi ha un error a watchOS que de vegades impedeix que alguns noms d'amfitrió es resolguin. Si us plau, utilitza una adreça IP per a les teves instàncies i comprova si això resol el problema, si no, contacta amb mi."
+                },
+                {
+                    "id": 4,
+                    "title": "Per què el meu widget de la pantalla d'inici no mostra dades?",
+                    "text": "Assegura't que estàs actualment en una xarxa on el teu dispositiu pot accedir a la teva instància de Pi-hole, com ara el teu wifi de casa. També pots provar de reiniciar el teu dispositiu, que reiniciarà el widget completament. Si això no funciona, prova d'eliminar el widget, torna a desar la teva instància a l'aplicació i després afegeix el widget de nou."
+                },
+                {
+                    "id": 5,
+                    "title": "Per què no puc actualitzar l'aplicació a macOS?",
+                    "text": "Això sembla ser un error de macOS. Afortunadament hi ha una solució: obre el 'Monitor d'activitat', cerca 'Pi-hole', atura tots els processos (aplicació + widget), després activa l'actualització de l'aplicació de nou."
+                },
+                {
+                    "id": 6,
+                    "title": "Què és Pi-hole?",
+                    "text": "Pi-hole® és un bloqueig de DNS que protegeix els teus dispositius de contingut no desitjat sense instal·lar cap programari al client. En resum: proporciona bloqueig d'anuncis a nivell de xarxa mitjançant el teu propi maquinari Linux. Descobreix més sobre Pi-hole a [GitHub](https://github.com/pi-hole/pi-hole#readme)."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Comentaris",
+            "items": [
+                {
+                    "id": 0,
+                    "title": "Tinc una idea / petició de funció!",
+                    "text": "Moltes funcions potencials no estan suportades per l'API de Pi-hole en aquest moment, com ara la gestió de grups, activar/desactivar entrades de llistes, afegir registres DNS locals, etc. M'encantaria escoltar el teu suggeriment però! Moltes de les funcions interessants a Pi-hole Remote venen directament dels comentaris dels usuaris! Si us plau, comparteix les teves idees utilitzant els botons de contacte a sota 😊"
+                },
+                {
+                    "id": 1,
+                    "title": "Vull ajudar a traduir l'aplicació al meu idioma!",
+                    "text": "Genial! Si us plau, contacta amb mi utilitzant els botons de sota 😊"
+                },
+                {
+                    "id": 2,
+                    "title": "Vull sol·licitar un nou 'servei bloquejat'",
+                    "text": "Genial, si us plau, contacta amb mi utilitzant els botons de sota i veuré si el puc afegir."
+                }
+            ]
+        }
+    ],
+
+    "contactItems": [{
+            "id": 0,
+            "title": "Twitter",
+            "url": "https://www.twitter.com/PiHoleRemote",
+            "imageName": "message.fill",
+            "color": 1
+        },
+        {
+            "id": 1,
+            "title": "Email",
+            "url": "mailto:developer@rocketscience-it.nl",
+            "imageName": "envelope.fill",
+            "color": 2
+        }
+    ]
+}
