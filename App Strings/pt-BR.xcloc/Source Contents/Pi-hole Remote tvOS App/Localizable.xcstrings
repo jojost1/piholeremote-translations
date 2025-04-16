@@ -1,0 +1,314 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@q/min" : {
+
+    },
+    "%lld total" : {
+      "comment" : "Displays the number of total clients in the Home-tab 'Clients' card."
+    },
+    "Active Clients" : {
+
+    },
+    "Active clients: %@" : {
+
+    },
+    "Add 5 minutes" : {
+
+    },
+    "Add your Pi-hole instances on an iOS, iPadOS, or macOS device with version 6.2 or higher and make sure iCloud is enabled." : {
+
+    },
+    "Allowed" : {
+
+    },
+    "Allowlist" : {
+
+    },
+    "Always Dark" : {
+
+    },
+    "appintent_disableblocking_description" : {
+
+    },
+    "appintent_disableblocking_summary_${instance}" : {
+
+    },
+    "appintent_duration_description" : {
+
+    },
+    "appintent_enableblocking_description" : {
+
+    },
+    "appintent_enableblocking_summary_${instance}" : {
+
+    },
+    "appintent_instance_description" : {
+
+    },
+    "Blocked" : {
+
+    },
+    "Blocked | Deny-list Exact" : {
+
+    },
+    "Blocked | Deny-list Exact (CNAME)" : {
+
+    },
+    "Blocked | Denylist Exact" : {
+
+    },
+    "Blocked | Denylist Exact (CNAME)" : {
+
+    },
+    "Blocked | External IP" : {
+
+    },
+    "Blocked | External NULL" : {
+
+    },
+    "Blocked | External NXRA" : {
+
+    },
+    "Blocked | Gravity" : {
+
+    },
+    "Blocked | Gravity (CNAME)" : {
+
+    },
+    "Blocked | Regex" : {
+
+    },
+    "Blocked | Regex (CNAME)" : {
+
+    },
+    "Blocked: %@" : {
+
+    },
+    "Blocked: %@ (%@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Blocked: %1$@ (%2$@)"
+          }
+        }
+      }
+    },
+    "Blocking is enabled on all instances." : {
+
+    },
+    "Blocking is enabled on instance %@." : {
+
+    },
+    "Blocking is not enabled on all instances." : {
+
+    },
+    "Blocking is not enabled on instance %@." : {
+
+    },
+    "Blocklist" : {
+
+    },
+    "Blocklist: %@" : {
+
+    },
+    "Cache" : {
+
+    },
+    "Cache (optimizer)" : {
+
+    },
+    "Cached" : {
+
+    },
+    "Cached: %@" : {
+
+    },
+    "Clients" : {
+
+    },
+    "Compact mode" : {
+
+    },
+    "Core" : {
+
+    },
+    "Core version: %@." : {
+
+    },
+    "Date" : {
+
+    },
+    "Duration" : {
+
+    },
+    "Enable blocking" : {
+
+    },
+    "Forwarded" : {
+
+    },
+    "Forwarded: %@" : {
+
+    },
+    "FTL" : {
+
+    },
+    "FTL version: %@." : {
+
+    },
+    "Get blocking status for ${instance}" : {
+
+    },
+    "Get Pi-hole Blocking Status" : {
+
+    },
+    "Get the blocking status of your Pi-hole. Returns 'true' is blocking is enabled, otherwise returns 'false'. If you select 'All Instances', this will only return 'true' if blocking is enabled on all instances." : {
+
+    },
+    "Home" : {
+
+    },
+    "home_disable_blocking" : {
+
+    },
+    "home_disable_blocking_pihole" : {
+
+    },
+    "home_enable_blocking" : {
+
+    },
+    "home_enable_blocking_pihole" : {
+
+    },
+    "In Progress" : {
+
+    },
+    "Indefinitely" : {
+
+    },
+    "Info" : {
+
+    },
+    "instance" : {
+
+    },
+    "Instance" : {
+
+    },
+    "keyNotFound" : {
+      "comment" : "ParsingError"
+    },
+    "No connection" : {
+
+    },
+    "No Instances" : {
+
+    },
+    "Pi-hole Remote" : {
+
+    },
+    "Preferences" : {
+
+    },
+    "Queries" : {
+
+    },
+    "Queries: %@" : {
+
+    },
+    "Query Types" : {
+
+    },
+    "Refreshing" : {
+
+    },
+    "Retried" : {
+
+    },
+    "Retried | DNSSEC" : {
+
+    },
+    "Selected" : {
+
+    },
+    "Settings" : {
+
+    },
+    "Something went wrong: %@" : {
+
+    },
+    "Something went wrong." : {
+
+    },
+    "something_went_wrong" : {
+
+    },
+    "Special Domain" : {
+
+    },
+    "Specify which instance(s) to check." : {
+
+    },
+    "Top Clients" : {
+
+    },
+    "Top Domains" : {
+
+    },
+    "Total" : {
+
+    },
+    "Total: %@" : {
+
+    },
+    "typeMismatch" : {
+      "comment" : "ParsingError"
+    },
+    "Unknown" : {
+
+    },
+    "Unknown error." : {
+
+    },
+    "Until tomorrow" : {
+
+    },
+    "Update available for Core: %@. Select for changelog." : {
+
+    },
+    "Update available for FTL: %@. Select for changelog." : {
+
+    },
+    "Update available for Web: %@. Select for changelog." : {
+
+    },
+    "Upstream Servers" : {
+
+    },
+    "v%@ (%@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "v%1$@ (%2$@)"
+          }
+        }
+      }
+    },
+    "valueNotFound" : {
+      "comment" : "ParsingError"
+    },
+    "Version" : {
+
+    },
+    "Web" : {
+
+    },
+    "Web version: %@." : {
+
+    }
+  },
+  "version" : "1.0"
+}

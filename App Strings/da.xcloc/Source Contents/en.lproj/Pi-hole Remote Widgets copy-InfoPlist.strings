@@ -1,0 +1,6 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Pi-hole Remote Widgets";
+
+/* Bundle name */
+"CFBundleName" = "Pi-hole Remote Widgets Watch";
+

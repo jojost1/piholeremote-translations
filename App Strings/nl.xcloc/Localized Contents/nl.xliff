@@ -1,0 +1,4456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Base.lproj/Intents.intentdefinition" source-language="en" target-language="nl" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+    </header>
+    <body>
+      <trans-unit id="5NF9k6" xml:space="preserve">
+        <source>Blocking is disabled.</source>
+        <target>Blokkeren is uitgeschakeld.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="5ojS3R" xml:space="preserve">
+        <source>Disable Blocking</source>
+        <target>Schakel blokkeren uit</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="9FPMmR" xml:space="preserve">
+        <source>${displayName} can’t be negative.</source>
+        <target>${displayName} kan niet negatief zijn.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="52ZpIp" xml:space="preserve">
+        <source>Enable blocking of all Pi-hole instances.</source>
+        <target>Schakel blokkeren in voor alle Pi-hole instanties.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DV9FMe" xml:space="preserve">
+        <source>${displayName} can’t be lower than ${minimumValue}.</source>
+        <target>${displayName} kan niet lager zijn dan ${minimumValue}.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="M5KC9R" xml:space="preserve">
+        <source>${displayName} can’t be higher than ${maximumValue}.</source>
+        <target>${displayName} kan niet hoger zijn dan ${maximumValue}.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="NCc7a7" xml:space="preserve">
+        <source>Duration (seconds)</source>
+        <target>Duur (seconden)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ONPW00" xml:space="preserve">
+        <source>Something went wrong.</source>
+        <target>Er is iets fout gegaan.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Q3m6RA" xml:space="preserve">
+        <source>Enable Blocking</source>
+        <target>Schakel blokkeren in</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ReHHsS" xml:space="preserve">
+        <source>For what duration (in seconds)?</source>
+        <target>Voor hoe lang (in seconden)?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="WEZcVp" xml:space="preserve">
+        <source>Something went wrong.</source>
+        <target>Er is iets fout gegaan.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ZGxE4l" xml:space="preserve">
+        <source>Blocking is enabled.</source>
+        <target>Blokkeren is ingeschakeld.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bsYmWU" xml:space="preserve">
+        <source>Blocking is enabled.</source>
+        <target>Blokkeren is ingeschakeld.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="fh8rEK" xml:space="preserve">
+        <source>Disable blocking of all Pi-hole instances for a certain duration.</source>
+        <target>Schakel blokkeren uit voor alle Pi-hole instanties voor een bepaalde duur.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="qJR6Qa" xml:space="preserve">
+        <source>Result</source>
+        <target>Resultaat</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="y2Dkc8" xml:space="preserve">
+        <source>Result</source>
+        <target>Resultaat</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="zI7r5m" xml:space="preserve">
+        <source>Blocking is disabled.</source>
+        <target>Blokkeren is uitgeschakeld.</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="en.lproj/Pi-hole Remote Widgets copy-InfoPlist.strings" datatype="plaintext" source-language="en" target-language="nl">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Pi-hole Remote Widgets</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Pi-hole Remote Widgets Watch</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Pi-hole Remote Share Extension/InfoPlist.xcstrings" source-language="en" target-language="nl" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Pi-hole Remote Share Extension</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Pi-hole Remote Share Extension</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>Copyright © 2025 RocketScience. All rights reserved.</source>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Pi-hole Remote tvOS App/Localizable.xcstrings" source-language="en" target-language="nl" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+    </header>
+    <body>
+      <trans-unit id="%@q/min" xml:space="preserve">
+        <source>%@q/min</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld total" xml:space="preserve">
+        <source>%lld total</source>
+        <note>Displays the number of total clients in the Home-tab 'Clients' card.</note>
+      </trans-unit>
+      <trans-unit id="Active Clients" xml:space="preserve">
+        <source>Active Clients</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Active clients: %@" xml:space="preserve">
+        <source>Active clients: %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add 5 minutes" xml:space="preserve">
+        <source>Add 5 minutes</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add your Pi-hole instances on an iOS, iPadOS, or macOS device with version 6.2 or higher and make sure iCloud is enabled." xml:space="preserve">
+        <source>Add your Pi-hole instances on an iOS, iPadOS, or macOS device with version 6.2 or higher and make sure iCloud is enabled.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Allowed" xml:space="preserve">
+        <source>Allowed</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Allowlist" xml:space="preserve">
+        <source>Allowlist</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Always Dark" xml:space="preserve">
+        <source>Always Dark</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked" xml:space="preserve">
+        <source>Blocked</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked | Deny-list Exact" xml:space="preserve">
+        <source>Blocked | Deny-list Exact</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked | Deny-list Exact (CNAME)" xml:space="preserve">
+        <source>Blocked | Deny-list Exact (CNAME)</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked | Denylist Exact" xml:space="preserve">
+        <source>Blocked | Denylist Exact</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked | Denylist Exact (CNAME)" xml:space="preserve">
+        <source>Blocked | Denylist Exact (CNAME)</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked | External IP" xml:space="preserve">
+        <source>Blocked | External IP</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked | External NULL" xml:space="preserve">
+        <source>Blocked | External NULL</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked | External NXRA" xml:space="preserve">
+        <source>Blocked | External NXRA</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked | Gravity" xml:space="preserve">
+        <source>Blocked | Gravity</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked | Gravity (CNAME)" xml:space="preserve">
+        <source>Blocked | Gravity (CNAME)</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked | Regex" xml:space="preserve">
+        <source>Blocked | Regex</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked | Regex (CNAME)" xml:space="preserve">
+        <source>Blocked | Regex (CNAME)</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked: %@" xml:space="preserve">
+        <source>Blocked: %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked: %@ (%@)" xml:space="preserve">
+        <source>Blocked: %1$@ (%2$@)</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocking is enabled on all instances." xml:space="preserve">
+        <source>Blocking is enabled on all instances.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocking is enabled on instance %@." xml:space="preserve">
+        <source>Blocking is enabled on instance %@.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocking is not enabled on all instances." xml:space="preserve">
+        <source>Blocking is not enabled on all instances.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocking is not enabled on instance %@." xml:space="preserve">
+        <source>Blocking is not enabled on instance %@.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocklist" xml:space="preserve">
+        <source>Blocklist</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocklist: %@" xml:space="preserve">
+        <source>Blocklist: %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cache" xml:space="preserve">
+        <source>Cache</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cache (optimizer)" xml:space="preserve">
+        <source>Cache (optimizer)</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cached" xml:space="preserve">
+        <source>Cached</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cached: %@" xml:space="preserve">
+        <source>Cached: %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Clients" xml:space="preserve">
+        <source>Clients</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Compact mode" xml:space="preserve">
+        <source>Compact mode</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Core" xml:space="preserve">
+        <source>Core</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Core version: %@." xml:space="preserve">
+        <source>Core version: %@.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Date" xml:space="preserve">
+        <source>Date</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Duration" xml:space="preserve">
+        <source>Duration</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enable blocking" xml:space="preserve">
+        <source>Enable blocking</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="FTL" xml:space="preserve">
+        <source>FTL</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="FTL version: %@." xml:space="preserve">
+        <source>FTL version: %@.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Forwarded" xml:space="preserve">
+        <source>Forwarded</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Forwarded: %@" xml:space="preserve">
+        <source>Forwarded: %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Get Pi-hole Blocking Status" xml:space="preserve">
+        <source>Get Pi-hole Blocking Status</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Get blocking status for ${instance}" xml:space="preserve">
+        <source>Get blocking status for ${instance}</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Get the blocking status of your Pi-hole. Returns 'true' is blocking is enabled, otherwise returns 'false'. If you select 'All Instances', this will only return 'true' if blocking is enabled on all instances." xml:space="preserve">
+        <source>Get the blocking status of your Pi-hole. Returns 'true' is blocking is enabled, otherwise returns 'false'. If you select 'All Instances', this will only return 'true' if blocking is enabled on all instances.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Home" xml:space="preserve">
+        <source>Home</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="In Progress" xml:space="preserve">
+        <source>In Progress</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Indefinitely" xml:space="preserve">
+        <source>Indefinitely</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Info" xml:space="preserve">
+        <source>Info</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Instance" xml:space="preserve">
+        <source>Instance</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No Instances" xml:space="preserve">
+        <source>No Instances</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No connection" xml:space="preserve">
+        <source>No connection</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Pi-hole Remote" xml:space="preserve">
+        <source>Pi-hole Remote</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Preferences" xml:space="preserve">
+        <source>Preferences</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Queries" xml:space="preserve">
+        <source>Queries</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Queries: %@" xml:space="preserve">
+        <source>Queries: %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Query Types" xml:space="preserve">
+        <source>Query Types</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Refreshing" xml:space="preserve">
+        <source>Refreshing</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Retried" xml:space="preserve">
+        <source>Retried</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Retried | DNSSEC" xml:space="preserve">
+        <source>Retried | DNSSEC</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Selected" xml:space="preserve">
+        <source>Selected</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Settings" xml:space="preserve">
+        <source>Settings</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Something went wrong." xml:space="preserve">
+        <source>Something went wrong.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Something went wrong: %@" xml:space="preserve">
+        <source>Something went wrong: %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Special Domain" xml:space="preserve">
+        <source>Special Domain</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Specify which instance(s) to check." xml:space="preserve">
+        <source>Specify which instance(s) to check.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Top Clients" xml:space="preserve">
+        <source>Top Clients</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Top Domains" xml:space="preserve">
+        <source>Top Domains</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Total" xml:space="preserve">
+        <source>Total</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Total: %@" xml:space="preserve">
+        <source>Total: %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unknown" xml:space="preserve">
+        <source>Unknown</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unknown error." xml:space="preserve">
+        <source>Unknown error.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Until tomorrow" xml:space="preserve">
+        <source>Until tomorrow</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Update available for Core: %@. Select for changelog." xml:space="preserve">
+        <source>Update available for Core: %@. Select for changelog.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Update available for FTL: %@. Select for changelog." xml:space="preserve">
+        <source>Update available for FTL: %@. Select for changelog.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Update available for Web: %@. Select for changelog." xml:space="preserve">
+        <source>Update available for Web: %@. Select for changelog.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Upstream Servers" xml:space="preserve">
+        <source>Upstream Servers</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Version" xml:space="preserve">
+        <source>Version</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Web" xml:space="preserve">
+        <source>Web</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Web version: %@." xml:space="preserve">
+        <source>Web version: %@.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="appintent_disableblocking_description" xml:space="preserve">
+        <source>appintent_disableblocking_description</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="appintent_disableblocking_summary_${instance}" xml:space="preserve">
+        <source>appintent_disableblocking_summary_${instance}</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="appintent_duration_description" xml:space="preserve">
+        <source>appintent_duration_description</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="appintent_enableblocking_description" xml:space="preserve">
+        <source>appintent_enableblocking_description</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="appintent_enableblocking_summary_${instance}" xml:space="preserve">
+        <source>appintent_enableblocking_summary_${instance}</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="appintent_instance_description" xml:space="preserve">
+        <source>appintent_instance_description</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="home_disable_blocking" xml:space="preserve">
+        <source>home_disable_blocking</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="home_disable_blocking_pihole" xml:space="preserve">
+        <source>home_disable_blocking_pihole</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="home_enable_blocking" xml:space="preserve">
+        <source>home_enable_blocking</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="home_enable_blocking_pihole" xml:space="preserve">
+        <source>home_enable_blocking_pihole</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="instance" xml:space="preserve">
+        <source>instance</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="keyNotFound" xml:space="preserve">
+        <source>keyNotFound</source>
+        <note>ParsingError</note>
+      </trans-unit>
+      <trans-unit id="something_went_wrong" xml:space="preserve">
+        <source>something_went_wrong</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="typeMismatch" xml:space="preserve">
+        <source>typeMismatch</source>
+        <note>ParsingError</note>
+      </trans-unit>
+      <trans-unit id="v%@ (%@)" xml:space="preserve">
+        <source>v%1$@ (%2$@)</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="valueNotFound" xml:space="preserve">
+        <source>valueNotFound</source>
+        <note>ParsingError</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Pi-hole Remote tvOS App/Pi-hole-Remote-tvOS-App-InfoPlist.xcstrings" source-language="en" target-language="nl" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Pi-hole Remote</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Pi-hole Remote tvOS App</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Pi-hole Remote Watch App Extension/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="nl">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Pi-hole Remote WatchKit Extension</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Pi-hole Remote WatchKit Extension</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Pi-hole Remote Widgets/Base.lproj/StatWidget.intentdefinition" source-language="en" target-language="nl" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+    </header>
+    <body>
+      <trans-unit id="2C0IPw-Ixk02y" xml:space="preserve">
+        <source>Just to confirm, you wanted ‘Open Statistics’?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="2C0IPw-ZwOZTZ" xml:space="preserve">
+        <source>Just to confirm, you wanted ‘Open Query Log’?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="2C0IPw-awUBTf" xml:space="preserve">
+        <source>Just to confirm, you wanted ‘Open Home’?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="2C0IPw-nqHRwh" xml:space="preserve">
+        <source>Just to confirm, you wanted ‘Open Lists’?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="2C0IPw-wMJOmd" xml:space="preserve">
+        <source>Just to confirm, you wanted ‘Disable all for 1 minute’?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="2M6piF" xml:space="preserve">
+        <source>Instance</source>
+        <target>Instantie</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="3MlsVj" xml:space="preserve">
+        <source>Show Instance Icon</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="3lbWkQ" xml:space="preserve">
+        <source>Appearance</source>
+        <target>Appearance</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="3lvNnI" xml:space="preserve">
+        <source>Show</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="5JYHmU" xml:space="preserve">
+        <source>Instance</source>
+        <target>Instantie</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="6gOngz" xml:space="preserve">
+        <source>What instance(s) to display?</source>
+        <target>What instance to display?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="7HcZp4" xml:space="preserve">
+        <source>What instance to display?</source>
+        <target>What instance to display?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="7TCu1Q" xml:space="preserve">
+        <source>Tap Action</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="7gfPrG" xml:space="preserve">
+        <source>Instance</source>
+        <target>Instantie</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="8Udkqh" xml:space="preserve">
+        <source>All</source>
+        <target>Alle</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="8w3JVZ" xml:space="preserve">
+        <source>Instance</source>
+        <target>Instantie</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="9hXLZd" xml:space="preserve">
+        <source>Instance</source>
+        <target>Instantie</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="22mMz8" xml:space="preserve">
+        <source>What instance(s) to display?</source>
+        <target>What instance to display?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="42Koi6" xml:space="preserve">
+        <source>System (Pure Black)</source>
+        <target>System (Pure Black)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="61CebI-Ixk02y" xml:space="preserve">
+        <source>There are ${count} options matching ‘Open Statistics’.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="61CebI-ZwOZTZ" xml:space="preserve">
+        <source>There are ${count} options matching ‘Open Query Log’.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="61CebI-awUBTf" xml:space="preserve">
+        <source>There are ${count} options matching ‘Open Home’.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="61CebI-nqHRwh" xml:space="preserve">
+        <source>There are ${count} options matching ‘Open Lists’.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="61CebI-wMJOmd" xml:space="preserve">
+        <source>There are ${count} options matching ‘Disable all for 1 minute’.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="73u0ym" xml:space="preserve">
+        <source>What instance to display?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="418dKA" xml:space="preserve">
+        <source>Statistics + Graph Widget</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="BILqn3" xml:space="preserve">
+        <source>Percent Blocked</source>
+        <target>Percent Blocked</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="CkCBJU" xml:space="preserve">
+        <source>Color</source>
+        <target>Color</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DIItEm" xml:space="preserve">
+        <source>Allowed</source>
+        <target>Toegestaan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DJJsur" xml:space="preserve">
+        <source>Widget Disable Duration</source>
+        <target>Widget Disable Duration</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DvY8Eg" xml:space="preserve">
+        <source>Green</source>
+        <target>Groen</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ey6npg" xml:space="preserve">
+        <source>Light</source>
+        <target>Light</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hb868n" xml:space="preserve">
+        <source>Orange</source>
+        <target>Oranje</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="IbhH23" xml:space="preserve">
+        <source>Hide</source>
+        <target>Hide</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="IgP3Na" xml:space="preserve">
+        <source>1 hour</source>
+        <target>1 uur</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ixk02y" xml:space="preserve">
+        <source>Open Statistics</source>
+        <target>Open Statistics</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="JTTM7K" xml:space="preserve">
+        <source>Status Indicator</source>
+        <target>Status Indicator</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="KL0j9K" xml:space="preserve">
+        <source>Show</source>
+        <target>Show</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="LeRij8" xml:space="preserve">
+        <source>What instance(s) to display?</source>
+        <target>What instance to display?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="LldBql" xml:space="preserve">
+        <source>WidgetQueries</source>
+        <target>WidgetQueries</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="M8X4RQ" xml:space="preserve">
+        <source>Hide</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="MEUL84" xml:space="preserve">
+        <source>Show Instance Icon</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="NCodr5" xml:space="preserve">
+        <source>Stats And Chart Widget</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="NYeFKn" xml:space="preserve">
+        <source>Blocklist</source>
+        <target>Blocklist</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="OYA8gF" xml:space="preserve">
+        <source>Widget Tap Action</source>
+        <target>Widget Tap Action</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="OsIXJN" xml:space="preserve">
+        <source>Blue</source>
+        <target>Blauw</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="QfsqZh" xml:space="preserve">
+        <source>Stats Text Widget</source>
+        <target>Stats Text Widget</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="RLFPVX" xml:space="preserve">
+        <source>Disable Widget</source>
+        <target>Disable Widget</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="RQYOvn" xml:space="preserve">
+        <source>Status Indicator</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="SIOS6E" xml:space="preserve">
+        <source>Unknown</source>
+        <target>Unknown</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="T9gWpc-BILqn3" xml:space="preserve">
+        <source>There are ${count} options matching ‘Percent Blocked’.</source>
+        <target>There are ${count} options matching ‘Percent Blocked’.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="T9gWpc-NYeFKn" xml:space="preserve">
+        <source>There are ${count} options matching ‘Blocklist’.</source>
+        <target>There are ${count} options matching ‘Blocklist’.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="T9gWpc-XmVw2S" xml:space="preserve">
+        <source>There are ${count} options matching ‘Total Queries’.</source>
+        <target>There are ${count} options matching ‘Total Queries’.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="T9gWpc-YFrrAR" xml:space="preserve">
+        <source>There are ${count} options matching ‘Queries Blocked’.</source>
+        <target>There are ${count} options matching ‘Queries Blocked’.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="T9gWpc-n8Foos" xml:space="preserve">
+        <source>There are ${count} options matching ‘Clients’.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="T9gWpc-nIDolD" xml:space="preserve">
+        <source>There are ${count} options matching ‘Unknown’.</source>
+        <target>There are ${count} options matching ‘Unknown’.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="VEO3IS" xml:space="preserve">
+        <source>System</source>
+        <target>System</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="VLERQ1" xml:space="preserve">
+        <source>15 minutes</source>
+        <target>15 minuten</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="WMGmup" xml:space="preserve">
+        <source>Status Indicator</source>
+        <target>Status Indicator</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="XmVw2S" xml:space="preserve">
+        <source>Total Queries</source>
+        <target>Total Queries</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="XwHq84" xml:space="preserve">
+        <source>24 hours</source>
+        <target>24 uur</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="YFrrAR" xml:space="preserve">
+        <source>Queries Blocked</source>
+        <target>Queries Blocked</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="YT1Pew" xml:space="preserve">
+        <source>8 hours</source>
+        <target>8 uur</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="YW3QEp" xml:space="preserve">
+        <source>Dark (Pure Black)</source>
+        <target>Dark (Pure Black)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Yx18vE" xml:space="preserve">
+        <source>Statistic</source>
+        <target>Statistic</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ZwOZTZ" xml:space="preserve">
+        <source>Open Query Log</source>
+        <target>Open Query Log</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="a81Lx9" xml:space="preserve">
+        <source>Statistics Disable Widget</source>
+        <target>Statistics Disable Widget</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="awUBTf" xml:space="preserve">
+        <source>Open Home</source>
+        <target>Open Home</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dn8NzF" xml:space="preserve">
+        <source>Instance</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="eHf5lH" xml:space="preserve">
+        <source>Dark</source>
+        <target>Dark</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="fjMa4e" xml:space="preserve">
+        <source>Query Graph Widget</source>
+        <target>Query Graph Widget</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="fmQi7V" xml:space="preserve">
+        <source>Disable Widget</source>
+        <target>Disable Widget</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="fohyUc" xml:space="preserve">
+        <source>Statistics Disable Widget</source>
+        <target>Statistics Disable Widget</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="gpCwrM" xml:space="preserve">
+        <source>Stat Widget</source>
+        <target>Stat Widget</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="j5tl6I" xml:space="preserve">
+        <source>Blocked</source>
+        <target>Geblokkeerd</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="jiDiIB" xml:space="preserve">
+        <source>What instance to display?</source>
+        <target>What instance to display?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="jwB6hP" xml:space="preserve">
+        <source>Overtime Widget</source>
+        <target>Overtime Widget</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="lug6ns" xml:space="preserve">
+        <source>Statistics Widget</source>
+        <target>Statistics Widget</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="m60OS4" xml:space="preserve">
+        <source>Red</source>
+        <target>Rood</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="n8Foos" xml:space="preserve">
+        <source>Clients</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="nBNqPC" xml:space="preserve">
+        <source>Statistic</source>
+        <target>Statistic</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="nIDolD" xml:space="preserve">
+        <source>Unknown</source>
+        <target>Unknown</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="nqHRwh" xml:space="preserve">
+        <source>Open Lists</source>
+        <target>Open Lists</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tVvJ9c" xml:space="preserve">
+        <source>Single Statistic Widget</source>
+        <target>Single Statistic Widget</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="uqnZUq" xml:space="preserve">
+        <source>30 minutes</source>
+        <target>30 minuten</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="wMJOmd" xml:space="preserve">
+        <source>Disable all for 1 minute</source>
+        <target>Disable all for 1 minute</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="xDxdFy" xml:space="preserve">
+        <source>5 minutes</source>
+        <target>5 minuten</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="xLSa62" xml:space="preserve">
+        <source>1 minute</source>
+        <target>1 minuut</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="y9py1R-BILqn3" xml:space="preserve">
+        <source>Just to confirm, you wanted ‘Percent Blocked’?</source>
+        <target>Just to confirm, you wanted ‘Percent Blocked’?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="y9py1R-NYeFKn" xml:space="preserve">
+        <source>Just to confirm, you wanted ‘Blocklist’?</source>
+        <target>Just to confirm, you wanted ‘Blocklist’?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="y9py1R-XmVw2S" xml:space="preserve">
+        <source>Just to confirm, you wanted ‘Total Queries’?</source>
+        <target>Just to confirm, you wanted ‘Total Queries’?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="y9py1R-YFrrAR" xml:space="preserve">
+        <source>Just to confirm, you wanted ‘Queries Blocked’?</source>
+        <target>Just to confirm, you wanted ‘Queries Blocked’?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="y9py1R-n8Foos" xml:space="preserve">
+        <source>Just to confirm, you wanted ‘Clients’?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="y9py1R-nIDolD" xml:space="preserve">
+        <source>Just to confirm, you wanted ‘Unknown’?</source>
+        <target>Just to confirm, you wanted ‘Unknown’?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="zQ6Jw8" xml:space="preserve">
+        <source>30 seconds</source>
+        <target>30 seconden</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="zeqXsg" xml:space="preserve">
+        <source>Instance</source>
+        <target>Instantie</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Pi-hole Remote Widgets/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="nl">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Pi-hole Remote Widgets</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Pi-hole Remote Widgets</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Pi-hole Remote/Localization/InfoPlist.xcstrings" source-language="en" target-language="nl" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Pi-hole Remote</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="Disable All" xml:space="preserve">
+        <source>Disable All</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="For 1 minute" xml:space="preserve">
+        <source>For 1 minute</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
+        <source>Pi-hole Remote uses your camera to scan your Pi-hole API token QR-code.</source>
+        <target state="translated">Pi-hole Remote gebruikt je camera om de Pi-hole API token QR-code te kunnen scannen.</target>
+        <note>Privacy - Camera Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
+        <source>Pi-hole Remote uses Face ID to unlock the app.</source>
+        <target state="translated">Pi-hole gebruikt Face ID om de app te ontgrendelen.</target>
+        <note>Privacy - Face ID Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>2020-2021 RocketScience IT</source>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+      <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
+        <source>Pi-hole Remote uses the local network to connect with your Pi-hole instances.</source>
+        <target state="translated">Pi-hole Remote gebruikt je lokale netwerk om te verbinden met je Pi-hole instantie(s).</target>
+        <note>Privacy - Local Network Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Pi-hole Remote/Localization/Localizable.xcstrings" source-language="en" target-language="nl" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+    </header>
+    <body>
+      <trans-unit id=" avg" xml:space="preserve">
+        <source> avg</source>
+        <note>Small 'average' label shown on the Home-tab when 'Combine' is enabled. The space at the start is intentional.</note>
+      </trans-unit>
+      <trans-unit id="# queries" xml:space="preserve">
+        <source># queries</source>
+        <note>Option for the blocking-card, used on the Preferences &gt; Home screen.</note>
+      </trans-unit>
+      <trans-unit id="% blocked" xml:space="preserve">
+        <source>% blocked</source>
+        <note>Option for the blocking-card, used on the Preferences &gt; Home screen.</note>
+      </trans-unit>
+      <trans-unit id="%@ OFF" xml:space="preserve">
+        <source>%@ OFF</source>
+        <note>Used on the PHR+ purchase screen to show a discount percentage, intentionally uppercased.</note>
+      </trans-unit>
+      <trans-unit id="%@ active / %@ total" xml:space="preserve">
+        <source>%1$@ active / %2$@ total</source>
+        <note>Displays number of active and total clients when you tap the clients number on Home when 'Combine' is enabled.</note>
+      </trans-unit>
+      <trans-unit id="%@ entries" xml:space="preserve">
+        <source>%@ entries</source>
+        <note>Displays the number of network devices on the network device overview.</note>
+      </trans-unit>
+      <trans-unit id="%@ ms" xml:space="preserve">
+        <source>%@ ms</source>
+        <note>Displays for example '12.34' ms on a query log or live log row.</note>
+      </trans-unit>
+      <trans-unit id="%@ queries per minute" xml:space="preserve">
+        <source>%@ queries per minute</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@ total" xml:space="preserve">
+        <source>%@ total</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@q/min" xml:space="preserve">
+        <source>%@q/min</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld regex entries|==|plural.one" xml:space="preserve">
+        <source>%lld regex entry</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld regex entries|==|plural.other" xml:space="preserve">
+        <source>%lld regex entries</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld total" xml:space="preserve">
+        <source>%lld total</source>
+        <note>Displays the number of total clients in the Home-tab 'Clients' card.</note>
+      </trans-unit>
+      <trans-unit id="'Add 5 min' feature" xml:space="preserve">
+        <source>'Add 5 min' feature</source>
+        <note>Used on the PHR+ purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="(Disabled)" xml:space="preserve">
+        <source>(Disabled)</source>
+        <note>Displayed next to an adlist when it's disabled.</note>
+      </trans-unit>
+      <trans-unit id="0 decimals" xml:space="preserve">
+        <source>0 decimals</source>
+        <note>Displays in the metrics decimals picker.</note>
+      </trans-unit>
+      <trans-unit id="1 decimal" xml:space="preserve">
+        <source>1 decimal</source>
+        <note>Displays in the metrics decimals picker.</note>
+      </trans-unit>
+      <trans-unit id="1h" xml:space="preserve">
+        <source>1h</source>
+        <note>Placeholder for the DHCP lease time textfield on the DHCP settings screen.</note>
+      </trans-unit>
+      <trans-unit id="2 decimals" xml:space="preserve">
+        <source>2 decimals</source>
+        <note>Displays in the metrics decimals picker.</note>
+      </trans-unit>
+      <trans-unit id="60" xml:space="preserve">
+        <source>60</source>
+        <note>Placeholder for the dnsRateLimitInterval textfield on the DNS settings screen.</note>
+      </trans-unit>
+      <trans-unit id="80" xml:space="preserve">
+        <source>80</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="443" xml:space="preserve">
+        <source>443</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="1000" xml:space="preserve">
+        <source>1000</source>
+        <note>Placeholder for the dnsRateLimitCount textfield on the DNS settings screen.</note>
+      </trans-unit>
+      <trans-unit id="@PiHoleRemote on X" xml:space="preserve">
+        <source>@PiHoleRemote on X</source>
+        <note>Displayed on the support screen.</note>
+      </trans-unit>
+      <trans-unit id="A **one time** purchase" xml:space="preserve">
+        <source>A **one time** purchase</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="A monthly recurring payment" xml:space="preserve">
+        <source>A monthly recurring payment</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="A yearly recurring payment" xml:space="preserve">
+        <source>A yearly recurring payment</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ACTIVE" xml:space="preserve">
+        <source>ACTIVE</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="API path" xml:space="preserve">
+        <source>API path</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Acknowledgements" xml:space="preserve">
+        <source>Acknowledgements</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Action" xml:space="preserve">
+        <source>Action</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Actions" xml:space="preserve">
+        <source>Actions</source>
+        <note>Displayed on the support screen.</note>
+      </trans-unit>
+      <trans-unit id="Active Clients" xml:space="preserve">
+        <source>Active Clients</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Active DHCP Leases" xml:space="preserve">
+        <source>Active DHCP Leases</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Active clients: %@" xml:space="preserve">
+        <source>Active clients: %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Active clients: %@ out of %@ total" xml:space="preserve">
+        <source>Active clients: %1$@ out of %2$@ total</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="AdGuard Home Remote" xml:space="preserve">
+        <source>AdGuard Home Remote</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add" xml:space="preserve">
+        <source>Add</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add '%@'" xml:space="preserve">
+        <source>Add '%@'</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add 5 minutes" xml:space="preserve">
+        <source>Add 5 minutes</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add Instance" xml:space="preserve">
+        <source>Add Instance</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add TTL" xml:space="preserve">
+        <source>Add TTL</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add a comment..." xml:space="preserve">
+        <source>Add a comment...</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add all as wildcard" xml:space="preserve">
+        <source>Add all as wildcard</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add another" xml:space="preserve">
+        <source>Add another</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add another group" xml:space="preserve">
+        <source>Add another group</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add as wildcard" xml:space="preserve">
+        <source>Add as wildcard</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add custom header" xml:space="preserve">
+        <source>Add custom header</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add new adlist" xml:space="preserve">
+        <source>Add new adlist</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add new adlist or domain" xml:space="preserve">
+        <source>Add new adlist or domain</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add new client" xml:space="preserve">
+        <source>Add new client</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add new domain" xml:space="preserve">
+        <source>Add new domain</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add new group" xml:space="preserve">
+        <source>Add new group</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add new group or client" xml:space="preserve">
+        <source>Add new group or client</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add new preset" xml:space="preserve">
+        <source>Add new preset</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add record" xml:space="preserve">
+        <source>Add record</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add to allow-list..." xml:space="preserve">
+        <source>Add to allow-list...</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add to allowlist..." xml:space="preserve">
+        <source>Add to allowlist...</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add to deny-list..." xml:space="preserve">
+        <source>Add to deny-list...</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add to denylist..." xml:space="preserve">
+        <source>Add to denylist...</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add to list" xml:space="preserve">
+        <source>Add to list</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add your Pi-hole instances to control them and view statistics." xml:space="preserve">
+        <source>Add your Pi-hole instances to control them and view statistics.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Added on" xml:space="preserve">
+        <source>Added on</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Added to all new groups." xml:space="preserve">
+        <source>Added to all new groups.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Adding/removing local CNAME records will restart the DNS server." xml:space="preserve">
+        <source>Adding/removing local CNAME records will restart the DNS server.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Adding/removing local DNS records will flush the cache but does not require a restart of the DNS server." xml:space="preserve">
+        <source>Adding/removing local DNS records will flush the cache but does not require a restart of the DNS server.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Additional IPv6 support" xml:space="preserve">
+        <source>Additional IPv6 support</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Adds 5 minutes to a disabled-timer." xml:space="preserve">
+        <source>Adds 5 minutes to a disabled-timer.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Adlist" xml:space="preserve">
+        <source>Adlist</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Adlists" xml:space="preserve">
+        <source>Adlists</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Advanced" xml:space="preserve">
+        <source>Advanced</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Advanced Settings" xml:space="preserve">
+        <source>Advanced Settings</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Advertise DNS server multiple times" xml:space="preserve">
+        <source>Advertise DNS server multiple times</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Advertise DNS server multiple times to clients. Some devices will add their own proprietary DNS servers to the list of DNS servers, which can cause issues with Pi-hole. This option will advertise the Pi-hole DNS server multiple times to clients, which should prevent this from happening." xml:space="preserve">
+        <source>Advertise DNS server multiple times to clients. Some devices will add their own proprietary DNS servers to the list of DNS servers, which can cause issues with Pi-hole. This option will advertise the Pi-hole DNS server multiple times to clients, which should prevent this from happening.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="All" xml:space="preserve">
+        <source>All</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="All Instances" xml:space="preserve">
+        <source>All Instances</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="All entries" xml:space="preserve">
+        <source>All entries</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="All instances" xml:space="preserve">
+        <source>All instances</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="All options allow Family Sharing" xml:space="preserve">
+        <source>All options allow Family Sharing</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="All reverse lookups for private IP ranges (i.e., 192.168.0.x/24, etc.) which are not found in /etc/hosts or the DHCP leases are answered with &quot;no such domain&quot; rather than being forwarded upstream. The set of prefixes affected is the list given in RFC6303." xml:space="preserve">
+        <source>All reverse lookups for private IP ranges (i.e., 192.168.0.x/24, etc.) which are not found in /etc/hosts or the DHCP leases are answered with "no such domain" rather than being forwarded upstream. The set of prefixes affected is the list given in RFC6303.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Allow" xml:space="preserve">
+        <source>Allow</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Allow only local requests" xml:space="preserve">
+        <source>Allow only local requests</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Allow-list" xml:space="preserve">
+        <source>Allow-list</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Allowed" xml:space="preserve">
+        <source>Allowed</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Allowlist" xml:space="preserve">
+        <source>Allowlist</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Allows only queries from devices that are at most one hop away (local devices)" xml:space="preserve">
+        <source>Allows only queries from devices that are at most one hop away (local devices)</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Alphabetically" xml:space="preserve">
+        <source>Alphabetically</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Already in sync." xml:space="preserve">
+        <source>Already in sync.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Always Dark" xml:space="preserve">
+        <source>Always Dark</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="App Icon" xml:space="preserve">
+        <source>App Icon</source>
+        <note>Displayed on the App Icon Settings screen.</note>
+      </trans-unit>
+      <trans-unit id="App Tint" xml:space="preserve">
+        <source>App Tint</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Application Password" xml:space="preserve">
+        <source>Application Password</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to delete the adlist&#10;%@?" xml:space="preserve">
+        <source>Are you sure you want to delete the adlist
+%@?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to delete the client '%@'?" xml:space="preserve">
+        <source>Are you sure you want to delete the client '%@'?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to delete the domain&#10;%@?" xml:space="preserve">
+        <source>Are you sure you want to delete the domain
+%@?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to delete the group '%@'?" xml:space="preserve">
+        <source>Are you sure you want to delete the group '%@'?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to discard these changes?" xml:space="preserve">
+        <source>Are you sure you want to discard these changes?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to remove %@?" xml:space="preserve">
+        <source>Are you sure you want to remove %@?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to remove this instance?" xml:space="preserve">
+        <source>Are you sure you want to remove this instance?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Are you sure?" xml:space="preserve">
+        <source>Are you sure?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Assigned to %lld groups" xml:space="preserve">
+        <source>Assigned to %lld groups</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Assigning to the default group of all instances." xml:space="preserve">
+        <source>Assigning to the default group of all instances.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Associated IP" xml:space="preserve">
+        <source>Associated IP</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Authentication" xml:space="preserve">
+        <source>Authentication</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Auto-refresh" xml:space="preserve">
+        <source>Auto-refresh</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="BETA" xml:space="preserve">
+        <source>BETA</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Bind only to interface" xml:space="preserve">
+        <source>Bind only to interface</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Block clients making more than %@ requests within %@ seconds. " xml:space="preserve">
+        <source>Block clients making more than %1$@ requests within %2$@ seconds. </source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked" xml:space="preserve">
+        <source>Blocked</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked Services" xml:space="preserve">
+        <source>Blocked Services</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked | Deny-list Exact" xml:space="preserve">
+        <source>Blocked | Deny-list Exact</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked | Deny-list Exact (CNAME)" xml:space="preserve">
+        <source>Blocked | Deny-list Exact (CNAME)</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked | Denylist Exact" xml:space="preserve">
+        <source>Blocked | Denylist Exact</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked | Denylist Exact (CNAME)" xml:space="preserve">
+        <source>Blocked | Denylist Exact (CNAME)</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked | External IP" xml:space="preserve">
+        <source>Blocked | External IP</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked | External NULL" xml:space="preserve">
+        <source>Blocked | External NULL</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked | External NXRA" xml:space="preserve">
+        <source>Blocked | External NXRA</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked | Gravity" xml:space="preserve">
+        <source>Blocked | Gravity</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked | Gravity (CNAME)" xml:space="preserve">
+        <source>Blocked | Gravity (CNAME)</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked | Regex" xml:space="preserve">
+        <source>Blocked | Regex</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked | Regex (CNAME)" xml:space="preserve">
+        <source>Blocked | Regex (CNAME)</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked: %@" xml:space="preserve">
+        <source>Blocked: %@</source>
+        <note>Displayed in the simple one-line Lock Screen widget.
+Displayed in the simple rectangular Lock Screen widget.</note>
+      </trans-unit>
+      <trans-unit id="Blocked: %@ (%@)" xml:space="preserve">
+        <source>Blocked: %1$@ (%2$@)</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocking" xml:space="preserve">
+        <source>Blocking</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocking is enabled on all instances." xml:space="preserve">
+        <source>Blocking is enabled on all instances.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocking is enabled on instance %@." xml:space="preserve">
+        <source>Blocking is enabled on instance %@.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocking is not enabled on all instances." xml:space="preserve">
+        <source>Blocking is not enabled on all instances.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocking is not enabled on instance %@." xml:space="preserve">
+        <source>Blocking is not enabled on instance %@.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocking-card" xml:space="preserve">
+        <source>Blocking-card</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocklist" xml:space="preserve">
+        <source>Blocklist</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocklist Management" xml:space="preserve">
+        <source>Blocklist Management</source>
+        <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Blocklist: %@" xml:space="preserve">
+        <source>Blocklist: %@</source>
+        <note>Displayed in the simple one-line Lock Screen widget.</note>
+      </trans-unit>
+      <trans-unit id="Blue" xml:space="preserve">
+        <source>Blue</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Both" xml:space="preserve">
+        <source>Both</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Both lists" xml:space="preserve">
+        <source>Both lists</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Brown" xml:space="preserve">
+        <source>Brown</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="CNAME Records" xml:space="preserve">
+        <source>CNAME Records</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cache" xml:space="preserve">
+        <source>Cache</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cache (optimizer)" xml:space="preserve">
+        <source>Cache (optimizer)</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cached" xml:space="preserve">
+        <source>Cached</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cached: %@" xml:space="preserve">
+        <source>Cached: %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Can't be edited." xml:space="preserve">
+        <source>Can't be edited.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Can't find purchase" xml:space="preserve">
+        <source>Can't find purchase</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Canadian Color Scheme" xml:space="preserve">
+        <source>Canadian Color Scheme</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cards" xml:space="preserve">
+        <source>Cards</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Change the disable duration presets of the widgets that have disable-buttons on them, like the 'Disable' and 'Statistics &amp; Disable' widgets. To add new presets to choose from, go to Settings &gt; Preferences &gt; Home &gt; Duration Presets." xml:space="preserve">
+        <source>Change the disable duration presets of the widgets that have disable-buttons on them, like the 'Disable' and 'Statistics &amp; Disable' widgets. To add new presets to choose from, go to Settings &gt; Preferences &gt; Home &gt; Duration Presets.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Changing App Tint on macOS requires an app restart to take effect." xml:space="preserve">
+        <source>Changing App Tint on macOS requires an app restart to take effect.</source>
+        <note>Displayed on the App Tint Settings screen.</note>
+      </trans-unit>
+      <trans-unit id="Chart" xml:space="preserve">
+        <source>Chart</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Clear all filters" xml:space="preserve">
+        <source>Clear all filters</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Clear filters" xml:space="preserve">
+        <source>Clear filters</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Client" xml:space="preserve">
+        <source>Client</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Client ID" xml:space="preserve">
+        <source>Client ID</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Client Management" xml:space="preserve">
+        <source>Client Management</source>
+        <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="ClientID" xml:space="preserve">
+        <source>ClientID</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Clients" xml:space="preserve">
+        <source>Clients</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Clients &amp; Groups" xml:space="preserve">
+        <source>Clients &amp; Groups</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Clients in group" xml:space="preserve">
+        <source>Clients in group</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Clients may be described by their IP, MAC, or hostname. " xml:space="preserve">
+        <source>Clients may be described by their IP, MAC, or hostname. </source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Clients may be described either by their IP addresses (IPv4 and IPv6 are supported), IP subnets (CIDR notation, like 192.168.2.0/24), their MAC addresses (like 12:34:56:78:9A:BC), by their hostnames (like localhost), or by the interface they are connected to (prefaced with a colon, like :eth0).&#10;&#10;Note that client recognition by IP addresses (incl. subnet ranges) are preferred over MAC address, host name or interface recognition as the two latter will only be available after some time. Furthermore, MAC address recognition only works for devices at most one networking hop away from your Pi-hole." xml:space="preserve">
+        <source>Clients may be described either by their IP addresses (IPv4 and IPv6 are supported), IP subnets (CIDR notation, like 192.168.2.0/24), their MAC addresses (like 12:34:56:78:9A:BC), by their hostnames (like localhost), or by the interface they are connected to (prefaced with a colon, like :eth0).
+
+Note that client recognition by IP addresses (incl. subnet ranges) are preferred over MAC address, host name or interface recognition as the two latter will only be available after some time. Furthermore, MAC address recognition only works for devices at most one networking hop away from your Pi-hole.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Clients: %@" xml:space="preserve">
+        <source>Clients: %@</source>
+        <note>Displayed in the simple rectangular Lock Screen widget.</note>
+      </trans-unit>
+      <trans-unit id="Clients: %lld/%lld" xml:space="preserve">
+        <source>Clients: %1$lld/%2$lld</source>
+        <note>Displayed in the simple one-line Lock Screen widget.</note>
+      </trans-unit>
+      <trans-unit id="Close" xml:space="preserve">
+        <source>Close</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Code" xml:space="preserve">
+        <source>Code</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Combine Instances" xml:space="preserve">
+        <source>Combine Instances</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Combine instances" xml:space="preserve">
+        <source>Combine instances</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Comment" xml:space="preserve">
+        <source>Comment</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Compact mode" xml:space="preserve">
+        <source>Compact mode</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Connecting to: %@/..." xml:space="preserve">
+        <source>Connecting to: %@/...</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Connection" xml:space="preserve">
+        <source>Connection</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Connection Error" xml:space="preserve">
+        <source>Connection Error</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Connection OK" xml:space="preserve">
+        <source>Connection OK</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Contact" xml:space="preserve">
+        <source>Contact</source>
+        <note>Displayed on the support screen.</note>
+      </trans-unit>
+      <trans-unit id="Continue" xml:space="preserve">
+        <source>Continue</source>
+        <note>Used in onboarding and changelogs.</note>
+      </trans-unit>
+      <trans-unit id="Converted to: (\\.|^)%@$" xml:space="preserve">
+        <source>Converted to: (\\.|^)%@$</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copy" xml:space="preserve">
+        <source>Copy</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copy Email Address" xml:space="preserve">
+        <source>Copy Email Address</source>
+        <note>Displayed in an alert on the support screen when someone has no email client installed.</note>
+      </trans-unit>
+      <trans-unit id="Copy ID" xml:space="preserve">
+        <source>Copy ID</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copy IP" xml:space="preserve">
+        <source>Copy IP</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copy MAC address" xml:space="preserve">
+        <source>Copy MAC address</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copy UNIX timestamp" xml:space="preserve">
+        <source>Copy UNIX timestamp</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copy URL" xml:space="preserve">
+        <source>Copy URL</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copy email" xml:space="preserve">
+        <source>Copy email</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copy full response" xml:space="preserve">
+        <source>Copy full response</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Core" xml:space="preserve">
+        <source>Core</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Core version: %@." xml:space="preserve">
+        <source>Core version: %@.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Couldn't find your instance." xml:space="preserve">
+        <source>Couldn't find your instance.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Couldn't load config." xml:space="preserve">
+        <source>Couldn't load config.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Current Version" xml:space="preserve">
+        <source>Current Version</source>
+        <note>Used in the Changelog.</note>
+      </trans-unit>
+      <trans-unit id="Custom Headers" xml:space="preserve">
+        <source>Custom Headers</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Custom Presets" xml:space="preserve">
+        <source>Custom Presets</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Customize Widgets" xml:space="preserve">
+        <source>Customize Widgets</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Customize tint &amp; icon" xml:space="preserve">
+        <source>Customize tint &amp; icon</source>
+        <note>Used on the PHR+ purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="DHCP" xml:space="preserve">
+        <source>DHCP</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DHCP &amp; DNS" xml:space="preserve">
+        <source>DHCP &amp; DNS</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DHCP Lease Time" xml:space="preserve">
+        <source>DHCP Lease Time</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DHCP lease time" xml:space="preserve">
+        <source>DHCP lease time</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DHCP server enabled" xml:space="preserve">
+        <source>DHCP server enabled</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DHCPv4 rapid commit" xml:space="preserve">
+        <source>DHCPv4 rapid commit</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DNS" xml:space="preserve">
+        <source>DNS</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DNS Domain" xml:space="preserve">
+        <source>DNS Domain</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DNS Domain Settings" xml:space="preserve">
+        <source>DNS Domain Settings</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DNS Records" xml:space="preserve">
+        <source>DNS Records</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DNSSEC" xml:space="preserve">
+        <source>DNSSEC</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Dark" xml:space="preserve">
+        <source>Dark</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Date" xml:space="preserve">
+        <source>Date</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Date Added" xml:space="preserve">
+        <source>Date Added</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Date Modified" xml:space="preserve">
+        <source>Date Modified</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Date Range" xml:space="preserve">
+        <source>Date Range</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Debug" xml:space="preserve">
+        <source>Debug</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Default Color Scheme" xml:space="preserve">
+        <source>Default Color Scheme</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Delete" xml:space="preserve">
+        <source>Delete</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Delete Adlist" xml:space="preserve">
+        <source>Delete Adlist</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Delete Client" xml:space="preserve">
+        <source>Delete Client</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Delete Domain" xml:space="preserve">
+        <source>Delete Domain</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Delete Group" xml:space="preserve">
+        <source>Delete Group</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Deny" xml:space="preserve">
+        <source>Deny</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Deny-list" xml:space="preserve">
+        <source>Deny-list</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Denylist" xml:space="preserve">
+        <source>Denylist</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Description (optional)" xml:space="preserve">
+        <source>Description (optional)</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Design" xml:space="preserve">
+        <source>Design</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Destination" xml:space="preserve">
+        <source>Destination</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Details" xml:space="preserve">
+        <source>Details</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Device" xml:space="preserve">
+        <source>Device</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Disable" xml:space="preserve">
+        <source>Disable</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Disable Widget" xml:space="preserve">
+        <source>Disable Widget</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Disable blocking for a certain duration." xml:space="preserve">
+        <source>Disable blocking for a certain duration.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Disable for..." xml:space="preserve">
+        <source>Disable for...</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Disable services with a single tap, as well as managing adlists and more." xml:space="preserve">
+        <source>Disable services with a single tap, as well as managing adlists and more.</source>
+        <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Disabled" xml:space="preserve">
+        <source>Disabled</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Discard Changes" xml:space="preserve">
+        <source>Discard Changes</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Display" xml:space="preserve">
+        <source>Display</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Docker" xml:space="preserve">
+        <source>Docker</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Domain" xml:space="preserve">
+        <source>Domain</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Domains" xml:space="preserve">
+        <source>Domains</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Domains &amp; Adlists" xml:space="preserve">
+        <source>Domains &amp; Adlists</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Domains: %@" xml:space="preserve">
+        <source>Domains: %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Done" xml:space="preserve">
+        <source>Done</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Duration" xml:space="preserve">
+        <source>Duration</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Duration (minutes)" xml:space="preserve">
+        <source>Duration (minutes)</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Duration Presets" xml:space="preserve">
+        <source>Duration Presets</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Duration in seconds" xml:space="preserve">
+        <source>Duration in seconds</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Dutch Color Scheme" xml:space="preserve">
+        <source>Dutch Color Scheme</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Edit" xml:space="preserve">
+        <source>Edit</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Edit Instance" xml:space="preserve">
+        <source>Edit Instance</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Edit presets..." xml:space="preserve">
+        <source>Edit presets...</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Editing presets requires PHR+." xml:space="preserve">
+        <source>Editing presets requires PHR+.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enable" xml:space="preserve">
+        <source>Enable</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enable and disable blocking." xml:space="preserve">
+        <source>Enable and disable blocking.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enable blocking" xml:space="preserve">
+        <source>Enable blocking</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enable this option to enable IPv6 support for the Pi-hole DHCP server. This will allow the Pi-hole to hand out IPv6 addresses to clients and also provide IPv6 router advertisements (RA) to clients. This option is only useful if the Pi-hole is configured with an IPv6 address." xml:space="preserve">
+        <source>Enable this option to enable IPv6 support for the Pi-hole DHCP server. This will allow the Pi-hole to hand out IPv6 addresses to clients and also provide IPv6 router advertisements (RA) to clients. This option is only useful if the Pi-hole is configured with an IPv6 address.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enabled" xml:space="preserve">
+        <source>Enabled</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enabling the top two options may increase your privacy, but may also prevent you from being able to access. Make sure you have set up conditional forwarding in this case." xml:space="preserve">
+        <source>Enabling the top two options may increase your privacy, but may also prevent you from being able to access. Make sure you have set up conditional forwarding in this case.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enabling these two options may increase your privacy, but may also prevent you from being able to access. Make sure you have set up conditional forwarding in this case." xml:space="preserve">
+        <source>Enabling these two options may increase your privacy, but may also prevent you from being able to access. Make sure you have set up conditional forwarding in this case.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enabling this will convert all domains to RegEx to involve all subdomains." xml:space="preserve">
+        <source>Enabling this will convert all domains to RegEx to involve all subdomains.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enabling this will convert the domain to RegEx to involve all subdomains." xml:space="preserve">
+        <source>Enabling this will convert the domain to RegEx to involve all subdomains.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ends" xml:space="preserve">
+        <source>Ends</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Energie Radar" xml:space="preserve">
+        <source>Energie Radar</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enjoy great widgets and a Live Activity when disabling blocking." xml:space="preserve">
+        <source>Enjoy great widgets and a Live Activity when disabling blocking.</source>
+        <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Enter the code..." xml:space="preserve">
+        <source>Enter the code...</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Error" xml:space="preserve">
+        <source>Error</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Error: %@" xml:space="preserve">
+        <source>Error: %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Every 5 seconds" xml:space="preserve">
+        <source>Every 5 seconds</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Every 5 seconds." xml:space="preserve">
+        <source>Every 5 seconds.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Exact" xml:space="preserve">
+        <source>Exact</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Exact entries" xml:space="preserve">
+        <source>Exact entries</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Execute" xml:space="preserve">
+        <source>Execute</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Expand hostnames" xml:space="preserve">
+        <source>Expand hostnames</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Expired DHCP Leases" xml:space="preserve">
+        <source>Expired DHCP Leases</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Explore all queries on your network and quickly block domains." xml:space="preserve">
+        <source>Explore all queries on your network and quickly block domains.</source>
+        <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="FTL" xml:space="preserve">
+        <source>FTL</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="FTL version: %@." xml:space="preserve">
+        <source>FTL version: %@.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Favorites" xml:space="preserve">
+        <source>Favorites</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Feature Overview" xml:space="preserve">
+        <source>Feature Overview</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Filter" xml:space="preserve">
+        <source>Filter</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Filter &amp; Sort" xml:space="preserve">
+        <source>Filter &amp; Sort</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Filter by status" xml:space="preserve">
+        <source>Filter by status</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Filtered by %@" xml:space="preserve">
+        <source>Filtered by %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Filtered by `%@`" xml:space="preserve">
+        <source>Filtered by `%@`</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="First seen" xml:space="preserve">
+        <source>First seen</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Flags" xml:space="preserve">
+        <source>Flags</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Flush" xml:space="preserve">
+        <source>Flush</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Flush logs (last 24h)" xml:space="preserve">
+        <source>Flush logs (last 24h)</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Flush network table" xml:space="preserve">
+        <source>Flush network table</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Follow macOS preferences" xml:space="preserve">
+        <source>Follow macOS preferences</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Follow on X" xml:space="preserve">
+        <source>Follow on X</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="For any reason" xml:space="preserve">
+        <source>For any reason</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Force Watch Sync" xml:space="preserve">
+        <source>Force Watch Sync</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Force Widget Refresh" xml:space="preserve">
+        <source>Force Widget Refresh</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Force WidgetKit refresh" xml:space="preserve">
+        <source>Force WidgetKit refresh</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Force a refresh to update the buttons. If this doesn't work, wait a while or try restarting your device." xml:space="preserve">
+        <source>Force a refresh to update the buttons. If this doesn't work, wait a while or try restarting your device.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Forwarded" xml:space="preserve">
+        <source>Forwarded</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Forwarded: %@" xml:space="preserve">
+        <source>Forwarded: %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Free" xml:space="preserve">
+        <source>Free</source>
+        <note>Used on the PHR+ purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="Get Lifetime PHR+" xml:space="preserve">
+        <source>Get Lifetime PHR+</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Get Pi-hole Blocking Status" xml:space="preserve">
+        <source>Get Pi-hole Blocking Status</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Get blocking status for ${instance}" xml:space="preserve">
+        <source>Get blocking status for ${instance}</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Get the blocking status of your Pi-hole. Returns 'true' is blocking is enabled, otherwise returns 'false'. If you select 'All Instances', this will only return 'true' if blocking is enabled on all instances." xml:space="preserve">
+        <source>Get the blocking status of your Pi-hole. Returns 'true' is blocking is enabled, otherwise returns 'false'. If you select 'All Instances', this will only return 'true' if blocking is enabled on all instances.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Give Feedback" xml:space="preserve">
+        <source>Give Feedback</source>
+        <note>Displayed in an alert on the support screen when someone has no email client installed.</note>
+      </trans-unit>
+      <trans-unit id="Graphite" xml:space="preserve">
+        <source>Graphite</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Green" xml:space="preserve">
+        <source>Green</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Group" xml:space="preserve">
+        <source>Group</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Group assignment" xml:space="preserve">
+        <source>Group assignment</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Groups" xml:space="preserve">
+        <source>Groups</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="HTTP" xml:space="preserve">
+        <source>HTTP</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="HTTPS" xml:space="preserve">
+        <source>HTTPS</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hardware Address" xml:space="preserve">
+        <source>Hardware Address</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Headers" xml:space="preserve">
+        <source>Headers</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Help" xml:space="preserve">
+        <source>Help</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Help &amp; Feedback" xml:space="preserve">
+        <source>Help &amp; Feedback</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hi there, if you're seeing this it means that somehow the button to give you Lifetime PHR+ for free didn't work and you had to contact me. Sorry for that! To get access anyways, please enter the code I gave you here.&#10;&#10;Please do not share this code with others." xml:space="preserve">
+        <source>Hi there, if you're seeing this it means that somehow the button to give you Lifetime PHR+ for free didn't work and you had to contact me. Sorry for that! To get access anyways, please enter the code I gave you here.
+
+Please do not share this code with others.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hidden on Home-tab" xml:space="preserve">
+        <source>Hidden on Home-tab</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hide" xml:space="preserve">
+        <source>Hide</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hide 'Blocked Services' entries" xml:space="preserve">
+        <source>Hide 'Blocked Services' entries</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hide on Home-tab" xml:space="preserve">
+        <source>Hide on Home-tab</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Home" xml:space="preserve">
+        <source>Home</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Host" xml:space="preserve">
+        <source>Host</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hostname" xml:space="preserve">
+        <source>Hostname</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hostname or IP" xml:space="preserve">
+        <source>Hostname or IP</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hostname or IP address" xml:space="preserve">
+        <source>Hostname or IP address</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="I can't find your purchase. Do you think this is incorrect? Please contact me through the 'Help &amp; Feedback' button in settings." xml:space="preserve">
+        <source>I can't find your purchase. Do you think this is incorrect? Please contact me through the 'Help &amp; Feedback' button in settings.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="I see you don't have an active mail client on your device, please mail me with the request to join the TestFlight including a screenshot of this PHR+ screen so I can see you have purchased Pro.&#10;&#10;Please mail it to developer@rocketscience-it.nl!" xml:space="preserve">
+        <source>I see you don't have an active mail client on your device, please mail me with the request to join the TestFlight including a screenshot of this PHR+ screen so I can see you have purchased Pro.
+
+Please mail it to developer@rocketscience-it.nl!</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ID" xml:space="preserve">
+        <source>ID</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="IP" xml:space="preserve">
+        <source>IP</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="IP / MAC / Hostname" xml:space="preserve">
+        <source>IP / MAC / Hostname</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="IP addresses" xml:space="preserve">
+        <source>IP addresses</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="IP addresses (hostname)" xml:space="preserve">
+        <source>IP addresses (hostname)</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="IPv6 support" xml:space="preserve">
+        <source>IPv6 support</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Icon" xml:space="preserve">
+        <source>Icon</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="If set, the domain is added to simple names (without a period) in /etc/hosts in the same way as for DHCP-derived names." xml:space="preserve">
+        <source>If set, the domain is added to simple names (without a period) in /etc/hosts in the same way as for DHCP-derived names.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="If this option is set, Pi-hole ignores all clients which are not explicitly configured through dhcp.hosts. This can be useful to prevent unauthorized clients from getting an IP address from the DHCP server.&#10;It should be noted that this option is not a security feature, as clients can still assign themselves an IP address and use the network. It is merely a convenience feature to prevent unknown clients from getting a valid IP configuration assigned automatically.&#10;&#10;Note: When this feature is enabled you will need to configure new clients manually in dhcp.hosts before they can use the network." xml:space="preserve">
+        <source>If this option is set, Pi-hole ignores all clients which are not explicitly configured through dhcp.hosts. This can be useful to prevent unauthorized clients from getting an IP address from the DHCP server.
+It should be noted that this option is not a security feature, as clients can still assign themselves an IP address and use the network. It is merely a convenience feature to prevent unknown clients from getting a valid IP configuration assigned automatically.
+
+Note: When this feature is enabled you will need to configure new clients manually in dhcp.hosts before they can use the network.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ignore unknown DHCP clients" xml:space="preserve">
+        <source>Ignore unknown DHCP clients</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="In Progress" xml:space="preserve">
+        <source>In Progress</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Indefinitely" xml:space="preserve">
+        <source>Indefinitely</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Indigo" xml:space="preserve">
+        <source>Indigo</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Info" xml:space="preserve">
+        <source>Info</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Instance" xml:space="preserve">
+        <source>Instance</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Instance Actions" xml:space="preserve">
+        <source>Instance Actions</source>
+        <note>Used on the PHR+ purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="Instances" xml:space="preserve">
+        <source>Instances</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Interactive Widgets" xml:space="preserve">
+        <source>Interactive Widgets</source>
+        <note>Used on the PHR+ purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="Interface" xml:space="preserve">
+        <source>Interface</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Interface Overview" xml:space="preserve">
+        <source>Interface Overview</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Interface Settings" xml:space="preserve">
+        <source>Interface Settings</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Interface options" xml:space="preserve">
+        <source>Interface options</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Interfaces" xml:space="preserve">
+        <source>Interfaces</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Invalid URL. Did you enter the correct host, port, and API path?" xml:space="preserve">
+        <source>Invalid URL. Did you enter the correct host, port, and API path?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Joost" translate="no" xml:space="preserve">
+        <source>Joost</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Kind" xml:space="preserve">
+        <source>Kind</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Kind of list" xml:space="preserve">
+        <source>Kind of list</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Last Updated" xml:space="preserve">
+        <source>Last Updated</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Last fetched" xml:space="preserve">
+        <source>Last fetched</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Last modified" xml:space="preserve">
+        <source>Last modified</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Last query" xml:space="preserve">
+        <source>Last query</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Last updated: %@" xml:space="preserve">
+        <source>Last updated: %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Last updated: N/A" xml:space="preserve">
+        <source>Last updated: N/A</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Latest" xml:space="preserve">
+        <source>Latest</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Learn More" xml:space="preserve">
+        <source>Learn More</source>
+        <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Learn more..." xml:space="preserve">
+        <source>Learn more...</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lease time" xml:space="preserve">
+        <source>Lease time</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Leave a Review" xml:space="preserve">
+        <source>Leave a Review</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Leave a review" xml:space="preserve">
+        <source>Leave a review</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Leave a tip" xml:space="preserve">
+        <source>Leave a tip</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Leave the netmask field empty to have Pi-hole infer it from the configured IP address of your device. If you want to specify a netmask, you can use the format 255.255.255.0." xml:space="preserve">
+        <source>Leave the netmask field empty to have Pi-hole infer it from the configured IP address of your device. If you want to specify a netmask, you can use the format 255.255.255.0.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lets give the Lists-tab a massive feature-boost!" xml:space="preserve">
+        <source>Lets give the Lists-tab a massive feature-boost!</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lets start 2021 with a huge update!&#10;&#10;Many highly requested features in this one. I've considered making some features of this update a paid in-app-purchase because of the significant development time, but decided against it. I would very much appreciate a tip if you use the app often, it would help a lot! If you can't afford to tip for any reason, that's of course totally fine :-) Enjoy the app, tell your friends, maybe leave a review!&#10;&#10;I hope you will all enjoy this massive update and I wish you all a Happy New Year!&#10;- Joost" xml:space="preserve">
+        <source>Lets start 2021 with a huge update!
+
+Many highly requested features in this one. I've considered making some features of this update a paid in-app-purchase because of the significant development time, but decided against it. I would very much appreciate a tip if you use the app often, it would help a lot! If you can't afford to tip for any reason, that's of course totally fine :-) Enjoy the app, tell your friends, maybe leave a review!
+
+I hope you will all enjoy this massive update and I wish you all a Happy New Year!
+- Joost</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lifetime PHR %@" xml:space="preserve">
+        <source>Lifetime PHR %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lifetime PHR+ Conversion" xml:space="preserve">
+        <source>Lifetime PHR+ Conversion</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Light" xml:space="preserve">
+        <source>Light</source>
+        <note>Displayed on the App Icon Settings screen.</note>
+      </trans-unit>
+      <trans-unit id="Light &amp; Dark" xml:space="preserve">
+        <source>Light &amp; Dark</source>
+        <note>Displayed on the App Icon Settings screen.</note>
+      </trans-unit>
+      <trans-unit id="Light, Dark" xml:space="preserve">
+        <source>Light, Dark</source>
+        <note>Displayed on the App Icon Settings screen.</note>
+      </trans-unit>
+      <trans-unit id="Light, Dark, Tinted" xml:space="preserve">
+        <source>Light, Dark, Tinted</source>
+        <note>Displayed on the App Icon Settings screen.</note>
+      </trans-unit>
+      <trans-unit id="List" xml:space="preserve">
+        <source>List</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="List URL" xml:space="preserve">
+        <source>List URL</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Live Log" xml:space="preserve">
+        <source>Live Log</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Local DNS Records" xml:space="preserve">
+        <source>Local DNS Records</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Local Records" xml:space="preserve">
+        <source>Local Records</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Locked" xml:space="preserve">
+        <source>Locked</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Logs" xml:space="preserve">
+        <source>Logs</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Logs (TODO)" xml:space="preserve">
+        <source>Logs (TODO)</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="MAC address" xml:space="preserve">
+        <source>MAC address</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Made with ❤️ by one person in 🇳🇱" xml:space="preserve">
+        <source>Made with ❤️ by one person in 🇳🇱</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mail" xml:space="preserve">
+        <source>Mail</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Make sure your router's DHCP server is disabled when using the Pi-hole DHCP server!" xml:space="preserve">
+        <source>Make sure your router's DHCP server is disabled when using the Pi-hole DHCP server!</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ManGo - Anime &amp; Manga Tracker" xml:space="preserve">
+        <source>ManGo - Anime &amp; Manga Tracker</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Manage Subscription" xml:space="preserve">
+        <source>Manage Subscription</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Medium widget only." xml:space="preserve">
+        <source>Medium widget only.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Merge" xml:space="preserve">
+        <source>Merge</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Messages" xml:space="preserve">
+        <source>Messages</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Metrics" xml:space="preserve">
+        <source>Metrics</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Metrics decimals" xml:space="preserve">
+        <source>Metrics decimals</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mint" xml:space="preserve">
+        <source>Mint</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Model" xml:space="preserve">
+        <source>Model</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Monthly PHR %@" xml:space="preserve">
+        <source>Monthly PHR %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Multi DNS" xml:space="preserve">
+        <source>Multi DNS</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Name" xml:space="preserve">
+        <source>Name</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Netmask" xml:space="preserve">
+        <source>Netmask</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Network" xml:space="preserve">
+        <source>Network</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Network Overview" xml:space="preserve">
+        <source>Network Overview</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Never forward non-FQDN A and AAAA queries" xml:space="preserve">
+        <source>Never forward non-FQDN A and AAAA queries</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Never forward reverse lookups for private IP ranges" xml:space="preserve">
+        <source>Never forward reverse lookups for private IP ranges</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New Adlist" xml:space="preserve">
+        <source>New Adlist</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New Client" xml:space="preserve">
+        <source>New Client</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New Group" xml:space="preserve">
+        <source>New Group</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New Groups" xml:space="preserve">
+        <source>New Groups</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New Instance" xml:space="preserve">
+        <source>New Instance</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New OS versions are required for some of these new features. Please update your device!" xml:space="preserve">
+        <source>New OS versions are required for some of these new features. Please update your device!</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New Record" xml:space="preserve">
+        <source>New Record</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="NextDNS Remote" xml:space="preserve">
+        <source>NextDNS Remote</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No" xml:space="preserve">
+        <source>No</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No Connection" xml:space="preserve">
+        <source>No Connection</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No Devices Found" xml:space="preserve">
+        <source>No Devices Found</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No Instances" xml:space="preserve">
+        <source>No Instances</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No Instances Found" xml:space="preserve">
+        <source>No Instances Found</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No Interfaces" xml:space="preserve">
+        <source>No Interfaces</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No Watch Paired" xml:space="preserve">
+        <source>No Watch Paired</source>
+        <note>Displayed on the support screen on the 'Force Watch Sync' button.</note>
+      </trans-unit>
+      <trans-unit id="No connection" xml:space="preserve">
+        <source>No connection</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No connection." xml:space="preserve">
+        <source>No connection.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No data." xml:space="preserve">
+        <source>No data.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No instance selected." xml:space="preserve">
+        <source>No instance selected.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No instance." xml:space="preserve">
+        <source>No instance.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No instances found." xml:space="preserve">
+        <source>No instances found.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No leases found." xml:space="preserve">
+        <source>No leases found.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No matching adlists found." xml:space="preserve">
+        <source>No matching adlists found.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No matching adlists or domains found." xml:space="preserve">
+        <source>No matching adlists or domains found.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No matching domains found." xml:space="preserve">
+        <source>No matching domains found.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No queries found" xml:space="preserve">
+        <source>No queries found</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No widgetFamily found" xml:space="preserve">
+        <source>No widgetFamily found</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="None" xml:space="preserve">
+        <source>None</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="None found." xml:space="preserve">
+        <source>None found.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="None." xml:space="preserve">
+        <source>None.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Not available on iOS 13." xml:space="preserve">
+        <source>Not available on iOS 13.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Note: any entries that are inserted will be added to the group &quot;default&quot; only." xml:space="preserve">
+        <source>Note: any entries that are inserted will be added to the group "default" only.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Number of clients" xml:space="preserve">
+        <source>Number of clients</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Number of domains" xml:space="preserve">
+        <source>Number of domains</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Number of queries" xml:space="preserve">
+        <source>Number of queries</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Number of queries shown" xml:space="preserve">
+        <source>Number of queries shown</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Numbers are an indication. Any existing matches are ignored." xml:space="preserve">
+        <source>Numbers are an indication. Any existing matches are ignored.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Numbers are an indication. Any existing matches are ignored. Includes 'Blocked Services'." xml:space="preserve">
+        <source>Numbers are an indication. Any existing matches are ignored. Includes 'Blocked Services'.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="OK" xml:space="preserve">
+        <source>OK</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="One-tap button" xml:space="preserve">
+        <source>One-tap button</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="One-tap disable duration" xml:space="preserve">
+        <source>One-tap disable duration</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Only change these settings if you know what you're doing." xml:space="preserve">
+        <source>Only change these settings if you know what you're doing.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Only use this setting if you didn't set a password for your Pi-hole." xml:space="preserve">
+        <source>Only use this setting if you didn't set a password for your Pi-hole.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Only visible if 'Combine instances' is turned off." xml:space="preserve">
+        <source>Only visible if 'Combine instances' is turned off.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open technical documentation" xml:space="preserve">
+        <source>Open technical documentation</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Options" xml:space="preserve">
+        <source>Options</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Or if you prefer subscriptions:" xml:space="preserve">
+        <source>Or if you prefer subscriptions:</source>
+        <note>Used on the PHR+ purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="Orange" xml:space="preserve">
+        <source>Orange</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Overwrite" xml:space="preserve">
+        <source>Overwrite</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="PHR" translate="no" xml:space="preserve">
+        <source>PHR</source>
+        <note>App title, do not translate.</note>
+      </trans-unit>
+      <trans-unit id="PHR %@" translate="no" xml:space="preserve">
+        <source>PHR %@</source>
+        <note>Used on the PHR+ purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="PHR%@ is required to&#10;" xml:space="preserve">
+        <source>PHR%@ is required to
+</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="PHR+" translate="no" xml:space="preserve">
+        <source>PHR+</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="PHR+ Active" xml:space="preserve">
+        <source>PHR+ Active</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="PHR+ for early users" xml:space="preserve">
+        <source>PHR+ for early users</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="PHR+ unlocks all these features, as well as new features in future updates. By purchasing PHR+ you will also support future development of the app, which is made by %@ (hi! 👋). I really appreciate it!" xml:space="preserve">
+        <source>PHR+ unlocks all these features, as well as new features in future updates. By purchasing PHR+ you will also support future development of the app, which is made by %@ (hi! 👋). I really appreciate it!</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Password" xml:space="preserve">
+        <source>Password</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Paste" xml:space="preserve">
+        <source>Paste</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Permit all origins" xml:space="preserve">
+        <source>Permit all origins</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Pi-hole" xml:space="preserve">
+        <source>Pi-hole</source>
+        <note>Placeholder for the name textfield on the instance settings screen.</note>
+      </trans-unit>
+      <trans-unit id="Pi-hole Color Scheme" xml:space="preserve">
+        <source>Pi-hole Color Scheme</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Pi-hole Remote" xml:space="preserve">
+        <source>Pi-hole Remote</source>
+        <note>App title, do not translate.</note>
+      </trans-unit>
+      <trans-unit id="Pi-hole Remote is designed to protect your privacy and will never share any information with anyone." xml:space="preserve">
+        <source>Pi-hole Remote is designed to protect your privacy and will never share any information with anyone.</source>
+        <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Pi-hole Remote is now available in 8 languages!" xml:space="preserve">
+        <source>Pi-hole Remote is now available in 8 languages!</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Pi-hole Remote+" xml:space="preserve">
+        <source>Pi-hole Remote+</source>
+        <note>Used in the Settings-tab.</note>
+      </trans-unit>
+      <trans-unit id="Pi-hole domain name" xml:space="preserve">
+        <source>Pi-hole domain name</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Pi-hole v6.0+ Required" xml:space="preserve">
+        <source>Pi-hole v6.0+ Required</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Pink" xml:space="preserve">
+        <source>Pink</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Please add a Pi-hole instance first." xml:space="preserve">
+        <source>Please add a Pi-hole instance first.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Please add an instance in the app." xml:space="preserve">
+        <source>Please add an instance in the app.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Please add an instance in the iPhone app. If you did that already, please try 'Settings' &gt; 'Help &amp; Feedback' &gt; 'Force Watch Sync' and do a force quit of the Watch app." xml:space="preserve">
+        <source>Please add an instance in the iPhone app. If you did that already, please try 'Settings' &gt; 'Help &amp; Feedback' &gt; 'Force Watch Sync' and do a force quit of the Watch app.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Please choose two different instances." xml:space="preserve">
+        <source>Please choose two different instances.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Please enter a valid URL." xml:space="preserve">
+        <source>Please enter a valid URL.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Please mail me with any feedback about bugs or improvements at developer@rocketscience-it.nl!" xml:space="preserve">
+        <source>Please mail me with any feedback about bugs or improvements at developer@rocketscience-it.nl!</source>
+        <note>Displayed in an alert on the support screen when someone has no email client installed.</note>
+      </trans-unit>
+      <trans-unit id="Please note that Pi-hole v6.0 or higher is required for the app to work. If you're running an older version of Pi-hole, please update your Pi-hole first by running " xml:space="preserve">
+        <source>Please note that Pi-hole v6.0 or higher is required for the app to work. If you're running an older version of Pi-hole, please update your Pi-hole first by running </source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Please use English or Dutch for support requests!" xml:space="preserve">
+        <source>Please use English or Dutch for support requests!</source>
+        <note>Displayed on the support screen.</note>
+      </trans-unit>
+      <trans-unit id="Port" xml:space="preserve">
+        <source>Port</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Powerful Pi-hole Client &amp; Group management." xml:space="preserve">
+        <source>Powerful Pi-hole Client &amp; Group management.</source>
+        <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Preferences" xml:space="preserve">
+        <source>Preferences</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Preset 1" xml:space="preserve">
+        <source>Preset 1</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Preset 2" xml:space="preserve">
+        <source>Preset 2</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Preset 3" xml:space="preserve">
+        <source>Preset 3</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Preset 4" xml:space="preserve">
+        <source>Preset 4</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Presets" xml:space="preserve">
+        <source>Presets</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Privacy Policy" xml:space="preserve">
+        <source>Privacy Policy</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Processed" xml:space="preserve">
+        <source>Processed</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Protocol" xml:space="preserve">
+        <source>Protocol</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Purchased PHR when it wasn't free?" xml:space="preserve">
+        <source>Purchased PHR when it wasn't free?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Purple" xml:space="preserve">
+        <source>Purple</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Queries" xml:space="preserve">
+        <source>Queries</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Queries: %@" xml:space="preserve">
+        <source>Queries: %@</source>
+        <note>Displayed in the simple one-line Lock Screen widget.
+Displayed in the simple rectangular Lock Screen widget.</note>
+      </trans-unit>
+      <trans-unit id="Query" xml:space="preserve">
+        <source>Query</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Query Log" xml:space="preserve">
+        <source>Query Log</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Query Types" xml:space="preserve">
+        <source>Query Types</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Quickly disable blocking for a short time." xml:space="preserve">
+        <source>Quickly disable blocking for a short time.</source>
+        <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Quickly disable blocking with customizable buttons." xml:space="preserve">
+        <source>Quickly disable blocking with customizable buttons.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Range End" xml:space="preserve">
+        <source>Range End</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Range Start" xml:space="preserve">
+        <source>Range Start</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rate-limiting" xml:space="preserve">
+        <source>Rate-limiting</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Red" xml:space="preserve">
+        <source>Red</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Refreshing" xml:space="preserve">
+        <source>Refreshing</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="RegEx" xml:space="preserve">
+        <source>RegEx</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="RegEx entries" xml:space="preserve">
+        <source>RegEx entries</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Remote for AdGuard DNS" xml:space="preserve">
+        <source>Remote for AdGuard DNS</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Remove" xml:space="preserve">
+        <source>Remove</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Remove Instance" xml:space="preserve">
+        <source>Remove Instance</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Remove TTL" xml:space="preserve">
+        <source>Remove TTL</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Remove limits, unlock all settings, and more..." xml:space="preserve">
+        <source>Remove limits, unlock all settings, and more...</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Reorder" xml:space="preserve">
+        <source>Reorder</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Reorder by dragging, remove by swiping." xml:space="preserve">
+        <source>Reorder by dragging, remove by swiping.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Request" xml:space="preserve">
+        <source>Request</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Request PHR beta access" xml:space="preserve">
+        <source>Request PHR beta access</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Requires Pi-hole v6.0 or higher." xml:space="preserve">
+        <source>Requires Pi-hole v6.0 or higher.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Reset" xml:space="preserve">
+        <source>Reset</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Respond only on interface" xml:space="preserve">
+        <source>Respond only on interface</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Response" xml:space="preserve">
+        <source>Response</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Restart DNS resolver" xml:space="preserve">
+        <source>Restart DNS resolver</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Restore Purchase" xml:space="preserve">
+        <source>Restore Purchase</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Retried" xml:space="preserve">
+        <source>Retried</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Retried | DNSSEC" xml:space="preserve">
+        <source>Retried | DNSSEC</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="RocketScience IT" xml:space="preserve">
+        <source>RocketScience IT</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Router" xml:space="preserve">
+        <source>Router</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="SLAAC + RA" xml:space="preserve">
+        <source>SLAAC + RA</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Save" xml:space="preserve">
+        <source>Save</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Save instance" xml:space="preserve">
+        <source>Save instance</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Search" xml:space="preserve">
+        <source>Search</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Search by IP, Hostname, or MAC" xml:space="preserve">
+        <source>Search by IP, Hostname, or MAC</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Seconds" xml:space="preserve">
+        <source>Seconds</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Select an Instance" xml:space="preserve">
+        <source>Select an Instance</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Select instance &amp; duration" xml:space="preserve">
+        <source>Select instance &amp; duration</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Selected" xml:space="preserve">
+        <source>Selected</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Services" xml:space="preserve">
+        <source>Services</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="SessionID: %@" xml:space="preserve">
+        <source>SessionID: %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Settings" xml:space="preserve">
+        <source>Settings</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Share Pi-hole Remote" xml:space="preserve">
+        <source>Share Pi-hole Remote</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show" xml:space="preserve">
+        <source>Show</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show 'Indefinitely'" xml:space="preserve">
+        <source>Show 'Indefinitely'</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show 'Until tomorrow'" xml:space="preserve">
+        <source>Show 'Until tomorrow'</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show Blocklist Last Updated" xml:space="preserve">
+        <source>Show Blocklist Last Updated</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show Live Log" xml:space="preserve">
+        <source>Show Live Log</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show app icons" xml:space="preserve">
+        <source>Show app icons</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show chart" xml:space="preserve">
+        <source>Show chart</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show full feature comparison" xml:space="preserve">
+        <source>Show full feature comparison</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show hostname" xml:space="preserve">
+        <source>Show hostname</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show legend" xml:space="preserve">
+        <source>Show legend</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show metrics" xml:space="preserve">
+        <source>Show metrics</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show more..." xml:space="preserve">
+        <source>Show more...</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show on Home-tab" xml:space="preserve">
+        <source>Show on Home-tab</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show response time" xml:space="preserve">
+        <source>Show response time</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show version" xml:space="preserve">
+        <source>Show version</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Showing queries after %@." xml:space="preserve">
+        <source>Showing queries after %@.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Something went wrong" xml:space="preserve">
+        <source>Something went wrong</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Something went wrong while getting your denylist entries." xml:space="preserve">
+        <source>Something went wrong while getting your denylist entries.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Something went wrong." xml:space="preserve">
+        <source>Something went wrong.</source>
+        <note>Generic error text.</note>
+      </trans-unit>
+      <trans-unit id="Something went wrong: %@" xml:space="preserve">
+        <source>Something went wrong: %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sort" xml:space="preserve">
+        <source>Sort</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sorted by last query" xml:space="preserve">
+        <source>Sorted by last query</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Source" xml:space="preserve">
+        <source>Source</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Source Instance" xml:space="preserve">
+        <source>Source Instance</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Special Domain" xml:space="preserve">
+        <source>Special Domain</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Specify which instance(s) to check." xml:space="preserve">
+        <source>Specify which instance(s) to check.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Speed" xml:space="preserve">
+        <source>Speed</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Statistics" xml:space="preserve">
+        <source>Statistics</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Statistics &amp; Disable" xml:space="preserve">
+        <source>Statistics &amp; Disable</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Statistics &amp; Disable Widget" xml:space="preserve">
+        <source>Statistics &amp; Disable Widget</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Statistics with customizable buttons to quickly disable blocking." xml:space="preserve">
+        <source>Statistics with customizable buttons to quickly disable blocking.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Status" xml:space="preserve">
+        <source>Status</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period and will be charged to your iTunes account. You can turn off auto-renew/manage subscriptions in your iTunes Account Settings after purchase." xml:space="preserve">
+        <source>Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period and will be charged to your iTunes account. You can turn off auto-renew/manage subscriptions in your iTunes Account Settings after purchase.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Suggestions" xml:space="preserve">
+        <source>Suggestions</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Support Development" xml:space="preserve">
+        <source>Support Development</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sync Instances" xml:space="preserve">
+        <source>Sync Instances</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sync adlists &amp; domains between instances." xml:space="preserve">
+        <source>Sync adlists &amp; domains between instances.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="System" xml:space="preserve">
+        <source>System</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="TOTP" xml:space="preserve">
+        <source>TOTP</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="TOTP token (like '123456')" xml:space="preserve">
+        <source>TOTP token (like '123456')</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="TTL" xml:space="preserve">
+        <source>TTL</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="TTL (in seconds)" xml:space="preserve">
+        <source>TTL (in seconds)</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="TTL (optional)" xml:space="preserve">
+        <source>TTL (optional)</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Take Pi-hole Remote to the next level &amp; support future developement." xml:space="preserve">
+        <source>Take Pi-hole Remote to the next level &amp; support future developement.</source>
+        <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Take Pi-hole Remote to the next level by removing limits and unlocking full Pi-hole management, interactive widgets, multiple instances support, and more." xml:space="preserve">
+        <source>Take Pi-hole Remote to the next level by removing limits and unlocking full Pi-hole management, interactive widgets, multiple instances support, and more.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tap for more info." xml:space="preserve">
+        <source>Tap for more info.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tap here if you purchased PHR when it was a paid app" xml:space="preserve">
+        <source>Tap here if you purchased PHR when it was a paid app</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Target" xml:space="preserve">
+        <source>Target</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Target Domain" xml:space="preserve">
+        <source>Target Domain</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Teal" xml:space="preserve">
+        <source>Teal</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tells Pi-hole to never forward A or AAAA queries for plain names, without dots or domain parts, to upstream nameservers. If the name is not known from /etc/hosts or DHCP then a &quot;not found&quot; answer is returned.&#10;&#10;If Conditional Forwarding is enabled, unticking this box may cause a partial DNS loop under certain circumstances (e.g. if a client would send TLD DNSSEC queries)." xml:space="preserve">
+        <source>Tells Pi-hole to never forward A or AAAA queries for plain names, without dots or domain parts, to upstream nameservers. If the name is not known from /etc/hosts or DHCP then a "not found" answer is returned.
+
+If Conditional Forwarding is enabled, unticking this box may cause a partial DNS loop under certain circumstances (e.g. if a client would send TLD DNSSEC queries).</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Terms of Use" xml:space="preserve">
+        <source>Terms of Use</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Test Connection" xml:space="preserve">
+        <source>Test Connection</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="TestFlight Beta Access" xml:space="preserve">
+        <source>TestFlight Beta Access</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="TestFlight Debug" xml:space="preserve">
+        <source>TestFlight Debug</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="TestFlight access" xml:space="preserve">
+        <source>TestFlight access</source>
+        <note>Used on the PHR+ purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="Thank you for downloading the app! ❤️" xml:space="preserve">
+        <source>Thank you for downloading the app! ❤️</source>
+        <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Thank you so much for downloading/purchasing the app before the large v6 update.&#10;&#10;Building v6 was a massive undertaking (I'm still working on bringing back missing features from v5 that didn't make this first release) and with the switch to IAPs I didn't want existing users to have to pay again, therefore you got PHR+ for free.&#10;&#10;In return, I would really appreciate it if you could leave a review in the App Store or leave a small donation to support my work 😊 If you can't, that's also okay! Enjoy the app. - Joost" xml:space="preserve">
+        <source>Thank you so much for downloading/purchasing the app before the large v6 update.
+
+Building v6 was a massive undertaking (I'm still working on bringing back missing features from v5 that didn't make this first release) and with the switch to IAPs I didn't want existing users to have to pay again, therefore you got PHR+ for free.
+
+In return, I would really appreciate it if you could leave a review in the App Store or leave a small donation to support my work 😊 If you can't, that's also okay! Enjoy the app. - Joost</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Thank you!" xml:space="preserve">
+        <source>Thank you!</source>
+        <note>Used in the Settings-tab, displayed when someone has PHR+ active.</note>
+      </trans-unit>
+      <trans-unit id="Thank you! ❤️" xml:space="preserve">
+        <source>Thank you! ❤️</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The DHCPv4 rapid commit option allows the Pi-hole DHCP server to assign an IP address to a client right away. This can notably speed up the address assignment process and you will notice, e.g., faster WiFi joins in your network. This option should only be enabled if the Pi-hole DHCP server is the only DHCP server in your network." xml:space="preserve">
+        <source>The DHCPv4 rapid commit option allows the Pi-hole DHCP server to assign an IP address to a client right away. This can notably speed up the address assignment process and you will notice, e.g., faster WiFi joins in your network. This option should only be enabled if the Pi-hole DHCP server is the only DHCP server in your network.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The DNS domains for your Pi-hole. If no domain is specified and you are using Pi-hole's DHCP server, then any hostnames with a domain part (i.e., with a period) will be disallowed. If a domain is specified, then hostnames with a domain parts matching the domain here are allowed. In addition, when a suffix is set then hostnames without a domain part have the suffix added as an optional domain part." xml:space="preserve">
+        <source>The DNS domains for your Pi-hole. If no domain is specified and you are using Pi-hole's DHCP server, then any hostnames with a domain part (i.e., with a period) will be disallowed. If a domain is specified, then hostnames with a domain parts matching the domain here are allowed. In addition, when a suffix is set then hostnames without a domain part have the suffix added as an optional domain part.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The comment will be added to all entries." xml:space="preserve">
+        <source>The comment will be added to all entries.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The expected format is `IP#port`, where the `port` is optional (defaults to 53)." xml:space="preserve">
+        <source>The expected format is `IP#port`, where the `port` is optional (defaults to 53).</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The lease time can be in seconds, minutes (e.g., &quot;45m&quot;), hours (e.g., &quot;1h&quot;), days (like &quot;2d&quot;), or even weeks (&quot;1w&quot;). If no lease time is specified (empty), dnsmasq's default lease time is one hour for IPv4 and one day for IPv6. You may also use &quot;infinite&quot; as string but be aware of the drawbacks: assigned addresses are will only be made available again after the lease time has passed or when leases are manually deleted below." xml:space="preserve">
+        <source>The lease time can be in seconds, minutes (e.g., "45m"), hours (e.g., "1h"), days (like "2d"), or even weeks ("1w"). If no lease time is specified (empty), dnsmasq's default lease time is one hour for IPv4 and one day for IPv6. You may also use "infinite" as string but be aware of the drawbacks: assigned addresses are will only be made available again after the lease time has passed or when leases are manually deleted below.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The original enddate when blocking would be enabled again." xml:space="preserve">
+        <source>The original enddate when blocking would be enabled again.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The red options are dangerous on devices directly connected to the Internet such as cloud instances and are only safe if your Pi-hole is properly firewalled. " xml:space="preserve">
+        <source>The red options are dangerous on devices directly connected to the Internet such as cloud instances and are only safe if your Pi-hole is properly firewalled. </source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The red options are dangerous on devices directly connected to the Internet such as cloud instances and are only safe if your Pi-hole is properly firewalled. In a typical at-home setup where your Pi-hole is located within your local network (and you have not forwarded port 53 in your router!) they are safe to use." xml:space="preserve">
+        <source>The red options are dangerous on devices directly connected to the Internet such as cloud instances and are only safe if your Pi-hole is properly firewalled. In a typical at-home setup where your Pi-hole is located within your local network (and you have not forwarded port 53 in your router!) they are safe to use.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="This device is probably not using Pi-hole, because no queries were found." xml:space="preserve">
+        <source>This device is probably not using Pi-hole, because no queries were found.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="This is the last version that supports iOS 13 and macOS 10.15." xml:space="preserve">
+        <source>This is the last version that supports iOS 13 and macOS 10.15.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="This version requires iOS 16.2+ / watchOS 10.0+ and **Pi-hole v6.0** or higher, because it uses the new Pi-hole API with much improved capabilities." xml:space="preserve">
+        <source>This version requires iOS 16.2+ / watchOS 10.0+ and **Pi-hole v6.0** or higher, because it uses the new Pi-hole API with much improved capabilities.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Time remaining" xml:space="preserve">
+        <source>Time remaining</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tint" xml:space="preserve">
+        <source>Tint</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tip Jar" xml:space="preserve">
+        <source>Tip Jar</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Toggle Blocking" xml:space="preserve">
+        <source>Toggle Blocking</source>
+        <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Toggle Blocking Status" xml:space="preserve">
+        <source>Toggle Blocking Status</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Toggle Status" xml:space="preserve">
+        <source>Toggle Status</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Toggle between enabled &amp; disabled" xml:space="preserve">
+        <source>Toggle between enabled &amp; disabled</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Toggle blocking status for one or all instances." xml:space="preserve">
+        <source>Toggle blocking status for one or all instances.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Toggle only between enabled &amp; disabled. Hold the button for more options." xml:space="preserve">
+        <source>Toggle only between enabled &amp; disabled. Hold the button for more options.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Toggle visibility" xml:space="preserve">
+        <source>Toggle visibility</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tools" xml:space="preserve">
+        <source>Tools</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Top Client count" xml:space="preserve">
+        <source>Top Client count</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Top Clients" xml:space="preserve">
+        <source>Top Clients</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Top Domains" xml:space="preserve">
+        <source>Top Domains</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Top Domains count" xml:space="preserve">
+        <source>Top Domains count</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Total" xml:space="preserve">
+        <source>Total</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Total: %@" xml:space="preserve">
+        <source>Total: %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Try for free!" xml:space="preserve">
+        <source>Try for free!</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Type" xml:space="preserve">
+        <source>Type</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Type of list" xml:space="preserve">
+        <source>Type of list</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="UI" xml:space="preserve">
+        <source>UI</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="URL" xml:space="preserve">
+        <source>URL</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unknown" xml:space="preserve">
+        <source>Unknown</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unknown error." xml:space="preserve">
+        <source>Unknown error.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Until tomorrow" xml:space="preserve">
+        <source>Until tomorrow</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Update Gravity" xml:space="preserve">
+        <source>Update Gravity</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Update available for Core: %@. Select for changelog." xml:space="preserve">
+        <source>Update available for Core: %@. Select for changelog.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Update available for FTL: %@. Select for changelog." xml:space="preserve">
+        <source>Update available for FTL: %@. Select for changelog.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Update available for Web: %@. Select for changelog." xml:space="preserve">
+        <source>Update available for Web: %@. Select for changelog.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Update gravity" xml:space="preserve">
+        <source>Update gravity</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Upstream" xml:space="preserve">
+        <source>Upstream</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Upstream DNS Servers" xml:space="preserve">
+        <source>Upstream DNS Servers</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Upstream Servers" xml:space="preserve">
+        <source>Upstream Servers</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Use DNSSEC" xml:space="preserve">
+        <source>Use DNSSEC</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Use NextDNS? Have I got an app for you." xml:space="preserve">
+        <source>Use NextDNS? Have I got an app for you.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Users who purchased the app while it was paid upfront instead of free with in-app purchases, can get PHR+ Lifetime for free as a thank you. Please press the button below to let the app check if you're entitled to it. This will show a native iOS alert to restore the purchase." xml:space="preserve">
+        <source>Users who purchased the app while it was paid upfront instead of free with in-app purchases, can get PHR+ Lifetime for free as a thank you. Please press the button below to let the app check if you're entitled to it. This will show a native iOS alert to restore the purchase.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Using SSL" xml:space="preserve">
+        <source>Using SSL</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Validate DNS replies and cache DNSSEC data. When forwarding DNS queries, Pi-hole requests the DNSSEC records needed to validate the replies. If a domain fails validation or the upstream does not support DNSSEC, this setting can cause issues resolving domains. Use an upstream DNS server which supports DNSSEC when activating DNSSEC. Note that the size of your log might increase significantly when enabling DNSSEC." xml:space="preserve">
+        <source>Validate DNS replies and cache DNSSEC data. When forwarding DNS queries, Pi-hole requests the DNSSEC records needed to validate the replies. If a domain fails validation or the upstream does not support DNSSEC, this setting can cause issues resolving domains. Use an upstream DNS server which supports DNSSEC when activating DNSSEC. Note that the size of your log might increase significantly when enabling DNSSEC.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Vendor" xml:space="preserve">
+        <source>Vendor</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Version" xml:space="preserve">
+        <source>Version</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Versions" xml:space="preserve">
+        <source>Versions</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="View FTL logs" xml:space="preserve">
+        <source>View FTL logs</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="View dnsmasq logs" xml:space="preserve">
+        <source>View dnsmasq logs</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="View webserver logs" xml:space="preserve">
+        <source>View webserver logs</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Visible on Home-tab" xml:space="preserve">
+        <source>Visible on Home-tab</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Watch App Not Installed" xml:space="preserve">
+        <source>Watch App Not Installed</source>
+        <note>Displayed on the support screen on the 'Force Watch Sync' button.</note>
+      </trans-unit>
+      <trans-unit id="Web" xml:space="preserve">
+        <source>Web</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Web version: %@." xml:space="preserve">
+        <source>Web version: %@.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Welcome!" xml:space="preserve">
+        <source>Welcome!</source>
+        <note>Onboarding subtitle.</note>
+      </trans-unit>
+      <trans-unit id="What's New" xml:space="preserve">
+        <source>What's New</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="When a client makes too many queries in too short time, it gets rate-limited. Rate-limited queries are answered with a REFUSED reply and not further processed by FTL and prevent Pi-holes getting overwhelmed by rogue clients. It is important to note that rate-limiting is happening on a per-client basis. Other clients can continue to use FTL while rate-limited clients are short-circuited at the same time.&#10;&#10;Rate-limiting may be disabled altogether by setting both values to zero." xml:space="preserve">
+        <source>When a client makes too many queries in too short time, it gets rate-limited. Rate-limited queries are answered with a REFUSED reply and not further processed by FTL and prevent Pi-holes getting overwhelmed by rogue clients. It is important to note that rate-limiting is happening on a per-client basis. Other clients can continue to use FTL while rate-limited clients are short-circuited at the same time.
+
+Rate-limiting may be disabled altogether by setting both values to zero.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="When you use HTTPS you must make sure to install the certificate to your device first. If you don't do this, the app might not be able to establish a secure connection to your Pi-hole.&#10;&#10;The default location of your certificate is on your device: /etc/pihole/tls.pem. Mail the file to yourself and open it on your device to install it." xml:space="preserve">
+        <source>When you use HTTPS you must make sure to install the certificate to your device first. If you don't do this, the app might not be able to establish a secure connection to your Pi-hole.
+
+The default location of your certificate is on your device: /etc/pihole/tls.pem. Mail the file to yourself and open it on your device to install it.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Widgets" xml:space="preserve">
+        <source>Widgets</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Widgets &amp; Live Activity" xml:space="preserve">
+        <source>Widgets &amp; Live Activity</source>
+        <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Yearly PHR %@" xml:space="preserve">
+        <source>Yearly PHR %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Yellow" xml:space="preserve">
+        <source>Yellow</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Yes" xml:space="preserve">
+        <source>Yes</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="You can configure an application password in the Pi-hole Web Interface. Be aware that you can have only *one* applciation password at a time." xml:space="preserve">
+        <source>You can configure an application password in the Pi-hole Web Interface. Be aware that you can have only *one* applciation password at a time.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="You don't have multiple instances." xml:space="preserve">
+        <source>You don't have multiple instances.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="You have purchased PHR %@" xml:space="preserve">
+        <source>You have purchased PHR %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="You've reached the maximum of 6 presets." xml:space="preserve">
+        <source>You've reached the maximum of 6 presets.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your password and TOTP token will be used only once to create an 'application password' and are deleted afterwards." xml:space="preserve">
+        <source>Your password and TOTP token will be used only once to create an 'application password' and are deleted afterwards.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="`/api` by default" xml:space="preserve">
+        <source>`/api` by default</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="appintent_disableblocking_description" xml:space="preserve">
+        <source>Disable Pi-hole blocking on one or all of your instances for a specific duration.</source>
+        <target state="translated">Schakel blokkeren uit voor een of meerdere instanties, voor een bepaalde tijd.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="appintent_disableblocking_summary_${instance}" xml:space="preserve">
+        <source>Disable Pi-hole blocking for ${instance}</source>
+        <target state="translated">Blokkeren uitschakelen voor ${instance}</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="appintent_duration_description" xml:space="preserve">
+        <source>Specifies the duration to disable for, in minutes. Set to '0' to disable indefinitely.</source>
+        <target state="translated">Voor hoe lang blokkeren uitgeschakeld moet worden, in minuten. Zet op '0' om uit te schakelen tot je blokkeren weer aanzet.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="appintent_enableblocking_description" xml:space="preserve">
+        <source>Enable Pi-hole blocking on one or all of your instances.</source>
+        <target state="translated">Schakel blokkeren in voor een of meerdere instanties.</target>
+        <note>MARK: - App Intents</note>
+      </trans-unit>
+      <trans-unit id="appintent_enableblocking_summary_${instance}" xml:space="preserve">
+        <source>Enable Pi-hole blocking for ${instance}</source>
+        <target state="translated">Blokkeren inschakelen voor ${instance}</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="appintent_instance_description" xml:space="preserve">
+        <source>Specifies which instance(s) to use.</source>
+        <target state="translated">Welke instantie(s) gebruikt moet(en) worden.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="appintents_state" xml:space="preserve">
+        <source>appintents_state</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="automatic" xml:space="preserve">
+        <source>automatic</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="blocked" xml:space="preserve">
+        <source>Blocked</source>
+        <target state="translated">Geblokkeerd</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="blocked_services_block_service" xml:space="preserve">
+        <source>Block service</source>
+        <target state="translated">Blokkeer dienst</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="blocked_services_entries_overview" xml:space="preserve">
+        <source>Entries in overview</source>
+        <target state="translated">Items in lijst</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="blocked_services_entries_overview_hide" xml:space="preserve">
+        <source>Hide</source>
+        <target state="translated">Verbergen</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="blocked_services_entries_overview_show" xml:space="preserve">
+        <source>Show</source>
+        <target state="translated">Weergeven</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="blocked_services_favorites" xml:space="preserve">
+        <source>Favorites</source>
+        <target state="translated">Favorieten</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="blocked_services_favorites_add" xml:space="preserve">
+        <source>Add to favorites</source>
+        <target state="translated">Voeg toe aan favorieten</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="blocked_services_favorites_explainer" xml:space="preserve">
+        <source>Swipe to the right to add a service to your favorites.</source>
+        <target state="translated">Swipe naar rechts om een dienst toe te voegen aan je favorieten.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="blocked_services_favorites_remove" xml:space="preserve">
+        <source>Remove from favorites</source>
+        <target state="translated">Verwijder uit favorieten</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="blocked_services_other" xml:space="preserve">
+        <source>Other</source>
+        <target state="translated">Overig</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="changelog_accessibility" xml:space="preserve">
+        <source>Accessibility</source>
+        <target state="translated">Toegankelijkheid</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="changelog_continue" xml:space="preserve">
+        <source>Continue</source>
+        <target state="translated">Ga door</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="changelog_current_version" xml:space="preserve">
+        <source>Current</source>
+        <target state="translated">Huidige versie</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="changelog_fixed" xml:space="preserve">
+        <source>Fixed</source>
+        <target state="translated">Opgelost</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="changelog_improved" xml:space="preserve">
+        <source>Improved</source>
+        <target state="translated">Verbeterd</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="changelog_just_updated" xml:space="preserve">
+        <source>Just Updated!</source>
+        <target state="translated">Net geüpdatet!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="changelog_navbar" xml:space="preserve">
+        <source>What's New</source>
+        <target state="translated">Wat is er nieuw?</target>
+        <note>MARK: Changelog</note>
+      </trans-unit>
+      <trans-unit id="changelog_new" xml:space="preserve">
+        <source>New</source>
+        <target state="translated">Nieuw</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="changelog_settings" xml:space="preserve">
+        <source>Changelog Settings</source>
+        <target state="translated">Changelog</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="changelog_settings_show" xml:space="preserve">
+        <source>Show on App Update</source>
+        <target state="translated">Laat zien bij app update</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="changelog_settings_show_footer" xml:space="preserve">
+        <source>The Changelog will only be shown for feature-updates, not for updates that only contain bugfixes.</source>
+        <target state="translated">De changelog zal alleen getoond worden na een update met nieuwe features, niet voor updates met alleen bugfixes.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="changelog_show_feature_promo" xml:space="preserve">
+        <source>Show Feature Promo</source>
+        <target state="translated">Functiepromo</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="changelog_view_full" xml:space="preserve">
+        <source>View Full Changelog</source>
+        <target state="translated">Volledige changelog</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="copy" xml:space="preserve">
+        <source>Copy</source>
+        <target state="translated">Kopieer</target>
+        <note>MARK: Context Menus</note>
+      </trans-unit>
+      <trans-unit id="customize app tint." xml:space="preserve">
+        <source>customize app tint.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="customize the app icon." xml:space="preserve">
+        <source>customize the app icon.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="design_colorscheme" xml:space="preserve">
+        <source>Color Scheme</source>
+        <target state="translated">Kleurenschema</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="design_dark_mode" xml:space="preserve">
+        <source>Dark Mode</source>
+        <target state="translated">Dark Mode</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="design_light_mode" xml:space="preserve">
+        <source>Light Mode</source>
+        <target state="translated">Light Mode</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="design_system" xml:space="preserve">
+        <source>System</source>
+        <target state="translated">Systeem</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="design_theme" xml:space="preserve">
+        <source>Theme</source>
+        <target state="translated">Thema</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="design_tint_blue" xml:space="preserve">
+        <source>Blue</source>
+        <target state="translated">Blauw</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="design_tint_brown" xml:space="preserve">
+        <source>Brown</source>
+        <target state="translated">Bruin</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="design_tint_green" xml:space="preserve">
+        <source>Green</source>
+        <target state="translated">Groen</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="design_tint_indigo" xml:space="preserve">
+        <source>Indigo</source>
+        <target state="translated">Indigo</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="design_tint_mint" xml:space="preserve">
+        <source>Mint</source>
+        <target state="translated">Mint</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="design_tint_orange" xml:space="preserve">
+        <source>Orange</source>
+        <target state="translated">Oranje</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="design_tint_pink" xml:space="preserve">
+        <source>Pink</source>
+        <target state="translated">Roze</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="design_tint_purple" xml:space="preserve">
+        <source>Purple</source>
+        <target state="translated">Paars</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="design_tint_red" xml:space="preserve">
+        <source>Red</source>
+        <target state="translated">Rood</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="design_tint_teal" xml:space="preserve">
+        <source>Teal</source>
+        <target state="translated">Teal</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="design_tint_yellow" xml:space="preserve">
+        <source>Yellow</source>
+        <target state="translated">Geel</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dismiss" xml:space="preserve">
+        <source>Dismiss</source>
+        <target state="translated">Klaar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="done" xml:space="preserve">
+        <source>Done</source>
+        <target state="translated">Klaar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="enable more than 1 Blocked Service." xml:space="preserve">
+        <source>enable more than 1 Blocked Service.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="entries" xml:space="preserve">
+        <source>Entries</source>
+        <target state="translated">Items</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="fast address assignment" xml:space="preserve">
+        <source>fast address assignment</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="home_disable" xml:space="preserve">
+        <source>Disable</source>
+        <target state="translated">Schakel uit</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="home_disable_blocking" xml:space="preserve">
+        <source>Disable Blocking</source>
+        <target state="translated">Schakel blokkeren uit</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="home_disable_blocking_pihole" xml:space="preserve">
+        <source>Disable Pi-hole Blocking</source>
+        <target state="translated">Schakel Pi-hole blokkeren uit</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="home_disabled" xml:space="preserve">
+        <source>Disabled</source>
+        <target state="translated">Uitgeschakeld</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="home_enable" xml:space="preserve">
+        <source>Enable</source>
+        <target state="translated">Schakel in</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="home_enable_blocking" xml:space="preserve">
+        <source>Enable Blocking</source>
+        <target state="translated">Schakel blokkeren in</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="home_enable_blocking_pihole" xml:space="preserve">
+        <source>Enable Pi-hole Blocking</source>
+        <target state="translated">Schakel Pi-hole blokkeren in</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="home_enabled" xml:space="preserve">
+        <source>Enabled</source>
+        <target state="translated">Ingeschakeld</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="indefinitely" xml:space="preserve">
+        <source>Indefinitely</source>
+        <target state="translated">Altijd</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="instance" xml:space="preserve">
+        <source>Instance</source>
+        <target state="translated">Instantie</target>
+        <note>MARK: Miscellaneous</note>
+      </trans-unit>
+      <trans-unit id="key" xml:space="preserve">
+        <source>key</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="keyNotFound" xml:space="preserve">
+        <source>keyNotFound</source>
+        <note>ParsingError</note>
+      </trans-unit>
+      <trans-unit id="lan" xml:space="preserve">
+        <source>lan</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="livelog_noqueriesfoundyet" xml:space="preserve">
+        <source>No queries found yet...</source>
+        <target state="translated">Nog geen queries gevonden...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="manage Clients &amp; Groups." xml:space="preserve">
+        <source>manage Clients &amp; Groups.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="manage DHCP settings." xml:space="preserve">
+        <source>manage DHCP settings.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="manage DNS settings." xml:space="preserve">
+        <source>manage DNS settings.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="manage Domains &amp; Adlists." xml:space="preserve">
+        <source>manage Domains &amp; Adlists.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ok" xml:space="preserve">
+        <source>OK</source>
+        <target state="translated">OK</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="one person only" xml:space="preserve">
+        <source>one person only</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="original_enddate" xml:space="preserve">
+        <source>original_enddate</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="out of %@" xml:space="preserve">
+        <source>out of %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="out of %@ total" xml:space="preserve">
+        <source>out of %@ total</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="pi.hole" xml:space="preserve">
+        <source>pi.hole</source>
+        <note>Placeholder for the hostname textfield on the instance settings screen.</note>
+      </trans-unit>
+      <trans-unit id="pihole -up" xml:space="preserve">
+        <source>pihole -up</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="queries" xml:space="preserve">
+        <source>Queries</source>
+        <target state="translated">Queries</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="refresh" xml:space="preserve">
+        <source>Refresh</source>
+        <target state="translated">Verversen</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rocketscience_adguarddnsremote_subtitle" xml:space="preserve">
+        <source>Rather use AdGuard DNS? I've got you covered.</source>
+        <target state="translated">Gebruik je AdGuard DNS? Daar is ook een app voor.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rocketscience_adguardhomeremote_subtitle" xml:space="preserve">
+        <source>It's like Pi-hole Remote, but for AdGuard Home!</source>
+        <target state="translated">Net als Pi-hole Remote, maar voor AdGuard Home!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rocketscience_energieradar_subtitle" xml:space="preserve">
+        <source>Monitor real-time electricity and gas prices in many European countries.</source>
+        <target state="translated">Real-time inzicht in stroom- en gasprijzen in Nederland en andere Europese landen.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rocketscience_hi_subtitle" xml:space="preserve">
+        <source>In June 2020 I started building my own apps as an independent developer, under the name 'RocketScience IT'.
+
+My main goal is to learn: design, development, testing, support, promotion - maybe even more! Right now, I have several apps in the store which I'm continuously improving &amp; have many ideas for other apps I might want to make in the future.</source>
+        <target state="translated">In juni 2020 ben ik begonnen met het maken van m'n eigen apps als indie ontwikkelaar, onder de naam 'RocketScience IT'.
+
+Mijn doel is om te leren: ontwerpen, ontwikkelen, testen, support, marketing - misschien nog wel meer! Op dit moment heb ik een aantal apps in de App Store die ik continue verbeter. Daarnaast heb ik nog veel ideeën voor andere apps die ik wil maken in de toekomst!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rocketscience_hi_title" xml:space="preserve">
+        <source>Hi, I'm Joost!</source>
+        <target state="translated">Hi, ik ben Joost!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rocketscience_mango_subtitle" xml:space="preserve">
+        <source>A clean Anime &amp; Manga tracker app, using the MyAnimeList API.</source>
+        <target state="translated">Een Anime &amp; Manga tracking app die gebruik maakt van de MyAnimeList API.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rocketscience_my_other_apps" xml:space="preserve">
+        <source>My Other Apps</source>
+        <target state="translated">Mijn andere apps</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rocketscience_tipjar" xml:space="preserve">
+        <source>Tip Jar</source>
+        <target state="translated">Tip Jar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rocketscience_tipjar_thankyou" xml:space="preserve">
+        <source>Thank you!</source>
+        <target state="translated">Bedankt!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rocketscience_website" xml:space="preserve">
+        <source>Website</source>
+        <target state="translated">Website</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="settings_made_by_rocketscience" xml:space="preserve">
+        <source>Made by RocketScience</source>
+        <target state="translated">Gemaakt door RocketScience</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="settings_tipjar" xml:space="preserve">
+        <source>Tip Jar</source>
+        <target state="translated">Tip Jar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="settings_twitter" xml:space="preserve">
+        <source>Follow on X</source>
+        <target state="translated">Volg op X</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="something_went_wrong" xml:space="preserve">
+        <source>Something went wrong.</source>
+        <target state="translated">Iets is fout gegaan.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tipjar_blush" xml:space="preserve">
+        <source>*blush*</source>
+        <target state="translated">*bloos*</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tipjar_header" xml:space="preserve">
+        <source>The Tip Jar helps keep Pi-hole Remote running and directly supports development of awesome features and improvements.</source>
+        <target state="translated">De Tip Jar helpt me direct om Pi-hole Remote te blijven onderhouden en nieuwe features te ontwikkelen.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tipjar_header_2" xml:space="preserve">
+        <source>If you enjoy using this app and want to support a one-man-team indie developer (hi! 👋), please consider leaving a tip. I would greatly appreciate it!</source>
+        <target state="translated">Als je de app tof vindt en deze indie developer (hoi! 👋) wil steunen, kan je een donatie geven. Ik waardeer het enorm!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tipjar_header_3" xml:space="preserve">
+        <source>Thank you for your support.
+- Joost</source>
+        <target state="translated">Bedankt voor je steun.
+- Joost</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tipjar_navbar" xml:space="preserve">
+        <source>Tip Jar</source>
+        <target state="translated">Tip Jar</target>
+        <note>MARK: Tip Jar</note>
+      </trans-unit>
+      <trans-unit id="tipjar_payment_successful" xml:space="preserve">
+        <source>Payment Successful</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tipjar_testflight_explainer" xml:space="preserve">
+        <source>Note: you're running a TestFlight Build, therefore payments run in Sandbox mode and do not actually process.
+
+If you want to tip, please download the app from the App Store! After that you can download the beta again. Thanks!</source>
+        <target state="translated">Note: you're running a TestFlight Build, therefore payments run in Sandbox mode and do not actually process.
+
+If you want to tip, please download the app from the App Store! After that you can download the beta again. Thanks!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tipjar_thankyou_alert" xml:space="preserve">
+        <source>Thank you so much, I really appreciate the fact that you love the app so much you're willing to give a tip. It's extremely motivating as well. I love you!
+
+Joost</source>
+        <target state="translated">Super erg bedankt, ik waardeer het echt enorm dat je de app zo goed vindt dat je er zelfs nog een donatie voor wil geven. Super motiverend, bedankt!
+
+Joost</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tipjar_thankyou_loveyou" xml:space="preserve">
+        <source>I love you! ❤️</source>
+        <target state="translated">I love you! ❤️</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tipjar_thankyou_tip" xml:space="preserve">
+        <source>Thank you for your generous tip!</source>
+        <target state="translated">Bedankt voor je genereuze tip!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tipjar_thankyou_tips" xml:space="preserve">
+        <source>Thank you for your generous tips!</source>
+        <target state="translated">Bedankt voor je genereuze tips!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tipjar_tip_coffee" xml:space="preserve">
+        <source>Coffee Tip</source>
+        <target state="translated">Koffie tip</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tipjar_tip_ramen" xml:space="preserve">
+        <source>Ramen Tip</source>
+        <target state="translated">Ramen tip</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tipjar_tip_sushi" xml:space="preserve">
+        <source>Sushi Tip</source>
+        <target state="translated">Sushi tip</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tipjar_tip_whiskey" xml:space="preserve">
+        <source>Whiskey Tip</source>
+        <target state="translated">Whiskey tip</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="total" xml:space="preserve">
+        <source>Total</source>
+        <target state="translated">Totaal</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="typeMismatch" xml:space="preserve">
+        <source>typeMismatch</source>
+        <note>ParsingError</note>
+      </trans-unit>
+      <trans-unit id="updated %@" xml:space="preserve">
+        <source>updated %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="v%@ (%@)" xml:space="preserve">
+        <source>v%1$@ (%2$@)</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="value" xml:space="preserve">
+        <source>value</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="valueNotFound" xml:space="preserve">
+        <source>valueNotFound</source>
+        <note>ParsingError</note>
+      </trans-unit>
+      <trans-unit id="view more queries." xml:space="preserve">
+        <source>view more queries.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="watchos_blocking" xml:space="preserve">
+        <source>Blocking</source>
+        <target state="translated">Blokkeren</target>
+        <note>MARK: - watchOS Specific</note>
+      </trans-unit>
+      <trans-unit id="watchos_no_instances_headline" xml:space="preserve">
+        <source>Please add a Pi-hole instance in the iPhone app.</source>
+        <target state="translated">Voeg een Pi-hole instantie toe in de iPhone app.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="watchos_no_instances_subheadline" xml:space="preserve">
+        <source>If you already did, please go to your instance, press 'Edit' and press 'Save' again. It should show up after that. If the statistics don't load at first, please restart the Watch app. Thanks!</source>
+        <target state="translated">Als je dat al gedaan hebt, ga dan op je iPhone naar Instellingen, tik op 'Bewerken', en tik opnieuw op 'Opslaan'. Daarna moet je de instantie kunnen zien in de Watch app. Als de statistieken niet laden, restart dan de Watch app. Bedankt!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="widget_querygraph" xml:space="preserve">
+        <source>Query Graph</source>
+        <target state="translated">Query Grafiek</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="widget_querygraph_description" xml:space="preserve">
+        <source>Check in on your queries over time.</source>
+        <target state="translated">Bekijk een grafiek met queries.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="widget_statistic" xml:space="preserve">
+        <source>Statistic</source>
+        <target state="translated">Statistiek</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="widget_statistic_description" xml:space="preserve">
+        <source>Keep an eye on one statistic.</source>
+        <target state="translated">Houd een statistiek in de gaten.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="widget_statistics" xml:space="preserve">
+        <source>Statistics</source>
+        <target state="translated">Statistieken</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="widget_statistics_description" xml:space="preserve">
+        <source>Keep an eye on all your statistics.</source>
+        <target state="translated">Alle statistieken in een oogopslag.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="• Client &amp; Group Management&#10;• Change DHCP &amp; DNS Settings&#10;• Interactive Widgets&#10;• Multiple Instances&#10;• And much more!" xml:space="preserve">
+        <source>• Client &amp; Group Management
+• Change DHCP &amp; DNS Settings
+• Interactive Widgets
+• Multiple Instances
+• And much more!</source>
+        <note>Displayed in the onboarding.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="WidgetInstance/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="nl">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>WidgetInstance</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>WidgetInstance</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="WidgetInstance/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="nl">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+    </header>
+    <body>
+      <trans-unit id="Info" xml:space="preserve">
+        <source>Info</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Preferences" xml:space="preserve">
+        <source>Preferences</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Version" xml:space="preserve">
+        <source>Version</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="v%@ (%@)" xml:space="preserve">
+        <source>v%1$@ (%2$@)</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

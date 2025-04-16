@@ -1,0 +1,6 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Pi-hole Remote WatchKit Extension";
+
+/* Bundle name */
+"CFBundleName" = "Pi-hole Remote WatchKit Extension";
+
