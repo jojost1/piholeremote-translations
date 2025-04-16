@@ -515,10 +515,6 @@
         <source>typeMismatch</source>
         <note>ParsingError</note>
       </trans-unit>
-      <trans-unit id="v%@ (%@)" xml:space="preserve">
-        <source>v%1$@ (%2$@)</source>
-        <note/>
-      </trans-unit>
       <trans-unit id="valueNotFound" xml:space="preserve">
         <source>valueNotFound</source>
         <note>ParsingError</note>
@@ -1391,7 +1387,7 @@
       </trans-unit>
       <trans-unit id="All options allow Family Sharing" xml:space="preserve">
         <source>All options allow Family Sharing</source>
-        <note/>
+        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="All reverse lookups for private IP ranges (i.e., 192.168.0.x/24, etc.) which are not found in /etc/hosts or the DHCP leases are answered with &quot;no such domain&quot; rather than being forwarded upstream. The set of prefixes affected is the list given in RFC6303." xml:space="preserve">
         <source>All reverse lookups for private IP ranges (i.e., 192.168.0.x/24, etc.) which are not found in /etc/hosts or the DHCP leases are answered with "no such domain" rather than being forwarded upstream. The set of prefixes affected is the list given in RFC6303.</source>
@@ -1812,7 +1808,7 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Copy email" xml:space="preserve">
         <source>Copy email</source>
-        <note/>
+        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Copy full response" xml:space="preserve">
         <source>Copy full response</source>
@@ -2120,7 +2116,7 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Enter the code..." xml:space="preserve">
         <source>Enter the code...</source>
-        <note/>
+        <note>Used on the PHR+ purchase screen as a textfield placeholder.</note>
       </trans-unit>
       <trans-unit id="Error" xml:space="preserve">
         <source>Error</source>
@@ -2176,7 +2172,7 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Feature Overview" xml:space="preserve">
         <source>Feature Overview</source>
-        <note/>
+        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Filter" xml:space="preserve">
         <source>Filter</source>
@@ -2260,7 +2256,7 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Get Lifetime PHR+" xml:space="preserve">
         <source>Get Lifetime PHR+</source>
-        <note/>
+        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Get Pi-hole Blocking Status" xml:space="preserve">
         <source>Get Pi-hole Blocking Status</source>
@@ -2322,11 +2318,15 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <source>Help &amp; Feedback</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Help translate the app" xml:space="preserve">
+        <source>Help translate the app</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Hi there, if you're seeing this it means that somehow the button to give you Lifetime PHR+ for free didn't work and you had to contact me. Sorry for that! To get access anyways, please enter the code I gave you here.&#10;&#10;Please do not share this code with others." xml:space="preserve">
         <source>Hi there, if you're seeing this it means that somehow the button to give you Lifetime PHR+ for free didn't work and you had to contact me. Sorry for that! To get access anyways, please enter the code I gave you here.
 
 Please do not share this code with others.</source>
-        <note/>
+        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Hidden on Home-tab" xml:space="preserve">
         <source>Hidden on Home-tab</source>
@@ -2366,13 +2366,13 @@ Please do not share this code with others.</source>
       </trans-unit>
       <trans-unit id="I can't find your purchase. Do you think this is incorrect? Please contact me through the 'Help &amp; Feedback' button in settings." xml:space="preserve">
         <source>I can't find your purchase. Do you think this is incorrect? Please contact me through the 'Help &amp; Feedback' button in settings.</source>
-        <note/>
+        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="I see you don't have an active mail client on your device, please mail me with the request to join the TestFlight including a screenshot of this PHR+ screen so I can see you have purchased Pro.&#10;&#10;Please mail it to developer@rocketscience-it.nl!" xml:space="preserve">
         <source>I see you don't have an active mail client on your device, please mail me with the request to join the TestFlight including a screenshot of this PHR+ screen so I can see you have purchased Pro.
 
 Please mail it to developer@rocketscience-it.nl!</source>
-        <note/>
+        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="ID" xml:space="preserve">
         <source>ID</source>
@@ -2473,10 +2473,6 @@ Note: When this feature is enabled you will need to configure new clients manual
         <source>Invalid URL. Did you enter the correct host, port, and API path?</source>
         <note/>
       </trans-unit>
-      <trans-unit id="Joost" translate="no" xml:space="preserve">
-        <source>Joost</source>
-        <note/>
-      </trans-unit>
       <trans-unit id="Kind" xml:space="preserve">
         <source>Kind</source>
         <note/>
@@ -2531,7 +2527,7 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="Leave a review" xml:space="preserve">
         <source>Leave a review</source>
-        <note/>
+        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Leave a tip" xml:space="preserve">
         <source>Leave a tip</source>
@@ -2616,7 +2612,7 @@ I hope you will all enjoy this massive update and I wish you all a Happy New Yea
       </trans-unit>
       <trans-unit id="Made with ❤️ by one person in 🇳🇱" xml:space="preserve">
         <source>Made with ❤️ by one person in 🇳🇱</source>
-        <note/>
+        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Mail" xml:space="preserve">
         <source>Mail</source>
@@ -2632,7 +2628,7 @@ I hope you will all enjoy this massive update and I wish you all a Happy New Yea
       </trans-unit>
       <trans-unit id="Manage Subscription" xml:space="preserve">
         <source>Manage Subscription</source>
-        <note/>
+        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Medium widget only." xml:space="preserve">
         <source>Medium widget only.</source>
@@ -2892,7 +2888,7 @@ I hope you will all enjoy this massive update and I wish you all a Happy New Yea
       </trans-unit>
       <trans-unit id="PHR" translate="no" xml:space="preserve">
         <source>PHR</source>
-        <note>App title, do not translate.</note>
+        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="PHR %@" translate="no" xml:space="preserve">
         <source>PHR %@</source>
@@ -2913,11 +2909,11 @@ I hope you will all enjoy this massive update and I wish you all a Happy New Yea
       </trans-unit>
       <trans-unit id="PHR+ for early users" xml:space="preserve">
         <source>PHR+ for early users</source>
-        <note/>
+        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="PHR+ unlocks all these features, as well as new features in future updates. By purchasing PHR+ you will also support future development of the app, which is made by %@ (hi! 👋). I really appreciate it!" xml:space="preserve">
         <source>PHR+ unlocks all these features, as well as new features in future updates. By purchasing PHR+ you will also support future development of the app, which is made by %@ (hi! 👋). I really appreciate it!</source>
-        <note/>
+        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Password" xml:space="preserve">
         <source>Password</source>
@@ -3033,7 +3029,7 @@ I hope you will all enjoy this massive update and I wish you all a Happy New Yea
       </trans-unit>
       <trans-unit id="Privacy Policy" xml:space="preserve">
         <source>Privacy Policy</source>
-        <note/>
+        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Processed" xml:space="preserve">
         <source>Processed</source>
@@ -3045,7 +3041,7 @@ I hope you will all enjoy this massive update and I wish you all a Happy New Yea
       </trans-unit>
       <trans-unit id="Purchased PHR when it wasn't free?" xml:space="preserve">
         <source>Purchased PHR when it wasn't free?</source>
-        <note/>
+        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Purple" xml:space="preserve">
         <source>Purple</source>
@@ -3166,7 +3162,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Restore Purchase" xml:space="preserve">
         <source>Restore Purchase</source>
-        <note/>
+        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Retried" xml:space="preserve">
         <source>Retried</source>
@@ -3366,7 +3362,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period and will be charged to your iTunes account. You can turn off auto-renew/manage subscriptions in your iTunes Account Settings after purchase." xml:space="preserve">
         <source>Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period and will be charged to your iTunes account. You can turn off auto-renew/manage subscriptions in your iTunes Account Settings after purchase.</source>
-        <note/>
+        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Suggestions" xml:space="preserve">
         <source>Suggestions</source>
@@ -3414,7 +3410,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Take Pi-hole Remote to the next level by removing limits and unlocking full Pi-hole management, interactive widgets, multiple instances support, and more." xml:space="preserve">
         <source>Take Pi-hole Remote to the next level by removing limits and unlocking full Pi-hole management, interactive widgets, multiple instances support, and more.</source>
-        <note/>
+        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Tap for more info." xml:space="preserve">
         <source>Tap for more info.</source>
@@ -3422,7 +3418,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Tap here if you purchased PHR when it was a paid app" xml:space="preserve">
         <source>Tap here if you purchased PHR when it was a paid app</source>
-        <note/>
+        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Target" xml:space="preserve">
         <source>Target</source>
@@ -3444,7 +3440,7 @@ If Conditional Forwarding is enabled, unticking this box may cause a partial DNS
       </trans-unit>
       <trans-unit id="Terms of Use" xml:space="preserve">
         <source>Terms of Use</source>
-        <note/>
+        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Test Connection" xml:space="preserve">
         <source>Test Connection</source>
@@ -3452,7 +3448,7 @@ If Conditional Forwarding is enabled, unticking this box may cause a partial DNS
       </trans-unit>
       <trans-unit id="TestFlight Beta Access" xml:space="preserve">
         <source>TestFlight Beta Access</source>
-        <note/>
+        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="TestFlight Debug" xml:space="preserve">
         <source>TestFlight Debug</source>
@@ -3472,7 +3468,7 @@ If Conditional Forwarding is enabled, unticking this box may cause a partial DNS
 Building v6 was a massive undertaking (I'm still working on bringing back missing features from v5 that didn't make this first release) and with the switch to IAPs I didn't want existing users to have to pay again, therefore you got PHR+ for free.
 
 In return, I would really appreciate it if you could leave a review in the App Store or leave a small donation to support my work 😊 If you can't, that's also okay! Enjoy the app. - Joost</source>
-        <note/>
+        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Thank you!" xml:space="preserve">
         <source>Thank you!</source>
@@ -3480,7 +3476,7 @@ In return, I would really appreciate it if you could leave a review in the App S
       </trans-unit>
       <trans-unit id="Thank you! ❤️" xml:space="preserve">
         <source>Thank you! ❤️</source>
-        <note/>
+        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="The DHCPv4 rapid commit option allows the Pi-hole DHCP server to assign an IP address to a client right away. This can notably speed up the address assignment process and you will notice, e.g., faster WiFi joins in your network. This option should only be enabled if the Pi-hole DHCP server is the only DHCP server in your network." xml:space="preserve">
         <source>The DHCPv4 rapid commit option allows the Pi-hole DHCP server to assign an IP address to a client right away. This can notably speed up the address assignment process and you will notice, e.g., faster WiFi joins in your network. This option should only be enabled if the Pi-hole DHCP server is the only DHCP server in your network.</source>
@@ -3594,6 +3590,10 @@ In return, I would really appreciate it if you could leave a review in the App S
         <source>Total: %@</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Translations" xml:space="preserve">
+        <source>Translations</source>
+        <note>Displayed on the support screen.</note>
+      </trans-unit>
       <trans-unit id="Try for free!" xml:space="preserve">
         <source>Try for free!</source>
         <note/>
@@ -3668,7 +3668,7 @@ In return, I would really appreciate it if you could leave a review in the App S
       </trans-unit>
       <trans-unit id="Users who purchased the app while it was paid upfront instead of free with in-app purchases, can get PHR+ Lifetime for free as a thank you. Please press the button below to let the app check if you're entitled to it. This will show a native iOS alert to restore the purchase." xml:space="preserve">
         <source>Users who purchased the app while it was paid upfront instead of free with in-app purchases, can get PHR+ Lifetime for free as a thank you. Please press the button below to let the app check if you're entitled to it. This will show a native iOS alert to restore the purchase.</source>
-        <note/>
+        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Using SSL" xml:space="preserve">
         <source>Using SSL</source>
@@ -3768,7 +3768,7 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
       </trans-unit>
       <trans-unit id="You have purchased PHR %@" xml:space="preserve">
         <source>You have purchased PHR %@</source>
-        <note/>
+        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="You've reached the maximum of 6 presets." xml:space="preserve">
         <source>You've reached the maximum of 6 presets.</source>
@@ -4141,7 +4141,7 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
       </trans-unit>
       <trans-unit id="one person only" xml:space="preserve">
         <source>one person only</source>
-        <note/>
+        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="original_enddate" xml:space="preserve">
         <source>original_enddate</source>
@@ -4345,10 +4345,6 @@ Joost</target>
         <source>updated %@</source>
         <note/>
       </trans-unit>
-      <trans-unit id="v%@ (%@)" xml:space="preserve">
-        <source>v%1$@ (%2$@)</source>
-        <note/>
-      </trans-unit>
       <trans-unit id="value" xml:space="preserve">
         <source>value</source>
         <note/>
@@ -4446,10 +4442,6 @@ Joost</target>
       </trans-unit>
       <trans-unit id="Version" xml:space="preserve">
         <source>Version</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="v%@ (%@)" xml:space="preserve">
-        <source>v%1$@ (%2$@)</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>

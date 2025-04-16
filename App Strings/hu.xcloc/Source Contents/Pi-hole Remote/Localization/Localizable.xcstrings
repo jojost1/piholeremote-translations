@@ -270,7 +270,7 @@
 
     },
     "All options allow Family Sharing" : {
-
+      "comment" : "Used on the PHR+ purchase screen."
     },
     "All reverse lookups for private IP ranges (i.e., 192.168.0.x/24, etc.) which are not found in /etc/hosts or the DHCP leases are answered with \"no such domain\" rather than being forwarded upstream. The set of prefixes affected is the list given in RFC6303." : {
 
@@ -901,7 +901,7 @@
 
     },
     "Copy email" : {
-
+      "comment" : "Used on the PHR+ purchase screen."
     },
     "Copy Email Address" : {
       "comment" : "Displayed in an alert on the support screen when someone has no email client installed."
@@ -1339,7 +1339,7 @@
       "comment" : "Displayed in the onboarding."
     },
     "Enter the code..." : {
-
+      "comment" : "Used on the PHR+ purchase screen as a textfield placeholder."
     },
     "entries" : {
       "localizations" : {
@@ -1388,7 +1388,7 @@
 
     },
     "Feature Overview" : {
-
+      "comment" : "Used on the PHR+ purchase screen."
     },
     "Filter" : {
 
@@ -1460,7 +1460,7 @@
 
     },
     "Get Lifetime PHR+" : {
-
+      "comment" : "Used on the PHR+ purchase screen."
     },
     "Get Pi-hole Blocking Status" : {
 
@@ -1498,8 +1498,11 @@
     "Help & Feedback" : {
 
     },
-    "Hi there, if you're seeing this it means that somehow the button to give you Lifetime PHR+ for free didn't work and you had to contact me. Sorry for that! To get access anyways, please enter the code I gave you here.\n\nPlease do not share this code with others." : {
+    "Help translate the app" : {
 
+    },
+    "Hi there, if you're seeing this it means that somehow the button to give you Lifetime PHR+ for free didn't work and you had to contact me. Sorry for that! To get access anyways, please enter the code I gave you here.\n\nPlease do not share this code with others." : {
+      "comment" : "Used on the PHR+ purchase screen."
     },
     "Hidden on Home-tab" : {
 
@@ -1615,10 +1618,10 @@
 
     },
     "I can't find your purchase. Do you think this is incorrect? Please contact me through the 'Help & Feedback' button in settings." : {
-
+      "comment" : "Used on the PHR+ purchase screen."
     },
     "I see you don't have an active mail client on your device, please mail me with the request to join the TestFlight including a screenshot of this PHR+ screen so I can see you have purchased Pro.\n\nPlease mail it to developer@rocketscience-it.nl!" : {
-
+      "comment" : "Used on the PHR+ purchase screen."
     },
     "Icon" : {
 
@@ -1713,9 +1716,6 @@
     "IPv6 support" : {
 
     },
-    "Joost" : {
-      "shouldTranslate" : false
-    },
     "key" : {
 
     },
@@ -1762,7 +1762,7 @@
 
     },
     "Leave a review" : {
-
+      "comment" : "Used on the PHR+ purchase screen."
     },
     "Leave a Review" : {
 
@@ -1835,7 +1835,7 @@
 
     },
     "Made with ❤️ by one person in 🇳🇱" : {
-
+      "comment" : "Used on the PHR+ purchase screen."
     },
     "Mail" : {
 
@@ -1856,7 +1856,7 @@
 
     },
     "Manage Subscription" : {
-
+      "comment" : "Used on the PHR+ purchase screen."
     },
     "ManGo - Anime & Manga Tracker" : {
 
@@ -2034,7 +2034,7 @@
 
     },
     "one person only" : {
-
+      "comment" : "Used on the PHR+ purchase screen."
     },
     "One-tap button" : {
 
@@ -2085,7 +2085,7 @@
 
     },
     "PHR" : {
-      "comment" : "App title, do not translate.",
+      "comment" : "Used on the PHR+ purchase screen.",
       "shouldTranslate" : false
     },
     "PHR %@" : {
@@ -2102,10 +2102,10 @@
 
     },
     "PHR+ for early users" : {
-
+      "comment" : "Used on the PHR+ purchase screen."
     },
     "PHR+ unlocks all these features, as well as new features in future updates. By purchasing PHR+ you will also support future development of the app, which is made by %@ (hi! 👋). I really appreciate it!" : {
-
+      "comment" : "Used on the PHR+ purchase screen."
     },
     "Pi-hole" : {
       "comment" : "Placeholder for the name textfield on the instance settings screen."
@@ -2189,7 +2189,7 @@
 
     },
     "Privacy Policy" : {
-
+      "comment" : "Used on the PHR+ purchase screen."
     },
     "Processed" : {
 
@@ -2198,7 +2198,7 @@
 
     },
     "Purchased PHR when it wasn't free?" : {
-
+      "comment" : "Used on the PHR+ purchase screen."
     },
     "Purple" : {
 
@@ -2308,7 +2308,7 @@
 
     },
     "Restore Purchase" : {
-
+      "comment" : "Used on the PHR+ purchase screen."
     },
     "Retried" : {
 
@@ -2598,7 +2598,7 @@
 
     },
     "Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period and will be charged to your iTunes account. You can turn off auto-renew/manage subscriptions in your iTunes Account Settings after purchase." : {
-
+      "comment" : "Used on the PHR+ purchase screen."
     },
     "Suggestions" : {
 
@@ -2619,13 +2619,13 @@
       "comment" : "Displayed in the onboarding."
     },
     "Take Pi-hole Remote to the next level by removing limits and unlocking full Pi-hole management, interactive widgets, multiple instances support, and more." : {
-
+      "comment" : "Used on the PHR+ purchase screen."
     },
     "Tap for more info." : {
 
     },
     "Tap here if you purchased PHR when it was a paid app" : {
-
+      "comment" : "Used on the PHR+ purchase screen."
     },
     "Target" : {
 
@@ -2640,7 +2640,7 @@
 
     },
     "Terms of Use" : {
-
+      "comment" : "Used on the PHR+ purchase screen."
     },
     "Test Connection" : {
 
@@ -2649,7 +2649,7 @@
       "comment" : "Used on the PHR+ purchase screen."
     },
     "TestFlight Beta Access" : {
-
+      "comment" : "Used on the PHR+ purchase screen."
     },
     "TestFlight Debug" : {
 
@@ -2658,13 +2658,13 @@
       "comment" : "Displayed in the onboarding."
     },
     "Thank you so much for downloading/purchasing the app before the large v6 update.\n\nBuilding v6 was a massive undertaking (I'm still working on bringing back missing features from v5 that didn't make this first release) and with the switch to IAPs I didn't want existing users to have to pay again, therefore you got PHR+ for free.\n\nIn return, I would really appreciate it if you could leave a review in the App Store or leave a small donation to support my work 😊 If you can't, that's also okay! Enjoy the app. - Joost" : {
-
+      "comment" : "Used on the PHR+ purchase screen."
     },
     "Thank you!" : {
       "comment" : "Used in the Settings-tab, displayed when someone has PHR+ active."
     },
     "Thank you! ❤️" : {
-
+      "comment" : "Used on the PHR+ purchase screen."
     },
     "The comment will be added to all entries." : {
 
@@ -2917,6 +2917,9 @@
     "TOTP token (like '123456')" : {
 
     },
+    "Translations" : {
+      "comment" : "Displayed on the support screen."
+    },
     "Try for free!" : {
 
     },
@@ -2987,20 +2990,10 @@
 
     },
     "Users who purchased the app while it was paid upfront instead of free with in-app purchases, can get PHR+ Lifetime for free as a thank you. Please press the button below to let the app check if you're entitled to it. This will show a native iOS alert to restore the purchase." : {
-
+      "comment" : "Used on the PHR+ purchase screen."
     },
     "Using SSL" : {
 
-    },
-    "v%@ (%@)" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "v%1$@ (%2$@)"
-          }
-        }
-      }
     },
     "Validate DNS replies and cache DNSSEC data. When forwarding DNS queries, Pi-hole requests the DNSSEC records needed to validate the replies. If a domain fails validation or the upstream does not support DNSSEC, this setting can cause issues resolving domains. Use an upstream DNS server which supports DNSSEC when activating DNSSEC. Note that the size of your log might increase significantly when enabling DNSSEC." : {
 
@@ -3169,7 +3162,7 @@
 
     },
     "You have purchased PHR %@" : {
-
+      "comment" : "Used on the PHR+ purchase screen."
     },
     "You've reached the maximum of 6 presets." : {
 
