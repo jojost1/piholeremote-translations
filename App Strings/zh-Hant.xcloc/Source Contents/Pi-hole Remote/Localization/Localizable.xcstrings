@@ -19,6 +19,17 @@
     "% blocked" : {
       "comment" : "Option for the blocking-card, used on the Preferences > Home screen."
     },
+    "%@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ %2$@"
+          }
+        }
+      },
+      "shouldTranslate" : false
+    },
     "%@ active / %@ total" : {
       "comment" : "Displays number of active and total clients when you tap the clients number on Home when 'Combine' is enabled.",
       "localizations" : {
@@ -44,6 +55,17 @@
     },
     "%@ total" : {
 
+    },
+    "%@, %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@, %2$@"
+          }
+        }
+      },
+      "shouldTranslate" : false
     },
     "%@q/min" : {
 
@@ -92,16 +114,18 @@
       "comment" : "Displays in the metrics decimals picker."
     },
     "60" : {
-      "comment" : "Placeholder for the dnsRateLimitInterval textfield on the DNS settings screen."
+      "comment" : "Placeholder for the dnsRateLimitInterval textfield on the DNS settings screen.",
+      "shouldTranslate" : false
     },
     "80" : {
-
+      "shouldTranslate" : false
     },
     "443" : {
-
+      "shouldTranslate" : false
     },
     "1000" : {
-      "comment" : "Placeholder for the dnsRateLimitCount textfield on the DNS settings screen."
+      "comment" : "Placeholder for the dnsRateLimitCount textfield on the DNS settings screen.",
+      "shouldTranslate" : false
     },
     "A **one time** purchase" : {
 
@@ -147,7 +171,7 @@
 
     },
     "Add '%@'" : {
-
+      "comment" : "Used on the 'Add new disable preset' screen, e.g. 'Add 30 seconds'"
     },
     "Add 5 minutes" : {
 
@@ -192,7 +216,7 @@
 
     },
     "Add new preset" : {
-
+      "comment" : "Used on the 'Add new disable preset' screen"
     },
     "Add record" : {
 
@@ -237,7 +261,7 @@
 
     },
     "AdGuard Home Remote" : {
-
+      "shouldTranslate" : false
     },
     "Adlist" : {
 
@@ -373,7 +397,7 @@
       }
     },
     "appintents_state" : {
-
+      "shouldTranslate" : false
     },
     "Application Password" : {
 
@@ -403,7 +427,7 @@
 
     },
     "Assigned to %lld groups" : {
-
+      "comment" : "Accessibility label."
     },
     "Assigning to the default group of all instances." : {
 
@@ -437,6 +461,7 @@
       }
     },
     "blocked" : {
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -925,7 +950,7 @@
 
     },
     "Core" : {
-
+      "shouldTranslate" : false
     },
     "Core version: %@." : {
 
@@ -934,7 +959,7 @@
 
     },
     "Couldn't load config." : {
-
+      "comment" : "Displayed on the DNS Settings screen."
     },
     "Current Version" : {
       "comment" : "Used in the Changelog."
@@ -1205,7 +1230,27 @@
 
     },
     "Disable services with a single tap, as well as managing adlists and more." : {
-      "comment" : "Displayed in the onboarding."
+      "comment" : "Displayed in the onboarding.",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "device" : {
+              "mac" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Disable services with a single click, as well as managing adlists and more."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "Disable services with a single tap, as well as managing adlists and more."
+                }
+              }
+            }
+          }
+        }
+      }
     },
     "Disable Widget" : {
 
@@ -1236,7 +1281,7 @@
 
     },
     "DNS Domain Settings" : {
-
+      "comment" : "Displayed on the DNS Settings screen."
     },
     "DNS Records" : {
 
@@ -1245,7 +1290,7 @@
 
     },
     "Docker" : {
-
+      "shouldTranslate" : false
     },
     "Domain" : {
 
@@ -1257,7 +1302,7 @@
 
     },
     "Domains: %@" : {
-
+      "comment" : "Displays the number of domains on an adlist."
     },
     "done" : {
       "localizations" : {
@@ -1297,7 +1342,7 @@
 
     },
     "Editing presets requires PHR+." : {
-
+      "comment" : "Used on the 'Add new disable preset' screen"
     },
     "Enable" : {
 
@@ -1351,6 +1396,9 @@
         }
       }
     },
+    "Entries" : {
+
+    },
     "Error" : {
 
     },
@@ -1373,7 +1421,7 @@
 
     },
     "Expand hostnames" : {
-
+      "comment" : "Displayed on the DNS Settings screen."
     },
     "Expired DHCP Leases" : {
 
@@ -1451,7 +1499,7 @@
       "comment" : "Used on the PHR+ purchase screen."
     },
     "FTL" : {
-
+      "shouldTranslate" : false
     },
     "FTL version: %@." : {
 
@@ -1630,7 +1678,7 @@
 
     },
     "If set, the domain is added to simple names (without a period) in /etc/hosts in the same way as for DHCP-derived names." : {
-
+      "comment" : "Displayed on the DNS Settings screen."
     },
     "If this option is set, Pi-hole ignores all clients which are not explicitly configured through dhcp.hosts. This can be useful to prevent unauthorized clients from getting an IP address from the DHCP server.\nIt should be noted that this option is not a security feature, as clients can still assign themselves an IP address and use the network. It is merely a convenience feature to prevent unknown clients from getting a valid IP configuration assigned automatically.\n\nNote: When this feature is enabled you will need to configure new clients manually in dhcp.hosts before they can use the network." : {
 
@@ -1729,7 +1777,7 @@
 
     },
     "lan" : {
-
+      "shouldTranslate" : false
     },
     "Last fetched" : {
 
@@ -1744,10 +1792,10 @@
 
     },
     "Last updated: %@" : {
-
+      "comment" : "Displays the date an adlist was last updated."
     },
     "Last updated: N/A" : {
-
+      "comment" : "Displays the when adlist was just added and has never been updated."
     },
     "Latest" : {
 
@@ -2037,10 +2085,48 @@
       "comment" : "Used on the PHR+ purchase screen."
     },
     "One-tap button" : {
-
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "device" : {
+              "mac" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "One-click button"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "One-tap button"
+                }
+              }
+            }
+          }
+        }
+      }
     },
     "One-tap disable duration" : {
-
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "device" : {
+              "mac" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "One-click disable duration"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "One-tap disable duration"
+                }
+              }
+            }
+          }
+        }
+      }
     },
     "Only change these settings if you know what you're doing." : {
 
@@ -2052,7 +2138,7 @@
 
     },
     "Open technical documentation" : {
-
+      "comment" : "Displayed on the DNS Settings screen."
     },
     "Options" : {
 
@@ -2114,16 +2200,13 @@
 
     },
     "Pi-hole domain name" : {
-
+      "comment" : "Displayed on the DNS Settings screen."
     },
     "Pi-hole Remote" : {
       "comment" : "App title, do not translate."
     },
     "Pi-hole Remote is designed to protect your privacy and will never share any information with anyone." : {
       "comment" : "Displayed in the onboarding."
-    },
-    "Pi-hole Remote is now available in 8 languages!" : {
-
     },
     "Pi-hole Remote+" : {
       "comment" : "Used in the Settings-tab."
@@ -2241,7 +2324,7 @@
 
     },
     "Rate-limiting" : {
-
+      "comment" : "Displayed on the DNS Settings screen."
     },
     "Red" : {
 
@@ -2266,7 +2349,7 @@
 
     },
     "Remote for AdGuard DNS" : {
-
+      "shouldTranslate" : false
     },
     "Remove" : {
 
@@ -2284,7 +2367,7 @@
 
     },
     "Reorder by dragging, remove by swiping." : {
-
+      "comment" : "Used on the 'Add new disable preset' screen"
     },
     "Request" : {
 
@@ -2435,7 +2518,7 @@
 
     },
     "Seconds" : {
-
+      "comment" : "Used on the 'Add new disable preset' screen"
     },
     "Select an Instance" : {
 
@@ -2537,7 +2620,7 @@
 
     },
     "SLAAC + RA" : {
-
+      "shouldTranslate" : false
     },
     "Something went wrong" : {
 
@@ -2622,10 +2705,49 @@
       "comment" : "Used on the PHR+ purchase screen."
     },
     "Tap for more info." : {
-
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "device" : {
+              "mac" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Click for more info."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "Tap for more info."
+                }
+              }
+            }
+          }
+        }
+      }
     },
     "Tap here if you purchased PHR when it was a paid app" : {
-      "comment" : "Used on the PHR+ purchase screen."
+      "comment" : "Used on the PHR+ purchase screen.",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "device" : {
+              "mac" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Click here if you purchased PHR when it was a paid app"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "Tap here if you purchased PHR when it was a paid app"
+                }
+              }
+            }
+          }
+        }
+      }
     },
     "Target" : {
 
@@ -2896,6 +3018,7 @@
 
     },
     "total" : {
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -2939,7 +3062,8 @@
 
     },
     "typeMismatch" : {
-      "comment" : "ParsingError"
+      "comment" : "ParsingError",
+      "shouldTranslate" : false
     },
     "UI" : {
 
@@ -3002,7 +3126,8 @@
 
     },
     "valueNotFound" : {
-      "comment" : "ParsingError"
+      "comment" : "ParsingError",
+      "shouldTranslate" : false
     },
     "Vendor" : {
 
@@ -3063,7 +3188,7 @@
       }
     },
     "Web" : {
-
+      "shouldTranslate" : false
     },
     "Web version: %@." : {
 
@@ -3075,7 +3200,7 @@
 
     },
     "When a client makes too many queries in too short time, it gets rate-limited. Rate-limited queries are answered with a REFUSED reply and not further processed by FTL and prevent Pi-holes getting overwhelmed by rogue clients. It is important to note that rate-limiting is happening on a per-client basis. Other clients can continue to use FTL while rate-limited clients are short-circuited at the same time.\n\nRate-limiting may be disabled altogether by setting both values to zero." : {
-
+      "comment" : "Displayed on the DNS Settings screen."
     },
     "When you use HTTPS you must make sure to install the certificate to your device first. If you don't do this, the app might not be able to establish a secure connection to your Pi-hole.\n\nThe default location of your certificate is on your device: /etc/pihole/tls.pem. Mail the file to yourself and open it on your device to install it." : {
 
@@ -3165,7 +3290,7 @@
       "comment" : "Used on the PHR+ purchase screen."
     },
     "You've reached the maximum of 6 presets." : {
-
+      "comment" : "Used on the 'Add new disable preset' screen"
     },
     "Your password and TOTP token will be used only once to create an 'application password' and are deleted afterwards." : {
 

@@ -1035,7 +1035,7 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
         <source>Pi-hole Remote</source>
         <note>Bundle name</note>
       </trans-unit>
@@ -1057,8 +1057,8 @@
         <target state="translated">Pi-hole Remote uses Face ID to unlock the app.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
-        <source>2020-2021 RocketScience IT</source>
+      <trans-unit id="NSHumanReadableCopyright" translate="no" xml:space="preserve">
+        <source>Copyright © 2025 RocketScience IT</source>
         <note>Copyright (human-readable)</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
@@ -1085,6 +1085,10 @@
         <source>% blocked</source>
         <note>Option for the blocking-card, used on the Preferences &gt; Home screen.</note>
       </trans-unit>
+      <trans-unit id="%@ %@" translate="no" xml:space="preserve">
+        <source>%1$@ %2$@</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="%@ OFF" xml:space="preserve">
         <source>%@ OFF</source>
         <note>Used on the PHR+ purchase screen to show a discount percentage, intentionally uppercased.</note>
@@ -1107,6 +1111,10 @@
       </trans-unit>
       <trans-unit id="%@ total" xml:space="preserve">
         <source>%@ total</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@, %@" translate="no" xml:space="preserve">
+        <source>%1$@, %2$@</source>
         <note/>
       </trans-unit>
       <trans-unit id="%@q/min" xml:space="preserve">
@@ -1149,19 +1157,19 @@
         <source>2 decimals</source>
         <note>Displays in the metrics decimals picker.</note>
       </trans-unit>
-      <trans-unit id="60" xml:space="preserve">
+      <trans-unit id="60" translate="no" xml:space="preserve">
         <source>60</source>
         <note>Placeholder for the dnsRateLimitInterval textfield on the DNS settings screen.</note>
       </trans-unit>
-      <trans-unit id="80" xml:space="preserve">
+      <trans-unit id="80" translate="no" xml:space="preserve">
         <source>80</source>
         <note/>
       </trans-unit>
-      <trans-unit id="443" xml:space="preserve">
+      <trans-unit id="443" translate="no" xml:space="preserve">
         <source>443</source>
         <note/>
       </trans-unit>
-      <trans-unit id="1000" xml:space="preserve">
+      <trans-unit id="1000" translate="no" xml:space="preserve">
         <source>1000</source>
         <note>Placeholder for the dnsRateLimitCount textfield on the DNS settings screen.</note>
       </trans-unit>
@@ -1217,7 +1225,7 @@
         <source>Active clients: %1$@ out of %2$@ total</source>
         <note/>
       </trans-unit>
-      <trans-unit id="AdGuard Home Remote" xml:space="preserve">
+      <trans-unit id="AdGuard Home Remote" translate="no" xml:space="preserve">
         <source>AdGuard Home Remote</source>
         <note/>
       </trans-unit>
@@ -1227,7 +1235,7 @@
       </trans-unit>
       <trans-unit id="Add '%@'" xml:space="preserve">
         <source>Add '%@'</source>
-        <note/>
+        <note>Used on the 'Add new disable preset' screen, e.g. 'Add 30 seconds'</note>
       </trans-unit>
       <trans-unit id="Add 5 minutes" xml:space="preserve">
         <source>Add 5 minutes</source>
@@ -1291,7 +1299,7 @@
       </trans-unit>
       <trans-unit id="Add new preset" xml:space="preserve">
         <source>Add new preset</source>
-        <note/>
+        <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Add record" xml:space="preserve">
         <source>Add record</source>
@@ -1477,7 +1485,7 @@
       </trans-unit>
       <trans-unit id="Assigned to %lld groups" xml:space="preserve">
         <source>Assigned to %lld groups</source>
-        <note/>
+        <note>Accessibility label.</note>
       </trans-unit>
       <trans-unit id="Assigning to the default group of all instances." xml:space="preserve">
         <source>Assigning to the default group of all instances.</source>
@@ -1814,7 +1822,7 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <source>Copy full response</source>
         <note/>
       </trans-unit>
-      <trans-unit id="Core" xml:space="preserve">
+      <trans-unit id="Core" translate="no" xml:space="preserve">
         <source>Core</source>
         <note/>
       </trans-unit>
@@ -1828,7 +1836,7 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Couldn't load config." xml:space="preserve">
         <source>Couldn't load config.</source>
-        <note/>
+        <note>Displayed on the DNS Settings screen.</note>
       </trans-unit>
       <trans-unit id="Current Version" xml:space="preserve">
         <source>Current Version</source>
@@ -1884,7 +1892,7 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="DNS Domain Settings" xml:space="preserve">
         <source>DNS Domain Settings</source>
-        <note/>
+        <note>Displayed on the DNS Settings screen.</note>
       </trans-unit>
       <trans-unit id="DNS Records" xml:space="preserve">
         <source>DNS Records</source>
@@ -1990,7 +1998,11 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <source>Disable for...</source>
         <note/>
       </trans-unit>
-      <trans-unit id="Disable services with a single tap, as well as managing adlists and more." xml:space="preserve">
+      <trans-unit id="Disable services with a single tap, as well as managing adlists and more.|==|device.mac" xml:space="preserve">
+        <source>Disable services with a single click, as well as managing adlists and more.</source>
+        <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Disable services with a single tap, as well as managing adlists and more.|==|device.other" xml:space="preserve">
         <source>Disable services with a single tap, as well as managing adlists and more.</source>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
@@ -2006,7 +2018,7 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <source>Display</source>
         <note/>
       </trans-unit>
-      <trans-unit id="Docker" xml:space="preserve">
+      <trans-unit id="Docker" translate="no" xml:space="preserve">
         <source>Docker</source>
         <note/>
       </trans-unit>
@@ -2024,7 +2036,7 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Domains: %@" xml:space="preserve">
         <source>Domains: %@</source>
-        <note/>
+        <note>Displays the number of domains on an adlist.</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
@@ -2064,7 +2076,7 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Editing presets requires PHR+." xml:space="preserve">
         <source>Editing presets requires PHR+.</source>
-        <note/>
+        <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Enable" xml:space="preserve">
         <source>Enable</source>
@@ -2118,6 +2130,10 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <source>Enter the code...</source>
         <note>Used on the PHR+ purchase screen as a textfield placeholder.</note>
       </trans-unit>
+      <trans-unit id="Entries" xml:space="preserve">
+        <source>Entries</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Error" xml:space="preserve">
         <source>Error</source>
         <note/>
@@ -2148,7 +2164,7 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Expand hostnames" xml:space="preserve">
         <source>Expand hostnames</source>
-        <note/>
+        <note>Displayed on the DNS Settings screen.</note>
       </trans-unit>
       <trans-unit id="Expired DHCP Leases" xml:space="preserve">
         <source>Expired DHCP Leases</source>
@@ -2158,7 +2174,7 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <source>Explore all queries on your network and quickly block domains.</source>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
-      <trans-unit id="FTL" xml:space="preserve">
+      <trans-unit id="FTL" translate="no" xml:space="preserve">
         <source>FTL</source>
         <note/>
       </trans-unit>
@@ -2404,7 +2420,7 @@ Please mail it to developer@rocketscience-it.nl!</source>
       </trans-unit>
       <trans-unit id="If set, the domain is added to simple names (without a period) in /etc/hosts in the same way as for DHCP-derived names." xml:space="preserve">
         <source>If set, the domain is added to simple names (without a period) in /etc/hosts in the same way as for DHCP-derived names.</source>
-        <note/>
+        <note>Displayed on the DNS Settings screen.</note>
       </trans-unit>
       <trans-unit id="If this option is set, Pi-hole ignores all clients which are not explicitly configured through dhcp.hosts. This can be useful to prevent unauthorized clients from getting an IP address from the DHCP server.&#10;It should be noted that this option is not a security feature, as clients can still assign themselves an IP address and use the network. It is merely a convenience feature to prevent unknown clients from getting a valid IP configuration assigned automatically.&#10;&#10;Note: When this feature is enabled you will need to configure new clients manually in dhcp.hosts before they can use the network." xml:space="preserve">
         <source>If this option is set, Pi-hole ignores all clients which are not explicitly configured through dhcp.hosts. This can be useful to prevent unauthorized clients from getting an IP address from the DHCP server.
@@ -2499,11 +2515,11 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="Last updated: %@" xml:space="preserve">
         <source>Last updated: %@</source>
-        <note/>
+        <note>Displays the date an adlist was last updated.</note>
       </trans-unit>
       <trans-unit id="Last updated: N/A" xml:space="preserve">
         <source>Last updated: N/A</source>
-        <note/>
+        <note>Displays the when adlist was just added and has never been updated.</note>
       </trans-unit>
       <trans-unit id="Latest" xml:space="preserve">
         <source>Latest</source>
@@ -2846,11 +2862,19 @@ I hope you will all enjoy this massive update and I wish you all a Happy New Yea
         <source>OK</source>
         <note/>
       </trans-unit>
-      <trans-unit id="One-tap button" xml:space="preserve">
+      <trans-unit id="One-tap button|==|device.mac" xml:space="preserve">
+        <source>One-click button</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="One-tap button|==|device.other" xml:space="preserve">
         <source>One-tap button</source>
         <note/>
       </trans-unit>
-      <trans-unit id="One-tap disable duration" xml:space="preserve">
+      <trans-unit id="One-tap disable duration|==|device.mac" xml:space="preserve">
+        <source>One-click disable duration</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="One-tap disable duration|==|device.other" xml:space="preserve">
         <source>One-tap disable duration</source>
         <note/>
       </trans-unit>
@@ -2868,7 +2892,7 @@ I hope you will all enjoy this massive update and I wish you all a Happy New Yea
       </trans-unit>
       <trans-unit id="Open technical documentation" xml:space="preserve">
         <source>Open technical documentation</source>
-        <note/>
+        <note>Displayed on the DNS Settings screen.</note>
       </trans-unit>
       <trans-unit id="Options" xml:space="preserve">
         <source>Options</source>
@@ -2943,17 +2967,13 @@ I hope you will all enjoy this massive update and I wish you all a Happy New Yea
         <source>Pi-hole Remote is designed to protect your privacy and will never share any information with anyone.</source>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
-      <trans-unit id="Pi-hole Remote is now available in 8 languages!" xml:space="preserve">
-        <source>Pi-hole Remote is now available in 8 languages!</source>
-        <note/>
-      </trans-unit>
       <trans-unit id="Pi-hole Remote+" xml:space="preserve">
         <source>Pi-hole Remote+</source>
         <note>Used in the Settings-tab.</note>
       </trans-unit>
       <trans-unit id="Pi-hole domain name" xml:space="preserve">
         <source>Pi-hole domain name</source>
-        <note/>
+        <note>Displayed on the DNS Settings screen.</note>
       </trans-unit>
       <trans-unit id="Pi-hole v6.0+ Required" xml:space="preserve">
         <source>Pi-hole v6.0+ Required</source>
@@ -3086,7 +3106,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Rate-limiting" xml:space="preserve">
         <source>Rate-limiting</source>
-        <note/>
+        <note>Displayed on the DNS Settings screen.</note>
       </trans-unit>
       <trans-unit id="Red" xml:space="preserve">
         <source>Red</source>
@@ -3104,7 +3124,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>RegEx entries</source>
         <note/>
       </trans-unit>
-      <trans-unit id="Remote for AdGuard DNS" xml:space="preserve">
+      <trans-unit id="Remote for AdGuard DNS" translate="no" xml:space="preserve">
         <source>Remote for AdGuard DNS</source>
         <note/>
       </trans-unit>
@@ -3130,7 +3150,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Reorder by dragging, remove by swiping." xml:space="preserve">
         <source>Reorder by dragging, remove by swiping.</source>
-        <note/>
+        <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Request" xml:space="preserve">
         <source>Request</source>
@@ -3180,7 +3200,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>Router</source>
         <note/>
       </trans-unit>
-      <trans-unit id="SLAAC + RA" xml:space="preserve">
+      <trans-unit id="SLAAC + RA" translate="no" xml:space="preserve">
         <source>SLAAC + RA</source>
         <note/>
       </trans-unit>
@@ -3202,7 +3222,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Seconds" xml:space="preserve">
         <source>Seconds</source>
-        <note/>
+        <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Select an Instance" xml:space="preserve">
         <source>Select an Instance</source>
@@ -3412,11 +3432,19 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>Take Pi-hole Remote to the next level by removing limits and unlocking full Pi-hole management, interactive widgets, multiple instances support, and more.</source>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
-      <trans-unit id="Tap for more info." xml:space="preserve">
+      <trans-unit id="Tap for more info.|==|device.mac" xml:space="preserve">
+        <source>Click for more info.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tap for more info.|==|device.other" xml:space="preserve">
         <source>Tap for more info.</source>
         <note/>
       </trans-unit>
-      <trans-unit id="Tap here if you purchased PHR when it was a paid app" xml:space="preserve">
+      <trans-unit id="Tap here if you purchased PHR when it was a paid app|==|device.mac" xml:space="preserve">
+        <source>Click here if you purchased PHR when it was a paid app</source>
+        <note>Used on the PHR+ purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="Tap here if you purchased PHR when it was a paid app|==|device.other" xml:space="preserve">
         <source>Tap here if you purchased PHR when it was a paid app</source>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
@@ -3710,7 +3738,7 @@ In return, I would really appreciate it if you could leave a review in the App S
         <source>Watch App Not Installed</source>
         <note>Displayed on the support screen on the 'Force Watch Sync' button.</note>
       </trans-unit>
-      <trans-unit id="Web" xml:space="preserve">
+      <trans-unit id="Web" translate="no" xml:space="preserve">
         <source>Web</source>
         <note/>
       </trans-unit>
@@ -3730,7 +3758,7 @@ In return, I would really appreciate it if you could leave a review in the App S
         <source>When a client makes too many queries in too short time, it gets rate-limited. Rate-limited queries are answered with a REFUSED reply and not further processed by FTL and prevent Pi-holes getting overwhelmed by rogue clients. It is important to note that rate-limiting is happening on a per-client basis. Other clients can continue to use FTL while rate-limited clients are short-circuited at the same time.
 
 Rate-limiting may be disabled altogether by setting both values to zero.</source>
-        <note/>
+        <note>Displayed on the DNS Settings screen.</note>
       </trans-unit>
       <trans-unit id="When you use HTTPS you must make sure to install the certificate to your device first. If you don't do this, the app might not be able to establish a secure connection to your Pi-hole.&#10;&#10;The default location of your certificate is on your device: /etc/pihole/tls.pem. Mail the file to yourself and open it on your device to install it." xml:space="preserve">
         <source>When you use HTTPS you must make sure to install the certificate to your device first. If you don't do this, the app might not be able to establish a secure connection to your Pi-hole.
@@ -3772,7 +3800,7 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
       </trans-unit>
       <trans-unit id="You've reached the maximum of 6 presets." xml:space="preserve">
         <source>You've reached the maximum of 6 presets.</source>
-        <note/>
+        <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Your password and TOTP token will be used only once to create an 'application password' and are deleted afterwards." xml:space="preserve">
         <source>Your password and TOTP token will be used only once to create an 'application password' and are deleted afterwards.</source>
@@ -3812,7 +3840,7 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
         <target state="translated">Specifies which instance(s) to use.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="appintents_state" xml:space="preserve">
+      <trans-unit id="appintents_state" translate="no" xml:space="preserve">
         <source>appintents_state</source>
         <note/>
       </trans-unit>
@@ -4109,7 +4137,7 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
         <source>keyNotFound</source>
         <note>ParsingError</note>
       </trans-unit>
-      <trans-unit id="lan" xml:space="preserve">
+      <trans-unit id="lan" translate="no" xml:space="preserve">
         <source>lan</source>
         <note/>
       </trans-unit>
@@ -4337,7 +4365,7 @@ Joost</target>
         <target state="translated">Σύνολο</target>
         <note/>
       </trans-unit>
-      <trans-unit id="typeMismatch" xml:space="preserve">
+      <trans-unit id="typeMismatch" translate="no" xml:space="preserve">
         <source>typeMismatch</source>
         <note>ParsingError</note>
       </trans-unit>
@@ -4349,7 +4377,7 @@ Joost</target>
         <source>value</source>
         <note/>
       </trans-unit>
-      <trans-unit id="valueNotFound" xml:space="preserve">
+      <trans-unit id="valueNotFound" translate="no" xml:space="preserve">
         <source>valueNotFound</source>
         <note>ParsingError</note>
       </trans-unit>

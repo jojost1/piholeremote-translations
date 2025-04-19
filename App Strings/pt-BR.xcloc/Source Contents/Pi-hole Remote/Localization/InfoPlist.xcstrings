@@ -11,13 +11,28 @@
             "value" : "Pi-hole Remote"
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
     "Disable All" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disable All"
+          }
+        }
+      }
     },
     "For 1 minute" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "For 1 minute"
+          }
+        }
+      }
     },
     "NSCameraUsageDescription" : {
       "comment" : "Privacy - Camera Usage Description",
@@ -50,10 +65,11 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "2020-2021 RocketScience IT"
+            "value" : "Copyright © 2025 RocketScience IT"
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
     "NSLocalNetworkUsageDescription" : {
       "comment" : "Privacy - Local Network Usage Description",
