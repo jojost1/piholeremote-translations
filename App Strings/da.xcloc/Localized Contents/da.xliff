@@ -2118,10 +2118,6 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <source>Ends</source>
         <note/>
       </trans-unit>
-      <trans-unit id="Energie Radar" xml:space="preserve">
-        <source>Energie Radar</source>
-        <note/>
-      </trans-unit>
       <trans-unit id="Enjoy great widgets and a Live Activity when disabling blocking." xml:space="preserve">
         <source>Enjoy great widgets and a Live Activity when disabling blocking.</source>
         <note>Displayed in the onboarding.</note>
@@ -2310,11 +2306,11 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <source>Groups</source>
         <note/>
       </trans-unit>
-      <trans-unit id="HTTP" xml:space="preserve">
+      <trans-unit id="HTTP" translate="no" xml:space="preserve">
         <source>HTTP</source>
         <note/>
       </trans-unit>
-      <trans-unit id="HTTPS" xml:space="preserve">
+      <trans-unit id="HTTPS" translate="no" xml:space="preserve">
         <source>HTTPS</source>
         <note/>
       </trans-unit>
@@ -2370,7 +2366,7 @@ Please do not share this code with others.</source>
       </trans-unit>
       <trans-unit id="Hostname" xml:space="preserve">
         <source>Hostname</source>
-        <note/>
+        <note>Hostname of the device running the instance, used on the instance detail screen.</note>
       </trans-unit>
       <trans-unit id="Hostname or IP" xml:space="preserve">
         <source>Hostname or IP</source>
@@ -2523,7 +2519,7 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="Latest" xml:space="preserve">
         <source>Latest</source>
-        <note/>
+        <note>Displayed under the version label on the instance detail screen.</note>
       </trans-unit>
       <trans-unit id="Learn More" xml:space="preserve">
         <source>Learn More</source>
@@ -2551,19 +2547,6 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="Leave the netmask field empty to have Pi-hole infer it from the configured IP address of your device. If you want to specify a netmask, you can use the format 255.255.255.0." xml:space="preserve">
         <source>Leave the netmask field empty to have Pi-hole infer it from the configured IP address of your device. If you want to specify a netmask, you can use the format 255.255.255.0.</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Lets give the Lists-tab a massive feature-boost!" xml:space="preserve">
-        <source>Lets give the Lists-tab a massive feature-boost!</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Lets start 2021 with a huge update!&#10;&#10;Many highly requested features in this one. I've considered making some features of this update a paid in-app-purchase because of the significant development time, but decided against it. I would very much appreciate a tip if you use the app often, it would help a lot! If you can't afford to tip for any reason, that's of course totally fine :-) Enjoy the app, tell your friends, maybe leave a review!&#10;&#10;I hope you will all enjoy this massive update and I wish you all a Happy New Year!&#10;- Joost" xml:space="preserve">
-        <source>Lets start 2021 with a huge update!
-
-Many highly requested features in this one. I've considered making some features of this update a paid in-app-purchase because of the significant development time, but decided against it. I would very much appreciate a tip if you use the app often, it would help a lot! If you can't afford to tip for any reason, that's of course totally fine :-) Enjoy the app, tell your friends, maybe leave a review!
-
-I hope you will all enjoy this massive update and I wish you all a Happy New Year!
-- Joost</source>
         <note/>
       </trans-unit>
       <trans-unit id="Lifetime PHR %@" xml:space="preserve">
@@ -2610,16 +2593,8 @@ I hope you will all enjoy this massive update and I wish you all a Happy New Yea
         <source>Local Records</source>
         <note/>
       </trans-unit>
-      <trans-unit id="Locked" xml:space="preserve">
-        <source>Locked</source>
-        <note/>
-      </trans-unit>
       <trans-unit id="Logs" xml:space="preserve">
         <source>Logs</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Logs (TODO)" xml:space="preserve">
-        <source>Logs (TODO)</source>
         <note/>
       </trans-unit>
       <trans-unit id="MAC address" xml:space="preserve">
@@ -2672,7 +2647,7 @@ I hope you will all enjoy this massive update and I wish you all a Happy New Yea
       </trans-unit>
       <trans-unit id="Model" xml:space="preserve">
         <source>Model</source>
-        <note/>
+        <note>Model of the device running the instance, used on the instance detail screen.</note>
       </trans-unit>
       <trans-unit id="Monthly PHR %@" xml:space="preserve">
         <source>Monthly PHR %@</source>
@@ -2726,15 +2701,11 @@ I hope you will all enjoy this massive update and I wish you all a Happy New Yea
         <source>New Instance</source>
         <note/>
       </trans-unit>
-      <trans-unit id="New OS versions are required for some of these new features. Please update your device!" xml:space="preserve">
-        <source>New OS versions are required for some of these new features. Please update your device!</source>
-        <note/>
-      </trans-unit>
       <trans-unit id="New Record" xml:space="preserve">
         <source>New Record</source>
         <note/>
       </trans-unit>
-      <trans-unit id="NextDNS Remote" xml:space="preserve">
+      <trans-unit id="NextDNS Remote" translate="no" xml:space="preserve">
         <source>NextDNS Remote</source>
         <note/>
       </trans-unit>
@@ -2824,10 +2795,6 @@ I hope you will all enjoy this massive update and I wish you all a Happy New Yea
       </trans-unit>
       <trans-unit id="None." xml:space="preserve">
         <source>None.</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Not available on iOS 13." xml:space="preserve">
-        <source>Not available on iOS 13.</source>
         <note/>
       </trans-unit>
       <trans-unit id="Note: any entries that are inserted will be added to the group &quot;default&quot; only." xml:space="preserve">
@@ -2951,7 +2918,7 @@ I hope you will all enjoy this massive update and I wish you all a Happy New Yea
         <source>Permit all origins</source>
         <note/>
       </trans-unit>
-      <trans-unit id="Pi-hole" xml:space="preserve">
+      <trans-unit id="Pi-hole" translate="no" xml:space="preserve">
         <source>Pi-hole</source>
         <note>Placeholder for the name textfield on the instance settings screen.</note>
       </trans-unit>
@@ -2959,7 +2926,7 @@ I hope you will all enjoy this massive update and I wish you all a Happy New Yea
         <source>Pi-hole Color Scheme</source>
         <note/>
       </trans-unit>
-      <trans-unit id="Pi-hole Remote" xml:space="preserve">
+      <trans-unit id="Pi-hole Remote" translate="no" xml:space="preserve">
         <source>Pi-hole Remote</source>
         <note>App title, do not translate.</note>
       </trans-unit>
@@ -2967,7 +2934,7 @@ I hope you will all enjoy this massive update and I wish you all a Happy New Yea
         <source>Pi-hole Remote is designed to protect your privacy and will never share any information with anyone.</source>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
-      <trans-unit id="Pi-hole Remote+" xml:space="preserve">
+      <trans-unit id="Pi-hole Remote+" translate="no" xml:space="preserve">
         <source>Pi-hole Remote+</source>
         <note>Used in the Settings-tab.</note>
       </trans-unit>
@@ -3192,7 +3159,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>Retried | DNSSEC</source>
         <note/>
       </trans-unit>
-      <trans-unit id="RocketScience IT" xml:space="preserve">
+      <trans-unit id="RocketScience IT" translate="no" xml:space="preserve">
         <source>RocketScience IT</source>
         <note/>
       </trans-unit>
@@ -3240,7 +3207,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>Services</source>
         <note/>
       </trans-unit>
-      <trans-unit id="SessionID: %@" xml:space="preserve">
+      <trans-unit id="SessionID: %@" translate="no" xml:space="preserve">
         <source>SessionID: %@</source>
         <note/>
       </trans-unit>
@@ -3402,7 +3369,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="System" xml:space="preserve">
         <source>System</source>
-        <note/>
+        <note>Sysname of the device running the instance, used on the instance detail screen.</note>
       </trans-unit>
       <trans-unit id="TOTP" xml:space="preserve">
         <source>TOTP</source>
@@ -3540,14 +3507,6 @@ In return, I would really appreciate it if you could leave a review in the App S
       </trans-unit>
       <trans-unit id="This device is probably not using Pi-hole, because no queries were found." xml:space="preserve">
         <source>This device is probably not using Pi-hole, because no queries were found.</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="This is the last version that supports iOS 13 and macOS 10.15." xml:space="preserve">
-        <source>This is the last version that supports iOS 13 and macOS 10.15.</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="This version requires iOS 16.2+ / watchOS 10.0+ and **Pi-hole v6.0** or higher, because it uses the new Pi-hole API with much improved capabilities." xml:space="preserve">
-        <source>This version requires iOS 16.2+ / watchOS 10.0+ and **Pi-hole v6.0** or higher, because it uses the new Pi-hole API with much improved capabilities.</source>
         <note/>
       </trans-unit>
       <trans-unit id="Time remaining" xml:space="preserve">
@@ -3702,6 +3661,10 @@ In return, I would really appreciate it if you could leave a review in the App S
         <source>Using SSL</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Utility Radar" xml:space="preserve">
+        <source>Utility Radar</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Validate DNS replies and cache DNSSEC data. When forwarding DNS queries, Pi-hole requests the DNSSEC records needed to validate the replies. If a domain fails validation or the upstream does not support DNSSEC, this setting can cause issues resolving domains. Use an upstream DNS server which supports DNSSEC when activating DNSSEC. Note that the size of your log might increase significantly when enabling DNSSEC." xml:space="preserve">
         <source>Validate DNS replies and cache DNSSEC data. When forwarding DNS queries, Pi-hole requests the DNSSEC records needed to validate the replies. If a domain fails validation or the upstream does not support DNSSEC, this setting can cause issues resolving domains. Use an upstream DNS server which supports DNSSEC when activating DNSSEC. Note that the size of your log might increase significantly when enabling DNSSEC.</source>
         <note/>
@@ -3716,18 +3679,6 @@ In return, I would really appreciate it if you could leave a review in the App S
       </trans-unit>
       <trans-unit id="Versions" xml:space="preserve">
         <source>Versions</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="View FTL logs" xml:space="preserve">
-        <source>View FTL logs</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="View dnsmasq logs" xml:space="preserve">
-        <source>View dnsmasq logs</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="View webserver logs" xml:space="preserve">
-        <source>View webserver logs</source>
         <note/>
       </trans-unit>
       <trans-unit id="Visible on Home-tab" xml:space="preserve">
@@ -3848,29 +3799,9 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
         <source>automatic</source>
         <note/>
       </trans-unit>
-      <trans-unit id="blocked" xml:space="preserve">
-        <source>Blocked</source>
-        <target state="translated">Blokkeret</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="blocked_services_block_service" xml:space="preserve">
         <source>Block service</source>
         <target state="translated">Blokker service</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="blocked_services_entries_overview" xml:space="preserve">
-        <source>Entries in overview</source>
-        <target state="translated">Posteringer i overblik</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="blocked_services_entries_overview_hide" xml:space="preserve">
-        <source>Hide</source>
-        <target state="translated">Gem</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="blocked_services_entries_overview_show" xml:space="preserve">
-        <source>Show</source>
-        <target state="translated">Vis</target>
         <note/>
       </trans-unit>
       <trans-unit id="blocked_services_favorites" xml:space="preserve">
@@ -4070,11 +4001,6 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
         <source>enable more than 1 Blocked Service.</source>
         <note/>
       </trans-unit>
-      <trans-unit id="entries" xml:space="preserve">
-        <source>Entries</source>
-        <target state="translated">Posteringer</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="fast address assignment" xml:space="preserve">
         <source>fast address assignment</source>
         <note/>
@@ -4127,7 +4053,7 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
       <trans-unit id="instance" xml:space="preserve">
         <source>Instance</source>
         <target state="translated">Instanser</target>
-        <note>MARK: Miscellaneous</note>
+        <note/>
       </trans-unit>
       <trans-unit id="key" xml:space="preserve">
         <source>key</source>
@@ -4162,11 +4088,6 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
         <source>manage Domains &amp; Adlists.</source>
         <note/>
       </trans-unit>
-      <trans-unit id="ok" xml:space="preserve">
-        <source>OK</source>
-        <target state="translated">OK</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="one person only" xml:space="preserve">
         <source>one person only</source>
         <note>Used on the PHR+ purchase screen.</note>
@@ -4187,13 +4108,8 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
         <source>pi.hole</source>
         <note>Placeholder for the hostname textfield on the instance settings screen.</note>
       </trans-unit>
-      <trans-unit id="pihole -up" xml:space="preserve">
+      <trans-unit id="pihole -up" translate="no" xml:space="preserve">
         <source>pihole -up</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="queries" xml:space="preserve">
-        <source>Queries</source>
-        <target state="translated">Forespørgsler</target>
         <note/>
       </trans-unit>
       <trans-unit id="refresh" xml:space="preserve">
@@ -4300,7 +4216,7 @@ Hovedmålet for mig er at lære: design, udvikling, testen, support, reklammerin
       <trans-unit id="tipjar_navbar" xml:space="preserve">
         <source>Tip Jar</source>
         <target state="translated">Tip Krukke</target>
-        <note>MARK: Tip Jar</note>
+        <note/>
       </trans-unit>
       <trans-unit id="tipjar_payment_successful" xml:space="preserve">
         <source>Payment Successful</source>
@@ -4358,11 +4274,6 @@ Joost</target>
       <trans-unit id="tipjar_tip_whiskey" xml:space="preserve">
         <source>Whiskey Tip</source>
         <target state="translated">Whiskey Tip</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="total" xml:space="preserve">
-        <source>Total</source>
-        <target state="translated">Total</target>
         <note/>
       </trans-unit>
       <trans-unit id="typeMismatch" translate="no" xml:space="preserve">
