@@ -263,6 +263,14 @@
         <source>Cached: %@</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Client IP" xml:space="preserve">
+        <source>Client IP</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Client Name" xml:space="preserve">
+        <source>Client Name</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Clients" xml:space="preserve">
         <source>Clients</source>
         <note/>
@@ -281,6 +289,10 @@
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
         <source>Date</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Domain" xml:space="preserve">
+        <source>Domain</source>
         <note/>
       </trans-unit>
       <trans-unit id="Duration" xml:space="preserve">
@@ -337,6 +349,10 @@
       </trans-unit>
       <trans-unit id="Instance" xml:space="preserve">
         <source>Instance</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Multiple" xml:space="preserve">
+        <source>Multiple</source>
         <note/>
       </trans-unit>
       <trans-unit id="No Instances" xml:space="preserve">
@@ -1692,9 +1708,33 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>Client ID</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Client IP" xml:space="preserve">
+        <source>Client IP</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Client IP '%@'..." xml:space="preserve">
+        <source>Client IP '%@'...</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Client IP: '%@'..." xml:space="preserve">
+        <source>Client IP: '%@'...</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Client Management" xml:space="preserve">
         <source>Client Management</source>
         <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Client Name" xml:space="preserve">
+        <source>Client Name</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Client Name '%@'..." xml:space="preserve">
+        <source>Client Name '%@'...</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Client Name: '%@'..." xml:space="preserve">
+        <source>Client Name: '%@'...</source>
+        <note/>
       </trans-unit>
       <trans-unit id="ClientID" xml:space="preserve">
         <source>ClientID</source>
@@ -2020,6 +2060,14 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Domain" xml:space="preserve">
         <source>Domain</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Domain '%@'..." xml:space="preserve">
+        <source>Domain '%@'...</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Domain: '%@'..." xml:space="preserve">
+        <source>Domain: '%@'...</source>
         <note/>
       </trans-unit>
       <trans-unit id="Domains" xml:space="preserve">
@@ -2651,6 +2699,10 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="Multi DNS" xml:space="preserve">
         <source>Multi DNS</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Multiple" xml:space="preserve">
+        <source>Multiple</source>
         <note/>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">

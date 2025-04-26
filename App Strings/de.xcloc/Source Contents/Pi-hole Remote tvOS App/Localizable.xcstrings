@@ -125,6 +125,12 @@
     "Cached: %@" : {
 
     },
+    "Client IP" : {
+
+    },
+    "Client Name" : {
+
+    },
     "Clients" : {
 
     },
@@ -138,6 +144,9 @@
 
     },
     "Date" : {
+
+    },
+    "Domain" : {
 
     },
     "Duration" : {
@@ -199,6 +208,9 @@
     },
     "keyNotFound" : {
       "comment" : "ParsingError"
+    },
+    "Multiple" : {
+
     },
     "No connection" : {
 

@@ -263,6 +263,14 @@
         <source>Cached: %@</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Client IP" xml:space="preserve">
+        <source>Client IP</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Client Name" xml:space="preserve">
+        <source>Client Name</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Clients" xml:space="preserve">
         <source>Clients</source>
         <note/>
@@ -281,6 +289,10 @@
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
         <source>Date</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Domain" xml:space="preserve">
+        <source>Domain</source>
         <note/>
       </trans-unit>
       <trans-unit id="Duration" xml:space="preserve">
@@ -337,6 +349,10 @@
       </trans-unit>
       <trans-unit id="Instance" xml:space="preserve">
         <source>Instance</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Multiple" xml:space="preserve">
+        <source>Multiple</source>
         <note/>
       </trans-unit>
       <trans-unit id="No Instances" xml:space="preserve">
@@ -1851,10 +1867,40 @@ Om nieuwe keuzes toe te voegen, ga naar Instellingen &gt; Voorkeuren &gt; Starts
         <target state="translated">Client ID</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Client IP" xml:space="preserve">
+        <source>Client IP</source>
+        <target state="translated">Client IP</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Client IP '%@'..." xml:space="preserve">
+        <source>Client IP '%@'...</source>
+        <target state="translated">Client IP '%@'...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Client IP: '%@'..." xml:space="preserve">
+        <source>Client IP: '%@'...</source>
+        <target state="translated">Client IP: '%@'...</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Client Management" xml:space="preserve">
         <source>Client Management</source>
         <target state="translated">Clients beheren</target>
         <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Client Name" xml:space="preserve">
+        <source>Client Name</source>
+        <target state="translated">Client naam</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Client Name '%@'..." xml:space="preserve">
+        <source>Client Name '%@'...</source>
+        <target state="translated">Client naam '%@'...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Client Name: '%@'..." xml:space="preserve">
+        <source>Client Name: '%@'...</source>
+        <target state="translated">Client naam: '%@'...</target>
+        <note/>
       </trans-unit>
       <trans-unit id="ClientID" xml:space="preserve">
         <source>ClientID</source>
@@ -2262,6 +2308,16 @@ Let op: het herkennen van clients op basis van IP-adressen (inclusief subnetbere
       <trans-unit id="Domain" xml:space="preserve">
         <source>Domain</source>
         <target state="translated">Domein</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Domain '%@'..." xml:space="preserve">
+        <source>Domain '%@'...</source>
+        <target state="translated">Domein '%@'...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Domain: '%@'..." xml:space="preserve">
+        <source>Domain: '%@'...</source>
+        <target state="translated">Domein: '%@'...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Domains" xml:space="preserve">
@@ -3053,6 +3109,11 @@ Opmerking: Wanneer deze functie is ingeschakeld, moet je nieuwe clients handmati
       <trans-unit id="Multi DNS" xml:space="preserve">
         <source>Multi DNS</source>
         <target state="translated">Multi DNS</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Multiple" xml:space="preserve">
+        <source>Multiple</source>
+        <target state="translated">Meerdere</target>
         <note/>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">

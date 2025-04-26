@@ -790,8 +790,26 @@
     "Client ID" : {
 
     },
+    "Client IP" : {
+
+    },
+    "Client IP '%@'..." : {
+      "extractionState" : "stale"
+    },
+    "Client IP: '%@'..." : {
+
+    },
     "Client Management" : {
       "comment" : "Displayed in the onboarding."
+    },
+    "Client Name" : {
+
+    },
+    "Client Name '%@'..." : {
+      "extractionState" : "stale"
+    },
+    "Client Name: '%@'..." : {
+
     },
     "ClientID" : {
 
@@ -1251,6 +1269,12 @@
     "Domain" : {
 
     },
+    "Domain '%@'..." : {
+      "extractionState" : "stale"
+    },
+    "Domain: '%@'..." : {
+
+    },
     "Domains" : {
 
     },
@@ -1391,7 +1415,7 @@
 
     },
     "Filtered by %@" : {
-
+      "extractionState" : "stale"
     },
     "Filtered by `%@`" : {
 
@@ -1864,6 +1888,9 @@
 
     },
     "Multi DNS" : {
+
+    },
+    "Multiple" : {
 
     },
     "Name" : {

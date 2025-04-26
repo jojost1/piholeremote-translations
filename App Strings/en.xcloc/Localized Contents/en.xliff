@@ -301,6 +301,16 @@
         <target state="new">Cached: %@</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Client IP" xml:space="preserve">
+        <source>Client IP</source>
+        <target state="new">Client IP</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Client Name" xml:space="preserve">
+        <source>Client Name</source>
+        <target state="new">Client Name</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Clients" xml:space="preserve">
         <source>Clients</source>
         <target state="new">Clients</target>
@@ -324,6 +334,11 @@
       <trans-unit id="Date" xml:space="preserve">
         <source>Date</source>
         <target state="new">Date</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Domain" xml:space="preserve">
+        <source>Domain</source>
+        <target state="new">Domain</target>
         <note/>
       </trans-unit>
       <trans-unit id="Duration" xml:space="preserve">
@@ -394,6 +409,11 @@
       <trans-unit id="Instance" xml:space="preserve">
         <source>Instance</source>
         <target state="new">Instance</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Multiple" xml:space="preserve">
+        <source>Multiple</source>
+        <target state="new">Multiple</target>
         <note/>
       </trans-unit>
       <trans-unit id="No Instances" xml:space="preserve">
@@ -1988,10 +2008,40 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="new">Client ID</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Client IP" xml:space="preserve">
+        <source>Client IP</source>
+        <target state="new">Client IP</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Client IP '%@'..." xml:space="preserve">
+        <source>Client IP '%@'...</source>
+        <target state="new">Client IP '%@'...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Client IP: '%@'..." xml:space="preserve">
+        <source>Client IP: '%@'...</source>
+        <target state="new">Client IP: '%@'...</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Client Management" xml:space="preserve">
         <source>Client Management</source>
         <target state="new">Client Management</target>
         <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Client Name" xml:space="preserve">
+        <source>Client Name</source>
+        <target state="new">Client Name</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Client Name '%@'..." xml:space="preserve">
+        <source>Client Name '%@'...</source>
+        <target state="new">Client Name '%@'...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Client Name: '%@'..." xml:space="preserve">
+        <source>Client Name: '%@'...</source>
+        <target state="new">Client Name: '%@'...</target>
+        <note/>
       </trans-unit>
       <trans-unit id="ClientID" xml:space="preserve">
         <source>ClientID</source>
@@ -2400,6 +2450,16 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       <trans-unit id="Domain" xml:space="preserve">
         <source>Domain</source>
         <target state="new">Domain</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Domain '%@'..." xml:space="preserve">
+        <source>Domain '%@'...</source>
+        <target state="new">Domain '%@'...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Domain: '%@'..." xml:space="preserve">
+        <source>Domain: '%@'...</source>
+        <target state="new">Domain: '%@'...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Domains" xml:space="preserve">
@@ -3194,6 +3254,11 @@ Note: When this feature is enabled you will need to configure new clients manual
       <trans-unit id="Multi DNS" xml:space="preserve">
         <source>Multi DNS</source>
         <target state="new">Multi DNS</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Multiple" xml:space="preserve">
+        <source>Multiple</source>
+        <target state="new">Multiple</target>
         <note/>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
