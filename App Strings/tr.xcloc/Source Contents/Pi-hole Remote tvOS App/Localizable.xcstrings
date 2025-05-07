@@ -19,6 +19,9 @@
     "Add your Pi-hole instances on an iOS, iPadOS, or macOS device with version 6.2 or higher and make sure iCloud is enabled." : {
 
     },
+    "Allow-list" : {
+
+    },
     "Allowed" : {
 
     },
@@ -137,6 +140,9 @@
     "Compact mode" : {
 
     },
+    "Control blocking of services on your Pi-hole. (Requires PHR+)" : {
+
+    },
     "Core" : {
 
     },
@@ -146,6 +152,12 @@
     "Date" : {
 
     },
+    "Deny-list" : {
+
+    },
+    "Denylist" : {
+
+    },
     "Domain" : {
 
     },
@@ -153,6 +165,15 @@
 
     },
     "Enable blocking" : {
+
+    },
+    "Enable Blocking" : {
+
+    },
+    "Enable to block the service, disable to unblock it." : {
+
+    },
+    "Exact" : {
 
     },
     "Forwarded" : {
@@ -218,6 +239,9 @@
     "No Instances" : {
 
     },
+    "PHR+ is required to use this feature." : {
+
+    },
     "Pi-hole Remote" : {
 
     },
@@ -236,6 +260,9 @@
     "Refreshing" : {
 
     },
+    "RegEx" : {
+
+    },
     "Retried" : {
 
     },
@@ -243,6 +270,12 @@
 
     },
     "Selected" : {
+
+    },
+    "Service" : {
+
+    },
+    "Services" : {
 
     },
     "Settings" : {
@@ -261,6 +294,21 @@
 
     },
     "Specify which instance(s) to check." : {
+
+    },
+    "Specify which instance(s) to control." : {
+
+    },
+    "Specify which service(s) to toggle." : {
+
+    },
+    "Successfully disabled blocking for %@." : {
+
+    },
+    "Successfully enabled blocking for %@." : {
+
+    },
+    "Toggle Blocked Services" : {
 
     },
     "Top Clients" : {

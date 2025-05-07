@@ -107,11 +107,29 @@
     "1 decimal" : {
       "comment" : "Displays in the metrics decimals picker."
     },
+    "1. Open the Pi-hole web interface" : {
+      "comment" : "Used on Preferences > Home to explain how to change the temperature unit."
+    },
     "1h" : {
       "comment" : "Placeholder for the DHCP lease time textfield on the DHCP settings screen."
     },
     "2 decimals" : {
       "comment" : "Displays in the metrics decimals picker."
+    },
+    "2. In the sidebar, go to **Settings > System**" : {
+      "comment" : "Used on Preferences > Home to explain how to change the temperature unit."
+    },
+    "3. In the top-right corner, turn on **Expert**" : {
+      "comment" : "Used on Preferences > Home to explain how to change the temperature unit."
+    },
+    "4. Then, go to **Settings > All settings** in the sidebar." : {
+      "comment" : "Used on Preferences > Home to explain how to change the temperature unit."
+    },
+    "5. Select **Webserver and API**, and scroll to the very bottom of the page" : {
+      "comment" : "Used on Preferences > Home to explain how to change the temperature unit."
+    },
+    "6. Under the card labeled `webserver.api.temp.unit`, choose your preferred temperature unit" : {
+      "comment" : "Used on Preferences > Home to explain how to change the temperature unit."
     },
     "60" : {
       "comment" : "Placeholder for the dnsRateLimitInterval textfield on the DNS settings screen.",
@@ -793,9 +811,6 @@
     "Client IP" : {
 
     },
-    "Client IP '%@'..." : {
-      "extractionState" : "stale"
-    },
     "Client IP: '%@'..." : {
 
     },
@@ -804,9 +819,6 @@
     },
     "Client Name" : {
 
-    },
-    "Client Name '%@'..." : {
-      "extractionState" : "stale"
     },
     "Client Name: '%@'..." : {
 
@@ -881,6 +893,9 @@
     },
     "Continue" : {
       "comment" : "Used in onboarding and changelogs."
+    },
+    "Control blocking of services on your Pi-hole. (Requires PHR+)" : {
+
     },
     "Converted to: (\\\\.|^)%@$" : {
 
@@ -1269,9 +1284,6 @@
     "Domain" : {
 
     },
-    "Domain '%@'..." : {
-      "extractionState" : "stale"
-    },
     "Domain: '%@'..." : {
 
     },
@@ -1333,10 +1345,16 @@
     "Enable blocking" : {
 
     },
+    "Enable Blocking" : {
+
+    },
     "enable more than 1 Blocked Service." : {
 
     },
     "Enable this option to enable IPv6 support for the Pi-hole DHCP server. This will allow the Pi-hole to hand out IPv6 addresses to clients and also provide IPv6 router advertisements (RA) to clients. This option is only useful if the Pi-hole is configured with an IPv6 address." : {
+
+    },
+    "Enable to block the service, disable to unblock it." : {
 
     },
     "Enabled" : {
@@ -1413,9 +1431,6 @@
     },
     "Filter by status" : {
 
-    },
-    "Filtered by %@" : {
-      "extractionState" : "stale"
     },
     "Filtered by `%@`" : {
 
@@ -1625,6 +1640,9 @@
     },
     "Hostname or IP address" : {
 
+    },
+    "How to change" : {
+      "comment" : "Used on Preferences > Home to explain how to change the temperature unit."
     },
     "HTTP" : {
       "shouldTranslate" : false
@@ -2131,6 +2149,9 @@
     "PHR+ for early users" : {
       "comment" : "Used on the PHR+ purchase screen."
     },
+    "PHR+ is required to use this feature." : {
+
+    },
     "PHR+ unlocks all these features, as well as new features in future updates. By purchasing PHR+ you will also support future development of the app, which is made by %@ (hi! 👋). I really appreciate it!" : {
       "comment" : "Used on the PHR+ purchase screen."
     },
@@ -2463,6 +2484,9 @@
     "Selected" : {
 
     },
+    "Service" : {
+
+    },
     "Services" : {
 
     },
@@ -2596,6 +2620,12 @@
     "Specify which instance(s) to check." : {
 
     },
+    "Specify which instance(s) to control." : {
+
+    },
+    "Specify which service(s) to toggle." : {
+
+    },
     "Speed" : {
 
     },
@@ -2616,6 +2646,12 @@
     },
     "Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period and will be charged to your iTunes account. You can turn off auto-renew/manage subscriptions in your iTunes Account Settings after purchase." : {
       "comment" : "Used on the PHR+ purchase screen."
+    },
+    "Successfully disabled blocking for %@." : {
+
+    },
+    "Successfully enabled blocking for %@." : {
+
     },
     "Suggestions" : {
 
@@ -2693,6 +2729,12 @@
 
     },
     "Tells Pi-hole to never forward A or AAAA queries for plain names, without dots or domain parts, to upstream nameservers. If the name is not known from /etc/hosts or DHCP then a \"not found\" answer is returned.\n\nIf Conditional Forwarding is enabled, unticking this box may cause a partial DNS loop under certain circumstances (e.g. if a client would send TLD DNSSEC queries)." : {
+
+    },
+    "Temperature" : {
+      "comment" : "Used on Preferences > Home."
+    },
+    "Temperature unit" : {
 
     },
     "Terms of Use" : {
@@ -2909,6 +2951,9 @@
       }
     },
     "Toggle between enabled & disabled" : {
+
+    },
+    "Toggle Blocked Services" : {
 
     },
     "Toggle Blocking" : {

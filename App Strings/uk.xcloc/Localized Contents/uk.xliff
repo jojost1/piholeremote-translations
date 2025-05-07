@@ -155,6 +155,10 @@
         <source>Add your Pi-hole instances on an iOS, iPadOS, or macOS device with version 6.2 or higher and make sure iCloud is enabled.</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Allow-list" xml:space="preserve">
+        <source>Allow-list</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Allowed" xml:space="preserve">
         <source>Allowed</source>
         <note/>
@@ -279,6 +283,10 @@
         <source>Compact mode</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Control blocking of services on your Pi-hole. (Requires PHR+)" xml:space="preserve">
+        <source>Control blocking of services on your Pi-hole. (Requires PHR+)</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Core" xml:space="preserve">
         <source>Core</source>
         <note/>
@@ -291,6 +299,14 @@
         <source>Date</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Deny-list" xml:space="preserve">
+        <source>Deny-list</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Denylist" xml:space="preserve">
+        <source>Denylist</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Domain" xml:space="preserve">
         <source>Domain</source>
         <note/>
@@ -299,8 +315,20 @@
         <source>Duration</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Enable Blocking" xml:space="preserve">
+        <source>Enable Blocking</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Enable blocking" xml:space="preserve">
         <source>Enable blocking</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enable to block the service, disable to unblock it." xml:space="preserve">
+        <source>Enable to block the service, disable to unblock it.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Exact" xml:space="preserve">
+        <source>Exact</source>
         <note/>
       </trans-unit>
       <trans-unit id="FTL" xml:space="preserve">
@@ -363,6 +391,10 @@
         <source>No connection</source>
         <note/>
       </trans-unit>
+      <trans-unit id="PHR+ is required to use this feature." xml:space="preserve">
+        <source>PHR+ is required to use this feature.</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Pi-hole Remote" xml:space="preserve">
         <source>Pi-hole Remote</source>
         <note/>
@@ -387,6 +419,10 @@
         <source>Refreshing</source>
         <note/>
       </trans-unit>
+      <trans-unit id="RegEx" xml:space="preserve">
+        <source>RegEx</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Retried" xml:space="preserve">
         <source>Retried</source>
         <note/>
@@ -397,6 +433,14 @@
       </trans-unit>
       <trans-unit id="Selected" xml:space="preserve">
         <source>Selected</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Service" xml:space="preserve">
+        <source>Service</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Services" xml:space="preserve">
+        <source>Services</source>
         <note/>
       </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
@@ -417,6 +461,26 @@
       </trans-unit>
       <trans-unit id="Specify which instance(s) to check." xml:space="preserve">
         <source>Specify which instance(s) to check.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Specify which instance(s) to control." xml:space="preserve">
+        <source>Specify which instance(s) to control.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Specify which service(s) to toggle." xml:space="preserve">
+        <source>Specify which service(s) to toggle.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Successfully disabled blocking for %@." xml:space="preserve">
+        <source>Successfully disabled blocking for %@.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Successfully enabled blocking for %@." xml:space="preserve">
+        <source>Successfully enabled blocking for %@.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Toggle Blocked Services" xml:space="preserve">
+        <source>Toggle Blocked Services</source>
         <note/>
       </trans-unit>
       <trans-unit id="Top Clients" xml:space="preserve">
@@ -1173,6 +1237,10 @@
         <source>1 decimal</source>
         <note>Displays in the metrics decimals picker.</note>
       </trans-unit>
+      <trans-unit id="1. Open the Pi-hole web interface" xml:space="preserve">
+        <source>1. Open the Pi-hole web interface</source>
+        <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
+      </trans-unit>
       <trans-unit id="1h" xml:space="preserve">
         <source>1h</source>
         <note>Placeholder for the DHCP lease time textfield on the DHCP settings screen.</note>
@@ -1180,6 +1248,26 @@
       <trans-unit id="2 decimals" xml:space="preserve">
         <source>2 decimals</source>
         <note>Displays in the metrics decimals picker.</note>
+      </trans-unit>
+      <trans-unit id="2. In the sidebar, go to **Settings &gt; System**" xml:space="preserve">
+        <source>2. In the sidebar, go to **Settings &gt; System**</source>
+        <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
+      </trans-unit>
+      <trans-unit id="3. In the top-right corner, turn on **Expert**" xml:space="preserve">
+        <source>3. In the top-right corner, turn on **Expert**</source>
+        <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
+      </trans-unit>
+      <trans-unit id="4. Then, go to **Settings &gt; All settings** in the sidebar." xml:space="preserve">
+        <source>4. Then, go to **Settings &gt; All settings** in the sidebar.</source>
+        <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
+      </trans-unit>
+      <trans-unit id="5. Select **Webserver and API**, and scroll to the very bottom of the page" xml:space="preserve">
+        <source>5. Select **Webserver and API**, and scroll to the very bottom of the page</source>
+        <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
+      </trans-unit>
+      <trans-unit id="6. Under the card labeled `webserver.api.temp.unit`, choose your preferred temperature unit" xml:space="preserve">
+        <source>6. Under the card labeled `webserver.api.temp.unit`, choose your preferred temperature unit</source>
+        <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
       </trans-unit>
       <trans-unit id="60" translate="no" xml:space="preserve">
         <source>60</source>
@@ -1724,10 +1812,6 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>Client IP</source>
         <note/>
       </trans-unit>
-      <trans-unit id="Client IP '%@'..." xml:space="preserve">
-        <source>Client IP '%@'...</source>
-        <note/>
-      </trans-unit>
       <trans-unit id="Client IP: '%@'..." xml:space="preserve">
         <source>Client IP: '%@'...</source>
         <note/>
@@ -1738,10 +1822,6 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Client Name" xml:space="preserve">
         <source>Client Name</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Client Name '%@'..." xml:space="preserve">
-        <source>Client Name '%@'...</source>
         <note/>
       </trans-unit>
       <trans-unit id="Client Name: '%@'..." xml:space="preserve">
@@ -1829,6 +1909,10 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       <trans-unit id="Continue" xml:space="preserve">
         <source>Continue</source>
         <note>Used in onboarding and changelogs.</note>
+      </trans-unit>
+      <trans-unit id="Control blocking of services on your Pi-hole. (Requires PHR+)" xml:space="preserve">
+        <source>Control blocking of services on your Pi-hole. (Requires PHR+)</source>
+        <note/>
       </trans-unit>
       <trans-unit id="Converted to: (\\.|^)%@$" xml:space="preserve">
         <source>Converted to: (\\.|^)%@$</source>
@@ -2074,10 +2158,6 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <source>Domain</source>
         <note/>
       </trans-unit>
-      <trans-unit id="Domain '%@'..." xml:space="preserve">
-        <source>Domain '%@'...</source>
-        <note/>
-      </trans-unit>
       <trans-unit id="Domain: '%@'..." xml:space="preserve">
         <source>Domain: '%@'...</source>
         <note/>
@@ -2138,6 +2218,10 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <source>Enable</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Enable Blocking" xml:space="preserve">
+        <source>Enable Blocking</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Enable and disable blocking." xml:space="preserve">
         <source>Enable and disable blocking.</source>
         <note/>
@@ -2148,6 +2232,10 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Enable this option to enable IPv6 support for the Pi-hole DHCP server. This will allow the Pi-hole to hand out IPv6 addresses to clients and also provide IPv6 router advertisements (RA) to clients. This option is only useful if the Pi-hole is configured with an IPv6 address." xml:space="preserve">
         <source>Enable this option to enable IPv6 support for the Pi-hole DHCP server. This will allow the Pi-hole to hand out IPv6 addresses to clients and also provide IPv6 router advertisements (RA) to clients. This option is only useful if the Pi-hole is configured with an IPv6 address.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enable to block the service, disable to unblock it." xml:space="preserve">
+        <source>Enable to block the service, disable to unblock it.</source>
         <note/>
       </trans-unit>
       <trans-unit id="Enabled" xml:space="preserve">
@@ -2252,10 +2340,6 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Filter by status" xml:space="preserve">
         <source>Filter by status</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Filtered by %@" xml:space="preserve">
-        <source>Filtered by %@</source>
         <note/>
       </trans-unit>
       <trans-unit id="Filtered by `%@`" xml:space="preserve">
@@ -2431,6 +2515,10 @@ Please do not share this code with others.</source>
       <trans-unit id="Hostname or IP address" xml:space="preserve">
         <source>Hostname or IP address</source>
         <note/>
+      </trans-unit>
+      <trans-unit id="How to change" xml:space="preserve">
+        <source>How to change</source>
+        <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
       </trans-unit>
       <trans-unit id="I can't find your purchase. Do you think this is incorrect? Please contact me through the 'Help &amp; Feedback' button in settings." xml:space="preserve">
         <source>I can't find your purchase. Do you think this is incorrect? Please contact me through the 'Help &amp; Feedback' button in settings.</source>
@@ -2962,6 +3050,10 @@ Note: When this feature is enabled you will need to configure new clients manual
         <source>PHR+ for early users</source>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
+      <trans-unit id="PHR+ is required to use this feature." xml:space="preserve">
+        <source>PHR+ is required to use this feature.</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="PHR+ unlocks all these features, as well as new features in future updates. By purchasing PHR+ you will also support future development of the app, which is made by %@ (hi! 👋). I really appreciate it!" xml:space="preserve">
         <source>PHR+ unlocks all these features, as well as new features in future updates. By purchasing PHR+ you will also support future development of the app, which is made by %@ (hi! 👋). I really appreciate it!</source>
         <note>Used on the PHR+ purchase screen.</note>
@@ -3263,6 +3355,10 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>Selected</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Service" xml:space="preserve">
+        <source>Service</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Services" xml:space="preserve">
         <source>Services</source>
         <note/>
@@ -3383,6 +3479,14 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>Specify which instance(s) to check.</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Specify which instance(s) to control." xml:space="preserve">
+        <source>Specify which instance(s) to control.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Specify which service(s) to toggle." xml:space="preserve">
+        <source>Specify which service(s) to toggle.</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Speed" xml:space="preserve">
         <source>Speed</source>
         <note/>
@@ -3410,6 +3514,14 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       <trans-unit id="Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period and will be charged to your iTunes account. You can turn off auto-renew/manage subscriptions in your iTunes Account Settings after purchase." xml:space="preserve">
         <source>Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period and will be charged to your iTunes account. You can turn off auto-renew/manage subscriptions in your iTunes Account Settings after purchase.</source>
         <note>Used on the PHR+ purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="Successfully disabled blocking for %@." xml:space="preserve">
+        <source>Successfully disabled blocking for %@.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Successfully enabled blocking for %@." xml:space="preserve">
+        <source>Successfully enabled blocking for %@.</source>
+        <note/>
       </trans-unit>
       <trans-unit id="Suggestions" xml:space="preserve">
         <source>Suggestions</source>
@@ -3491,6 +3603,14 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>Tells Pi-hole to never forward A or AAAA queries for plain names, without dots or domain parts, to upstream nameservers. If the name is not known from /etc/hosts or DHCP then a "not found" answer is returned.
 
 If Conditional Forwarding is enabled, unticking this box may cause a partial DNS loop under certain circumstances (e.g. if a client would send TLD DNSSEC queries).</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Temperature" xml:space="preserve">
+        <source>Temperature</source>
+        <note>Used on Preferences &gt; Home.</note>
+      </trans-unit>
+      <trans-unit id="Temperature unit" xml:space="preserve">
+        <source>Temperature unit</source>
         <note/>
       </trans-unit>
       <trans-unit id="Terms of Use" xml:space="preserve">
@@ -3579,6 +3699,10 @@ In return, I would really appreciate it if you could leave a review in the App S
       </trans-unit>
       <trans-unit id="Tip Jar" xml:space="preserve">
         <source>Tip Jar</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Toggle Blocked Services" xml:space="preserve">
+        <source>Toggle Blocked Services</source>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle Blocking" xml:space="preserve">

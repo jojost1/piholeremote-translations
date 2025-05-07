@@ -155,6 +155,10 @@
         <source>Add your Pi-hole instances on an iOS, iPadOS, or macOS device with version 6.2 or higher and make sure iCloud is enabled.</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Allow-list" xml:space="preserve">
+        <source>Allow-list</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Allowed" xml:space="preserve">
         <source>Allowed</source>
         <note/>
@@ -279,6 +283,10 @@
         <source>Compact mode</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Control blocking of services on your Pi-hole. (Requires PHR+)" xml:space="preserve">
+        <source>Control blocking of services on your Pi-hole. (Requires PHR+)</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Core" xml:space="preserve">
         <source>Core</source>
         <note/>
@@ -291,6 +299,14 @@
         <source>Date</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Deny-list" xml:space="preserve">
+        <source>Deny-list</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Denylist" xml:space="preserve">
+        <source>Denylist</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Domain" xml:space="preserve">
         <source>Domain</source>
         <note/>
@@ -299,8 +315,20 @@
         <source>Duration</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Enable Blocking" xml:space="preserve">
+        <source>Enable Blocking</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Enable blocking" xml:space="preserve">
         <source>Enable blocking</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enable to block the service, disable to unblock it." xml:space="preserve">
+        <source>Enable to block the service, disable to unblock it.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Exact" xml:space="preserve">
+        <source>Exact</source>
         <note/>
       </trans-unit>
       <trans-unit id="FTL" xml:space="preserve">
@@ -363,6 +391,10 @@
         <source>No connection</source>
         <note/>
       </trans-unit>
+      <trans-unit id="PHR+ is required to use this feature." xml:space="preserve">
+        <source>PHR+ is required to use this feature.</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Pi-hole Remote" xml:space="preserve">
         <source>Pi-hole Remote</source>
         <note/>
@@ -387,6 +419,10 @@
         <source>Refreshing</source>
         <note/>
       </trans-unit>
+      <trans-unit id="RegEx" xml:space="preserve">
+        <source>RegEx</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Retried" xml:space="preserve">
         <source>Retried</source>
         <note/>
@@ -397,6 +433,14 @@
       </trans-unit>
       <trans-unit id="Selected" xml:space="preserve">
         <source>Selected</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Service" xml:space="preserve">
+        <source>Service</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Services" xml:space="preserve">
+        <source>Services</source>
         <note/>
       </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
@@ -417,6 +461,26 @@
       </trans-unit>
       <trans-unit id="Specify which instance(s) to check." xml:space="preserve">
         <source>Specify which instance(s) to check.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Specify which instance(s) to control." xml:space="preserve">
+        <source>Specify which instance(s) to control.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Specify which service(s) to toggle." xml:space="preserve">
+        <source>Specify which service(s) to toggle.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Successfully disabled blocking for %@." xml:space="preserve">
+        <source>Successfully disabled blocking for %@.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Successfully enabled blocking for %@." xml:space="preserve">
+        <source>Successfully enabled blocking for %@.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Toggle Blocked Services" xml:space="preserve">
+        <source>Toggle Blocked Services</source>
         <note/>
       </trans-unit>
       <trans-unit id="Top Clients" xml:space="preserve">
@@ -1184,6 +1248,11 @@
         <target state="translated">1 decimaal</target>
         <note>Displays in the metrics decimals picker.</note>
       </trans-unit>
+      <trans-unit id="1. Open the Pi-hole web interface" xml:space="preserve">
+        <source>1. Open the Pi-hole web interface</source>
+        <target state="translated">1. Open de Pi-hole web interface</target>
+        <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
+      </trans-unit>
       <trans-unit id="1h" xml:space="preserve">
         <source>1h</source>
         <target state="translated">1u</target>
@@ -1193,6 +1262,31 @@
         <source>2 decimals</source>
         <target state="translated">2 decimalen</target>
         <note>Displays in the metrics decimals picker.</note>
+      </trans-unit>
+      <trans-unit id="2. In the sidebar, go to **Settings &gt; System**" xml:space="preserve">
+        <source>2. In the sidebar, go to **Settings &gt; System**</source>
+        <target state="translated">2. In de zijbalk, ga naar **Settings &gt; System**</target>
+        <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
+      </trans-unit>
+      <trans-unit id="3. In the top-right corner, turn on **Expert**" xml:space="preserve">
+        <source>3. In the top-right corner, turn on **Expert**</source>
+        <target state="translated">3. Helemaal rechtsboven, zet **Expert** aan door op het schuifje te klikken</target>
+        <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
+      </trans-unit>
+      <trans-unit id="4. Then, go to **Settings &gt; All settings** in the sidebar." xml:space="preserve">
+        <source>4. Then, go to **Settings &gt; All settings** in the sidebar.</source>
+        <target state="translated">4. Ga dan naar **Settings &gt; All settings** in de zijbalk</target>
+        <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
+      </trans-unit>
+      <trans-unit id="5. Select **Webserver and API**, and scroll to the very bottom of the page" xml:space="preserve">
+        <source>5. Select **Webserver and API**, and scroll to the very bottom of the page</source>
+        <target state="translated">5. Selecteer **Webserver and API** en scroll helemaal naar beneden op de pagina</target>
+        <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
+      </trans-unit>
+      <trans-unit id="6. Under the card labeled `webserver.api.temp.unit`, choose your preferred temperature unit" xml:space="preserve">
+        <source>6. Under the card labeled `webserver.api.temp.unit`, choose your preferred temperature unit</source>
+        <target state="translated">6. Kies je eenheid in het kaartje `webserver.api.temp.unit`</target>
+        <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
       </trans-unit>
       <trans-unit id="60" translate="no" xml:space="preserve">
         <source>60</source>
@@ -1872,11 +1966,6 @@ Om nieuwe keuzes toe te voegen, ga naar Instellingen &gt; Voorkeuren &gt; Starts
         <target state="translated">Client IP</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Client IP '%@'..." xml:space="preserve">
-        <source>Client IP '%@'...</source>
-        <target state="translated">Client IP '%@'...</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Client IP: '%@'..." xml:space="preserve">
         <source>Client IP: '%@'...</source>
         <target state="translated">Client IP: '%@'...</target>
@@ -1890,11 +1979,6 @@ Om nieuwe keuzes toe te voegen, ga naar Instellingen &gt; Voorkeuren &gt; Starts
       <trans-unit id="Client Name" xml:space="preserve">
         <source>Client Name</source>
         <target state="translated">Client naam</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Client Name '%@'..." xml:space="preserve">
-        <source>Client Name '%@'...</source>
-        <target state="translated">Client naam '%@'...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Client Name: '%@'..." xml:space="preserve">
@@ -2005,6 +2089,11 @@ Let op: het herkennen van clients op basis van IP-adressen (inclusief subnetbere
         <source>Continue</source>
         <target state="translated">Ga door</target>
         <note>Used in onboarding and changelogs.</note>
+      </trans-unit>
+      <trans-unit id="Control blocking of services on your Pi-hole. (Requires PHR+)" xml:space="preserve">
+        <source>Control blocking of services on your Pi-hole. (Requires PHR+)</source>
+        <target state="translated">Beheer het blokkeren van diensten op je Pi-hole. (PHR+ vereist)</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Converted to: (\\.|^)%@$" xml:space="preserve">
         <source>Converted to: (\\.|^)%@$</source>
@@ -2310,11 +2399,6 @@ Let op: het herkennen van clients op basis van IP-adressen (inclusief subnetbere
         <target state="translated">Domein</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Domain '%@'..." xml:space="preserve">
-        <source>Domain '%@'...</source>
-        <target state="translated">Domein '%@'...</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Domain: '%@'..." xml:space="preserve">
         <source>Domain: '%@'...</source>
         <target state="translated">Domein: '%@'...</target>
@@ -2390,6 +2474,11 @@ Let op: het herkennen van clients op basis van IP-adressen (inclusief subnetbere
         <target state="translated">Inschakelen</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Enable Blocking" xml:space="preserve">
+        <source>Enable Blocking</source>
+        <target state="translated">Blokkeren inschakelen</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Enable and disable blocking." xml:space="preserve">
         <source>Enable and disable blocking.</source>
         <target state="translated">Schakel blokkeren in en uit.</target>
@@ -2403,6 +2492,11 @@ Let op: het herkennen van clients op basis van IP-adressen (inclusief subnetbere
       <trans-unit id="Enable this option to enable IPv6 support for the Pi-hole DHCP server. This will allow the Pi-hole to hand out IPv6 addresses to clients and also provide IPv6 router advertisements (RA) to clients. This option is only useful if the Pi-hole is configured with an IPv6 address." xml:space="preserve">
         <source>Enable this option to enable IPv6 support for the Pi-hole DHCP server. This will allow the Pi-hole to hand out IPv6 addresses to clients and also provide IPv6 router advertisements (RA) to clients. This option is only useful if the Pi-hole is configured with an IPv6 address.</source>
         <target state="translated">Schakel deze optie in om IPv6-ondersteuning in te schakelen voor de DHCP-server van Pi-hole. Hierdoor kan de Pi-hole IPv6-adressen toewijzen aan clients en ook IPv6-routeradvertenties (RA) versturen naar clients. Deze optie is alleen nuttig als de Pi-hole is geconfigureerd met een IPv6-adres.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enable to block the service, disable to unblock it." xml:space="preserve">
+        <source>Enable to block the service, disable to unblock it.</source>
+        <target state="translated">Inschakelen om blokkeren in te schakelen, uitzetten om blokkeren uit te schakelen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enabled" xml:space="preserve">
@@ -2532,11 +2626,6 @@ Let op: het herkennen van clients op basis van IP-adressen (inclusief subnetbere
       <trans-unit id="Filter by status" xml:space="preserve">
         <source>Filter by status</source>
         <target state="translated">Filter op status</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Filtered by %@" xml:space="preserve">
-        <source>Filtered by %@</source>
-        <target state="translated">Gefilterd op %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Filtered by `%@`" xml:space="preserve">
@@ -2755,6 +2844,11 @@ Deel deze code alsjeblieft niet met anderen.</target>
         <source>Hostname or IP address</source>
         <target state="translated">Hostnaam of IP adres</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="How to change" xml:space="preserve">
+        <source>How to change</source>
+        <target state="translated">Hoe te veranderen</target>
+        <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
       </trans-unit>
       <trans-unit id="I can't find your purchase. Do you think this is incorrect? Please contact me through the 'Help &amp; Feedback' button in settings." xml:space="preserve">
         <source>I can't find your purchase. Do you think this is incorrect? Please contact me through the 'Help &amp; Feedback' button in settings.</source>
@@ -3418,6 +3512,11 @@ Opmerking: Wanneer deze functie is ingeschakeld, moet je nieuwe clients handmati
         <target state="translated">PHR+ voor vroege gebruikers</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
+      <trans-unit id="PHR+ is required to use this feature." xml:space="preserve">
+        <source>PHR+ is required to use this feature.</source>
+        <target state="translated">PHR+ is vereist om deze functie te gebruiken.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="PHR+ unlocks all these features, as well as new features in future updates. By purchasing PHR+ you will also support future development of the app, which is made by %@ (hi! 👋). I really appreciate it!" xml:space="preserve">
         <source>PHR+ unlocks all these features, as well as new features in future updates. By purchasing PHR+ you will also support future development of the app, which is made by %@ (hi! 👋). I really appreciate it!</source>
         <target state="translated">PHR+ ontgrendelt al deze functies, evenals nieuwe functies in toekomstige updates. Door PHR+ aan te schaffen ondersteun je ook de toekomstige ontwikkeling van de app, die gemaakt is door %@ (hallo! 👋). Ik waardeer het enorm!</target>
@@ -3789,6 +3888,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">Geselecteerd</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Service" xml:space="preserve">
+        <source>Service</source>
+        <target state="translated">Dienst</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Services" xml:space="preserve">
         <source>Services</source>
         <target state="translated">Diensten</target>
@@ -3938,6 +4042,16 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">Geef op welke instantie(s) gecontroleerd moeten worden.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Specify which instance(s) to control." xml:space="preserve">
+        <source>Specify which instance(s) to control.</source>
+        <target state="translated">Welke instantie(s) om te bedienen.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Specify which service(s) to toggle." xml:space="preserve">
+        <source>Specify which service(s) to toggle.</source>
+        <target state="translated">Welke dienst(en) om blokkeren voor aan te passen.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Speed" xml:space="preserve">
         <source>Speed</source>
         <target state="translated">Snelheid</target>
@@ -3972,6 +4086,16 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period and will be charged to your iTunes account. You can turn off auto-renew/manage subscriptions in your iTunes Account Settings after purchase.</source>
         <target state="translated">Abonnementen worden automatisch verlengd, tenzij de automatische verlenging ten minste 24 uur voor het einde van de huidige periode wordt uitgeschakeld, en worden in rekening gebracht bij je iTunes-account. Je kunt de automatische verlenging uitschakelen/beheer van abonnementen regelen in je iTunes-accountinstellingen na aankoop.</target>
         <note>Used on the PHR+ purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="Successfully disabled blocking for %@." xml:space="preserve">
+        <source>Successfully disabled blocking for %@.</source>
+        <target state="translated">Blokkeren uitgeschakeld voor %@.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Successfully enabled blocking for %@." xml:space="preserve">
+        <source>Successfully enabled blocking for %@.</source>
+        <target state="translated">Blokkeren ingeschakeld voor %@.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Suggestions" xml:space="preserve">
         <source>Suggestions</source>
@@ -4075,6 +4199,16 @@ If Conditional Forwarding is enabled, unticking this box may cause a partial DNS
         <target state="translated">Geeft Pi-hole de instructie om nooit A- of AAAA-query’s voor gewone namen, zonder punten of domeindelen, door te sturen naar upstream-nameservers. Als de naam niet bekend is vanuit /etc/hosts of DHCP, wordt een “niet gevonden”-antwoord geretourneerd.
 
 Als voorwaardelijke doorsturing is ingeschakeld, kan het uitschakelen van dit vakje onder bepaalde omstandigheden (bijvoorbeeld als een client TLD DNSSEC-query’s zou verzenden) een gedeeltelijke DNS-lus veroorzaken.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Temperature" xml:space="preserve">
+        <source>Temperature</source>
+        <target state="translated">Temperatuur</target>
+        <note>Used on Preferences &gt; Home.</note>
+      </trans-unit>
+      <trans-unit id="Temperature unit" xml:space="preserve">
+        <source>Temperature unit</source>
+        <target state="translated">Temperatuur eenheid</target>
         <note/>
       </trans-unit>
       <trans-unit id="Terms of Use" xml:space="preserve">
@@ -4188,6 +4322,11 @@ Als dank zou ik het enorm waarderen als je een recensie achterlaat in de App Sto
       <trans-unit id="Tip Jar" xml:space="preserve">
         <source>Tip Jar</source>
         <target state="translated">Fooienpot</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Toggle Blocked Services" xml:space="preserve">
+        <source>Toggle Blocked Services</source>
+        <target state="translated">Bedien geblokkeerde diensten</target>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle Blocking" xml:space="preserve">

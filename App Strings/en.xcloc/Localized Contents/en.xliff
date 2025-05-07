@@ -166,6 +166,11 @@
         <target state="new">Add your Pi-hole instances on an iOS, iPadOS, or macOS device with version 6.2 or higher and make sure iCloud is enabled.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Allow-list" xml:space="preserve">
+        <source>Allow-list</source>
+        <target state="new">Allow-list</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Allowed" xml:space="preserve">
         <source>Allowed</source>
         <target state="new">Allowed</target>
@@ -321,6 +326,11 @@
         <target state="new">Compact mode</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Control blocking of services on your Pi-hole. (Requires PHR+)" xml:space="preserve">
+        <source>Control blocking of services on your Pi-hole. (Requires PHR+)</source>
+        <target state="new">Control blocking of services on your Pi-hole. (Requires PHR+)</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Core" xml:space="preserve">
         <source>Core</source>
         <target state="new">Core</target>
@@ -336,6 +346,16 @@
         <target state="new">Date</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Deny-list" xml:space="preserve">
+        <source>Deny-list</source>
+        <target state="new">Deny-list</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Denylist" xml:space="preserve">
+        <source>Denylist</source>
+        <target state="new">Denylist</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Domain" xml:space="preserve">
         <source>Domain</source>
         <target state="new">Domain</target>
@@ -346,9 +366,24 @@
         <target state="new">Duration</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Enable Blocking" xml:space="preserve">
+        <source>Enable Blocking</source>
+        <target state="new">Enable Blocking</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Enable blocking" xml:space="preserve">
         <source>Enable blocking</source>
         <target state="new">Enable blocking</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enable to block the service, disable to unblock it." xml:space="preserve">
+        <source>Enable to block the service, disable to unblock it.</source>
+        <target state="new">Enable to block the service, disable to unblock it.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Exact" xml:space="preserve">
+        <source>Exact</source>
+        <target state="new">Exact</target>
         <note/>
       </trans-unit>
       <trans-unit id="FTL" xml:space="preserve">
@@ -426,6 +461,11 @@
         <target state="new">No connection</target>
         <note/>
       </trans-unit>
+      <trans-unit id="PHR+ is required to use this feature." xml:space="preserve">
+        <source>PHR+ is required to use this feature.</source>
+        <target state="new">PHR+ is required to use this feature.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Pi-hole Remote" xml:space="preserve">
         <source>Pi-hole Remote</source>
         <target state="new">Pi-hole Remote</target>
@@ -456,6 +496,11 @@
         <target state="new">Refreshing</target>
         <note/>
       </trans-unit>
+      <trans-unit id="RegEx" xml:space="preserve">
+        <source>RegEx</source>
+        <target state="new">RegEx</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Retried" xml:space="preserve">
         <source>Retried</source>
         <target state="new">Retried</target>
@@ -469,6 +514,16 @@
       <trans-unit id="Selected" xml:space="preserve">
         <source>Selected</source>
         <target state="new">Selected</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Service" xml:space="preserve">
+        <source>Service</source>
+        <target state="new">Service</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Services" xml:space="preserve">
+        <source>Services</source>
+        <target state="new">Services</target>
         <note/>
       </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
@@ -494,6 +549,31 @@
       <trans-unit id="Specify which instance(s) to check." xml:space="preserve">
         <source>Specify which instance(s) to check.</source>
         <target state="new">Specify which instance(s) to check.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Specify which instance(s) to control." xml:space="preserve">
+        <source>Specify which instance(s) to control.</source>
+        <target state="new">Specify which instance(s) to control.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Specify which service(s) to toggle." xml:space="preserve">
+        <source>Specify which service(s) to toggle.</source>
+        <target state="new">Specify which service(s) to toggle.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Successfully disabled blocking for %@." xml:space="preserve">
+        <source>Successfully disabled blocking for %@.</source>
+        <target state="new">Successfully disabled blocking for %@.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Successfully enabled blocking for %@." xml:space="preserve">
+        <source>Successfully enabled blocking for %@.</source>
+        <target state="new">Successfully enabled blocking for %@.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Toggle Blocked Services" xml:space="preserve">
+        <source>Toggle Blocked Services</source>
+        <target state="new">Toggle Blocked Services</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Clients" xml:space="preserve">
@@ -1323,6 +1403,11 @@
         <target state="new">1 decimal</target>
         <note>Displays in the metrics decimals picker.</note>
       </trans-unit>
+      <trans-unit id="1. Open the Pi-hole web interface" xml:space="preserve">
+        <source>1. Open the Pi-hole web interface</source>
+        <target state="new">1. Open the Pi-hole web interface</target>
+        <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
+      </trans-unit>
       <trans-unit id="1h" xml:space="preserve">
         <source>1h</source>
         <target state="new">1h</target>
@@ -1332,6 +1417,31 @@
         <source>2 decimals</source>
         <target state="new">2 decimals</target>
         <note>Displays in the metrics decimals picker.</note>
+      </trans-unit>
+      <trans-unit id="2. In the sidebar, go to **Settings &gt; System**" xml:space="preserve">
+        <source>2. In the sidebar, go to **Settings &gt; System**</source>
+        <target state="new">2. In the sidebar, go to **Settings &gt; System**</target>
+        <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
+      </trans-unit>
+      <trans-unit id="3. In the top-right corner, turn on **Expert**" xml:space="preserve">
+        <source>3. In the top-right corner, turn on **Expert**</source>
+        <target state="new">3. In the top-right corner, turn on **Expert**</target>
+        <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
+      </trans-unit>
+      <trans-unit id="4. Then, go to **Settings &gt; All settings** in the sidebar." xml:space="preserve">
+        <source>4. Then, go to **Settings &gt; All settings** in the sidebar.</source>
+        <target state="new">4. Then, go to **Settings &gt; All settings** in the sidebar.</target>
+        <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
+      </trans-unit>
+      <trans-unit id="5. Select **Webserver and API**, and scroll to the very bottom of the page" xml:space="preserve">
+        <source>5. Select **Webserver and API**, and scroll to the very bottom of the page</source>
+        <target state="new">5. Select **Webserver and API**, and scroll to the very bottom of the page</target>
+        <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
+      </trans-unit>
+      <trans-unit id="6. Under the card labeled `webserver.api.temp.unit`, choose your preferred temperature unit" xml:space="preserve">
+        <source>6. Under the card labeled `webserver.api.temp.unit`, choose your preferred temperature unit</source>
+        <target state="new">6. Under the card labeled `webserver.api.temp.unit`, choose your preferred temperature unit</target>
+        <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
       </trans-unit>
       <trans-unit id="60" translate="no" xml:space="preserve">
         <source>60</source>
@@ -2013,11 +2123,6 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="new">Client IP</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Client IP '%@'..." xml:space="preserve">
-        <source>Client IP '%@'...</source>
-        <target state="new">Client IP '%@'...</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Client IP: '%@'..." xml:space="preserve">
         <source>Client IP: '%@'...</source>
         <target state="new">Client IP: '%@'...</target>
@@ -2031,11 +2136,6 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       <trans-unit id="Client Name" xml:space="preserve">
         <source>Client Name</source>
         <target state="new">Client Name</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Client Name '%@'..." xml:space="preserve">
-        <source>Client Name '%@'...</source>
-        <target state="new">Client Name '%@'...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Client Name: '%@'..." xml:space="preserve">
@@ -2146,6 +2246,11 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <source>Continue</source>
         <target state="new">Continue</target>
         <note>Used in onboarding and changelogs.</note>
+      </trans-unit>
+      <trans-unit id="Control blocking of services on your Pi-hole. (Requires PHR+)" xml:space="preserve">
+        <source>Control blocking of services on your Pi-hole. (Requires PHR+)</source>
+        <target state="new">Control blocking of services on your Pi-hole. (Requires PHR+)</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Converted to: (\\.|^)%@$" xml:space="preserve">
         <source>Converted to: (\\.|^)%@$</source>
@@ -2452,11 +2557,6 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <target state="new">Domain</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Domain '%@'..." xml:space="preserve">
-        <source>Domain '%@'...</source>
-        <target state="new">Domain '%@'...</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Domain: '%@'..." xml:space="preserve">
         <source>Domain: '%@'...</source>
         <target state="new">Domain: '%@'...</target>
@@ -2532,6 +2632,11 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <target state="new">Enable</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Enable Blocking" xml:space="preserve">
+        <source>Enable Blocking</source>
+        <target state="new">Enable Blocking</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Enable and disable blocking." xml:space="preserve">
         <source>Enable and disable blocking.</source>
         <target state="new">Enable and disable blocking.</target>
@@ -2545,6 +2650,11 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       <trans-unit id="Enable this option to enable IPv6 support for the Pi-hole DHCP server. This will allow the Pi-hole to hand out IPv6 addresses to clients and also provide IPv6 router advertisements (RA) to clients. This option is only useful if the Pi-hole is configured with an IPv6 address." xml:space="preserve">
         <source>Enable this option to enable IPv6 support for the Pi-hole DHCP server. This will allow the Pi-hole to hand out IPv6 addresses to clients and also provide IPv6 router advertisements (RA) to clients. This option is only useful if the Pi-hole is configured with an IPv6 address.</source>
         <target state="new">Enable this option to enable IPv6 support for the Pi-hole DHCP server. This will allow the Pi-hole to hand out IPv6 addresses to clients and also provide IPv6 router advertisements (RA) to clients. This option is only useful if the Pi-hole is configured with an IPv6 address.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enable to block the service, disable to unblock it." xml:space="preserve">
+        <source>Enable to block the service, disable to unblock it.</source>
+        <target state="new">Enable to block the service, disable to unblock it.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enabled" xml:space="preserve">
@@ -2675,11 +2785,6 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       <trans-unit id="Filter by status" xml:space="preserve">
         <source>Filter by status</source>
         <target state="new">Filter by status</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Filtered by %@" xml:space="preserve">
-        <source>Filtered by %@</source>
-        <target state="new">Filtered by %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Filtered by `%@`" xml:space="preserve">
@@ -2900,6 +3005,11 @@ Please do not share this code with others.</target>
         <source>Hostname or IP address</source>
         <target state="new">Hostname or IP address</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="How to change" xml:space="preserve">
+        <source>How to change</source>
+        <target state="new">How to change</target>
+        <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
       </trans-unit>
       <trans-unit id="I can't find your purchase. Do you think this is incorrect? Please contact me through the 'Help &amp; Feedback' button in settings." xml:space="preserve">
         <source>I can't find your purchase. Do you think this is incorrect? Please contact me through the 'Help &amp; Feedback' button in settings.</source>
@@ -3568,6 +3678,11 @@ Note: When this feature is enabled you will need to configure new clients manual
         <target state="new">PHR+ for early users</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
+      <trans-unit id="PHR+ is required to use this feature." xml:space="preserve">
+        <source>PHR+ is required to use this feature.</source>
+        <target state="new">PHR+ is required to use this feature.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="PHR+ unlocks all these features, as well as new features in future updates. By purchasing PHR+ you will also support future development of the app, which is made by %@ (hi! 👋). I really appreciate it!" xml:space="preserve">
         <source>PHR+ unlocks all these features, as well as new features in future updates. By purchasing PHR+ you will also support future development of the app, which is made by %@ (hi! 👋). I really appreciate it!</source>
         <target state="new">PHR+ unlocks all these features, as well as new features in future updates. By purchasing PHR+ you will also support future development of the app, which is made by %@ (hi! 👋). I really appreciate it!</target>
@@ -3944,6 +4059,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="new">Selected</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Service" xml:space="preserve">
+        <source>Service</source>
+        <target state="new">Service</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Services" xml:space="preserve">
         <source>Services</source>
         <target state="new">Services</target>
@@ -4094,6 +4214,16 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="new">Specify which instance(s) to check.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Specify which instance(s) to control." xml:space="preserve">
+        <source>Specify which instance(s) to control.</source>
+        <target state="new">Specify which instance(s) to control.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Specify which service(s) to toggle." xml:space="preserve">
+        <source>Specify which service(s) to toggle.</source>
+        <target state="new">Specify which service(s) to toggle.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Speed" xml:space="preserve">
         <source>Speed</source>
         <target state="new">Speed</target>
@@ -4128,6 +4258,16 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period and will be charged to your iTunes account. You can turn off auto-renew/manage subscriptions in your iTunes Account Settings after purchase.</source>
         <target state="new">Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period and will be charged to your iTunes account. You can turn off auto-renew/manage subscriptions in your iTunes Account Settings after purchase.</target>
         <note>Used on the PHR+ purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="Successfully disabled blocking for %@." xml:space="preserve">
+        <source>Successfully disabled blocking for %@.</source>
+        <target state="new">Successfully disabled blocking for %@.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Successfully enabled blocking for %@." xml:space="preserve">
+        <source>Successfully enabled blocking for %@.</source>
+        <target state="new">Successfully enabled blocking for %@.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Suggestions" xml:space="preserve">
         <source>Suggestions</source>
@@ -4231,6 +4371,16 @@ If Conditional Forwarding is enabled, unticking this box may cause a partial DNS
         <target state="new">Tells Pi-hole to never forward A or AAAA queries for plain names, without dots or domain parts, to upstream nameservers. If the name is not known from /etc/hosts or DHCP then a "not found" answer is returned.
 
 If Conditional Forwarding is enabled, unticking this box may cause a partial DNS loop under certain circumstances (e.g. if a client would send TLD DNSSEC queries).</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Temperature" xml:space="preserve">
+        <source>Temperature</source>
+        <target state="new">Temperature</target>
+        <note>Used on Preferences &gt; Home.</note>
+      </trans-unit>
+      <trans-unit id="Temperature unit" xml:space="preserve">
+        <source>Temperature unit</source>
+        <target state="new">Temperature unit</target>
         <note/>
       </trans-unit>
       <trans-unit id="Terms of Use" xml:space="preserve">
@@ -4344,6 +4494,11 @@ In return, I would really appreciate it if you could leave a review in the App S
       <trans-unit id="Tip Jar" xml:space="preserve">
         <source>Tip Jar</source>
         <target state="new">Tip Jar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Toggle Blocked Services" xml:space="preserve">
+        <source>Toggle Blocked Services</source>
+        <target state="new">Toggle Blocked Services</target>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle Blocking" xml:space="preserve">
