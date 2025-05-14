@@ -1333,6 +1333,11 @@
         <target state="new">%@ OFF</target>
         <note>Used on the PHR+ purchase screen to show a discount percentage, intentionally uppercased.</note>
       </trans-unit>
+      <trans-unit id="%@ active" xml:space="preserve">
+        <source>%@ active</source>
+        <target state="new">%@ active</target>
+        <note>Apple Watch, displays active clients.</note>
+      </trans-unit>
       <trans-unit id="%@ active / %@ total" xml:space="preserve">
         <source>%1$@ active / %2$@ total</source>
         <target state="new">%1$@ active / %2$@ total</target>
@@ -1536,7 +1541,7 @@
       <trans-unit id="Add" xml:space="preserve">
         <source>Add</source>
         <target state="new">Add</target>
-        <note/>
+        <note>Used in the Settings-tab in the 'instances' section header.</note>
       </trans-unit>
       <trans-unit id="Add '%@'" xml:space="preserve">
         <source>Add '%@'</source>
@@ -1546,6 +1551,11 @@
       <trans-unit id="Add 5 minutes" xml:space="preserve">
         <source>Add 5 minutes</source>
         <target state="new">Add 5 minutes</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add Custom Services" xml:space="preserve">
+        <source>Add Custom Services</source>
+        <target state="new">Add Custom Services</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add Instance" xml:space="preserve">
@@ -1666,6 +1676,11 @@
       <trans-unit id="Added to all new groups." xml:space="preserve">
         <source>Added to all new groups.</source>
         <target state="new">Added to all new groups.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Adding Custom Blocked Services requires PHR+" xml:space="preserve">
+        <source>Adding Custom Blocked Services requires PHR+</source>
+        <target state="new">Adding Custom Blocked Services requires PHR+</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adding/removing local CNAME records will restart the DNS server." xml:space="preserve">
@@ -2327,6 +2342,11 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <target state="new">Current Version</target>
         <note>Used in the Changelog.</note>
       </trans-unit>
+      <trans-unit id="Custom" xml:space="preserve">
+        <source>Custom</source>
+        <target state="new">Custom</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Custom Headers" xml:space="preserve">
         <source>Custom Headers</source>
         <target state="new">Custom Headers</target>
@@ -2572,6 +2592,11 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <target state="new">Domains &amp; Adlists</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Domains will be converted to RegEx to involve all subdomains." xml:space="preserve">
+        <source>Domains will be converted to RegEx to involve all subdomains.</source>
+        <target state="new">Domains will be converted to RegEx to involve all subdomains.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Domains: %@" xml:space="preserve">
         <source>Domains: %@</source>
         <target state="new">Domains: %@</target>
@@ -2615,6 +2640,11 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       <trans-unit id="Edit Instance" xml:space="preserve">
         <source>Edit Instance</source>
         <target state="new">Edit Instance</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Edit Service" xml:space="preserve">
+        <source>Edit Service</source>
+        <target state="new">Edit Service</target>
         <note/>
       </trans-unit>
       <trans-unit id="Edit presets..." xml:space="preserve">
@@ -2842,11 +2872,6 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <target state="new">Force Widget Refresh</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Force WidgetKit refresh" xml:space="preserve">
-        <source>Force WidgetKit refresh</source>
-        <target state="new">Force WidgetKit refresh</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Force a refresh to update the buttons. If this doesn't work, wait a while or try restarting your device." xml:space="preserve">
         <source>Force a refresh to update the buttons. If this doesn't work, wait a while or try restarting your device.</source>
         <target state="new">Force a refresh to update the buttons. If this doesn't work, wait a while or try restarting your device.</target>
@@ -2980,6 +3005,16 @@ Please do not share this code with others.</target>
         <source>Hide on Home-tab</source>
         <target state="new">Hide on Home-tab</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Hide the %@ %@ card" xml:space="preserve">
+        <source>Hide the %1$@ %2$@ card</source>
+        <target state="new">Hide the %1$@ %2$@ card</target>
+        <note>Accessibility hint for show/hide statistics cards.</note>
+      </trans-unit>
+      <trans-unit id="Hide the %@ card" xml:space="preserve">
+        <source>Hide the %@ card</source>
+        <target state="new">Hide the %@ card</target>
+        <note>Accessibility hint for show/hide statistics cards.</note>
       </trans-unit>
       <trans-unit id="Home" xml:space="preserve">
         <source>Home</source>
@@ -3371,6 +3406,11 @@ Note: When this feature is enabled you will need to configure new clients manual
         <target state="new">Multiple</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Must be unique." xml:space="preserve">
+        <source>Must be unique.</source>
+        <target state="new">Must be unique.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
         <source>Name</source>
         <target state="new">Name</target>
@@ -3429,6 +3469,16 @@ Note: When this feature is enabled you will need to configure new clients manual
       <trans-unit id="New Record" xml:space="preserve">
         <source>New Record</source>
         <target state="new">New Record</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New Service" xml:space="preserve">
+        <source>New Service</source>
+        <target state="new">New Service</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New custom blocked service" xml:space="preserve">
+        <source>New custom blocked service</source>
+        <target state="new">New custom blocked service</target>
         <note/>
       </trans-unit>
       <trans-unit id="NextDNS Remote" translate="no" xml:space="preserve">
@@ -3668,15 +3718,15 @@ Note: When this feature is enabled you will need to configure new clients manual
         <target state="new">PHR+</target>
         <note/>
       </trans-unit>
-      <trans-unit id="PHR+ Active" xml:space="preserve">
-        <source>PHR+ Active</source>
-        <target state="new">PHR+ Active</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="PHR+ for early users" xml:space="preserve">
         <source>PHR+ for early users</source>
         <target state="new">PHR+ for early users</target>
         <note>Used on the PHR+ purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="PHR+ is required to enable more than 1 Blocked Service." xml:space="preserve">
+        <source>PHR+ is required to enable more than 1 Blocked Service.</source>
+        <target state="new">PHR+ is required to enable more than 1 Blocked Service.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="PHR+ is required to use this feature." xml:space="preserve">
         <source>PHR+ is required to use this feature.</source>
@@ -3929,6 +3979,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="new">Remove</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Remove Custom Service" xml:space="preserve">
+        <source>Remove Custom Service</source>
+        <target state="new">Remove Custom Service</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Remove Instance" xml:space="preserve">
         <source>Remove Instance</source>
         <target state="new">Remove Instance</target>
@@ -3962,6 +4017,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       <trans-unit id="Request PHR beta access" xml:space="preserve">
         <source>Request PHR beta access</source>
         <target state="new">Request PHR beta access</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Requires PHR+" xml:space="preserve">
+        <source>Requires PHR+</source>
+        <target state="new">Requires PHR+</target>
         <note/>
       </trans-unit>
       <trans-unit id="Requires Pi-hole v6.0 or higher." xml:space="preserve">
@@ -4153,6 +4213,16 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>Show response time</source>
         <target state="new">Show response time</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Show the %@ %@ card" xml:space="preserve">
+        <source>Show the %1$@ %2$@ card</source>
+        <target state="new">Show the %1$@ %2$@ card</target>
+        <note>Accessibility hint for show/hide statistics cards.</note>
+      </trans-unit>
+      <trans-unit id="Show the %@ card" xml:space="preserve">
+        <source>Show the %@ card</source>
+        <target state="new">Show the %@ card</target>
+        <note>Accessibility hint for show/hide statistics cards.</note>
       </trans-unit>
       <trans-unit id="Show version" xml:space="preserve">
         <source>Show version</source>
@@ -5049,6 +5119,11 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
         <target state="new">enable more than 1 Blocked Service.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="example.com" xml:space="preserve">
+        <source>example.com</source>
+        <target state="new">example.com</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="fast address assignment" xml:space="preserve">
         <source>fast address assignment</source>
         <target state="new">fast address assignment</target>
@@ -5408,14 +5483,16 @@ Joost</target>
         <target state="translated">Keep an eye on all your statistics.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="• Client &amp; Group Management&#10;• Change DHCP &amp; DNS Settings&#10;• Interactive Widgets&#10;• Multiple Instances&#10;• And much more!" xml:space="preserve">
+      <trans-unit id="• Client &amp; Group Management&#10;• Change DHCP &amp; DNS Settings&#10;• Custom Blocked Services&#10;• Interactive Widgets&#10;• Multiple Instances&#10;• And much more!" xml:space="preserve">
         <source>• Client &amp; Group Management
 • Change DHCP &amp; DNS Settings
+• Custom Blocked Services
 • Interactive Widgets
 • Multiple Instances
 • And much more!</source>
         <target state="new">• Client &amp; Group Management
 • Change DHCP &amp; DNS Settings
+• Custom Blocked Services
 • Interactive Widgets
 • Multiple Instances
 • And much more!</target>

@@ -30,6 +30,9 @@
       },
       "shouldTranslate" : false
     },
+    "%@ active" : {
+      "comment" : "Apple Watch, displays active clients."
+    },
     "%@ active / %@ total" : {
       "comment" : "Displays number of active and total clients when you tap the clients number on Home when 'Combine' is enabled.",
       "localizations" : {
@@ -95,7 +98,7 @@
     "%lld total" : {
       "comment" : "Displays the number of total clients in the Home-tab 'Clients' card."
     },
-    "• Client & Group Management\n• Change DHCP & DNS Settings\n• Interactive Widgets\n• Multiple Instances\n• And much more!" : {
+    "• Client & Group Management\n• Change DHCP & DNS Settings\n• Custom Blocked Services\n• Interactive Widgets\n• Multiple Instances\n• And much more!" : {
       "comment" : "Displayed in the onboarding."
     },
     "`/api` by default" : {
@@ -186,7 +189,7 @@
 
     },
     "Add" : {
-
+      "comment" : "Used in the Settings-tab in the 'instances' section header."
     },
     "Add '%@'" : {
       "comment" : "Used on the 'Add new disable preset' screen, e.g. 'Add 30 seconds'"
@@ -210,6 +213,9 @@
 
     },
     "Add custom header" : {
+
+    },
+    "Add Custom Services" : {
 
     },
     "Add Instance" : {
@@ -264,6 +270,9 @@
 
     },
     "Added to all new groups." : {
+
+    },
+    "Adding Custom Blocked Services requires PHR+" : {
 
     },
     "Adding/removing local CNAME records will restart the DNS server." : {
@@ -953,6 +962,9 @@
     "Current Version" : {
       "comment" : "Used in the Changelog."
     },
+    "Custom" : {
+
+    },
     "Custom Headers" : {
 
     },
@@ -1293,6 +1305,9 @@
     "Domains & Adlists" : {
 
     },
+    "Domains will be converted to RegEx to involve all subdomains." : {
+
+    },
     "Domains: %@" : {
       "comment" : "Displays the number of domains on an adlist."
     },
@@ -1331,6 +1346,9 @@
 
     },
     "Edit presets..." : {
+
+    },
+    "Edit Service" : {
 
     },
     "Editing presets requires PHR+." : {
@@ -1402,6 +1420,9 @@
     "Exact entries" : {
 
     },
+    "example.com" : {
+
+    },
     "Execute" : {
 
     },
@@ -1466,9 +1487,6 @@
 
     },
     "Force Widget Refresh" : {
-
-    },
-    "Force WidgetKit refresh" : {
 
     },
     "Forwarded" : {
@@ -1545,6 +1563,20 @@
     },
     "Hide on Home-tab" : {
 
+    },
+    "Hide the %@ %@ card" : {
+      "comment" : "Accessibility hint for show/hide statistics cards.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hide the %1$@ %2$@ card"
+          }
+        }
+      }
+    },
+    "Hide the %@ card" : {
+      "comment" : "Accessibility hint for show/hide statistics cards."
     },
     "Home" : {
 
@@ -1911,6 +1943,9 @@
     "Multiple" : {
 
     },
+    "Must be unique." : {
+
+    },
     "Name" : {
 
     },
@@ -1935,6 +1970,9 @@
     "New Client" : {
 
     },
+    "New custom blocked service" : {
+
+    },
     "New Group" : {
 
     },
@@ -1945,6 +1983,9 @@
 
     },
     "New Record" : {
+
+    },
+    "New Service" : {
 
     },
     "NextDNS Remote" : {
@@ -2143,11 +2184,11 @@
     "PHR+" : {
       "shouldTranslate" : false
     },
-    "PHR+ Active" : {
-
-    },
     "PHR+ for early users" : {
       "comment" : "Used on the PHR+ purchase screen."
+    },
+    "PHR+ is required to enable more than 1 Blocked Service." : {
+
     },
     "PHR+ is required to use this feature." : {
 
@@ -2309,6 +2350,9 @@
     "Remove" : {
 
     },
+    "Remove Custom Service" : {
+
+    },
     "Remove Instance" : {
 
     },
@@ -2328,6 +2372,9 @@
 
     },
     "Request PHR beta access" : {
+
+    },
+    "Requires PHR+" : {
 
     },
     "Requires Pi-hole v6.0 or higher." : {
@@ -2570,6 +2617,20 @@
     },
     "Show response time" : {
 
+    },
+    "Show the %@ %@ card" : {
+      "comment" : "Accessibility hint for show/hide statistics cards.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show the %1$@ %2$@ card"
+          }
+        }
+      }
+    },
+    "Show the %@ card" : {
+      "comment" : "Accessibility hint for show/hide statistics cards."
     },
     "Show version" : {
 

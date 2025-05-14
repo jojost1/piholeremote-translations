@@ -1179,6 +1179,11 @@
         <target state="translated">%@ KORTING</target>
         <note>Used on the PHR+ purchase screen to show a discount percentage, intentionally uppercased.</note>
       </trans-unit>
+      <trans-unit id="%@ active" xml:space="preserve">
+        <source>%@ active</source>
+        <target state="translated">%@ actief</target>
+        <note>Apple Watch, displays active clients.</note>
+      </trans-unit>
       <trans-unit id="%@ active / %@ total" xml:space="preserve">
         <source>%1$@ active / %2$@ total</source>
         <target state="translated">%1$@ actief / %2$@ totaal</target>
@@ -1380,7 +1385,7 @@
       <trans-unit id="Add" xml:space="preserve">
         <source>Add</source>
         <target state="translated">Voeg toe</target>
-        <note/>
+        <note>Used in the Settings-tab in the 'instances' section header.</note>
       </trans-unit>
       <trans-unit id="Add '%@'" xml:space="preserve">
         <source>Add '%@'</source>
@@ -1390,6 +1395,11 @@
       <trans-unit id="Add 5 minutes" xml:space="preserve">
         <source>Add 5 minutes</source>
         <target state="translated">Voeg 5 minuten toe</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add Custom Services" xml:space="preserve">
+        <source>Add Custom Services</source>
+        <target state="translated">Custom dienst toevoegen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add Instance" xml:space="preserve">
@@ -1510,6 +1520,11 @@
       <trans-unit id="Added to all new groups." xml:space="preserve">
         <source>Added to all new groups.</source>
         <target state="translated">Toegevoegd aan alle nieuwe groepen.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Adding Custom Blocked Services requires PHR+" xml:space="preserve">
+        <source>Adding Custom Blocked Services requires PHR+</source>
+        <target state="translated">Voor het toevoegen van custom diensten is PHR+ vereist</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adding/removing local CNAME records will restart the DNS server." xml:space="preserve">
@@ -2170,6 +2185,11 @@ Let op: het herkennen van clients op basis van IP-adressen (inclusief subnetbere
         <target state="translated">Huidige versie</target>
         <note>Used in the Changelog.</note>
       </trans-unit>
+      <trans-unit id="Custom" xml:space="preserve">
+        <source>Custom</source>
+        <target state="translated">Custom</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Custom Headers" xml:space="preserve">
         <source>Custom Headers</source>
         <target state="translated">Custom headers</target>
@@ -2414,6 +2434,11 @@ Let op: het herkennen van clients op basis van IP-adressen (inclusief subnetbere
         <target state="translated">Domeinen &amp; Adlists</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Domains will be converted to RegEx to involve all subdomains." xml:space="preserve">
+        <source>Domains will be converted to RegEx to involve all subdomains.</source>
+        <target state="translated">Domeinen worden omgezet naar RegEx om alle subdomeinen te omvatten.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Domains: %@" xml:space="preserve">
         <source>Domains: %@</source>
         <target state="translated">Domeinen: %@</target>
@@ -2457,6 +2482,11 @@ Let op: het herkennen van clients op basis van IP-adressen (inclusief subnetbere
       <trans-unit id="Edit Instance" xml:space="preserve">
         <source>Edit Instance</source>
         <target state="translated">Bewerk instantie</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Edit Service" xml:space="preserve">
+        <source>Edit Service</source>
+        <target state="translated">Dienst bewerken</target>
         <note/>
       </trans-unit>
       <trans-unit id="Edit presets..." xml:space="preserve">
@@ -2683,11 +2713,6 @@ Let op: het herkennen van clients op basis van IP-adressen (inclusief subnetbere
         <target state="translated">Forceer widget refresh</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Force WidgetKit refresh" xml:space="preserve">
-        <source>Force WidgetKit refresh</source>
-        <target state="translated">Forceer WidgetKit refresh</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Force a refresh to update the buttons. If this doesn't work, wait a while or try restarting your device." xml:space="preserve">
         <source>Force a refresh to update the buttons. If this doesn't work, wait a while or try restarting your device.</source>
         <target state="translated">Forceer een verversing om de knoppen bij te werken. Als dit niet werkt, wacht dan even of probeer je apparaat opnieuw op te starten.</target>
@@ -2819,6 +2844,16 @@ Deel deze code alsjeblieft niet met anderen.</target>
         <source>Hide on Home-tab</source>
         <target state="translated">Verbergen op Home-tab</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Hide the %@ %@ card" xml:space="preserve">
+        <source>Hide the %1$@ %2$@ card</source>
+        <target state="translated">Verberg het %1$@ %2$@ kaartje</target>
+        <note>Accessibility hint for show/hide statistics cards.</note>
+      </trans-unit>
+      <trans-unit id="Hide the %@ card" xml:space="preserve">
+        <source>Hide the %@ card</source>
+        <target state="translated">Verberg het %@ kaartje</target>
+        <note>Accessibility hint for show/hide statistics cards.</note>
       </trans-unit>
       <trans-unit id="Home" xml:space="preserve">
         <source>Home</source>
@@ -3210,6 +3245,11 @@ Opmerking: Wanneer deze functie is ingeschakeld, moet je nieuwe clients handmati
         <target state="translated">Meerdere</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Must be unique." xml:space="preserve">
+        <source>Must be unique.</source>
+        <target state="translated">Moet uniek zijn.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
         <source>Name</source>
         <target state="translated">Naam</target>
@@ -3268,6 +3308,16 @@ Opmerking: Wanneer deze functie is ingeschakeld, moet je nieuwe clients handmati
       <trans-unit id="New Record" xml:space="preserve">
         <source>New Record</source>
         <target state="translated">Nieuwe record</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New Service" xml:space="preserve">
+        <source>New Service</source>
+        <target state="translated">Nieuwe dienst</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New custom blocked service" xml:space="preserve">
+        <source>New custom blocked service</source>
+        <target state="translated">Nieuwe custom dienst</target>
         <note/>
       </trans-unit>
       <trans-unit id="NextDNS Remote" translate="no" xml:space="preserve">
@@ -3502,15 +3552,15 @@ Opmerking: Wanneer deze functie is ingeschakeld, moet je nieuwe clients handmati
         <source>PHR+</source>
         <note/>
       </trans-unit>
-      <trans-unit id="PHR+ Active" xml:space="preserve">
-        <source>PHR+ Active</source>
-        <target state="translated">PHR+ actief</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="PHR+ for early users" xml:space="preserve">
         <source>PHR+ for early users</source>
         <target state="translated">PHR+ voor vroege gebruikers</target>
         <note>Used on the PHR+ purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="PHR+ is required to enable more than 1 Blocked Service." xml:space="preserve">
+        <source>PHR+ is required to enable more than 1 Blocked Service.</source>
+        <target state="translated">PHR+ is vereist om meer dan één geblokkeerde service in te schakelen.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="PHR+ is required to use this feature." xml:space="preserve">
         <source>PHR+ is required to use this feature.</source>
@@ -3760,6 +3810,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">Verwijderen</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Remove Custom Service" xml:space="preserve">
+        <source>Remove Custom Service</source>
+        <target state="translated">Custom dienst verwijderen</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Remove Instance" xml:space="preserve">
         <source>Remove Instance</source>
         <target state="translated">Verwijder instantie</target>
@@ -3793,6 +3848,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       <trans-unit id="Request PHR beta access" xml:space="preserve">
         <source>Request PHR beta access</source>
         <target state="translated">Verzoek PHR beta toegang.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Requires PHR+" xml:space="preserve">
+        <source>Requires PHR+</source>
+        <target state="translated">Vereist PHR+</target>
         <note/>
       </trans-unit>
       <trans-unit id="Requires Pi-hole v6.0 or higher." xml:space="preserve">
@@ -3981,6 +4041,16 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>Show response time</source>
         <target state="translated">Laat response time zien</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Show the %@ %@ card" xml:space="preserve">
+        <source>Show the %1$@ %2$@ card</source>
+        <target state="translated">Toon het %1$@ %2$@ kaartje</target>
+        <note>Accessibility hint for show/hide statistics cards.</note>
+      </trans-unit>
+      <trans-unit id="Show the %@ card" xml:space="preserve">
+        <source>Show the %@ card</source>
+        <target state="translated">Toon het %@ kaartje</target>
+        <note>Accessibility hint for show/hide statistics cards.</note>
       </trans-unit>
       <trans-unit id="Show version" xml:space="preserve">
         <source>Show version</source>
@@ -4876,6 +4946,11 @@ De standaardlocatie van je certificaat op je apparaat is: /etc/pihole/tls.pem. M
         <target state="translated">meer dan 1 geblokkeerde dienst in te schakelen.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="example.com" xml:space="preserve">
+        <source>example.com</source>
+        <target state="translated">voorbeeld.nl</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="fast address assignment" xml:space="preserve">
         <source>fast address assignment</source>
         <target state="translated">fast address assignment</target>
@@ -5231,14 +5306,16 @@ Joost</target>
         <target state="translated">Alle statistieken in een oogopslag.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="• Client &amp; Group Management&#10;• Change DHCP &amp; DNS Settings&#10;• Interactive Widgets&#10;• Multiple Instances&#10;• And much more!" xml:space="preserve">
+      <trans-unit id="• Client &amp; Group Management&#10;• Change DHCP &amp; DNS Settings&#10;• Custom Blocked Services&#10;• Interactive Widgets&#10;• Multiple Instances&#10;• And much more!" xml:space="preserve">
         <source>• Client &amp; Group Management
 • Change DHCP &amp; DNS Settings
+• Custom Blocked Services
 • Interactive Widgets
 • Multiple Instances
 • And much more!</source>
         <target state="translated">• Client &amp; Groep beheer
 • DHCP &amp; DNS instellingen aanpassen
+• Custom geblokkeerde diensten
 • Interactieve widgets
 • Meerdere instanties
 • En nog veel meer!</target>

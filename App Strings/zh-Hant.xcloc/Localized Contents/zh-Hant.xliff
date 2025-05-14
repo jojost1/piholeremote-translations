@@ -1173,6 +1173,10 @@
         <source>%@ OFF</source>
         <note>Used on the PHR+ purchase screen to show a discount percentage, intentionally uppercased.</note>
       </trans-unit>
+      <trans-unit id="%@ active" xml:space="preserve">
+        <source>%@ active</source>
+        <note>Apple Watch, displays active clients.</note>
+      </trans-unit>
       <trans-unit id="%@ active / %@ total" xml:space="preserve">
         <source>%1$@ active / %2$@ total</source>
         <note>Displays number of active and total clients when you tap the clients number on Home when 'Combine' is enabled.</note>
@@ -1331,7 +1335,7 @@
       </trans-unit>
       <trans-unit id="Add" xml:space="preserve">
         <source>Add</source>
-        <note/>
+        <note>Used in the Settings-tab in the 'instances' section header.</note>
       </trans-unit>
       <trans-unit id="Add '%@'" xml:space="preserve">
         <source>Add '%@'</source>
@@ -1339,6 +1343,10 @@
       </trans-unit>
       <trans-unit id="Add 5 minutes" xml:space="preserve">
         <source>Add 5 minutes</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add Custom Services" xml:space="preserve">
+        <source>Add Custom Services</source>
         <note/>
       </trans-unit>
       <trans-unit id="Add Instance" xml:space="preserve">
@@ -1435,6 +1443,10 @@
       </trans-unit>
       <trans-unit id="Added to all new groups." xml:space="preserve">
         <source>Added to all new groups.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Adding Custom Blocked Services requires PHR+" xml:space="preserve">
+        <source>Adding Custom Blocked Services requires PHR+</source>
         <note/>
       </trans-unit>
       <trans-unit id="Adding/removing local CNAME records will restart the DNS server." xml:space="preserve">
@@ -1962,6 +1974,10 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <source>Current Version</source>
         <note>Used in the Changelog.</note>
       </trans-unit>
+      <trans-unit id="Custom" xml:space="preserve">
+        <source>Custom</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Custom Headers" xml:space="preserve">
         <source>Custom Headers</source>
         <note/>
@@ -2158,6 +2174,10 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <source>Domains &amp; Adlists</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Domains will be converted to RegEx to involve all subdomains." xml:space="preserve">
+        <source>Domains will be converted to RegEx to involve all subdomains.</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Domains: %@" xml:space="preserve">
         <source>Domains: %@</source>
         <note>Displays the number of domains on an adlist.</note>
@@ -2192,6 +2212,10 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Edit Instance" xml:space="preserve">
         <source>Edit Instance</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Edit Service" xml:space="preserve">
+        <source>Edit Service</source>
         <note/>
       </trans-unit>
       <trans-unit id="Edit presets..." xml:space="preserve">
@@ -2374,10 +2398,6 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <source>Force Widget Refresh</source>
         <note/>
       </trans-unit>
-      <trans-unit id="Force WidgetKit refresh" xml:space="preserve">
-        <source>Force WidgetKit refresh</source>
-        <note/>
-      </trans-unit>
       <trans-unit id="Force a refresh to update the buttons. If this doesn't work, wait a while or try restarting your device." xml:space="preserve">
         <source>Force a refresh to update the buttons. If this doesn't work, wait a while or try restarting your device.</source>
         <note/>
@@ -2483,6 +2503,14 @@ Please do not share this code with others.</source>
       <trans-unit id="Hide on Home-tab" xml:space="preserve">
         <source>Hide on Home-tab</source>
         <note/>
+      </trans-unit>
+      <trans-unit id="Hide the %@ %@ card" xml:space="preserve">
+        <source>Hide the %1$@ %2$@ card</source>
+        <note>Accessibility hint for show/hide statistics cards.</note>
+      </trans-unit>
+      <trans-unit id="Hide the %@ card" xml:space="preserve">
+        <source>Hide the %@ card</source>
+        <note>Accessibility hint for show/hide statistics cards.</note>
       </trans-unit>
       <trans-unit id="Home" xml:space="preserve">
         <source>Home</source>
@@ -2793,6 +2821,10 @@ Note: When this feature is enabled you will need to configure new clients manual
         <source>Multiple</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Must be unique." xml:space="preserve">
+        <source>Must be unique.</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
         <source>Name</source>
         <note/>
@@ -2839,6 +2871,14 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="New Record" xml:space="preserve">
         <source>New Record</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New Service" xml:space="preserve">
+        <source>New Service</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New custom blocked service" xml:space="preserve">
+        <source>New custom blocked service</source>
         <note/>
       </trans-unit>
       <trans-unit id="NextDNS Remote" translate="no" xml:space="preserve">
@@ -3030,13 +3070,13 @@ Note: When this feature is enabled you will need to configure new clients manual
         <source>PHR+</source>
         <note/>
       </trans-unit>
-      <trans-unit id="PHR+ Active" xml:space="preserve">
-        <source>PHR+ Active</source>
-        <note/>
-      </trans-unit>
       <trans-unit id="PHR+ for early users" xml:space="preserve">
         <source>PHR+ for early users</source>
         <note>Used on the PHR+ purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="PHR+ is required to enable more than 1 Blocked Service." xml:space="preserve">
+        <source>PHR+ is required to enable more than 1 Blocked Service.</source>
+        <note/>
       </trans-unit>
       <trans-unit id="PHR+ is required to use this feature." xml:space="preserve">
         <source>PHR+ is required to use this feature.</source>
@@ -3239,6 +3279,10 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>Remove</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Remove Custom Service" xml:space="preserve">
+        <source>Remove Custom Service</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Remove Instance" xml:space="preserve">
         <source>Remove Instance</source>
         <note/>
@@ -3265,6 +3309,10 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Request PHR beta access" xml:space="preserve">
         <source>Request PHR beta access</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Requires PHR+" xml:space="preserve">
+        <source>Requires PHR+</source>
         <note/>
       </trans-unit>
       <trans-unit id="Requires Pi-hole v6.0 or higher." xml:space="preserve">
@@ -3418,6 +3466,14 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       <trans-unit id="Show response time" xml:space="preserve">
         <source>Show response time</source>
         <note/>
+      </trans-unit>
+      <trans-unit id="Show the %@ %@ card" xml:space="preserve">
+        <source>Show the %1$@ %2$@ card</source>
+        <note>Accessibility hint for show/hide statistics cards.</note>
+      </trans-unit>
+      <trans-unit id="Show the %@ card" xml:space="preserve">
+        <source>Show the %@ card</source>
+        <note>Accessibility hint for show/hide statistics cards.</note>
       </trans-unit>
       <trans-unit id="Show version" xml:space="preserve">
         <source>Show version</source>
@@ -4173,6 +4229,10 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
         <source>enable more than 1 Blocked Service.</source>
         <note/>
       </trans-unit>
+      <trans-unit id="example.com" xml:space="preserve">
+        <source>example.com</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="fast address assignment" xml:space="preserve">
         <source>fast address assignment</source>
         <note/>
@@ -4513,9 +4573,10 @@ Joost</target>
         <target state="translated">Keep an eye on all your statistics.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="• Client &amp; Group Management&#10;• Change DHCP &amp; DNS Settings&#10;• Interactive Widgets&#10;• Multiple Instances&#10;• And much more!" xml:space="preserve">
+      <trans-unit id="• Client &amp; Group Management&#10;• Change DHCP &amp; DNS Settings&#10;• Custom Blocked Services&#10;• Interactive Widgets&#10;• Multiple Instances&#10;• And much more!" xml:space="preserve">
         <source>• Client &amp; Group Management
 • Change DHCP &amp; DNS Settings
+• Custom Blocked Services
 • Interactive Widgets
 • Multiple Instances
 • And much more!</source>
