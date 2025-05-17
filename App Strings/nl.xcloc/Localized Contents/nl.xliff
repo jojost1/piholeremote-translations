@@ -1442,6 +1442,11 @@
         <target state="translated">Voeg custom header toe</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Add entries to group" xml:space="preserve">
+        <source>Add entries to group</source>
+        <target state="translated">Voeg items toe aan groep</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Add new adlist" xml:space="preserve">
         <source>Add new adlist</source>
         <target state="translated">Voeg nieuwe adlist toe</target>
@@ -1555,7 +1560,7 @@
       <trans-unit id="Adlists" xml:space="preserve">
         <source>Adlists</source>
         <target state="translated">Adlists</target>
-        <note/>
+        <note>Option for the blocklist-card, used on the Preferences &gt; Home screen.</note>
       </trans-unit>
       <trans-unit id="Advanced" xml:space="preserve">
         <source>Advanced</source>
@@ -1864,6 +1869,16 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>Blocklist Management</source>
         <target state="translated">Blocklist beheren</target>
         <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Blocklist-card tap|==|device.mac" xml:space="preserve">
+        <source>Blocklist-card click</source>
+        <target state="translated">Blocklist-kaart klik</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocklist-card tap|==|device.other" xml:space="preserve">
+        <source>Blocklist-card tap</source>
+        <target state="translated">Blocklist-kaart tik</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Blocklist: %@" xml:space="preserve">
         <source>Blocklist: %@</source>
@@ -2984,6 +2999,11 @@ Opmerking: Wanneer deze functie is ingeschakeld, moet je nieuwe clients handmati
         <source>Instance Actions</source>
         <target state="translated">Instantie acties</target>
         <note>Used on the PHR+ purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="Instance settings" xml:space="preserve">
+        <source>Instance settings</source>
+        <target state="translated">Instantie instellingen</target>
+        <note>Option for the blocklist-card, used on the Preferences &gt; Home screen.</note>
       </trans-unit>
       <trans-unit id="Instances" xml:space="preserve">
         <source>Instances</source>
@@ -4255,6 +4275,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       <trans-unit id="Target Domain" xml:space="preserve">
         <source>Target Domain</source>
         <target state="translated">Target domein</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Target Group" xml:space="preserve">
+        <source>Target Group</source>
+        <target state="translated">Target Groep</target>
         <note/>
       </trans-unit>
       <trans-unit id="Teal" xml:space="preserve">

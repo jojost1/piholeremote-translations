@@ -1393,6 +1393,10 @@
         <source>Add custom header</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Add entries to group" xml:space="preserve">
+        <source>Add entries to group</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Add new adlist" xml:space="preserve">
         <source>Add new adlist</source>
         <note/>
@@ -1483,7 +1487,7 @@
       </trans-unit>
       <trans-unit id="Adlists" xml:space="preserve">
         <source>Adlists</source>
-        <note/>
+        <note>Option for the blocklist-card, used on the Preferences &gt; Home screen.</note>
       </trans-unit>
       <trans-unit id="Advanced" xml:space="preserve">
         <source>Advanced</source>
@@ -1731,6 +1735,14 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       <trans-unit id="Blocklist Management" xml:space="preserve">
         <source>Blocklist Management</source>
         <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Blocklist-card tap|==|device.mac" xml:space="preserve">
+        <source>Blocklist-card click</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocklist-card tap|==|device.other" xml:space="preserve">
+        <source>Blocklist-card tap</source>
+        <note/>
       </trans-unit>
       <trans-unit id="Blocklist: %@" xml:space="preserve">
         <source>Blocklist: %@</source>
@@ -2624,6 +2636,10 @@ Note: When this feature is enabled you will need to configure new clients manual
       <trans-unit id="Instance Actions" xml:space="preserve">
         <source>Instance Actions</source>
         <note>Used on the PHR+ purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="Instance settings" xml:space="preserve">
+        <source>Instance settings</source>
+        <note>Option for the blocklist-card, used on the Preferences &gt; Home screen.</note>
       </trans-unit>
       <trans-unit id="Instances" xml:space="preserve">
         <source>Instances</source>
@@ -3649,6 +3665,10 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Target Domain" xml:space="preserve">
         <source>Target Domain</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Target Group" xml:space="preserve">
+        <source>Target Group</source>
         <note/>
       </trans-unit>
       <trans-unit id="Teal" xml:space="preserve">

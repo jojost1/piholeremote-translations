@@ -1598,6 +1598,11 @@
         <target state="new">Add custom header</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Add entries to group" xml:space="preserve">
+        <source>Add entries to group</source>
+        <target state="new">Add entries to group</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Add new adlist" xml:space="preserve">
         <source>Add new adlist</source>
         <target state="new">Add new adlist</target>
@@ -1711,7 +1716,7 @@
       <trans-unit id="Adlists" xml:space="preserve">
         <source>Adlists</source>
         <target state="new">Adlists</target>
-        <note/>
+        <note>Option for the blocklist-card, used on the Preferences &gt; Home screen.</note>
       </trans-unit>
       <trans-unit id="Advanced" xml:space="preserve">
         <source>Advanced</source>
@@ -2022,6 +2027,16 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>Blocklist Management</source>
         <target state="new">Blocklist Management</target>
         <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Blocklist-card tap|==|device.mac" xml:space="preserve">
+        <source>Blocklist-card click</source>
+        <target state="translated">Blocklist-card click</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocklist-card tap|==|device.other" xml:space="preserve">
+        <source>Blocklist-card tap</source>
+        <target state="new">Blocklist-card tap</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Blocklist: %@" xml:space="preserve">
         <source>Blocklist: %@</source>
@@ -3145,6 +3160,11 @@ Note: When this feature is enabled you will need to configure new clients manual
         <source>Instance Actions</source>
         <target state="new">Instance Actions</target>
         <note>Used on the PHR+ purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="Instance settings" xml:space="preserve">
+        <source>Instance settings</source>
+        <target state="new">Instance settings</target>
+        <note>Option for the blocklist-card, used on the Preferences &gt; Home screen.</note>
       </trans-unit>
       <trans-unit id="Instances" xml:space="preserve">
         <source>Instances</source>
@@ -4427,6 +4447,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       <trans-unit id="Target Domain" xml:space="preserve">
         <source>Target Domain</source>
         <target state="new">Target Domain</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Target Group" xml:space="preserve">
+        <source>Target Group</source>
+        <target state="new">Target Group</target>
         <note/>
       </trans-unit>
       <trans-unit id="Teal" xml:space="preserve">

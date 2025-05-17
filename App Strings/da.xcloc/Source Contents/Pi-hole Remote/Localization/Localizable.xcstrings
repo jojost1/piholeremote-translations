@@ -218,6 +218,9 @@
     "Add Custom Services" : {
 
     },
+    "Add entries to group" : {
+      "extractionState" : "stale"
+    },
     "Add Instance" : {
 
     },
@@ -294,7 +297,7 @@
 
     },
     "Adlists" : {
-
+      "comment" : "Option for the blocklist-card, used on the Preferences > Home screen."
     },
     "Advanced" : {
 
@@ -622,6 +625,28 @@
     },
     "Blocklist Management" : {
       "comment" : "Displayed in the onboarding."
+    },
+    "Blocklist-card tap" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "device" : {
+              "mac" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Blocklist-card click"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "Blocklist-card tap"
+                }
+              }
+            }
+          }
+        }
+      }
     },
     "Blocklist: %@" : {
       "comment" : "Displayed in the simple one-line Lock Screen widget."
@@ -1741,6 +1766,9 @@
     "Instance Actions" : {
       "comment" : "Used on the PHR+ purchase screen."
     },
+    "Instance settings" : {
+      "comment" : "Option for the blocklist-card, used on the Preferences > Home screen."
+    },
     "Instances" : {
 
     },
@@ -2784,6 +2812,9 @@
 
     },
     "Target Domain" : {
+
+    },
+    "Target Group" : {
 
     },
     "Teal" : {
