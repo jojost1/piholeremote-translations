@@ -218,9 +218,6 @@
     "Add Custom Services" : {
 
     },
-    "Add entries to group" : {
-      "extractionState" : "stale"
-    },
     "Add Instance" : {
 
     },
@@ -474,6 +471,9 @@
     "automatic" : {
 
     },
+    "Automatically generated" : {
+
+    },
     "BETA" : {
 
     },
@@ -605,6 +605,15 @@
     "Blocking" : {
 
     },
+    "Blocking Enabled" : {
+
+    },
+    "Blocking has been re-enabled on all instances." : {
+
+    },
+    "Blocking has been re-enabled." : {
+
+    },
     "Blocking is enabled on all instances." : {
 
     },
@@ -615,6 +624,9 @@
 
     },
     "Blocking is not enabled on instance %@." : {
+
+    },
+    "Blocking Notifications" : {
 
     },
     "Blocking-card" : {
@@ -1252,7 +1264,16 @@
     "Disable blocking for a certain duration." : {
 
     },
+    "Disable for 1 minute" : {
+
+    },
+    "Disable for 5 minutes" : {
+
+    },
     "Disable for..." : {
+
+    },
+    "Disable indefinitely" : {
 
     },
     "Disable services with a single tap, as well as managing adlists and more." : {
@@ -1402,6 +1423,9 @@
     },
     "Enabled" : {
 
+    },
+    "Enabling notifications requires PHR+." : {
+      "comment" : "Used on the Notifications-settings screen."
     },
     "Enabling the top two options may increase your privacy, but may also prevent you from being able to access. Make sure you have set up conditional forwarding in this case." : {
 
@@ -1941,6 +1965,9 @@
     "ManGo - Anime & Manga Tracker" : {
 
     },
+    "Mark as 'Time Sensitive'" : {
+
+    },
     "Medium widget only." : {
 
     },
@@ -2088,6 +2115,12 @@
     "Note: any entries that are inserted will be added to the group \"default\" only." : {
 
     },
+    "Notifications" : {
+      "comment" : "Used on the Notifications-settings screen."
+    },
+    "Notifications..." : {
+
+    },
     "Number of clients" : {
 
     },
@@ -2165,6 +2198,18 @@
     "Only visible if 'Combine instances' is turned off." : {
 
     },
+    "Open Settings" : {
+
+    },
+    "Open Settings to allow 'Time Sensitive Notifications'" : {
+
+    },
+    "Open Settings to allow banners" : {
+
+    },
+    "Open Settings to allow notifications" : {
+
+    },
     "Open technical documentation" : {
       "comment" : "Displayed on the DNS Settings screen."
     },
@@ -2190,6 +2235,12 @@
 
     },
     "Password" : {
+
+    },
+    "Password & TOTP are used once to create an application password, then deleted. Be aware: you can have only *one* application password at a time." : {
+
+    },
+    "Password+2FA" : {
 
     },
     "Paste" : {
@@ -2559,6 +2610,9 @@
     "Selected" : {
 
     },
+    "Send Notifications" : {
+
+    },
     "Service" : {
 
     },
@@ -2611,6 +2665,9 @@
 
     },
     "Show 'Until tomorrow'" : {
+
+    },
+    "Show all icons" : {
 
     },
     "Show app icons" : {
@@ -2757,6 +2814,9 @@
     "System" : {
       "comment" : "Sysname of the device running the instance, used on the instance detail screen."
     },
+    "System Settings" : {
+
+    },
     "Take Pi-hole Remote to the next level & support future developement." : {
       "comment" : "Displayed in the onboarding."
     },
@@ -2829,6 +2889,9 @@
     "Temperature unit" : {
 
     },
+    "Temporarily disabled blocking? Get notified when it's re-enabled. Use notification actions to quickly extend the blocking period." : {
+
+    },
     "Terms of Use" : {
       "comment" : "Used on the PHR+ purchase screen."
     },
@@ -2885,6 +2948,9 @@
     },
     "Time remaining" : {
 
+    },
+    "Time Sensitive notifications can break through focus modes if you prefer." : {
+      "comment" : "Used on the Notifications-settings screen."
     },
     "Tint" : {
 
@@ -3327,7 +3393,7 @@
     "Yes" : {
 
     },
-    "You can configure an application password in the Pi-hole Web Interface. Be aware that you can have only *one* applciation password at a time." : {
+    "You can configure an application password in the Pi-hole Web Interface. Be aware that you can have only *one* application password at a time." : {
 
     },
     "You don't have multiple instances." : {
@@ -3338,9 +3404,6 @@
     },
     "You've reached the maximum of 6 presets." : {
       "comment" : "Used on the 'Add new disable preset' screen"
-    },
-    "Your password and TOTP token will be used only once to create an 'application password' and are deleted afterwards." : {
-
     }
   },
   "version" : "1.0"

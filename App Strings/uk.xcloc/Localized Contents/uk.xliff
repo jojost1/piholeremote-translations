@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Base.lproj/Intents.intentdefinition" source-language="en" target-language="uk" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="5NF9k6" xml:space="preserve">
@@ -94,7 +94,7 @@
   </file>
   <file original="en.lproj/Pi-hole Remote Widgets copy-InfoPlist.strings" datatype="plaintext" source-language="en" target-language="uk">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -109,7 +109,7 @@
   </file>
   <file original="Pi-hole Remote Share Extension/InfoPlist.xcstrings" source-language="en" target-language="uk" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -128,7 +128,7 @@
   </file>
   <file original="Pi-hole Remote tvOS App/Localizable.xcstrings" source-language="en" target-language="uk" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="%@q/min" xml:space="preserve">
@@ -603,7 +603,7 @@
   </file>
   <file original="Pi-hole Remote tvOS App/Pi-hole-Remote-tvOS-App-InfoPlist.xcstrings" source-language="en" target-language="uk" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -618,7 +618,7 @@
   </file>
   <file original="Pi-hole Remote Watch App Extension/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="uk">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -633,7 +633,7 @@
   </file>
   <file original="Pi-hole Remote Widgets/Base.lproj/StatWidget.intentdefinition" source-language="en" target-language="uk" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="2C0IPw-Ixk02y" xml:space="preserve">
@@ -1097,7 +1097,7 @@
   </file>
   <file original="Pi-hole Remote Widgets/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="uk">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -1112,7 +1112,7 @@
   </file>
   <file original="Pi-hole Remote/Localization/InfoPlist.xcstrings" source-language="en" target-language="uk" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
@@ -1150,7 +1150,7 @@
   </file>
   <file original="Pi-hole Remote/Localization/Localizable.xcstrings" source-language="en" target-language="uk" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id=" avg" xml:space="preserve">
@@ -1393,10 +1393,6 @@
         <source>Add custom header</source>
         <note/>
       </trans-unit>
-      <trans-unit id="Add entries to group" xml:space="preserve">
-        <source>Add entries to group</source>
-        <note/>
-      </trans-unit>
       <trans-unit id="Add new adlist" xml:space="preserve">
         <source>Add new adlist</source>
         <note/>
@@ -1631,6 +1627,10 @@
         <source>Auto-refresh</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Automatically generated" xml:space="preserve">
+        <source>Automatically generated</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="BETA" xml:space="preserve">
         <source>BETA</source>
         <note/>
@@ -1706,6 +1706,22 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Blocking" xml:space="preserve">
         <source>Blocking</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocking Enabled" xml:space="preserve">
+        <source>Blocking Enabled</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocking Notifications" xml:space="preserve">
+        <source>Blocking Notifications</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocking has been re-enabled on all instances." xml:space="preserve">
+        <source>Blocking has been re-enabled on all instances.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocking has been re-enabled." xml:space="preserve">
+        <source>Blocking has been re-enabled.</source>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking is enabled on all instances." xml:space="preserve">
@@ -2154,8 +2170,20 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <source>Disable blocking for a certain duration.</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Disable for 1 minute" xml:space="preserve">
+        <source>Disable for 1 minute</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Disable for 5 minutes" xml:space="preserve">
+        <source>Disable for 5 minutes</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Disable for..." xml:space="preserve">
         <source>Disable for...</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Disable indefinitely" xml:space="preserve">
+        <source>Disable indefinitely</source>
         <note/>
       </trans-unit>
       <trans-unit id="Disable services with a single tap, as well as managing adlists and more.|==|device.mac" xml:space="preserve">
@@ -2277,6 +2305,10 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       <trans-unit id="Enabled" xml:space="preserve">
         <source>Enabled</source>
         <note/>
+      </trans-unit>
+      <trans-unit id="Enabling notifications requires PHR+." xml:space="preserve">
+        <source>Enabling notifications requires PHR+.</source>
+        <note>Used on the Notifications-settings screen.</note>
       </trans-unit>
       <trans-unit id="Enabling the top two options may increase your privacy, but may also prevent you from being able to access. Make sure you have set up conditional forwarding in this case." xml:space="preserve">
         <source>Enabling the top two options may increase your privacy, but may also prevent you from being able to access. Make sure you have set up conditional forwarding in this case.</source>
@@ -2809,6 +2841,10 @@ Note: When this feature is enabled you will need to configure new clients manual
         <source>Manage Subscription</source>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
+      <trans-unit id="Mark as 'Time Sensitive'" xml:space="preserve">
+        <source>Mark as 'Time Sensitive'</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Medium widget only." xml:space="preserve">
         <source>Medium widget only.</source>
         <note/>
@@ -3005,6 +3041,14 @@ Note: When this feature is enabled you will need to configure new clients manual
         <source>Note: any entries that are inserted will be added to the group "default" only.</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Notifications" xml:space="preserve">
+        <source>Notifications</source>
+        <note>Used on the Notifications-settings screen.</note>
+      </trans-unit>
+      <trans-unit id="Notifications..." xml:space="preserve">
+        <source>Notifications...</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Number of clients" xml:space="preserve">
         <source>Number of clients</source>
         <note/>
@@ -3059,6 +3103,22 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="Only visible if 'Combine instances' is turned off." xml:space="preserve">
         <source>Only visible if 'Combine instances' is turned off.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open Settings" xml:space="preserve">
+        <source>Open Settings</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open Settings to allow 'Time Sensitive Notifications'" xml:space="preserve">
+        <source>Open Settings to allow 'Time Sensitive Notifications'</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open Settings to allow banners" xml:space="preserve">
+        <source>Open Settings to allow banners</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open Settings to allow notifications" xml:space="preserve">
+        <source>Open Settings to allow notifications</source>
         <note/>
       </trans-unit>
       <trans-unit id="Open technical documentation" xml:space="preserve">
@@ -3116,6 +3176,14 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="Password" xml:space="preserve">
         <source>Password</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Password &amp; TOTP are used once to create an application password, then deleted. Be aware: you can have only *one* application password at a time." xml:space="preserve">
+        <source>Password &amp; TOTP are used once to create an application password, then deleted. Be aware: you can have only *one* application password at a time.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Password+2FA" xml:space="preserve">
+        <source>Password+2FA</source>
         <note/>
       </trans-unit>
       <trans-unit id="Paste" xml:space="preserve">
@@ -3419,6 +3487,10 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>Selected</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Send Notifications" xml:space="preserve">
+        <source>Send Notifications</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Service" xml:space="preserve">
         <source>Service</source>
         <note/>
@@ -3457,6 +3529,10 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Show Live Log" xml:space="preserve">
         <source>Show Live Log</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show all icons" xml:space="preserve">
+        <source>Show all icons</source>
         <note/>
       </trans-unit>
       <trans-unit id="Show app icons" xml:space="preserve">
@@ -3615,6 +3691,10 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>System</source>
         <note>Sysname of the device running the instance, used on the instance detail screen.</note>
       </trans-unit>
+      <trans-unit id="System Settings" xml:space="preserve">
+        <source>System Settings</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="TOTP" xml:space="preserve">
         <source>TOTP</source>
         <note/>
@@ -3687,6 +3767,10 @@ If Conditional Forwarding is enabled, unticking this box may cause a partial DNS
       </trans-unit>
       <trans-unit id="Temperature unit" xml:space="preserve">
         <source>Temperature unit</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Temporarily disabled blocking? Get notified when it's re-enabled. Use notification actions to quickly extend the blocking period." xml:space="preserve">
+        <source>Temporarily disabled blocking? Get notified when it's re-enabled. Use notification actions to quickly extend the blocking period.</source>
         <note/>
       </trans-unit>
       <trans-unit id="Terms of Use" xml:space="preserve">
@@ -3764,6 +3848,10 @@ In return, I would really appreciate it if you could leave a review in the App S
       <trans-unit id="This device is probably not using Pi-hole, because no queries were found." xml:space="preserve">
         <source>This device is probably not using Pi-hole, because no queries were found.</source>
         <note/>
+      </trans-unit>
+      <trans-unit id="Time Sensitive notifications can break through focus modes if you prefer." xml:space="preserve">
+        <source>Time Sensitive notifications can break through focus modes if you prefer.</source>
+        <note>Used on the Notifications-settings screen.</note>
       </trans-unit>
       <trans-unit id="Time remaining" xml:space="preserve">
         <source>Time remaining</source>
@@ -3997,8 +4085,8 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
         <source>Yes</source>
         <note/>
       </trans-unit>
-      <trans-unit id="You can configure an application password in the Pi-hole Web Interface. Be aware that you can have only *one* applciation password at a time." xml:space="preserve">
-        <source>You can configure an application password in the Pi-hole Web Interface. Be aware that you can have only *one* applciation password at a time.</source>
+      <trans-unit id="You can configure an application password in the Pi-hole Web Interface. Be aware that you can have only *one* application password at a time." xml:space="preserve">
+        <source>You can configure an application password in the Pi-hole Web Interface. Be aware that you can have only *one* application password at a time.</source>
         <note/>
       </trans-unit>
       <trans-unit id="You don't have multiple instances." xml:space="preserve">
@@ -4012,10 +4100,6 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
       <trans-unit id="You've reached the maximum of 6 presets." xml:space="preserve">
         <source>You've reached the maximum of 6 presets.</source>
         <note>Used on the 'Add new disable preset' screen</note>
-      </trans-unit>
-      <trans-unit id="Your password and TOTP token will be used only once to create an 'application password' and are deleted afterwards." xml:space="preserve">
-        <source>Your password and TOTP token will be used only once to create an 'application password' and are deleted afterwards.</source>
-        <note/>
       </trans-unit>
       <trans-unit id="`/api` by default" xml:space="preserve">
         <source>`/api` by default</source>
@@ -4618,7 +4702,7 @@ Joost</target>
   </file>
   <file original="WidgetInstance/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="uk">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -4633,7 +4717,7 @@ Joost</target>
   </file>
   <file original="WidgetInstance/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="uk">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="Info" xml:space="preserve">

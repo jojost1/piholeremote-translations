@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Base.lproj/Intents.intentdefinition" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="5NF9k6" xml:space="preserve">
@@ -94,7 +94,7 @@
   </file>
   <file original="en.lproj/Pi-hole Remote Widgets copy-InfoPlist.strings" datatype="plaintext" source-language="en" target-language="nl">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -109,7 +109,7 @@
   </file>
   <file original="Pi-hole Remote Share Extension/InfoPlist.xcstrings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -128,7 +128,7 @@
   </file>
   <file original="Pi-hole Remote tvOS App/Localizable.xcstrings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="%@q/min" xml:space="preserve">
@@ -603,7 +603,7 @@
   </file>
   <file original="Pi-hole Remote tvOS App/Pi-hole-Remote-tvOS-App-InfoPlist.xcstrings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -618,7 +618,7 @@
   </file>
   <file original="Pi-hole Remote Watch App Extension/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="nl">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -633,7 +633,7 @@
   </file>
   <file original="Pi-hole Remote Widgets/Base.lproj/StatWidget.intentdefinition" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="2C0IPw-Ixk02y" xml:space="preserve">
@@ -1097,7 +1097,7 @@
   </file>
   <file original="Pi-hole Remote Widgets/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="nl">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -1112,7 +1112,7 @@
   </file>
   <file original="Pi-hole Remote/Localization/InfoPlist.xcstrings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
@@ -1152,7 +1152,7 @@
   </file>
   <file original="Pi-hole Remote/Localization/Localizable.xcstrings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id=" avg" xml:space="preserve">
@@ -1440,11 +1440,6 @@
       <trans-unit id="Add custom header" xml:space="preserve">
         <source>Add custom header</source>
         <target state="translated">Voeg custom header toe</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Add entries to group" xml:space="preserve">
-        <source>Add entries to group</source>
-        <target state="translated">Voeg items toe aan groep</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add new adlist" xml:space="preserve">
@@ -1739,6 +1734,11 @@
         <target state="translated">Auto-refresh</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Automatically generated" xml:space="preserve">
+        <source>Automatically generated</source>
+        <target state="translated">Automatisch gegenereerd</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="BETA" xml:space="preserve">
         <source>BETA</source>
         <target state="translated">BETA</target>
@@ -1833,6 +1833,26 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       <trans-unit id="Blocking" xml:space="preserve">
         <source>Blocking</source>
         <target state="translated">Blokkeren</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocking Enabled" xml:space="preserve">
+        <source>Blocking Enabled</source>
+        <target state="translated">Blokkeren ingeschakeld</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocking Notifications" xml:space="preserve">
+        <source>Blocking Notifications</source>
+        <target state="translated">Blokkeren Meldingen</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocking has been re-enabled on all instances." xml:space="preserve">
+        <source>Blocking has been re-enabled on all instances.</source>
+        <target state="translated">Blokkeren is ingeschakeld voor alle instanties.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocking has been re-enabled." xml:space="preserve">
+        <source>Blocking has been re-enabled.</source>
+        <target state="translated">Blokkeren is opnieuw ingeschakeld.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking is enabled on all instances." xml:space="preserve">
@@ -2395,9 +2415,24 @@ Let op: het herkennen van clients op basis van IP-adressen (inclusief subnetbere
         <target state="translated">Blokkeren uitschakelen voor een bepaalde tijd.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Disable for 1 minute" xml:space="preserve">
+        <source>Disable for 1 minute</source>
+        <target state="translated">Uitschakelen voor 1 minuut</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Disable for 5 minutes" xml:space="preserve">
+        <source>Disable for 5 minutes</source>
+        <target state="translated">Uitschakelen voor 5 minuten</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Disable for..." xml:space="preserve">
         <source>Disable for...</source>
         <target state="translated">Uitschakelen voor…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Disable indefinitely" xml:space="preserve">
+        <source>Disable indefinitely</source>
+        <target state="translated">Uitschakelen zonder einde</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disable services with a single tap, as well as managing adlists and more.|==|device.mac" xml:space="preserve">
@@ -2548,6 +2583,11 @@ Let op: het herkennen van clients op basis van IP-adressen (inclusief subnetbere
         <source>Enabled</source>
         <target state="translated">Ingeschakeld</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Enabling notifications requires PHR+." xml:space="preserve">
+        <source>Enabling notifications requires PHR+.</source>
+        <target state="translated">Het inschakelen van meldingen vereist PHR+.</target>
+        <note>Used on the Notifications-settings screen.</note>
       </trans-unit>
       <trans-unit id="Enabling the top two options may increase your privacy, but may also prevent you from being able to access. Make sure you have set up conditional forwarding in this case." xml:space="preserve">
         <source>Enabling the top two options may increase your privacy, but may also prevent you from being able to access. Make sure you have set up conditional forwarding in this case.</source>
@@ -3215,6 +3255,11 @@ Opmerking: Wanneer deze functie is ingeschakeld, moet je nieuwe clients handmati
         <target state="translated">Beheer abonnement</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
+      <trans-unit id="Mark as 'Time Sensitive'" xml:space="preserve">
+        <source>Mark as 'Time Sensitive'</source>
+        <target state="translated">Markeren als ‘Tijdgevoelig’</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Medium widget only." xml:space="preserve">
         <source>Medium widget only.</source>
         <target state="translated">Enkel de medium widget.</target>
@@ -3459,6 +3504,16 @@ Opmerking: Wanneer deze functie is ingeschakeld, moet je nieuwe clients handmati
         <target state="translated">Let op: alle toegevoegde vermeldingen worden uitsluitend aan de groep “default” toegevoegd.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Notifications" xml:space="preserve">
+        <source>Notifications</source>
+        <target state="translated">Meldingen</target>
+        <note>Used on the Notifications-settings screen.</note>
+      </trans-unit>
+      <trans-unit id="Notifications..." xml:space="preserve">
+        <source>Notifications...</source>
+        <target state="translated">Meldingen…</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Number of clients" xml:space="preserve">
         <source>Number of clients</source>
         <target state="translated">Aantal cliënten</target>
@@ -3529,6 +3584,26 @@ Opmerking: Wanneer deze functie is ingeschakeld, moet je nieuwe clients handmati
         <target state="translated">Alleen zichtbaar als ‘Combineer instanties’ is uitgeschakeld.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Open Settings" xml:space="preserve">
+        <source>Open Settings</source>
+        <target state="translated">Open instellingen</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open Settings to allow 'Time Sensitive Notifications'" xml:space="preserve">
+        <source>Open Settings to allow 'Time Sensitive Notifications'</source>
+        <target state="translated">Open instellingen om ‘Tijdgevoelige meldingen’ in te schakelen</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open Settings to allow banners" xml:space="preserve">
+        <source>Open Settings to allow banners</source>
+        <target state="translated">Open instellingen om banners toe te staan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open Settings to allow notifications" xml:space="preserve">
+        <source>Open Settings to allow notifications</source>
+        <target state="translated">Open instellingen om meldingen toe te staan</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Open technical documentation" xml:space="preserve">
         <source>Open technical documentation</source>
         <target state="translated">Open technische documentatie</target>
@@ -3595,6 +3670,16 @@ Opmerking: Wanneer deze functie is ingeschakeld, moet je nieuwe clients handmati
       <trans-unit id="Password" xml:space="preserve">
         <source>Password</source>
         <target state="translated">Wachtwoord</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Password &amp; TOTP are used once to create an application password, then deleted. Be aware: you can have only *one* application password at a time." xml:space="preserve">
+        <source>Password &amp; TOTP are used once to create an application password, then deleted. Be aware: you can have only *one* application password at a time.</source>
+        <target state="translated">Wachtwoord &amp; TOTP worden één keer gebruikt om een applicatiewachtwoord aan te maken en daarna verwijderd. Let op: je kunt maar één applicatiewachtwoord tegelijk hebben.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Password+2FA" xml:space="preserve">
+        <source>Password+2FA</source>
+        <target state="translated">Wachtwoord+2FA</target>
         <note/>
       </trans-unit>
       <trans-unit id="Paste" xml:space="preserve">
@@ -3968,6 +4053,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">Geselecteerd</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Send Notifications" xml:space="preserve">
+        <source>Send Notifications</source>
+        <target state="translated">Verstuur meldingen</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Service" xml:space="preserve">
         <source>Service</source>
         <target state="translated">Dienst</target>
@@ -4015,6 +4105,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       <trans-unit id="Show Live Log" xml:space="preserve">
         <source>Show Live Log</source>
         <target state="translated">Toon Live Log</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show all icons" xml:space="preserve">
+        <source>Show all icons</source>
+        <target state="translated">Toon alle symbolen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show app icons" xml:space="preserve">
@@ -4212,6 +4307,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">Systeem</target>
         <note>Sysname of the device running the instance, used on the instance detail screen.</note>
       </trans-unit>
+      <trans-unit id="System Settings" xml:space="preserve">
+        <source>System Settings</source>
+        <target state="translated">Systeeminstellingen</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="TOTP" xml:space="preserve">
         <source>TOTP</source>
         <target state="translated">TOTP</target>
@@ -4304,6 +4404,11 @@ Als voorwaardelijke doorsturing is ingeschakeld, kan het uitschakelen van dit va
       <trans-unit id="Temperature unit" xml:space="preserve">
         <source>Temperature unit</source>
         <target state="translated">Temperatuur eenheid</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Temporarily disabled blocking? Get notified when it's re-enabled. Use notification actions to quickly extend the blocking period." xml:space="preserve">
+        <source>Temporarily disabled blocking? Get notified when it's re-enabled. Use notification actions to quickly extend the blocking period.</source>
+        <target state="translated">Blokkeren tijdelijk uitgeschakeld? Ontvang een melding zodra het weer wordt ingeschakeld. Gebruik meldingsacties om de blokkeertijd snel te verlengen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Terms of Use" xml:space="preserve">
@@ -4403,6 +4508,11 @@ Als dank zou ik het enorm waarderen als je een recensie achterlaat in de App Sto
         <source>This device is probably not using Pi-hole, because no queries were found.</source>
         <target state="translated">Dit apparaat gebruikt waarschijnlijk geen Pi-hole, omdat er geen queries zijn gevonden.</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Time Sensitive notifications can break through focus modes if you prefer." xml:space="preserve">
+        <source>Time Sensitive notifications can break through focus modes if you prefer.</source>
+        <target state="translated">Tijdgevoelige meldingen kunnen focusmodi doorbreken als je dat wilt.</target>
+        <note>Used on the Notifications-settings screen.</note>
       </trans-unit>
       <trans-unit id="Time remaining" xml:space="preserve">
         <source>Time remaining</source>
@@ -4697,9 +4807,9 @@ De standaardlocatie van je certificaat op je apparaat is: /etc/pihole/tls.pem. M
         <target state="translated">Ja</target>
         <note/>
       </trans-unit>
-      <trans-unit id="You can configure an application password in the Pi-hole Web Interface. Be aware that you can have only *one* applciation password at a time." xml:space="preserve">
-        <source>You can configure an application password in the Pi-hole Web Interface. Be aware that you can have only *one* applciation password at a time.</source>
-        <target state="translated">Je kunt een applicatiewachtwoord instellen in de Pi-hole webinterface. Let op: je kunt maar één applicatiewachtwoord tegelijk hebben.</target>
+      <trans-unit id="You can configure an application password in the Pi-hole Web Interface. Be aware that you can have only *one* application password at a time." xml:space="preserve">
+        <source>You can configure an application password in the Pi-hole Web Interface. Be aware that you can have only *one* application password at a time.</source>
+        <target state="translated">Je kunt een applicatiewachtwoord instellen in de Pi-hole webinterface. Let op: je kunt maar *één* applicatiewachtwoord tegelijk hebben.</target>
         <note/>
       </trans-unit>
       <trans-unit id="You don't have multiple instances." xml:space="preserve">
@@ -4716,11 +4826,6 @@ De standaardlocatie van je certificaat op je apparaat is: /etc/pihole/tls.pem. M
         <source>You've reached the maximum of 6 presets.</source>
         <target state="translated">Je hebt de maximale limiet van 6 presets bereikt.</target>
         <note>Used on the 'Add new disable preset' screen</note>
-      </trans-unit>
-      <trans-unit id="Your password and TOTP token will be used only once to create an 'application password' and are deleted afterwards." xml:space="preserve">
-        <source>Your password and TOTP token will be used only once to create an 'application password' and are deleted afterwards.</source>
-        <target state="translated">Je wachtwoord en TOTP-token worden slechts één keer gebruikt om een ‘applicatiewachtwoord’ aan te maken en worden daarna verwijderd.</target>
-        <note/>
       </trans-unit>
       <trans-unit id="`/api` by default" xml:space="preserve">
         <source>`/api` by default</source>
@@ -5350,7 +5455,7 @@ Joost</target>
   </file>
   <file original="WidgetInstance/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="nl">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -5365,7 +5470,7 @@ Joost</target>
   </file>
   <file original="WidgetInstance/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="nl">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="Info" xml:space="preserve">
