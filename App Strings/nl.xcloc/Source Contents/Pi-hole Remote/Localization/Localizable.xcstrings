@@ -242,9 +242,6 @@
     "Add new preset" : {
       "comment" : "Used on the 'Add new disable preset' screen"
     },
-    "Add record" : {
-
-    },
     "Add to allow-list..." : {
 
     },
@@ -907,6 +904,12 @@
     "CNAME Records" : {
 
     },
+    "CNAME:" : {
+      "shouldTranslate" : false
+    },
+    "CNAME: %@" : {
+      "shouldTranslate" : false
+    },
     "Code" : {
 
     },
@@ -1234,6 +1237,9 @@
     "Destination" : {
 
     },
+    "Destination Instance" : {
+
+    },
     "Details" : {
 
     },
@@ -1332,6 +1338,12 @@
     },
     "DNS Records" : {
 
+    },
+    "DNS:" : {
+      "shouldTranslate" : false
+    },
+    "DNS: %@" : {
+      "shouldTranslate" : false
     },
     "DNSSEC" : {
 
@@ -2019,6 +2031,9 @@
     "Never forward reverse lookups for private IP ranges" : {
 
     },
+    "NEW" : {
+
+    },
     "New Adlist" : {
 
     },
@@ -2112,7 +2127,7 @@
     "None." : {
 
     },
-    "Note: any entries that are inserted will be added to the group \"default\" only." : {
+    "Note: adlist & domain entries that are inserted will be added to the group \"default\" only." : {
 
     },
     "Notifications" : {
@@ -2365,9 +2380,6 @@
     "Protocol" : {
 
     },
-    "Purchased PHR when it wasn't free?" : {
-      "comment" : "Used on the PHR+ purchase screen."
-    },
     "Purple" : {
 
     },
@@ -2454,9 +2466,6 @@
 
     },
     "Requires PHR+" : {
-
-    },
-    "Requires Pi-hole v6.0 or higher." : {
 
     },
     "Reset" : {
@@ -2805,7 +2814,7 @@
     "Support Development" : {
 
     },
-    "Sync adlists & domains between instances." : {
+    "Sync adlists, domains, and local DNS records between instances." : {
 
     },
     "Sync Instances" : {
@@ -2838,29 +2847,6 @@
                 "stringUnit" : {
                   "state" : "new",
                   "value" : "Tap for more info."
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "Tap here if you purchased PHR when it was a paid app" : {
-      "comment" : "Used on the PHR+ purchase screen.",
-      "localizations" : {
-        "en" : {
-          "variations" : {
-            "device" : {
-              "mac" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "Click here if you purchased PHR when it was a paid app"
-                }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "new",
-                  "value" : "Tap here if you purchased PHR when it was a paid app"
                 }
               }
             }
@@ -3203,6 +3189,9 @@
 
     },
     "Update available for Web: %@. Select for changelog." : {
+
+    },
+    "Update available: %@. Select for changelog." : {
 
     },
     "Update gravity" : {

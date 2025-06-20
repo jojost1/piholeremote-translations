@@ -128,6 +128,9 @@
     "Cached: %@" : {
 
     },
+    "Chart" : {
+
+    },
     "Client IP" : {
 
     },
@@ -239,13 +242,13 @@
     "No Instances" : {
 
     },
+    "Only visible if 'Combine instances' is turned off." : {
+
+    },
     "PHR+ is required to use this feature." : {
 
     },
     "Pi-hole Remote" : {
-
-    },
-    "Preferences" : {
 
     },
     "Queries" : {
@@ -281,6 +284,24 @@
     "Settings" : {
 
     },
+    "Show Blocklist Last Updated" : {
+
+    },
+    "Show chart" : {
+
+    },
+    "Show hostname" : {
+
+    },
+    "Show legend" : {
+
+    },
+    "Show metrics" : {
+
+    },
+    "Show version" : {
+
+    },
     "Something went wrong: %@" : {
 
     },
@@ -300,6 +321,9 @@
 
     },
     "Specify which service(s) to toggle." : {
+
+    },
+    "Statistics" : {
 
     },
     "Successfully disabled blocking for %@." : {
@@ -335,13 +359,7 @@
     "Until tomorrow" : {
 
     },
-    "Update available for Core: %@. Select for changelog." : {
-
-    },
-    "Update available for FTL: %@. Select for changelog." : {
-
-    },
-    "Update available for Web: %@. Select for changelog." : {
+    "Update available: %@." : {
 
     },
     "Upstream Servers" : {

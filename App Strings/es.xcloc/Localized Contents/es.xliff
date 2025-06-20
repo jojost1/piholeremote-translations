@@ -267,6 +267,10 @@
         <source>Cached: %@</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Chart" xml:space="preserve">
+        <source>Chart</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Client IP" xml:space="preserve">
         <source>Client IP</source>
         <note/>
@@ -391,16 +395,16 @@
         <source>No connection</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Only visible if 'Combine instances' is turned off." xml:space="preserve">
+        <source>Only visible if 'Combine instances' is turned off.</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="PHR+ is required to use this feature." xml:space="preserve">
         <source>PHR+ is required to use this feature.</source>
         <note/>
       </trans-unit>
       <trans-unit id="Pi-hole Remote" xml:space="preserve">
         <source>Pi-hole Remote</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Preferences" xml:space="preserve">
-        <source>Preferences</source>
         <note/>
       </trans-unit>
       <trans-unit id="Queries" xml:space="preserve">
@@ -447,6 +451,30 @@
         <source>Settings</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Show Blocklist Last Updated" xml:space="preserve">
+        <source>Show Blocklist Last Updated</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show chart" xml:space="preserve">
+        <source>Show chart</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show hostname" xml:space="preserve">
+        <source>Show hostname</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show legend" xml:space="preserve">
+        <source>Show legend</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show metrics" xml:space="preserve">
+        <source>Show metrics</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show version" xml:space="preserve">
+        <source>Show version</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Something went wrong." xml:space="preserve">
         <source>Something went wrong.</source>
         <note/>
@@ -469,6 +497,10 @@
       </trans-unit>
       <trans-unit id="Specify which service(s) to toggle." xml:space="preserve">
         <source>Specify which service(s) to toggle.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Statistics" xml:space="preserve">
+        <source>Statistics</source>
         <note/>
       </trans-unit>
       <trans-unit id="Successfully disabled blocking for %@." xml:space="preserve">
@@ -511,16 +543,8 @@
         <source>Until tomorrow</source>
         <note/>
       </trans-unit>
-      <trans-unit id="Update available for Core: %@. Select for changelog." xml:space="preserve">
-        <source>Update available for Core: %@. Select for changelog.</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Update available for FTL: %@. Select for changelog." xml:space="preserve">
-        <source>Update available for FTL: %@. Select for changelog.</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Update available for Web: %@. Select for changelog." xml:space="preserve">
-        <source>Update available for Web: %@. Select for changelog.</source>
+      <trans-unit id="Update available: %@." xml:space="preserve">
+        <source>Update available: %@.</source>
         <note/>
       </trans-unit>
       <trans-unit id="Upstream Servers" xml:space="preserve">
@@ -1413,10 +1437,6 @@
         <source>Add new preset</source>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
-      <trans-unit id="Add record" xml:space="preserve">
-        <source>Add record</source>
-        <note/>
-      </trans-unit>
       <trans-unit id="Add to allow-list..." xml:space="preserve">
         <source>Add to allow-list...</source>
         <note/>
@@ -1776,6 +1796,14 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>CNAME Records</source>
         <note/>
       </trans-unit>
+      <trans-unit id="CNAME:" translate="no" xml:space="preserve">
+        <source>CNAME:</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="CNAME: %@" translate="no" xml:space="preserve">
+        <source>CNAME: %@</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Cache" xml:space="preserve">
         <source>Cache</source>
         <note/>
@@ -2066,6 +2094,14 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <source>DNS Records</source>
         <note/>
       </trans-unit>
+      <trans-unit id="DNS:" translate="no" xml:space="preserve">
+        <source>DNS:</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DNS: %@" translate="no" xml:space="preserve">
+        <source>DNS: %@</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="DNSSEC" xml:space="preserve">
         <source>DNSSEC</source>
         <note/>
@@ -2140,6 +2176,10 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Destination" xml:space="preserve">
         <source>Destination</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Destination Instance" xml:space="preserve">
+        <source>Destination Instance</source>
         <note/>
       </trans-unit>
       <trans-unit id="Details" xml:space="preserve">
@@ -2881,6 +2921,10 @@ Note: When this feature is enabled you will need to configure new clients manual
         <source>Must be unique.</source>
         <note/>
       </trans-unit>
+      <trans-unit id="NEW" xml:space="preserve">
+        <source>NEW</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
         <source>Name</source>
         <note/>
@@ -3029,8 +3073,8 @@ Note: When this feature is enabled you will need to configure new clients manual
         <source>None.</source>
         <note/>
       </trans-unit>
-      <trans-unit id="Note: any entries that are inserted will be added to the group &quot;default&quot; only." xml:space="preserve">
-        <source>Note: any entries that are inserted will be added to the group "default" only.</source>
+      <trans-unit id="Note: adlist &amp; domain entries that are inserted will be added to the group &quot;default&quot; only." xml:space="preserve">
+        <source>Note: adlist &amp; domain entries that are inserted will be added to the group "default" only.</source>
         <note/>
       </trans-unit>
       <trans-unit id="Notifications" xml:space="preserve">
@@ -3294,10 +3338,6 @@ Note: When this feature is enabled you will need to configure new clients manual
         <source>Protocol</source>
         <note/>
       </trans-unit>
-      <trans-unit id="Purchased PHR when it wasn't free?" xml:space="preserve">
-        <source>Purchased PHR when it wasn't free?</source>
-        <note>Used on the PHR+ purchase screen.</note>
-      </trans-unit>
       <trans-unit id="Purple" xml:space="preserve">
         <source>Purple</source>
         <note/>
@@ -3401,10 +3441,6 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Requires PHR+" xml:space="preserve">
         <source>Requires PHR+</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Requires Pi-hole v6.0 or higher." xml:space="preserve">
-        <source>Requires Pi-hole v6.0 or higher.</source>
         <note/>
       </trans-unit>
       <trans-unit id="Reset" xml:space="preserve">
@@ -3675,8 +3711,8 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>Sync Instances</source>
         <note/>
       </trans-unit>
-      <trans-unit id="Sync adlists &amp; domains between instances." xml:space="preserve">
-        <source>Sync adlists &amp; domains between instances.</source>
+      <trans-unit id="Sync adlists, domains, and local DNS records between instances." xml:space="preserve">
+        <source>Sync adlists, domains, and local DNS records between instances.</source>
         <note/>
       </trans-unit>
       <trans-unit id="System" xml:space="preserve">
@@ -3722,14 +3758,6 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       <trans-unit id="Tap for more info.|==|device.other" xml:space="preserve">
         <source>Tap for more info.</source>
         <note/>
-      </trans-unit>
-      <trans-unit id="Tap here if you purchased PHR when it was a paid app|==|device.mac" xml:space="preserve">
-        <source>Click here if you purchased PHR when it was a paid app</source>
-        <note>Used on the PHR+ purchase screen.</note>
-      </trans-unit>
-      <trans-unit id="Tap here if you purchased PHR when it was a paid app|==|device.other" xml:space="preserve">
-        <source>Tap here if you purchased PHR when it was a paid app</source>
-        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Target" xml:space="preserve">
         <source>Target</source>
@@ -3967,6 +3995,10 @@ In return, I would really appreciate it if you could leave a review in the App S
       </trans-unit>
       <trans-unit id="Update available for Web: %@. Select for changelog." xml:space="preserve">
         <source>Update available for Web: %@. Select for changelog.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Update available: %@. Select for changelog." xml:space="preserve">
+        <source>Update available: %@. Select for changelog.</source>
         <note/>
       </trans-unit>
       <trans-unit id="Update gravity" xml:space="preserve">
@@ -4716,8 +4748,12 @@ Joost</target>
         <source>Info</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Preferences" xml:space="preserve">
-        <source>Preferences</source>
+      <trans-unit id="Only visible if 'Combine instances' is turned off." xml:space="preserve">
+        <source>Only visible if 'Combine instances' is turned off.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Statistics" xml:space="preserve">
+        <source>Statistics</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Version" xml:space="preserve">

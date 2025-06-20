@@ -267,6 +267,10 @@
         <source>Cached: %@</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Chart" xml:space="preserve">
+        <source>Chart</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Client IP" xml:space="preserve">
         <source>Client IP</source>
         <note/>
@@ -391,16 +395,16 @@
         <source>No connection</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Only visible if 'Combine instances' is turned off." xml:space="preserve">
+        <source>Only visible if 'Combine instances' is turned off.</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="PHR+ is required to use this feature." xml:space="preserve">
         <source>PHR+ is required to use this feature.</source>
         <note/>
       </trans-unit>
       <trans-unit id="Pi-hole Remote" xml:space="preserve">
         <source>Pi-hole Remote</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Preferences" xml:space="preserve">
-        <source>Preferences</source>
         <note/>
       </trans-unit>
       <trans-unit id="Queries" xml:space="preserve">
@@ -447,6 +451,30 @@
         <source>Settings</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Show Blocklist Last Updated" xml:space="preserve">
+        <source>Show Blocklist Last Updated</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show chart" xml:space="preserve">
+        <source>Show chart</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show hostname" xml:space="preserve">
+        <source>Show hostname</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show legend" xml:space="preserve">
+        <source>Show legend</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show metrics" xml:space="preserve">
+        <source>Show metrics</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show version" xml:space="preserve">
+        <source>Show version</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Something went wrong." xml:space="preserve">
         <source>Something went wrong.</source>
         <note/>
@@ -469,6 +497,10 @@
       </trans-unit>
       <trans-unit id="Specify which service(s) to toggle." xml:space="preserve">
         <source>Specify which service(s) to toggle.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Statistics" xml:space="preserve">
+        <source>Statistics</source>
         <note/>
       </trans-unit>
       <trans-unit id="Successfully disabled blocking for %@." xml:space="preserve">
@@ -511,16 +543,8 @@
         <source>Until tomorrow</source>
         <note/>
       </trans-unit>
-      <trans-unit id="Update available for Core: %@. Select for changelog." xml:space="preserve">
-        <source>Update available for Core: %@. Select for changelog.</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Update available for FTL: %@. Select for changelog." xml:space="preserve">
-        <source>Update available for FTL: %@. Select for changelog.</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Update available for Web: %@. Select for changelog." xml:space="preserve">
-        <source>Update available for Web: %@. Select for changelog.</source>
+      <trans-unit id="Update available: %@." xml:space="preserve">
+        <source>Update available: %@.</source>
         <note/>
       </trans-unit>
       <trans-unit id="Upstream Servers" xml:space="preserve">
@@ -1477,11 +1501,6 @@
         <target state="translated">Voeg nieuwe preset toe</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
-      <trans-unit id="Add record" xml:space="preserve">
-        <source>Add record</source>
-        <target state="translated">Voeg record toe</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Add to allow-list..." xml:space="preserve">
         <source>Add to allow-list...</source>
         <target state="translated">Toevoegen aan allow-list</target>
@@ -1930,6 +1949,14 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">CNAME Records</target>
         <note/>
       </trans-unit>
+      <trans-unit id="CNAME:" translate="no" xml:space="preserve">
+        <source>CNAME:</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="CNAME: %@" translate="no" xml:space="preserve">
+        <source>CNAME: %@</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Cache" xml:space="preserve">
         <source>Cache</source>
         <target state="translated">Cache</target>
@@ -2295,6 +2322,14 @@ Let op: het herkennen van clients op basis van IP-adressen (inclusief subnetbere
         <target state="translated">DNS Records</target>
         <note/>
       </trans-unit>
+      <trans-unit id="DNS:" translate="no" xml:space="preserve">
+        <source>DNS:</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DNS: %@" translate="no" xml:space="preserve">
+        <source>DNS: %@</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="DNSSEC" xml:space="preserve">
         <source>DNSSEC</source>
         <target state="translated">DNSSEC</target>
@@ -2388,6 +2423,11 @@ Let op: het herkennen van clients op basis van IP-adressen (inclusief subnetbere
       <trans-unit id="Destination" xml:space="preserve">
         <source>Destination</source>
         <target state="translated">Bestemming</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Destination Instance" xml:space="preserve">
+        <source>Destination Instance</source>
+        <target state="translated">Bestemming instantie</target>
         <note/>
       </trans-unit>
       <trans-unit id="Details" xml:space="preserve">
@@ -3212,7 +3252,7 @@ Opmerking: Wanneer deze functie is ingeschakeld, moet je nieuwe clients handmati
       </trans-unit>
       <trans-unit id="Local DNS Records" xml:space="preserve">
         <source>Local DNS Records</source>
-        <target state="translated">Local DNS Records</target>
+        <target state="translated">Lokale DNS-records</target>
         <note/>
       </trans-unit>
       <trans-unit id="Local Records" xml:space="preserve">
@@ -3313,6 +3353,11 @@ Opmerking: Wanneer deze functie is ingeschakeld, moet je nieuwe clients handmati
       <trans-unit id="Must be unique." xml:space="preserve">
         <source>Must be unique.</source>
         <target state="translated">Moet uniek zijn.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="NEW" xml:space="preserve">
+        <source>NEW</source>
+        <target state="translated">NIEUW</target>
         <note/>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
@@ -3499,9 +3544,9 @@ Opmerking: Wanneer deze functie is ingeschakeld, moet je nieuwe clients handmati
         <target state="translated">Geen.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Note: any entries that are inserted will be added to the group &quot;default&quot; only." xml:space="preserve">
-        <source>Note: any entries that are inserted will be added to the group "default" only.</source>
-        <target state="translated">Let op: alle toegevoegde vermeldingen worden uitsluitend aan de groep “default” toegevoegd.</target>
+      <trans-unit id="Note: adlist &amp; domain entries that are inserted will be added to the group &quot;default&quot; only." xml:space="preserve">
+        <source>Note: adlist &amp; domain entries that are inserted will be added to the group "default" only.</source>
+        <target state="translated">Let op: alle toegevoegde adlist &amp; domeinen worden uitsluitend aan de groep “default” toegevoegd.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Notifications" xml:space="preserve">
@@ -3825,11 +3870,6 @@ Opmerking: Wanneer deze functie is ingeschakeld, moet je nieuwe clients handmati
         <target state="translated">Protocol</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Purchased PHR when it wasn't free?" xml:space="preserve">
-        <source>Purchased PHR when it wasn't free?</source>
-        <target state="translated">Heb je PHR gekocht toen het niet gratis was?</target>
-        <note>Used on the PHR+ purchase screen.</note>
-      </trans-unit>
       <trans-unit id="Purple" xml:space="preserve">
         <source>Purple</source>
         <target state="translated">Paars</target>
@@ -3958,11 +3998,6 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       <trans-unit id="Requires PHR+" xml:space="preserve">
         <source>Requires PHR+</source>
         <target state="translated">Vereist PHR+</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Requires Pi-hole v6.0 or higher." xml:space="preserve">
-        <source>Requires Pi-hole v6.0 or higher.</source>
-        <target state="translated">Vereist Pi-hole v6.0 of nieuwer.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Reset" xml:space="preserve">
@@ -4297,9 +4332,9 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">Sync instanties</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Sync adlists &amp; domains between instances." xml:space="preserve">
-        <source>Sync adlists &amp; domains between instances.</source>
-        <target state="translated">Synchroniseer adlists &amp; domeinen tussen instanties.</target>
+      <trans-unit id="Sync adlists, domains, and local DNS records between instances." xml:space="preserve">
+        <source>Sync adlists, domains, and local DNS records between instances.</source>
+        <target state="translated">Synchroniseer adlists, domeinen en lokale DNS-records tussen instanties.</target>
         <note/>
       </trans-unit>
       <trans-unit id="System" xml:space="preserve">
@@ -4356,16 +4391,6 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>Tap for more info.</source>
         <target state="translated">Tik voor meer informatie.</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Tap here if you purchased PHR when it was a paid app|==|device.mac" xml:space="preserve">
-        <source>Click here if you purchased PHR when it was a paid app</source>
-        <target state="translated">Klik hier als je PHR hebt gekocht toen het een betaalde app was.</target>
-        <note>Used on the PHR+ purchase screen.</note>
-      </trans-unit>
-      <trans-unit id="Tap here if you purchased PHR when it was a paid app|==|device.other" xml:space="preserve">
-        <source>Tap here if you purchased PHR when it was a paid app</source>
-        <target state="translated">Tik hier als je PHR hebt gekocht toen het een betaalde app was.</target>
-        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Target" xml:space="preserve">
         <source>Target</source>
@@ -4667,6 +4692,11 @@ Als dank zou ik het enorm waarderen als je een recensie achterlaat in de App Sto
       <trans-unit id="Update available for Web: %@. Select for changelog." xml:space="preserve">
         <source>Update available for Web: %@. Select for changelog.</source>
         <target state="translated">Update beschikbaar voor Web: %@. Selecteer voor changelog.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Update available: %@. Select for changelog." xml:space="preserve">
+        <source>Update available: %@. Select for changelog.</source>
+        <target state="translated">Update beschikbaar: %@. Selecteer voor changelog.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Update gravity" xml:space="preserve">
@@ -5477,8 +5507,12 @@ Joost</target>
         <source>Info</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Preferences" xml:space="preserve">
-        <source>Preferences</source>
+      <trans-unit id="Only visible if 'Combine instances' is turned off." xml:space="preserve">
+        <source>Only visible if 'Combine instances' is turned off.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Statistics" xml:space="preserve">
+        <source>Statistics</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Version" xml:space="preserve">

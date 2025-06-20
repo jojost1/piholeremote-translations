@@ -306,6 +306,11 @@
         <target state="new">Cached: %@</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Chart" xml:space="preserve">
+        <source>Chart</source>
+        <target state="new">Chart</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Client IP" xml:space="preserve">
         <source>Client IP</source>
         <target state="new">Client IP</target>
@@ -461,6 +466,11 @@
         <target state="new">No connection</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Only visible if 'Combine instances' is turned off." xml:space="preserve">
+        <source>Only visible if 'Combine instances' is turned off.</source>
+        <target state="new">Only visible if 'Combine instances' is turned off.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="PHR+ is required to use this feature." xml:space="preserve">
         <source>PHR+ is required to use this feature.</source>
         <target state="new">PHR+ is required to use this feature.</target>
@@ -469,11 +479,6 @@
       <trans-unit id="Pi-hole Remote" xml:space="preserve">
         <source>Pi-hole Remote</source>
         <target state="new">Pi-hole Remote</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Preferences" xml:space="preserve">
-        <source>Preferences</source>
-        <target state="new">Preferences</target>
         <note/>
       </trans-unit>
       <trans-unit id="Queries" xml:space="preserve">
@@ -531,6 +536,36 @@
         <target state="new">Settings</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Show Blocklist Last Updated" xml:space="preserve">
+        <source>Show Blocklist Last Updated</source>
+        <target state="new">Show Blocklist Last Updated</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show chart" xml:space="preserve">
+        <source>Show chart</source>
+        <target state="new">Show chart</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show hostname" xml:space="preserve">
+        <source>Show hostname</source>
+        <target state="new">Show hostname</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show legend" xml:space="preserve">
+        <source>Show legend</source>
+        <target state="new">Show legend</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show metrics" xml:space="preserve">
+        <source>Show metrics</source>
+        <target state="new">Show metrics</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show version" xml:space="preserve">
+        <source>Show version</source>
+        <target state="new">Show version</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Something went wrong." xml:space="preserve">
         <source>Something went wrong.</source>
         <target state="new">Something went wrong.</target>
@@ -559,6 +594,11 @@
       <trans-unit id="Specify which service(s) to toggle." xml:space="preserve">
         <source>Specify which service(s) to toggle.</source>
         <target state="new">Specify which service(s) to toggle.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Statistics" xml:space="preserve">
+        <source>Statistics</source>
+        <target state="new">Statistics</target>
         <note/>
       </trans-unit>
       <trans-unit id="Successfully disabled blocking for %@." xml:space="preserve">
@@ -611,19 +651,9 @@
         <target state="new">Until tomorrow</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Update available for Core: %@. Select for changelog." xml:space="preserve">
-        <source>Update available for Core: %@. Select for changelog.</source>
-        <target state="new">Update available for Core: %@. Select for changelog.</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Update available for FTL: %@. Select for changelog." xml:space="preserve">
-        <source>Update available for FTL: %@. Select for changelog.</source>
-        <target state="new">Update available for FTL: %@. Select for changelog.</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Update available for Web: %@. Select for changelog." xml:space="preserve">
-        <source>Update available for Web: %@. Select for changelog.</source>
-        <target state="new">Update available for Web: %@. Select for changelog.</target>
+      <trans-unit id="Update available: %@." xml:space="preserve">
+        <source>Update available: %@.</source>
+        <target state="new">Update available: %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Upstream Servers" xml:space="preserve">
@@ -1633,11 +1663,6 @@
         <target state="new">Add new preset</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
-      <trans-unit id="Add record" xml:space="preserve">
-        <source>Add record</source>
-        <target state="new">Add record</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Add to allow-list..." xml:space="preserve">
         <source>Add to allow-list...</source>
         <target state="new">Add to allow-list...</target>
@@ -2088,6 +2113,16 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="new">CNAME Records</target>
         <note/>
       </trans-unit>
+      <trans-unit id="CNAME:" translate="no" xml:space="preserve">
+        <source>CNAME:</source>
+        <target state="new">CNAME:</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="CNAME: %@" translate="no" xml:space="preserve">
+        <source>CNAME: %@</source>
+        <target state="new">CNAME: %@</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Cache" xml:space="preserve">
         <source>Cache</source>
         <target state="new">Cache</target>
@@ -2452,6 +2487,16 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <target state="new">DNS Records</target>
         <note/>
       </trans-unit>
+      <trans-unit id="DNS:" translate="no" xml:space="preserve">
+        <source>DNS:</source>
+        <target state="new">DNS:</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DNS: %@" translate="no" xml:space="preserve">
+        <source>DNS: %@</source>
+        <target state="new">DNS: %@</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="DNSSEC" xml:space="preserve">
         <source>DNSSEC</source>
         <target state="new">DNSSEC</target>
@@ -2545,6 +2590,11 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       <trans-unit id="Destination" xml:space="preserve">
         <source>Destination</source>
         <target state="new">Destination</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Destination Instance" xml:space="preserve">
+        <source>Destination Instance</source>
+        <target state="new">Destination Instance</target>
         <note/>
       </trans-unit>
       <trans-unit id="Details" xml:space="preserve">
@@ -3476,6 +3526,11 @@ Note: When this feature is enabled you will need to configure new clients manual
         <target state="new">Must be unique.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="NEW" xml:space="preserve">
+        <source>NEW</source>
+        <target state="new">NEW</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
         <source>Name</source>
         <target state="new">Name</target>
@@ -3661,9 +3716,9 @@ Note: When this feature is enabled you will need to configure new clients manual
         <target state="new">None.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Note: any entries that are inserted will be added to the group &quot;default&quot; only." xml:space="preserve">
-        <source>Note: any entries that are inserted will be added to the group "default" only.</source>
-        <target state="new">Note: any entries that are inserted will be added to the group "default" only.</target>
+      <trans-unit id="Note: adlist &amp; domain entries that are inserted will be added to the group &quot;default&quot; only." xml:space="preserve">
+        <source>Note: adlist &amp; domain entries that are inserted will be added to the group "default" only.</source>
+        <target state="new">Note: adlist &amp; domain entries that are inserted will be added to the group "default" only.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Notifications" xml:space="preserve">
@@ -3993,11 +4048,6 @@ Note: When this feature is enabled you will need to configure new clients manual
         <target state="new">Protocol</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Purchased PHR when it wasn't free?" xml:space="preserve">
-        <source>Purchased PHR when it wasn't free?</source>
-        <target state="new">Purchased PHR when it wasn't free?</target>
-        <note>Used on the PHR+ purchase screen.</note>
-      </trans-unit>
       <trans-unit id="Purple" xml:space="preserve">
         <source>Purple</source>
         <target state="new">Purple</target>
@@ -4127,11 +4177,6 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       <trans-unit id="Requires PHR+" xml:space="preserve">
         <source>Requires PHR+</source>
         <target state="new">Requires PHR+</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Requires Pi-hole v6.0 or higher." xml:space="preserve">
-        <source>Requires Pi-hole v6.0 or higher.</source>
-        <target state="new">Requires Pi-hole v6.0 or higher.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Reset" xml:space="preserve">
@@ -4469,9 +4514,9 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="new">Sync Instances</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Sync adlists &amp; domains between instances." xml:space="preserve">
-        <source>Sync adlists &amp; domains between instances.</source>
-        <target state="new">Sync adlists &amp; domains between instances.</target>
+      <trans-unit id="Sync adlists, domains, and local DNS records between instances." xml:space="preserve">
+        <source>Sync adlists, domains, and local DNS records between instances.</source>
+        <target state="new">Sync adlists, domains, and local DNS records between instances.</target>
         <note/>
       </trans-unit>
       <trans-unit id="System" xml:space="preserve">
@@ -4528,16 +4573,6 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>Tap for more info.</source>
         <target state="new">Tap for more info.</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Tap here if you purchased PHR when it was a paid app|==|device.mac" xml:space="preserve">
-        <source>Click here if you purchased PHR when it was a paid app</source>
-        <target state="translated">Click here if you purchased PHR when it was a paid app</target>
-        <note>Used on the PHR+ purchase screen.</note>
-      </trans-unit>
-      <trans-unit id="Tap here if you purchased PHR when it was a paid app|==|device.other" xml:space="preserve">
-        <source>Tap here if you purchased PHR when it was a paid app</source>
-        <target state="new">Tap here if you purchased PHR when it was a paid app</target>
-        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Target" xml:space="preserve">
         <source>Target</source>
@@ -4839,6 +4874,11 @@ In return, I would really appreciate it if you could leave a review in the App S
       <trans-unit id="Update available for Web: %@. Select for changelog." xml:space="preserve">
         <source>Update available for Web: %@. Select for changelog.</source>
         <target state="new">Update available for Web: %@. Select for changelog.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Update available: %@. Select for changelog." xml:space="preserve">
+        <source>Update available: %@. Select for changelog.</source>
+        <target state="new">Update available: %@. Select for changelog.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Update gravity" xml:space="preserve">
@@ -5657,9 +5697,14 @@ Joost</target>
         <target>Info</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Preferences" xml:space="preserve">
-        <source>Preferences</source>
-        <target>Preferences</target>
+      <trans-unit id="Only visible if 'Combine instances' is turned off." xml:space="preserve">
+        <source>Only visible if 'Combine instances' is turned off.</source>
+        <target>Only visible if 'Combine instances' is turned off.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Statistics" xml:space="preserve">
+        <source>Statistics</source>
+        <target>Statistics</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Version" xml:space="preserve">
