@@ -1,6 +1,9 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "" : {
+      "shouldTranslate" : false
+    },
     " avg" : {
       "comment" : "Small 'average' label shown on the Home-tab when 'Combine' is enabled. The space at the start is intentional."
     },
@@ -272,6 +275,9 @@
     "Adding Custom Blocked Services requires PHR+" : {
 
     },
+    "Adding new presets requires PHR+." : {
+      "comment" : "Used on the 'Add new disable preset' screen"
+    },
     "Adding/removing local CNAME records will restart the DNS server." : {
 
     },
@@ -342,6 +348,9 @@
 
     },
     "Alphabetically" : {
+
+    },
+    "Alphabetically (Comments)" : {
 
     },
     "Already in sync." : {
@@ -783,32 +792,12 @@
         }
       }
     },
-    "changelog_settings" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Changelog Settings"
-          }
-        }
-      }
-    },
     "changelog_settings_show" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Show on App Update"
-          }
-        }
-      }
-    },
-    "changelog_settings_show_footer" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The Changelog will only be shown for feature-updates, not for updates that only contain bugfixes."
           }
         }
       }
@@ -1348,6 +1337,9 @@
     "DNSSEC" : {
 
     },
+    "DNSSEC status" : {
+
+    },
     "Docker" : {
       "shouldTranslate" : false
     },
@@ -1368,16 +1360,6 @@
     },
     "Domains: %@" : {
       "comment" : "Displays the number of domains on an adlist."
-    },
-    "done" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Done"
-          }
-        }
-      }
     },
     "Done" : {
 
@@ -1472,9 +1454,6 @@
     "Every 5 seconds" : {
 
     },
-    "Every 5 seconds." : {
-
-    },
     "Exact" : {
 
     },
@@ -1512,6 +1491,9 @@
 
     },
     "Filter by status" : {
+
+    },
+    "Filtered by %@" : {
 
     },
     "Filtered by `%@`" : {
@@ -1749,6 +1731,9 @@
     "I see you don't have an active mail client on your device, please mail me with the request to join the TestFlight including a screenshot of this PHR+ screen so I can see you have purchased Pro.\n\nPlease mail it to developer@rocketscience-it.nl!" : {
       "comment" : "Used on the PHR+ purchase screen."
     },
+    "iCloud" : {
+      "comment" : "Displayed on the support screen."
+    },
     "Icon" : {
 
     },
@@ -1956,6 +1941,9 @@
     "Mail" : {
 
     },
+    "Major updates only" : {
+
+    },
     "Make sure your router's DHCP server is disabled when using the Pi-hole DHCP server!" : {
 
     },
@@ -1993,6 +1981,9 @@
 
     },
     "Metrics decimals" : {
+
+    },
+    "Minimize tabbar on scroll" : {
 
     },
     "Mint" : {
@@ -2380,6 +2371,9 @@
     "Protocol" : {
 
     },
+    "Purge PHR iCloud Data" : {
+
+    },
     "Purple" : {
 
     },
@@ -2688,6 +2682,9 @@
     "Show chart" : {
 
     },
+    "Show DNSSEC status" : {
+
+    },
     "Show full feature comparison" : {
 
     },
@@ -2738,9 +2735,6 @@
     "Something went wrong" : {
 
     },
-    "Something went wrong while getting your denylist entries." : {
-
-    },
     "Something went wrong: %@" : {
 
     },
@@ -2770,6 +2764,9 @@
 
     },
     "Special Domain" : {
+
+    },
+    "Specify which group(s) to control." : {
 
     },
     "Specify which instance(s) to check." : {
@@ -2863,6 +2860,9 @@
     "Target Group" : {
 
     },
+    "Target Groups" : {
+
+    },
     "Teal" : {
 
     },
@@ -2929,13 +2929,16 @@
     "The red options are dangerous on devices directly connected to the Internet such as cloud instances and are only safe if your Pi-hole is properly firewalled. In a typical at-home setup where your Pi-hole is located within your local network (and you have not forwarded port 53 in your router!) they are safe to use." : {
 
     },
+    "This action is final and cannot be undone." : {
+
+    },
     "This device is probably not using Pi-hole, because no queries were found." : {
 
     },
     "Time remaining" : {
 
     },
-    "Time Sensitive notifications can break through focus modes if you prefer." : {
+    "Time Sensitive notifications have the option to break through focus modes." : {
       "comment" : "Used on the Notifications-settings screen."
     },
     "Tint" : {
@@ -3093,6 +3096,9 @@
           }
         }
       }
+    },
+    "To re-sync after purging, edit & save an instance." : {
+
     },
     "Toggle between enabled & disabled" : {
 

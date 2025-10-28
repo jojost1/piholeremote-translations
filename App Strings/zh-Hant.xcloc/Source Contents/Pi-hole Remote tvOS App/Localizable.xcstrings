@@ -1,6 +1,12 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    " avg" : {
+      "comment" : "Small 'average' label shown on the Home-tab when 'Combine' is enabled. The space at the start is intentional."
+    },
+    "%@ total" : {
+
+    },
     "%@q/min" : {
 
     },
@@ -13,10 +19,23 @@
     "Active clients: %@" : {
 
     },
+    "Active clients: %@ out of %@ total" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Active clients: %1$@ out of %2$@ total"
+          }
+        }
+      }
+    },
     "Add 5 minutes" : {
 
     },
     "Add your Pi-hole instances on an iOS, iPadOS, or macOS device with version 6.2 or higher and make sure iCloud is enabled." : {
+
+    },
+    "Adlists" : {
 
     },
     "Allow-list" : {
@@ -140,6 +159,9 @@
     "Clients" : {
 
     },
+    "Combine instances" : {
+
+    },
     "Compact mode" : {
 
     },
@@ -162,6 +184,9 @@
 
     },
     "Domain" : {
+
+    },
+    "Domains" : {
 
     },
     "Duration" : {
@@ -230,8 +255,14 @@
     "Instance" : {
 
     },
+    "Instances" : {
+
+    },
     "keyNotFound" : {
       "comment" : "ParsingError"
+    },
+    "Last Updated" : {
+
     },
     "Multiple" : {
 
@@ -314,6 +345,9 @@
     "Special Domain" : {
 
     },
+    "Specify which group(s) to control." : {
+
+    },
     "Specify which instance(s) to check." : {
 
     },
@@ -330,6 +364,9 @@
 
     },
     "Successfully enabled blocking for %@." : {
+
+    },
+    "Target Groups" : {
 
     },
     "Toggle Blocked Services" : {
@@ -359,6 +396,15 @@
     "Until tomorrow" : {
 
     },
+    "Update available for Core: %@. Select for changelog." : {
+
+    },
+    "Update available for FTL: %@. Select for changelog." : {
+
+    },
+    "Update available for Web: %@. Select for changelog." : {
+
+    },
     "Update available: %@." : {
 
     },
@@ -378,5 +424,5 @@
 
     }
   },
-  "version" : "1.0"
+  "version" : "1.1"
 }

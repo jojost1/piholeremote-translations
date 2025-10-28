@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Base.lproj/Intents.intentdefinition" source-language="en" target-language="vi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
     </header>
     <body>
       <trans-unit id="5NF9k6" xml:space="preserve">
@@ -94,7 +94,7 @@
   </file>
   <file original="en.lproj/Pi-hole Remote Widgets copy-InfoPlist.strings" datatype="plaintext" source-language="en" target-language="vi">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -109,7 +109,7 @@
   </file>
   <file original="Pi-hole Remote Share Extension/InfoPlist.xcstrings" source-language="en" target-language="vi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -128,9 +128,17 @@
   </file>
   <file original="Pi-hole Remote tvOS App/Localizable.xcstrings" source-language="en" target-language="vi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
     </header>
     <body>
+      <trans-unit id=" avg" xml:space="preserve">
+        <source> avg</source>
+        <note>Small 'average' label shown on the Home-tab when 'Combine' is enabled. The space at the start is intentional.</note>
+      </trans-unit>
+      <trans-unit id="%@ total" xml:space="preserve">
+        <source>%@ total</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="%@q/min" xml:space="preserve">
         <source>%@q/min</source>
         <note/>
@@ -147,12 +155,20 @@
         <source>Active clients: %@</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Active clients: %@ out of %@ total" xml:space="preserve">
+        <source>Active clients: %1$@ out of %2$@ total</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Add 5 minutes" xml:space="preserve">
         <source>Add 5 minutes</source>
         <note/>
       </trans-unit>
       <trans-unit id="Add your Pi-hole instances on an iOS, iPadOS, or macOS device with version 6.2 or higher and make sure iCloud is enabled." xml:space="preserve">
         <source>Add your Pi-hole instances on an iOS, iPadOS, or macOS device with version 6.2 or higher and make sure iCloud is enabled.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Adlists" xml:space="preserve">
+        <source>Adlists</source>
         <note/>
       </trans-unit>
       <trans-unit id="Allow-list" xml:space="preserve">
@@ -283,6 +299,10 @@
         <source>Clients</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Combine instances" xml:space="preserve">
+        <source>Combine instances</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Compact mode" xml:space="preserve">
         <source>Compact mode</source>
         <note/>
@@ -313,6 +333,10 @@
       </trans-unit>
       <trans-unit id="Domain" xml:space="preserve">
         <source>Domain</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Domains" xml:space="preserve">
+        <source>Domains</source>
         <note/>
       </trans-unit>
       <trans-unit id="Duration" xml:space="preserve">
@@ -381,6 +405,14 @@
       </trans-unit>
       <trans-unit id="Instance" xml:space="preserve">
         <source>Instance</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Instances" xml:space="preserve">
+        <source>Instances</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Last Updated" xml:space="preserve">
+        <source>Last Updated</source>
         <note/>
       </trans-unit>
       <trans-unit id="Multiple" xml:space="preserve">
@@ -487,6 +519,10 @@
         <source>Special Domain</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Specify which group(s) to control." xml:space="preserve">
+        <source>Specify which group(s) to control.</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Specify which instance(s) to check." xml:space="preserve">
         <source>Specify which instance(s) to check.</source>
         <note/>
@@ -509,6 +545,10 @@
       </trans-unit>
       <trans-unit id="Successfully enabled blocking for %@." xml:space="preserve">
         <source>Successfully enabled blocking for %@.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Target Groups" xml:space="preserve">
+        <source>Target Groups</source>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle Blocked Services" xml:space="preserve">
@@ -541,6 +581,18 @@
       </trans-unit>
       <trans-unit id="Until tomorrow" xml:space="preserve">
         <source>Until tomorrow</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Update available for Core: %@. Select for changelog." xml:space="preserve">
+        <source>Update available for Core: %@. Select for changelog.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Update available for FTL: %@. Select for changelog." xml:space="preserve">
+        <source>Update available for FTL: %@. Select for changelog.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Update available for Web: %@. Select for changelog." xml:space="preserve">
+        <source>Update available for Web: %@. Select for changelog.</source>
         <note/>
       </trans-unit>
       <trans-unit id="Update available: %@." xml:space="preserve">
@@ -627,7 +679,7 @@
   </file>
   <file original="Pi-hole Remote tvOS App/Pi-hole-Remote-tvOS-App-InfoPlist.xcstrings" source-language="en" target-language="vi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -642,7 +694,7 @@
   </file>
   <file original="Pi-hole Remote Watch App Extension/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="vi">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -657,7 +709,7 @@
   </file>
   <file original="Pi-hole Remote Widgets/Base.lproj/StatWidget.intentdefinition" source-language="en" target-language="vi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
     </header>
     <body>
       <trans-unit id="2C0IPw-Ixk02y" xml:space="preserve">
@@ -1121,7 +1173,7 @@
   </file>
   <file original="Pi-hole Remote Widgets/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="vi">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -1136,7 +1188,7 @@
   </file>
   <file original="Pi-hole Remote/Localization/InfoPlist.xcstrings" source-language="en" target-language="vi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
@@ -1174,9 +1226,13 @@
   </file>
   <file original="Pi-hole Remote/Localization/Localizable.xcstrings" source-language="en" target-language="vi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
     </header>
     <body>
+      <trans-unit id="" translate="no" xml:space="preserve">
+        <source/>
+        <note/>
+      </trans-unit>
       <trans-unit id=" avg" xml:space="preserve">
         <source> avg</source>
         <note>Small 'average' label shown on the Home-tab when 'Combine' is enabled. The space at the start is intentional.</note>
@@ -1469,6 +1525,10 @@
         <source>Adding Custom Blocked Services requires PHR+</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Adding new presets requires PHR+." xml:space="preserve">
+        <source>Adding new presets requires PHR+.</source>
+        <note>Used on the 'Add new disable preset' screen</note>
+      </trans-unit>
       <trans-unit id="Adding/removing local CNAME records will restart the DNS server." xml:space="preserve">
         <source>Adding/removing local CNAME records will restart the DNS server.</source>
         <note/>
@@ -1559,6 +1619,10 @@
       </trans-unit>
       <trans-unit id="Alphabetically" xml:space="preserve">
         <source>Alphabetically</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Alphabetically (Comments)" xml:space="preserve">
+        <source>Alphabetically (Comments)</source>
         <note/>
       </trans-unit>
       <trans-unit id="Already in sync." xml:space="preserve">
@@ -2102,6 +2166,10 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <source>DNSSEC</source>
         <note/>
       </trans-unit>
+      <trans-unit id="DNSSEC status" xml:space="preserve">
+        <source>DNSSEC status</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Dark" xml:space="preserve">
         <source>Dark</source>
         <note/>
@@ -2382,10 +2450,6 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <source>Every 5 seconds</source>
         <note/>
       </trans-unit>
-      <trans-unit id="Every 5 seconds." xml:space="preserve">
-        <source>Every 5 seconds.</source>
-        <note/>
-      </trans-unit>
       <trans-unit id="Exact" xml:space="preserve">
         <source>Exact</source>
         <note/>
@@ -2436,6 +2500,10 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Filter by status" xml:space="preserve">
         <source>Filter by status</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Filtered by %@" xml:space="preserve">
+        <source>Filtered by %@</source>
         <note/>
       </trans-unit>
       <trans-unit id="Filtered by `%@`" xml:space="preserve">
@@ -2857,6 +2925,10 @@ Note: When this feature is enabled you will need to configure new clients manual
         <source>Mail</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Major updates only" xml:space="preserve">
+        <source>Major updates only</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Make sure your router's DHCP server is disabled when using the Pi-hole DHCP server!" xml:space="preserve">
         <source>Make sure your router's DHCP server is disabled when using the Pi-hole DHCP server!</source>
         <note/>
@@ -2891,6 +2963,10 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="Metrics decimals" xml:space="preserve">
         <source>Metrics decimals</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Minimize tabbar on scroll" xml:space="preserve">
+        <source>Minimize tabbar on scroll</source>
         <note/>
       </trans-unit>
       <trans-unit id="Mint" xml:space="preserve">
@@ -3334,6 +3410,10 @@ Note: When this feature is enabled you will need to configure new clients manual
         <source>Protocol</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Purge PHR iCloud Data" xml:space="preserve">
+        <source>Purge PHR iCloud Data</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Purple" xml:space="preserve">
         <source>Purple</source>
         <note/>
@@ -3551,6 +3631,10 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>Show Blocklist Last Updated</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Show DNSSEC status" xml:space="preserve">
+        <source>Show DNSSEC status</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Show Live Log" xml:space="preserve">
         <source>Show Live Log</source>
         <note/>
@@ -3615,10 +3699,6 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>Something went wrong</source>
         <note/>
       </trans-unit>
-      <trans-unit id="Something went wrong while getting your denylist entries." xml:space="preserve">
-        <source>Something went wrong while getting your denylist entries.</source>
-        <note/>
-      </trans-unit>
       <trans-unit id="Something went wrong." xml:space="preserve">
         <source>Something went wrong.</source>
         <note>Generic error text.</note>
@@ -3645,6 +3725,10 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Special Domain" xml:space="preserve">
         <source>Special Domain</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Specify which group(s) to control." xml:space="preserve">
+        <source>Specify which group(s) to control.</source>
         <note/>
       </trans-unit>
       <trans-unit id="Specify which instance(s) to check." xml:space="preserve">
@@ -3767,6 +3851,10 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>Target Group</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Target Groups" xml:space="preserve">
+        <source>Target Groups</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Teal" xml:space="preserve">
         <source>Teal</source>
         <note/>
@@ -3861,12 +3949,16 @@ In return, I would really appreciate it if you could leave a review in the App S
         <source>The red options are dangerous on devices directly connected to the Internet such as cloud instances and are only safe if your Pi-hole is properly firewalled. In a typical at-home setup where your Pi-hole is located within your local network (and you have not forwarded port 53 in your router!) they are safe to use.</source>
         <note/>
       </trans-unit>
+      <trans-unit id="This action is final and cannot be undone." xml:space="preserve">
+        <source>This action is final and cannot be undone.</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="This device is probably not using Pi-hole, because no queries were found." xml:space="preserve">
         <source>This device is probably not using Pi-hole, because no queries were found.</source>
         <note/>
       </trans-unit>
-      <trans-unit id="Time Sensitive notifications can break through focus modes if you prefer." xml:space="preserve">
-        <source>Time Sensitive notifications can break through focus modes if you prefer.</source>
+      <trans-unit id="Time Sensitive notifications have the option to break through focus modes." xml:space="preserve">
+        <source>Time Sensitive notifications have the option to break through focus modes.</source>
         <note>Used on the Notifications-settings screen.</note>
       </trans-unit>
       <trans-unit id="Time remaining" xml:space="preserve">
@@ -3879,6 +3971,10 @@ In return, I would really appreciate it if you could leave a review in the App S
       </trans-unit>
       <trans-unit id="Tip Jar" xml:space="preserve">
         <source>Tip Jar</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="To re-sync after purging, edit &amp; save an instance." xml:space="preserve">
+        <source>To re-sync after purging, edit &amp; save an instance.</source>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle Blocked Services" xml:space="preserve">
@@ -4233,19 +4329,9 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
         <target state="translated">Mới</target>
         <note/>
       </trans-unit>
-      <trans-unit id="changelog_settings" xml:space="preserve">
-        <source>Changelog Settings</source>
-        <target state="translated">Cài đặt bản ghi thay đổi</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="changelog_settings_show" xml:space="preserve">
         <source>Show on App Update</source>
         <target state="translated">Hiển thị sau khi ứng dụng được cập nhật</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="changelog_settings_show_footer" xml:space="preserve">
-        <source>The Changelog will only be shown for feature-updates, not for updates that only contain bugfixes.</source>
-        <target state="translated">Bản ghi thay đổi sẽ chỉ được hiển thị với những phiên bản bao gồm các tính năng mới, và sẽ không được hiển thị ở các phiên bản mới mà chỉ có sửa lỗi không.</target>
         <note/>
       </trans-unit>
       <trans-unit id="changelog_show_feature_promo" xml:space="preserve">
@@ -4356,11 +4442,6 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
         <target state="translated">Bỏ qua</target>
         <note/>
       </trans-unit>
-      <trans-unit id="done" xml:space="preserve">
-        <source>Done</source>
-        <target state="translated">Hoàn thành</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="enable more than 1 Blocked Service." xml:space="preserve">
         <source>enable more than 1 Blocked Service.</source>
         <note/>
@@ -4412,6 +4493,10 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
         <source>Enabled</source>
         <target state="translated">Enabled</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="iCloud" xml:space="preserve">
+        <source>iCloud</source>
+        <note>Displayed on the support screen.</note>
       </trans-unit>
       <trans-unit id="indefinitely" xml:space="preserve">
         <source>Indefinitely</source>
@@ -4722,7 +4807,7 @@ Joost</target>
   </file>
   <file original="WidgetInstance/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="vi">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -4737,11 +4822,15 @@ Joost</target>
   </file>
   <file original="WidgetInstance/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="vi">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
     </header>
     <body>
       <trans-unit id="Info" xml:space="preserve">
         <source>Info</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Instances" xml:space="preserve">
+        <source>Instances</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Only visible if 'Combine instances' is turned off." xml:space="preserve">
