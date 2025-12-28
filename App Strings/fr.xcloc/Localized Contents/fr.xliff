@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Base.lproj/Intents.intentdefinition" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="5NF9k6" xml:space="preserve">
@@ -94,7 +94,7 @@
   </file>
   <file original="en.lproj/Pi-hole Remote Widgets copy-InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -109,7 +109,7 @@
   </file>
   <file original="Pi-hole Remote Share Extension/InfoPlist.xcstrings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -128,7 +128,7 @@
   </file>
   <file original="Pi-hole Remote tvOS App/Localizable.xcstrings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id=" avg" xml:space="preserve">
@@ -679,7 +679,7 @@
   </file>
   <file original="Pi-hole Remote tvOS App/Pi-hole-Remote-tvOS-App-InfoPlist.xcstrings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -694,7 +694,7 @@
   </file>
   <file original="Pi-hole Remote Watch App Extension/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -709,7 +709,7 @@
   </file>
   <file original="Pi-hole Remote Widgets/Base.lproj/StatWidget.intentdefinition" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="2C0IPw-Ixk02y" xml:space="preserve">
@@ -1173,7 +1173,7 @@
   </file>
   <file original="Pi-hole Remote Widgets/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -1188,7 +1188,7 @@
   </file>
   <file original="Pi-hole Remote/Localization/InfoPlist.xcstrings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
@@ -1226,7 +1226,7 @@
   </file>
   <file original="Pi-hole Remote/Localization/Localizable.xcstrings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="" translate="no" xml:space="preserve">
@@ -1715,6 +1715,10 @@
         <source>Bind only to interface</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Block All" xml:space="preserve">
+        <source>Block All</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Block clients making more than %@ requests within %@ seconds. " xml:space="preserve">
         <source>Block clients making more than %1$@ requests within %2$@ seconds. </source>
         <note/>
@@ -2062,6 +2066,10 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <source>Copy MAC address</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Copy Message" xml:space="preserve">
+        <source>Copy Message</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Copy UNIX timestamp" xml:space="preserve">
         <source>Copy UNIX timestamp</source>
         <note/>
@@ -2258,6 +2266,10 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <source>Device</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Diagnosis" xml:space="preserve">
+        <source>Diagnosis</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Disable" xml:space="preserve">
         <source>Disable</source>
         <note/>
@@ -2304,6 +2316,10 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Display" xml:space="preserve">
         <source>Display</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Display badges on Settings-tab" xml:space="preserve">
+        <source>Display badges on Settings-tab</source>
         <note/>
       </trans-unit>
       <trans-unit id="Docker" translate="no" xml:space="preserve">
@@ -2624,6 +2640,10 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Headers" xml:space="preserve">
         <source>Headers</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Health" xml:space="preserve">
+        <source>Health</source>
         <note/>
       </trans-unit>
       <trans-unit id="Help" xml:space="preserve">
@@ -3083,6 +3103,10 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="No Interfaces" xml:space="preserve">
         <source>No Interfaces</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No Messages" xml:space="preserve">
+        <source>No Messages</source>
         <note/>
       </trans-unit>
       <trans-unit id="No Watch Paired" xml:space="preserve">
@@ -3607,6 +3631,10 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>Services</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Services toggled ON are blocked from your network. Services toggled OFF remain accessible." xml:space="preserve">
+        <source>Services toggled ON are blocked from your network. Services toggled OFF remain accessible.</source>
+        <note>Explainer at the bottom of the Blocked Services list.</note>
+      </trans-unit>
       <trans-unit id="SessionID: %@" translate="no" xml:space="preserve">
         <source>SessionID: %@</source>
         <note/>
@@ -3769,6 +3797,10 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Status" xml:space="preserve">
         <source>Status</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Stop Live Activity" xml:space="preserve">
+        <source>Stop Live Activity</source>
         <note/>
       </trans-unit>
       <trans-unit id="Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period and will be charged to your iTunes account. You can turn off auto-renew/manage subscriptions in your iTunes Account Settings after purchase." xml:space="preserve">
@@ -4065,6 +4097,10 @@ In return, I would really appreciate it if you could leave a review in the App S
         <source>URL</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Unblock All" xml:space="preserve">
+        <source>Unblock All</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>Unknown</source>
         <note/>
@@ -4220,6 +4256,10 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
       <trans-unit id="You've reached the maximum of 6 presets." xml:space="preserve">
         <source>You've reached the maximum of 6 presets.</source>
         <note>Used on the 'Add new disable preset' screen</note>
+      </trans-unit>
+      <trans-unit id="Your Pi-hole has no diagnosis messages." xml:space="preserve">
+        <source>Your Pi-hole has no diagnosis messages.</source>
+        <note/>
       </trans-unit>
       <trans-unit id="`/api` by default" xml:space="preserve">
         <source>`/api` by default</source>
@@ -4811,7 +4851,7 @@ Joost</target>
   </file>
   <file original="WidgetInstance/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -4826,7 +4866,7 @@ Joost</target>
   </file>
   <file original="WidgetInstance/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="fr">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="Info" xml:space="preserve">

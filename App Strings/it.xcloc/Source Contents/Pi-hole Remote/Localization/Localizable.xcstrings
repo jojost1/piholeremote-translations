@@ -486,6 +486,9 @@
     "Bind only to interface" : {
 
     },
+    "Block All" : {
+
+    },
     "Block clients making more than %@ requests within %@ seconds. " : {
       "localizations" : {
         "en" : {
@@ -970,6 +973,9 @@
     "Copy MAC address" : {
 
     },
+    "Copy Message" : {
+
+    },
     "Copy UNIX timestamp" : {
 
     },
@@ -1253,6 +1259,9 @@
     "DHCPv4 rapid commit" : {
 
     },
+    "Diagnosis" : {
+
+    },
     "Disable" : {
 
     },
@@ -1314,6 +1323,9 @@
       }
     },
     "Display" : {
+
+    },
+    "Display badges on Settings-tab" : {
 
     },
     "DNS" : {
@@ -1581,6 +1593,9 @@
 
     },
     "Headers" : {
+
+    },
+    "Health" : {
 
     },
     "Help" : {
@@ -2023,7 +2038,7 @@
 
     },
     "NEW" : {
-
+      "extractionState" : "stale"
     },
     "New Adlist" : {
 
@@ -2098,6 +2113,9 @@
 
     },
     "No matching domains found." : {
+
+    },
+    "No Messages" : {
 
     },
     "No queries found" : {
@@ -2622,6 +2640,9 @@
     "Services" : {
 
     },
+    "Services toggled ON are blocked from your network. Services toggled OFF remain accessible." : {
+      "comment" : "Explainer at the bottom of the Blocked Services list."
+    },
     "SessionID: %@" : {
       "shouldTranslate" : false
     },
@@ -2794,6 +2815,9 @@
 
     },
     "Status" : {
+
+    },
+    "Stop Live Activity" : {
 
     },
     "Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period and will be charged to your iTunes account. You can turn off auto-renew/manage subscriptions in your iTunes Account Settings after purchase." : {
@@ -3179,6 +3203,9 @@
     "UI" : {
 
     },
+    "Unblock All" : {
+
+    },
     "Unknown" : {
 
     },
@@ -3399,6 +3426,9 @@
     },
     "You've reached the maximum of 6 presets." : {
       "comment" : "Used on the 'Add new disable preset' screen"
+    },
+    "Your Pi-hole has no diagnosis messages." : {
+
     }
   },
   "version" : "1.0"
