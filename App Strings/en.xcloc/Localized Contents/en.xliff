@@ -3646,11 +3646,6 @@ Note: When this feature is enabled you will need to configure new clients manual
         <target state="new">Must be unique.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="NEW" xml:space="preserve">
-        <source>NEW</source>
-        <target state="new">NEW</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
         <source>Name</source>
         <target state="new">Name</target>

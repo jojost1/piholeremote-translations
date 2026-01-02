@@ -2037,9 +2037,6 @@
     "Never forward reverse lookups for private IP ranges" : {
 
     },
-    "NEW" : {
-      "extractionState" : "stale"
-    },
     "New Adlist" : {
 
     },

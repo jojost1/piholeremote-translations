@@ -1725,6 +1725,7 @@
       </trans-unit>
       <trans-unit id="Block All" xml:space="preserve">
         <source>Block All</source>
+        <target state="translated">Blokovať všetko</target>
         <note/>
       </trans-unit>
       <trans-unit id="Block clients making more than %@ requests within %@ seconds. " xml:space="preserve">
@@ -2076,6 +2077,7 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Copy Message" xml:space="preserve">
         <source>Copy Message</source>
+        <target state="translated">Kopírovať správu</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy UNIX timestamp" xml:space="preserve">
@@ -2276,6 +2278,7 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Diagnosis" xml:space="preserve">
         <source>Diagnosis</source>
+        <target state="translated">Diagnostika</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disable" xml:space="preserve">
@@ -2328,6 +2331,7 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Display badges on Settings-tab" xml:space="preserve">
         <source>Display badges on Settings-tab</source>
+        <target state="translated">Zobraziť odznaky na karte Nastavenia</target>
         <note/>
       </trans-unit>
       <trans-unit id="Docker" translate="no" xml:space="preserve">
@@ -2652,6 +2656,7 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Health" xml:space="preserve">
         <source>Health</source>
+        <target state="translated">Stav</target>
         <note/>
       </trans-unit>
       <trans-unit id="Help" xml:space="preserve">
@@ -3025,10 +3030,6 @@ Note: When this feature is enabled you will need to configure new clients manual
         <source>Must be unique.</source>
         <note/>
       </trans-unit>
-      <trans-unit id="NEW" xml:space="preserve">
-        <source>NEW</source>
-        <note/>
-      </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
         <source>Name</source>
         <note/>
@@ -3115,6 +3116,7 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="No Messages" xml:space="preserve">
         <source>No Messages</source>
+        <target state="translated">Žiadne správy</target>
         <note/>
       </trans-unit>
       <trans-unit id="No Watch Paired" xml:space="preserve">
@@ -3641,6 +3643,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Services toggled ON are blocked from your network. Services toggled OFF remain accessible." xml:space="preserve">
         <source>Services toggled ON are blocked from your network. Services toggled OFF remain accessible.</source>
+        <target state="translated">Služby, ktoré sú zapnuté, sú vo vašej sieti blokované. Služby, ktoré sú vypnuté, zostávajú dostupné.</target>
         <note>Explainer at the bottom of the Blocked Services list.</note>
       </trans-unit>
       <trans-unit id="SessionID: %@" translate="no" xml:space="preserve">
@@ -4107,6 +4110,7 @@ In return, I would really appreciate it if you could leave a review in the App S
       </trans-unit>
       <trans-unit id="Unblock All" xml:space="preserve">
         <source>Unblock All</source>
+        <target state="translated">Odblokovať všetko</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
@@ -4267,6 +4271,7 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
       </trans-unit>
       <trans-unit id="Your Pi-hole has no diagnosis messages." xml:space="preserve">
         <source>Your Pi-hole has no diagnosis messages.</source>
+        <target state="translated">Váš Pi-hole nemá žiadne diagnostické správy.</target>
         <note/>
       </trans-unit>
       <trans-unit id="`/api` by default" xml:space="preserve">
