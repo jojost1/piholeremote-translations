@@ -1387,8 +1387,8 @@
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" translate="no" xml:space="preserve">
-        <source>Copyright © 2025 RocketScience IT</source>
-        <target state="new">Copyright © 2025 RocketScience IT</target>
+        <source>Copyright © 2026 RocketScience IT</source>
+        <target state="new">Copyright © 2026 RocketScience IT</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">

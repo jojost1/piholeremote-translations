@@ -1197,10 +1197,12 @@
       </trans-unit>
       <trans-unit id="Disable All" xml:space="preserve">
         <source>Disable All</source>
+        <target state="translated">Tắt tất cả</target>
         <note/>
       </trans-unit>
       <trans-unit id="For 1 minute" xml:space="preserve">
         <source>For 1 minute</source>
+        <target state="translated">Trong 1 phút</target>
         <note/>
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
@@ -1214,7 +1216,7 @@
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" translate="no" xml:space="preserve">
-        <source>Copyright © 2025 RocketScience IT</source>
+        <source>Copyright © 2026 RocketScience IT</source>
         <note>Copyright (human-readable)</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
@@ -1251,6 +1253,7 @@
       </trans-unit>
       <trans-unit id="%@ OFF" xml:space="preserve">
         <source>%@ OFF</source>
+        <target state="translated">GIẢM %@</target>
         <note>Used on the PHR+ purchase screen to show a discount percentage, intentionally uppercased.</note>
       </trans-unit>
       <trans-unit id="%@ active" xml:space="preserve">
@@ -1295,6 +1298,7 @@
       </trans-unit>
       <trans-unit id="'Add 5 min' feature" xml:space="preserve">
         <source>'Add 5 min' feature</source>
+        <target state="translated">Tính năng 'Thêm 5 phút'</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="(Disabled)" xml:space="preserve">
@@ -1587,6 +1591,7 @@
       </trans-unit>
       <trans-unit id="All options allow Family Sharing" xml:space="preserve">
         <source>All options allow Family Sharing</source>
+        <target state="translated">Tất cả tùy chọn cho phép Chia sẻ gia đình</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="All reverse lookups for private IP ranges (i.e., 192.168.0.x/24, etc.) which are not found in /etc/hosts or the DHCP leases are answered with &quot;no such domain&quot; rather than being forwarded upstream. The set of prefixes affected is the list given in RFC6303." xml:space="preserve">
@@ -2078,6 +2083,7 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Copy email" xml:space="preserve">
         <source>Copy email</source>
+        <target state="translated">Sao chép email</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Copy full response" xml:space="preserve">
@@ -2122,6 +2128,7 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Customize tint &amp; icon" xml:space="preserve">
         <source>Customize tint &amp; icon</source>
+        <target state="translated">Tùy chỉnh màu và biểu tượng</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="DHCP" xml:space="preserve">
@@ -2452,6 +2459,7 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Enter the code..." xml:space="preserve">
         <source>Enter the code...</source>
+        <target state="translated">Nhập mã...</target>
         <note>Used on the PHR+ purchase screen as a textfield placeholder.</note>
       </trans-unit>
       <trans-unit id="Entries" xml:space="preserve">
@@ -2508,6 +2516,7 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Feature Overview" xml:space="preserve">
         <source>Feature Overview</source>
+        <target state="translated">Tổng quan tính năng</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Filter" xml:space="preserve">
@@ -2584,10 +2593,12 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Free" xml:space="preserve">
         <source>Free</source>
+        <target state="translated">Miễn phí</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Get Lifetime PHR+" xml:space="preserve">
         <source>Get Lifetime PHR+</source>
+        <target state="translated">Nhận PHR+ Trọn đời</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Get Pi-hole Blocking Status" xml:space="preserve">
@@ -2663,6 +2674,9 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <source>Hi there, if you're seeing this it means that somehow the button to give you Lifetime PHR+ for free didn't work and you had to contact me. Sorry for that! To get access anyways, please enter the code I gave you here.
 
 Please do not share this code with others.</source>
+        <target state="translated">Xin chào, nếu bạn thấy điều này nghĩa là nút nhận PHR+ Trọn đời miễn phí không hoạt động. Xin lỗi! Để được truy cập, hãy nhập mã tôi đã đưa.
+
+Xin đừng chia sẻ mã này.</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Hidden on Home-tab" xml:space="preserve">
@@ -2715,12 +2729,16 @@ Please do not share this code with others.</source>
       </trans-unit>
       <trans-unit id="I can't find your purchase. Do you think this is incorrect? Please contact me through the 'Help &amp; Feedback' button in settings." xml:space="preserve">
         <source>I can't find your purchase. Do you think this is incorrect? Please contact me through the 'Help &amp; Feedback' button in settings.</source>
+        <target state="translated">Tôi không tìm thấy giao dịch mua của bạn. Bạn nghĩ điều này không đúng? Hãy liên hệ qua nút 'Trợ giúp &amp; Phản hồi' trong cài đặt.</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="I see you don't have an active mail client on your device, please mail me with the request to join the TestFlight including a screenshot of this PHR+ screen so I can see you have purchased Pro.&#10;&#10;Please mail it to developer@rocketscience-it.nl!" xml:space="preserve">
         <source>I see you don't have an active mail client on your device, please mail me with the request to join the TestFlight including a screenshot of this PHR+ screen so I can see you have purchased Pro.
 
 Please mail it to developer@rocketscience-it.nl!</source>
+        <target state="translated">Tôi thấy bạn không có ứng dụng email hoạt động. Hãy gửi email cho tôi kèm ảnh chụp màn hình PHR+ này để chứng minh bạn đã mua Pro.
+
+Gửi đến developer@rocketscience-it.nl!</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="ID" xml:space="preserve">
@@ -2788,6 +2806,7 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="Instance Actions" xml:space="preserve">
         <source>Instance Actions</source>
+        <target state="translated">Hành động instance</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Instance settings" xml:space="preserve">
@@ -2800,6 +2819,7 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="Interactive Widgets" xml:space="preserve">
         <source>Interactive Widgets</source>
+        <target state="translated">Widget tương tác</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Interface" xml:space="preserve">
@@ -2880,6 +2900,7 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="Leave a review" xml:space="preserve">
         <source>Leave a review</source>
+        <target state="translated">Để lại đánh giá</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Leave a tip" xml:space="preserve">
@@ -2944,6 +2965,7 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="Made with ❤️ by one person in 🇳🇱" xml:space="preserve">
         <source>Made with ❤️ by one person in 🇳🇱</source>
+        <target state="translated">Được tạo với ❤️ bởi một người ở 🇳🇱</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Mail" xml:space="preserve">
@@ -2964,6 +2986,7 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="Manage Subscription" xml:space="preserve">
         <source>Manage Subscription</source>
+        <target state="translated">Quản lý đăng ký</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Mark as 'Time Sensitive'" xml:space="preserve">
@@ -3265,6 +3288,7 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="Or if you prefer subscriptions:" xml:space="preserve">
         <source>Or if you prefer subscriptions:</source>
+        <target state="translated">Hoặc nếu bạn thích đăng ký:</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Orange" xml:space="preserve">
@@ -3277,10 +3301,12 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="PHR" translate="no" xml:space="preserve">
         <source>PHR</source>
+        <target state="translated">PHR</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="PHR %@" translate="no" xml:space="preserve">
         <source>PHR %@</source>
+        <target state="translated">PHR %@</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="PHR%@ is required to&#10;" xml:space="preserve">
@@ -3294,6 +3320,7 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="PHR+ for early users" xml:space="preserve">
         <source>PHR+ for early users</source>
+        <target state="translated">PHR+ cho người dùng sớm</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="PHR+ is required to enable more than 1 Blocked Service." xml:space="preserve">
@@ -3306,6 +3333,7 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="PHR+ unlocks all these features, as well as new features in future updates. By purchasing PHR+ you will also support future development of the app, which is made by %@ (hi! 👋). I really appreciate it!" xml:space="preserve">
         <source>PHR+ unlocks all these features, as well as new features in future updates. By purchasing PHR+ you will also support future development of the app, which is made by %@ (hi! 👋). I really appreciate it!</source>
+        <target state="translated">PHR+ mở khóa tất cả tính năng này cũng như các bản cập nhật trong tương lai. Khi mua PHR+, bạn cũng hỗ trợ phát triển bởi %@ (xin chào! 👋). Tôi rất trân trọng!</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Password" xml:space="preserve">
@@ -3426,6 +3454,7 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="Privacy Policy" xml:space="preserve">
         <source>Privacy Policy</source>
+        <target state="translated">Chính sách quyền riêng tư</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Processed" xml:space="preserve">
@@ -3563,6 +3592,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Restore Purchase" xml:space="preserve">
         <source>Restore Purchase</source>
+        <target state="translated">Khôi phục mua hàng</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Retried" xml:space="preserve">
@@ -3804,6 +3834,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period and will be charged to your iTunes account. You can turn off auto-renew/manage subscriptions in your iTunes Account Settings after purchase." xml:space="preserve">
         <source>Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period and will be charged to your iTunes account. You can turn off auto-renew/manage subscriptions in your iTunes Account Settings after purchase.</source>
+        <target state="translated">Đăng ký sẽ tự động gia hạn trừ khi tắt tự động gia hạn ít nhất 24 giờ trước khi kết thúc kỳ hiện tại. Bạn có thể quản lý đăng ký trong Cài đặt Tài khoản iTunes.</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Successfully disabled blocking for %@." xml:space="preserve">
@@ -3864,6 +3895,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Take Pi-hole Remote to the next level by removing limits and unlocking full Pi-hole management, interactive widgets, multiple instances support, and more." xml:space="preserve">
         <source>Take Pi-hole Remote to the next level by removing limits and unlocking full Pi-hole management, interactive widgets, multiple instances support, and more.</source>
+        <target state="translated">Đưa Pi-hole Remote lên tầm cao mới bằng cách loại bỏ giới hạn và mở khóa quản lý Pi-hole đầy đủ, widget tương tác, hỗ trợ nhiều instance và hơn thế nữa.</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Tap for more info.|==|device.mac" xml:space="preserve">
@@ -3914,6 +3946,7 @@ If Conditional Forwarding is enabled, unticking this box may cause a partial DNS
       </trans-unit>
       <trans-unit id="Terms of Use" xml:space="preserve">
         <source>Terms of Use</source>
+        <target state="translated">Điều khoản sử dụng</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Test Connection" xml:space="preserve">
@@ -3922,6 +3955,7 @@ If Conditional Forwarding is enabled, unticking this box may cause a partial DNS
       </trans-unit>
       <trans-unit id="TestFlight Beta Access" xml:space="preserve">
         <source>TestFlight Beta Access</source>
+        <target state="translated">Truy cập TestFlight Beta</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="TestFlight Debug" xml:space="preserve">
@@ -3930,6 +3964,7 @@ If Conditional Forwarding is enabled, unticking this box may cause a partial DNS
       </trans-unit>
       <trans-unit id="TestFlight access" xml:space="preserve">
         <source>TestFlight access</source>
+        <target state="translated">Truy cập TestFlight</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Thank you for downloading the app! ❤️" xml:space="preserve">
@@ -3942,6 +3977,11 @@ If Conditional Forwarding is enabled, unticking this box may cause a partial DNS
 Building v6 was a massive undertaking (I'm still working on bringing back missing features from v5 that didn't make this first release) and with the switch to IAPs I didn't want existing users to have to pay again, therefore you got PHR+ for free.
 
 In return, I would really appreciate it if you could leave a review in the App Store or leave a small donation to support my work 😊 If you can't, that's also okay! Enjoy the app. - Joost</source>
+        <target state="translated">Cảm ơn bạn rất nhiều vì đã tải/mua ứng dụng trước bản cập nhật lớn v6.
+
+Xây dựng v6 là một công việc khổng lồ và với việc chuyển sang IAP, tôi không muốn người dùng hiện tại phải trả tiền lại, nên bạn được PHR+ miễn phí.
+
+Để đáp lại, tôi sẽ rất vui nếu bạn để lại đánh giá trên App Store hoặc quyên góp nhỏ 😊 Nếu không thể, cũng không sao! Hãy tận hưởng ứng dụng. - Joost</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Thank you!" xml:space="preserve">
@@ -3950,6 +3990,7 @@ In return, I would really appreciate it if you could leave a review in the App S
       </trans-unit>
       <trans-unit id="Thank you! ❤️" xml:space="preserve">
         <source>Thank you! ❤️</source>
+        <target state="translated">Cảm ơn! ❤️</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="The DHCPv4 rapid commit option allows the Pi-hole DHCP server to assign an IP address to a client right away. This can notably speed up the address assignment process and you will notice, e.g., faster WiFi joins in your network. This option should only be enabled if the Pi-hole DHCP server is the only DHCP server in your network." xml:space="preserve">
@@ -4159,6 +4200,7 @@ In return, I would really appreciate it if you could leave a review in the App S
       </trans-unit>
       <trans-unit id="Users who purchased the app while it was paid upfront instead of free with in-app purchases, can get PHR+ Lifetime for free as a thank you. Please press the button below to let the app check if you're entitled to it. This will show a native iOS alert to restore the purchase." xml:space="preserve">
         <source>Users who purchased the app while it was paid upfront instead of free with in-app purchases, can get PHR+ Lifetime for free as a thank you. Please press the button below to let the app check if you're entitled to it. This will show a native iOS alert to restore the purchase.</source>
+        <target state="translated">Người dùng đã mua ứng dụng khi nó còn trả phí có thể nhận PHR+ Trọn đời miễn phí như lời cảm ơn. Nhấn nút để kiểm tra xem bạn có đủ điều kiện không.</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Using SSL" xml:space="preserve">
@@ -4251,6 +4293,7 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
       </trans-unit>
       <trans-unit id="You have purchased PHR %@" xml:space="preserve">
         <source>You have purchased PHR %@</source>
+        <target state="translated">Bạn đã mua PHR %@</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="You've reached the maximum of 6 presets." xml:space="preserve">
@@ -4588,6 +4631,7 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
       </trans-unit>
       <trans-unit id="one person only" xml:space="preserve">
         <source>one person only</source>
+        <target state="translated">chỉ một người</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="original_enddate" xml:space="preserve">
