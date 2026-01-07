@@ -589,6 +589,7 @@
       }
     },
     "blocked_services_other" : {
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -682,6 +683,9 @@
 
     },
     "Brown" : {
+
+    },
+    "Business & productivity" : {
 
     },
     "Cache" : {
@@ -914,6 +918,9 @@
     "Comment" : {
 
     },
+    "Communication" : {
+
+    },
     "Compact mode" : {
 
     },
@@ -931,6 +938,9 @@
     },
     "Contact" : {
       "comment" : "Displayed on the support screen."
+    },
+    "Content delivery networks" : {
+
     },
     "Continue" : {
       "comment" : "Used in onboarding and changelogs."
@@ -1031,6 +1041,9 @@
 
     },
     "Date Range" : {
+
+    },
+    "Dating services" : {
 
     },
     "Debug" : {
@@ -1559,6 +1572,12 @@
     "FTL version: %@." : {
 
     },
+    "Gambling & betting" : {
+
+    },
+    "Gaming" : {
+
+    },
     "Get blocking status for ${instance}" : {
 
     },
@@ -1981,6 +2000,9 @@
 
     },
     "Mark as 'Time Sensitive'" : {
+
+    },
+    "Media sharing" : {
 
     },
     "Medium widget only." : {
@@ -2679,6 +2701,9 @@
     "Share Pi-hole Remote" : {
 
     },
+    "Shopping" : {
+
+    },
     "Show" : {
 
     },
@@ -2750,6 +2775,12 @@
     "SLAAC + RA" : {
       "shouldTranslate" : false
     },
+    "Social networks" : {
+
+    },
+    "Software & updates" : {
+
+    },
     "Something went wrong" : {
 
     },
@@ -2815,6 +2846,9 @@
 
     },
     "Stop Live Activity" : {
+
+    },
+    "Streaming services" : {
 
     },
     "Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period and will be charged to your iTunes account. You can turn off auto-renew/manage subscriptions in your iTunes Account Settings after purchase." : {

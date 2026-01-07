@@ -267,6 +267,10 @@
         <source>Blocklist: %@</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Business &amp; productivity" xml:space="preserve">
+        <source>Business &amp; productivity</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Cache" xml:space="preserve">
         <source>Cache</source>
         <note/>
@@ -303,8 +307,16 @@
         <source>Combine instances</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Communication" xml:space="preserve">
+        <source>Communication</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Compact mode" xml:space="preserve">
         <source>Compact mode</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Content delivery networks" xml:space="preserve">
+        <source>Content delivery networks</source>
         <note/>
       </trans-unit>
       <trans-unit id="Control blocking of services on your Pi-hole. (Requires PHR+)" xml:space="preserve">
@@ -321,6 +333,10 @@
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
         <source>Date</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Dating services" xml:space="preserve">
+        <source>Dating services</source>
         <note/>
       </trans-unit>
       <trans-unit id="Deny-list" xml:space="preserve">
@@ -375,6 +391,14 @@
         <source>Forwarded: %@</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Gambling &amp; betting" xml:space="preserve">
+        <source>Gambling &amp; betting</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Gaming" xml:space="preserve">
+        <source>Gaming</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Get Pi-hole Blocking Status" xml:space="preserve">
         <source>Get Pi-hole Blocking Status</source>
         <note/>
@@ -413,6 +437,10 @@
       </trans-unit>
       <trans-unit id="Last Updated" xml:space="preserve">
         <source>Last Updated</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Media sharing" xml:space="preserve">
+        <source>Media sharing</source>
         <note/>
       </trans-unit>
       <trans-unit id="Multiple" xml:space="preserve">
@@ -483,6 +511,10 @@
         <source>Settings</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Shopping" xml:space="preserve">
+        <source>Shopping</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Show Blocklist Last Updated" xml:space="preserve">
         <source>Show Blocklist Last Updated</source>
         <note/>
@@ -505,6 +537,14 @@
       </trans-unit>
       <trans-unit id="Show version" xml:space="preserve">
         <source>Show version</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Social networks" xml:space="preserve">
+        <source>Social networks</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Software &amp; updates" xml:space="preserve">
+        <source>Software &amp; updates</source>
         <note/>
       </trans-unit>
       <trans-unit id="Something went wrong." xml:space="preserve">
@@ -537,6 +577,10 @@
       </trans-unit>
       <trans-unit id="Statistics" xml:space="preserve">
         <source>Statistics</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Streaming services" xml:space="preserve">
+        <source>Streaming services</source>
         <note/>
       </trans-unit>
       <trans-unit id="Successfully disabled blocking for %@." xml:space="preserve">
@@ -2006,6 +2050,10 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">Braun</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Business &amp; productivity" xml:space="preserve">
+        <source>Business &amp; productivity</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="CNAME Records" xml:space="preserve">
         <source>CNAME Records</source>
         <target state="translated">CNAME-Einträge</target>
@@ -2193,6 +2241,10 @@ Die Erkennung über IP-Adressen (inkl. Subnetze) wird bevorzugt, da MAC-Adresse,
         <target state="translated">Kommentar</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Communication" xml:space="preserve">
+        <source>Communication</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Compact mode" xml:space="preserve">
         <source>Compact mode</source>
         <target state="translated">Kompakter Modus</target>
@@ -2222,6 +2274,10 @@ Die Erkennung über IP-Adressen (inkl. Subnetze) wird bevorzugt, da MAC-Adresse,
         <source>Contact</source>
         <target state="translated">Kontakt</target>
         <note>Displayed on the support screen.</note>
+      </trans-unit>
+      <trans-unit id="Content delivery networks" xml:space="preserve">
+        <source>Content delivery networks</source>
+        <note/>
       </trans-unit>
       <trans-unit id="Continue" xml:space="preserve">
         <source>Continue</source>
@@ -2428,6 +2484,10 @@ Die Erkennung über IP-Adressen (inkl. Subnetze) wird bevorzugt, da MAC-Adresse,
       <trans-unit id="Date Range" xml:space="preserve">
         <source>Date Range</source>
         <target state="translated">Datumsbereich</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Dating services" xml:space="preserve">
+        <source>Dating services</source>
         <note/>
       </trans-unit>
       <trans-unit id="Debug" xml:space="preserve">
@@ -2902,6 +2962,14 @@ Die Erkennung über IP-Adressen (inkl. Subnetze) wird bevorzugt, da MAC-Adresse,
         <source>Free</source>
         <target state="translated">Kostenlos</target>
         <note>Used on the PHR+ purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="Gambling &amp; betting" xml:space="preserve">
+        <source>Gambling &amp; betting</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Gaming" xml:space="preserve">
+        <source>Gaming</source>
+        <note/>
       </trans-unit>
       <trans-unit id="Get Lifetime PHR+" xml:space="preserve">
         <source>Get Lifetime PHR+</source>
@@ -3384,6 +3452,10 @@ Hinweis: Wenn diese Funktion aktiviert ist, musst du neue Clients manuell in dhc
       <trans-unit id="Mark as 'Time Sensitive'" xml:space="preserve">
         <source>Mark as 'Time Sensitive'</source>
         <target state="translated">Als 'Zeitkritisch' markieren</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Media sharing" xml:space="preserve">
+        <source>Media sharing</source>
         <note/>
       </trans-unit>
       <trans-unit id="Medium widget only." xml:space="preserve">
@@ -4212,6 +4284,10 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">Pi-hole Remote teilen</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Shopping" xml:space="preserve">
+        <source>Shopping</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Show" xml:space="preserve">
         <source>Show</source>
         <target state="translated">Anzeigen</target>
@@ -4312,6 +4388,14 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">Zeige Anfragen nach %@.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Social networks" xml:space="preserve">
+        <source>Social networks</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Software &amp; updates" xml:space="preserve">
+        <source>Software &amp; updates</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Something went wrong" xml:space="preserve">
         <source>Something went wrong</source>
         <target state="translated">Etwas ist schiefgelaufen</target>
@@ -4405,6 +4489,10 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       <trans-unit id="Stop Live Activity" xml:space="preserve">
         <source>Stop Live Activity</source>
         <target state="translated">Live-Aktivität beenden</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Streaming services" xml:space="preserve">
+        <source>Streaming services</source>
         <note/>
       </trans-unit>
       <trans-unit id="Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period and will be charged to your iTunes account. You can turn off auto-renew/manage subscriptions in your iTunes Account Settings after purchase." xml:space="preserve">

@@ -135,6 +135,9 @@
     "Blocklist: %@" : {
 
     },
+    "Business & productivity" : {
+
+    },
     "Cache" : {
 
     },
@@ -162,7 +165,13 @@
     "Combine instances" : {
 
     },
+    "Communication" : {
+
+    },
     "Compact mode" : {
+
+    },
+    "Content delivery networks" : {
 
     },
     "Control blocking of services on your Pi-hole. (Requires PHR+)" : {
@@ -175,6 +184,9 @@
 
     },
     "Date" : {
+
+    },
+    "Dating services" : {
 
     },
     "Deny-list" : {
@@ -214,6 +226,12 @@
 
     },
     "FTL version: %@." : {
+
+    },
+    "Gambling & betting" : {
+
+    },
+    "Gaming" : {
 
     },
     "Get blocking status for ${instance}" : {
@@ -262,6 +280,9 @@
       "comment" : "ParsingError"
     },
     "Last Updated" : {
+
+    },
+    "Media sharing" : {
 
     },
     "Multiple" : {
@@ -315,6 +336,9 @@
     "Settings" : {
 
     },
+    "Shopping" : {
+
+    },
     "Show Blocklist Last Updated" : {
 
     },
@@ -331,6 +355,12 @@
 
     },
     "Show version" : {
+
+    },
+    "Social networks" : {
+
+    },
+    "Software & updates" : {
 
     },
     "Something went wrong: %@" : {
@@ -358,6 +388,9 @@
 
     },
     "Statistics" : {
+
+    },
+    "Streaming services" : {
 
     },
     "Successfully disabled blocking for %@." : {
