@@ -5321,12 +5321,12 @@ La ubicación predeterminada de tu certificado está en tu dispositivo: /etc/pih
       </trans-unit>
       <trans-unit id="changelog_settings_show" xml:space="preserve">
         <source>Show on App Update</source>
-        <target state="translated">Mostrar cuando la App se Actualice</target>
+        <target state="translated">Mostrar cuando la app se actualice</target>
         <note/>
       </trans-unit>
       <trans-unit id="changelog_show_feature_promo" xml:space="preserve">
         <source>Show Feature Promo</source>
-        <target state="translated">Mostar Función Promo</target>
+        <target state="translated">Mostrar promo de función</target>
         <note/>
       </trans-unit>
       <trans-unit id="changelog_view_full" xml:space="preserve">
