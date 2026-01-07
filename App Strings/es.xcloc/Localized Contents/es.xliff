@@ -4197,7 +4197,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       <trans-unit id="Query Log" xml:space="preserve">
         <source>Query Log</source>
         <note/>
-        <target>Registro de consultas</target>
+        <target>Registro</target>
       </trans-unit>
       <trans-unit id="Query Types" xml:space="preserve">
         <source>Query Types</source>
