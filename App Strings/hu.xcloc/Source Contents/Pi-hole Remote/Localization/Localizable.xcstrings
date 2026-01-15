@@ -62,16 +62,15 @@
     "%@ total" : {
 
     },
-    "%@, %@" : {
+    "%@, %lld regex entries" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "%1$@, %2$@"
+            "value" : "%1$@, %2$lld regex entries"
           }
         }
-      },
-      "shouldTranslate" : false
+      }
     },
     "%@q/min" : {
 
@@ -309,6 +308,9 @@
 
     },
     "Advertise DNS server multiple times to clients. Some devices will add their own proprietary DNS servers to the list of DNS servers, which can cause issues with Pi-hole. This option will advertise the Pi-hole DNS server multiple times to clients, which should prevent this from happening." : {
+
+    },
+    "AI services" : {
 
     },
     "All" : {
@@ -584,17 +586,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Remove from favorites"
-          }
-        }
-      }
-    },
-    "blocked_services_other" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Other"
           }
         }
       }
@@ -1508,6 +1499,9 @@
     },
     "Feature Overview" : {
       "comment" : "Used on the PHR+ purchase screen."
+    },
+    "File hosting" : {
+
     },
     "Filter" : {
 
@@ -2638,6 +2632,9 @@
     "Search by IP, Hostname, or MAC" : {
 
     },
+    "Search services" : {
+
+    },
     "Seconds" : {
       "comment" : "Used on the 'Add new disable preset' screen"
     },
@@ -2726,6 +2723,9 @@
 
     },
     "Show DNSSEC status" : {
+
+    },
+    "Show favorites at the top" : {
 
     },
     "Show full feature comparison" : {

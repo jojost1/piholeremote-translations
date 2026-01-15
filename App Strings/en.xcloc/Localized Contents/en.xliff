@@ -114,19 +114,19 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
         <source>Pi-hole Remote Share Extension</source>
         <target state="new">Pi-hole Remote Share Extension</target>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
         <source>Pi-hole Remote Share Extension</source>
         <target state="new">Pi-hole Remote Share Extension</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
-        <source>Copyright © 2025 RocketScience. All rights reserved.</source>
-        <target state="new">Copyright © 2025 RocketScience. All rights reserved.</target>
+        <source>Copyright © 2026 RocketScience. All rights reserved.</source>
+        <target state="new">Copyright © 2026 RocketScience. All rights reserved.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
@@ -155,6 +155,11 @@
         <source>%lld total</source>
         <target state="new">%lld total</target>
         <note>Displays the number of total clients in the Home-tab 'Clients' card.</note>
+      </trans-unit>
+      <trans-unit id="AI services" xml:space="preserve">
+        <source>AI services</source>
+        <target state="new">AI services</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Active Clients" xml:space="preserve">
         <source>Active Clients</source>
@@ -449,6 +454,11 @@
       <trans-unit id="FTL version: %@." xml:space="preserve">
         <source>FTL version: %@.</source>
         <target state="new">FTL version: %@.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="File hosting" xml:space="preserve">
+        <source>File hosting</source>
+        <target state="new">File hosting</target>
         <note/>
       </trans-unit>
       <trans-unit id="Forwarded" xml:space="preserve">
@@ -890,19 +900,19 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Pi-hole Remote Watch App Extension/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+  <file original="Pi-hole Remote Watch App/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
-        <source>Pi-hole Remote WatchKit Extension</source>
-        <target>Pi-hole Remote WatchKit Extension</target>
+        <source>Pi-hole Remote</source>
+        <target>Pi-hole Remote</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
-        <source>Pi-hole Remote WatchKit Extension</source>
-        <target>Pi-hole Remote WatchKit Extension</target>
+        <source>Pi-hole Remote Watch App</source>
+        <target>Pi-hole Remote Watch App</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -1518,9 +1528,9 @@
         <target state="new">%@ total</target>
         <note/>
       </trans-unit>
-      <trans-unit id="%@, %@" translate="no" xml:space="preserve">
-        <source>%1$@, %2$@</source>
-        <target state="new">%1$@, %2$@</target>
+      <trans-unit id="%@, %lld regex entries" xml:space="preserve">
+        <source>%1$@, %2$lld regex entries</source>
+        <target state="new">%1$@, %2$lld regex entries</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@q/min" xml:space="preserve">
@@ -1646,6 +1656,11 @@
       <trans-unit id="ACTIVE" xml:space="preserve">
         <source>ACTIVE</source>
         <target state="new">ACTIVE</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="AI services" xml:space="preserve">
+        <source>AI services</source>
+        <target state="new">AI services</target>
         <note/>
       </trans-unit>
       <trans-unit id="API path" xml:space="preserve">
@@ -3082,6 +3097,11 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <target state="new">Feature Overview</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
+      <trans-unit id="File hosting" xml:space="preserve">
+        <source>File hosting</source>
+        <target state="new">File hosting</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Filter" xml:space="preserve">
         <source>Filter</source>
         <target state="new">Filter</target>
@@ -4464,6 +4484,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="new">Search by IP, Hostname, or MAC</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Search services" xml:space="preserve">
+        <source>Search services</source>
+        <target state="new">Search services</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Seconds" xml:space="preserve">
         <source>Seconds</source>
         <target state="new">Seconds</target>
@@ -4567,6 +4592,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       <trans-unit id="Show chart" xml:space="preserve">
         <source>Show chart</source>
         <target state="new">Show chart</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show favorites at the top" xml:space="preserve">
+        <source>Show favorites at the top</source>
+        <target state="new">Show favorites at the top</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show full feature comparison" xml:space="preserve">
@@ -5382,11 +5412,6 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
       <trans-unit id="blocked_services_favorites_remove" xml:space="preserve">
         <source>Remove from favorites</source>
         <target state="translated">Remove from favorites</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="blocked_services_other" xml:space="preserve">
-        <source>Other</source>
-        <target state="translated">Other</target>
         <note/>
       </trans-unit>
       <trans-unit id="changelog_accessibility" xml:space="preserve">

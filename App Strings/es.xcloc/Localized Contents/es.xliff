@@ -114,19 +114,19 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
         <source>Pi-hole Remote Share Extension</source>
         <target state="translated">Extensión para compartir de Pi-hole Remote</target>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
         <source>Pi-hole Remote Share Extension</source>
         <target state="translated">Extensión para compartir de Pi-hole Remote</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
-        <source>Copyright © 2025 RocketScience. All rights reserved.</source>
-        <target state="translated">Copyright © 2025 RocketScience. Todos los derechos reservados.</target>
+        <source>Copyright © 2026 RocketScience. All rights reserved.</source>
+        <target state="needs-review-l10n">Copyright © 2025 RocketScience. Todos los derechos reservados.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
@@ -155,6 +155,11 @@
         <source>%lld total</source>
         <target state="translated">%lld total</target>
         <note>Displays the number of total clients in the Home-tab 'Clients' card.</note>
+      </trans-unit>
+      <trans-unit id="AI services" xml:space="preserve">
+        <source>AI services</source>
+        <target state="translated">Servicios de IA</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Active Clients" xml:space="preserve">
         <source>Active Clients</source>
@@ -308,6 +313,7 @@
       </trans-unit>
       <trans-unit id="Business &amp; productivity" xml:space="preserve">
         <source>Business &amp; productivity</source>
+        <target state="translated">Negocios y productividad</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cache" xml:space="preserve">
@@ -357,6 +363,7 @@
       </trans-unit>
       <trans-unit id="Communication" xml:space="preserve">
         <source>Communication</source>
+        <target state="translated">Comunicacion</target>
         <note/>
       </trans-unit>
       <trans-unit id="Compact mode" xml:space="preserve">
@@ -366,6 +373,7 @@
       </trans-unit>
       <trans-unit id="Content delivery networks" xml:space="preserve">
         <source>Content delivery networks</source>
+        <target state="translated">Redes de distribucion de contenido</target>
         <note/>
       </trans-unit>
       <trans-unit id="Control blocking of services on your Pi-hole. (Requires PHR+)" xml:space="preserve">
@@ -390,6 +398,7 @@
       </trans-unit>
       <trans-unit id="Dating services" xml:space="preserve">
         <source>Dating services</source>
+        <target state="translated">Servicios de citas</target>
         <note/>
       </trans-unit>
       <trans-unit id="Deny-list" xml:space="preserve">
@@ -447,6 +456,11 @@
         <target state="translated">Versión de FTL: %@.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="File hosting" xml:space="preserve">
+        <source>File hosting</source>
+        <target state="translated">Alojamiento de archivos</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Forwarded" xml:space="preserve">
         <source>Forwarded</source>
         <target state="translated">Reenviado</target>
@@ -459,10 +473,12 @@
       </trans-unit>
       <trans-unit id="Gambling &amp; betting" xml:space="preserve">
         <source>Gambling &amp; betting</source>
+        <target state="translated">Juegos de azar y apuestas</target>
         <note/>
       </trans-unit>
       <trans-unit id="Gaming" xml:space="preserve">
         <source>Gaming</source>
+        <target state="translated">Videojuegos</target>
         <note/>
       </trans-unit>
       <trans-unit id="Get Pi-hole Blocking Status" xml:space="preserve">
@@ -517,6 +533,7 @@
       </trans-unit>
       <trans-unit id="Media sharing" xml:space="preserve">
         <source>Media sharing</source>
+        <target state="translated">Compartir multimedia</target>
         <note/>
       </trans-unit>
       <trans-unit id="Multiple" xml:space="preserve">
@@ -606,6 +623,7 @@
       </trans-unit>
       <trans-unit id="Shopping" xml:space="preserve">
         <source>Shopping</source>
+        <target state="translated">Compras</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show Blocklist Last Updated" xml:space="preserve">
@@ -640,10 +658,12 @@
       </trans-unit>
       <trans-unit id="Social networks" xml:space="preserve">
         <source>Social networks</source>
+        <target state="translated">Redes sociales</target>
         <note/>
       </trans-unit>
       <trans-unit id="Software &amp; updates" xml:space="preserve">
         <source>Software &amp; updates</source>
+        <target state="translated">Software y actualizaciones</target>
         <note/>
       </trans-unit>
       <trans-unit id="Something went wrong." xml:space="preserve">
@@ -688,6 +708,7 @@
       </trans-unit>
       <trans-unit id="Streaming services" xml:space="preserve">
         <source>Streaming services</source>
+        <target state="translated">Servicios de streaming</target>
         <note/>
       </trans-unit>
       <trans-unit id="Successfully disabled blocking for %@." xml:space="preserve">
@@ -879,19 +900,17 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Pi-hole Remote Watch App Extension/en.lproj/InfoPlist.strings" source-language="en" target-language="es" datatype="plaintext">
+  <file original="Pi-hole Remote Watch App/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="es">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
-        <source>Pi-hole Remote WatchKit Extension</source>
-        <target>Extensión WatchKit de Pi-hole Remote</target>
+        <source>Pi-hole Remote</source>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
-        <source>Pi-hole Remote WatchKit Extension</source>
-        <target>Extensión WatchKit de Pi-hole Remote</target>
+        <source>Pi-hole Remote Watch App</source>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -1503,8 +1522,9 @@
         <target state="translated">%@ total</target>
         <note/>
       </trans-unit>
-      <trans-unit id="%@, %@" translate="no" xml:space="preserve">
-        <source>%1$@, %2$@</source>
+      <trans-unit id="%@, %lld regex entries" xml:space="preserve">
+        <source>%1$@, %2$lld regex entries</source>
+        <target state="translated">%1$@, %2$lld entradas regex</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@q/min" xml:space="preserve">
@@ -1626,6 +1646,11 @@
       <trans-unit id="ACTIVE" xml:space="preserve">
         <source>ACTIVE</source>
         <target state="translated">ACTIVO</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="AI services" xml:space="preserve">
+        <source>AI services</source>
+        <target state="translated">Servicios de IA</target>
         <note/>
       </trans-unit>
       <trans-unit id="API path" xml:space="preserve">
@@ -2229,6 +2254,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Business &amp; productivity" xml:space="preserve">
         <source>Business &amp; productivity</source>
+        <target state="translated">Negocios y productividad</target>
         <note/>
       </trans-unit>
       <trans-unit id="CNAME Records" xml:space="preserve">
@@ -2420,6 +2446,7 @@ Ten en cuenta que el reconocimiento de clientes por direcciones IP (incluidos ra
       </trans-unit>
       <trans-unit id="Communication" xml:space="preserve">
         <source>Communication</source>
+        <target state="translated">Comunicación</target>
         <note/>
       </trans-unit>
       <trans-unit id="Compact mode" xml:space="preserve">
@@ -2454,6 +2481,7 @@ Ten en cuenta que el reconocimiento de clientes por direcciones IP (incluidos ra
       </trans-unit>
       <trans-unit id="Content delivery networks" xml:space="preserve">
         <source>Content delivery networks</source>
+        <target state="translated">Redes de distribución de contenido</target>
         <note/>
       </trans-unit>
       <trans-unit id="Continue" xml:space="preserve">
@@ -2665,6 +2693,7 @@ Ten en cuenta que el reconocimiento de clientes por direcciones IP (incluidos ra
       </trans-unit>
       <trans-unit id="Dating services" xml:space="preserve">
         <source>Dating services</source>
+        <target state="translated">Servicios de citas</target>
         <note/>
       </trans-unit>
       <trans-unit id="Debug" xml:space="preserve">
@@ -3050,6 +3079,11 @@ Ten en cuenta que el reconocimiento de clientes por direcciones IP (incluidos ra
         <target state="translated">Resumen de funciones</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
+      <trans-unit id="File hosting" xml:space="preserve">
+        <source>File hosting</source>
+        <target state="translated">Alojamiento de archivos</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Filter" xml:space="preserve">
         <source>Filter</source>
         <target state="translated">Filtrar</target>
@@ -3147,10 +3181,12 @@ Ten en cuenta que el reconocimiento de clientes por direcciones IP (incluidos ra
       </trans-unit>
       <trans-unit id="Gambling &amp; betting" xml:space="preserve">
         <source>Gambling &amp; betting</source>
+        <target state="translated">Juegos de azar y apuestas</target>
         <note/>
       </trans-unit>
       <trans-unit id="Gaming" xml:space="preserve">
         <source>Gaming</source>
+        <target state="translated">Juegos</target>
         <note/>
       </trans-unit>
       <trans-unit id="Get Lifetime PHR+" xml:space="preserve">
@@ -3637,6 +3673,7 @@ Nota: Cuando esta función está habilitada, deberás configurar nuevos clientes
       </trans-unit>
       <trans-unit id="Media sharing" xml:space="preserve">
         <source>Media sharing</source>
+        <target state="translated">Compartir medios</target>
         <note/>
       </trans-unit>
       <trans-unit id="Medium widget only." xml:space="preserve">
@@ -4419,6 +4456,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">Buscar por IP, nombre de host o MAC</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Search services" xml:space="preserve">
+        <source>Search services</source>
+        <target state="translated">Servicios de búsqueda</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Seconds" xml:space="preserve">
         <source>Seconds</source>
         <target state="translated">Segundos</target>
@@ -4475,6 +4517,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Shopping" xml:space="preserve">
         <source>Shopping</source>
+        <target state="translated">Compras</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show" xml:space="preserve">
@@ -4520,6 +4563,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       <trans-unit id="Show chart" xml:space="preserve">
         <source>Show chart</source>
         <target state="translated">Mostrar gráfico</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show favorites at the top" xml:space="preserve">
+        <source>Show favorites at the top</source>
+        <target state="translated">Mostrar favoritos arriba</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show full feature comparison" xml:space="preserve">
@@ -4579,10 +4627,12 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Social networks" xml:space="preserve">
         <source>Social networks</source>
+        <target state="translated">Redes sociales</target>
         <note/>
       </trans-unit>
       <trans-unit id="Software &amp; updates" xml:space="preserve">
         <source>Software &amp; updates</source>
+        <target state="translated">Software y actualizaciones</target>
         <note/>
       </trans-unit>
       <trans-unit id="Something went wrong" xml:space="preserve">
@@ -4682,6 +4732,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Streaming services" xml:space="preserve">
         <source>Streaming services</source>
+        <target state="translated">Servicios de streaming</target>
         <note/>
       </trans-unit>
       <trans-unit id="Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period and will be charged to your iTunes account. You can turn off auto-renew/manage subscriptions in your iTunes Account Settings after purchase." xml:space="preserve">
@@ -5330,11 +5381,6 @@ La ubicación predeterminada de tu certificado está en tu dispositivo: /etc/pih
       <trans-unit id="blocked_services_favorites_remove" xml:space="preserve">
         <source>Remove from favorites</source>
         <target state="translated">Eliminar de favoritos</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="blocked_services_other" xml:space="preserve">
-        <source>Other</source>
-        <target state="translated">Otro</target>
         <note/>
       </trans-unit>
       <trans-unit id="changelog_accessibility" xml:space="preserve">

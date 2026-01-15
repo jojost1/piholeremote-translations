@@ -112,16 +112,16 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
         <source>Pi-hole Remote Share Extension</source>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
         <source>Pi-hole Remote Share Extension</source>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
-        <source>Copyright © 2025 RocketScience. All rights reserved.</source>
+        <source>Copyright © 2026 RocketScience. All rights reserved.</source>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
@@ -133,590 +133,747 @@
     <body>
       <trans-unit id=" avg" xml:space="preserve">
         <source> avg</source>
+        <target state="translated"> sr</target>
         <note>Small 'average' label shown on the Home-tab when 'Combine' is enabled. The space at the start is intentional.</note>
       </trans-unit>
       <trans-unit id="%@ total" xml:space="preserve">
         <source>%@ total</source>
+        <target state="translated">%@ łącznie</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@q/min" xml:space="preserve">
         <source>%@q/min</source>
+        <target state="translated">%@z/min</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld total" xml:space="preserve">
         <source>%lld total</source>
+        <target state="translated">%lld łącznie</target>
         <note>Displays the number of total clients in the Home-tab 'Clients' card.</note>
+      </trans-unit>
+      <trans-unit id="AI services" xml:space="preserve">
+        <source>AI services</source>
+        <target state="translated">Usługi AI</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Active Clients" xml:space="preserve">
         <source>Active Clients</source>
+        <target state="translated">Aktywni klienci</target>
         <note/>
       </trans-unit>
       <trans-unit id="Active clients: %@" xml:space="preserve">
         <source>Active clients: %@</source>
+        <target state="translated">Aktywni klienci: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Active clients: %@ out of %@ total" xml:space="preserve">
         <source>Active clients: %1$@ out of %2$@ total</source>
+        <target state="translated">Aktywni klienci: %1$@ z %2$@ łącznie</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add 5 minutes" xml:space="preserve">
         <source>Add 5 minutes</source>
+        <target state="translated">Dodaj 5 minut</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add your Pi-hole instances on an iOS, iPadOS, or macOS device with version 6.2 or higher and make sure iCloud is enabled." xml:space="preserve">
         <source>Add your Pi-hole instances on an iOS, iPadOS, or macOS device with version 6.2 or higher and make sure iCloud is enabled.</source>
+        <target state="translated">Dodaj swoje instancje Pi-hole na urządzeniu iOS, iPadOS lub macOS w wersji 6.2 lub nowszej i upewnij się, że iCloud jest włączony.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adlists" xml:space="preserve">
         <source>Adlists</source>
+        <target state="translated">Listy reklam</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allow-list" xml:space="preserve">
         <source>Allow-list</source>
+        <target state="translated">Lista dozwolonych</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allowed" xml:space="preserve">
         <source>Allowed</source>
+        <target state="translated">Dozwolone</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allowlist" xml:space="preserve">
         <source>Allowlist</source>
+        <target state="translated">Lista dozwolonych</target>
         <note/>
       </trans-unit>
       <trans-unit id="Always Dark" xml:space="preserve">
         <source>Always Dark</source>
+        <target state="translated">Zawsze ciemny</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked" xml:space="preserve">
         <source>Blocked</source>
+        <target state="translated">Zablokowane</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Deny-list Exact" xml:space="preserve">
         <source>Blocked | Deny-list Exact</source>
+        <target state="translated">Zablokowane | Dokładna lista blokowanych</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Deny-list Exact (CNAME)" xml:space="preserve">
         <source>Blocked | Deny-list Exact (CNAME)</source>
+        <target state="translated">Zablokowane | Dokładna lista blokowanych (CNAME)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Denylist Exact" xml:space="preserve">
         <source>Blocked | Denylist Exact</source>
+        <target state="translated">Zablokowane | Dokładna lista blokowanych</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Denylist Exact (CNAME)" xml:space="preserve">
         <source>Blocked | Denylist Exact (CNAME)</source>
+        <target state="translated">Zablokowane | Dokładna lista blokowanych (CNAME)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | External IP" xml:space="preserve">
         <source>Blocked | External IP</source>
+        <target state="translated">Zablokowane | Zewnętrzny IP</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | External NULL" xml:space="preserve">
         <source>Blocked | External NULL</source>
+        <target state="translated">Zablokowane | Zewnętrzny NULL</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | External NXRA" xml:space="preserve">
         <source>Blocked | External NXRA</source>
+        <target state="translated">Zablokowane | Zewnętrzny NXRA</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Gravity" xml:space="preserve">
         <source>Blocked | Gravity</source>
+        <target state="translated">Zablokowane | Gravity</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Gravity (CNAME)" xml:space="preserve">
         <source>Blocked | Gravity (CNAME)</source>
+        <target state="translated">Zablokowane | Gravity (CNAME)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Regex" xml:space="preserve">
         <source>Blocked | Regex</source>
+        <target state="translated">Zablokowane | Regex</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Regex (CNAME)" xml:space="preserve">
         <source>Blocked | Regex (CNAME)</source>
+        <target state="translated">Zablokowane | Regex (CNAME)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked: %@" xml:space="preserve">
         <source>Blocked: %@</source>
+        <target state="translated">Zablokowane: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked: %@ (%@)" xml:space="preserve">
         <source>Blocked: %1$@ (%2$@)</source>
+        <target state="translated">Zablokowane: %1$@ (%2$@)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking is enabled on all instances." xml:space="preserve">
         <source>Blocking is enabled on all instances.</source>
+        <target state="translated">Blokowanie jest włączone na wszystkich instancjach.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking is enabled on instance %@." xml:space="preserve">
         <source>Blocking is enabled on instance %@.</source>
+        <target state="translated">Blokowanie jest włączone na instancji %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking is not enabled on all instances." xml:space="preserve">
         <source>Blocking is not enabled on all instances.</source>
+        <target state="translated">Blokowanie nie jest włączone na wszystkich instancjach.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking is not enabled on instance %@." xml:space="preserve">
         <source>Blocking is not enabled on instance %@.</source>
+        <target state="translated">Blokowanie nie jest włączone na instancji %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocklist" xml:space="preserve">
         <source>Blocklist</source>
+        <target state="translated">Lista blokowanych</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocklist: %@" xml:space="preserve">
         <source>Blocklist: %@</source>
+        <target state="translated">Lista blokowanych: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Business &amp; productivity" xml:space="preserve">
         <source>Business &amp; productivity</source>
+        <target state="translated">Biznes i produktywność</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cache" xml:space="preserve">
         <source>Cache</source>
+        <target state="translated">Pamięć podręczna</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cache (optimizer)" xml:space="preserve">
         <source>Cache (optimizer)</source>
+        <target state="translated">Pamięć podręczna (optymalizator)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cached" xml:space="preserve">
         <source>Cached</source>
+        <target state="translated">Z pamięci podręcznej</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cached: %@" xml:space="preserve">
         <source>Cached: %@</source>
+        <target state="translated">Z pamięci podręcznej: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Chart" xml:space="preserve">
         <source>Chart</source>
+        <target state="translated">Wykres</target>
         <note/>
       </trans-unit>
       <trans-unit id="Client IP" xml:space="preserve">
         <source>Client IP</source>
+        <target state="translated">IP klienta</target>
         <note/>
       </trans-unit>
       <trans-unit id="Client Name" xml:space="preserve">
         <source>Client Name</source>
+        <target state="translated">Nazwa klienta</target>
         <note/>
       </trans-unit>
       <trans-unit id="Clients" xml:space="preserve">
         <source>Clients</source>
+        <target state="translated">Klienci</target>
         <note/>
       </trans-unit>
       <trans-unit id="Combine instances" xml:space="preserve">
         <source>Combine instances</source>
+        <target state="translated">Połącz instancje</target>
         <note/>
       </trans-unit>
       <trans-unit id="Communication" xml:space="preserve">
         <source>Communication</source>
+        <target state="translated">Komunikacja</target>
         <note/>
       </trans-unit>
       <trans-unit id="Compact mode" xml:space="preserve">
         <source>Compact mode</source>
+        <target state="translated">Tryb kompaktowy</target>
         <note/>
       </trans-unit>
       <trans-unit id="Content delivery networks" xml:space="preserve">
         <source>Content delivery networks</source>
+        <target state="translated">Sieci dostarczania treści</target>
         <note/>
       </trans-unit>
       <trans-unit id="Control blocking of services on your Pi-hole. (Requires PHR+)" xml:space="preserve">
         <source>Control blocking of services on your Pi-hole. (Requires PHR+)</source>
+        <target state="translated">Kontroluj blokowanie usług na Pi-hole. (Wymaga PHR+)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Core" xml:space="preserve">
         <source>Core</source>
+        <target state="translated">Core</target>
         <note/>
       </trans-unit>
       <trans-unit id="Core version: %@." xml:space="preserve">
         <source>Core version: %@.</source>
+        <target state="translated">Wersja Core: %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
         <source>Date</source>
+        <target state="translated">Data</target>
         <note/>
       </trans-unit>
       <trans-unit id="Dating services" xml:space="preserve">
         <source>Dating services</source>
+        <target state="translated">Serwisy randkowe</target>
         <note/>
       </trans-unit>
       <trans-unit id="Deny-list" xml:space="preserve">
         <source>Deny-list</source>
+        <target state="translated">Lista blokowanych</target>
         <note/>
       </trans-unit>
       <trans-unit id="Denylist" xml:space="preserve">
         <source>Denylist</source>
+        <target state="translated">Lista blokowanych</target>
         <note/>
       </trans-unit>
       <trans-unit id="Domain" xml:space="preserve">
         <source>Domain</source>
+        <target state="translated">Domena</target>
         <note/>
       </trans-unit>
       <trans-unit id="Domains" xml:space="preserve">
         <source>Domains</source>
+        <target state="translated">Domeny</target>
         <note/>
       </trans-unit>
       <trans-unit id="Duration" xml:space="preserve">
         <source>Duration</source>
+        <target state="translated">Czas trwania</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable Blocking" xml:space="preserve">
         <source>Enable Blocking</source>
+        <target state="translated">Włącz blokowanie</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable blocking" xml:space="preserve">
         <source>Enable blocking</source>
+        <target state="translated">Włącz blokowanie</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable to block the service, disable to unblock it." xml:space="preserve">
         <source>Enable to block the service, disable to unblock it.</source>
+        <target state="translated">Włącz, aby zablokować usługę, wyłącz, aby odblokować.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Exact" xml:space="preserve">
         <source>Exact</source>
+        <target state="translated">Dokładne</target>
         <note/>
       </trans-unit>
       <trans-unit id="FTL" xml:space="preserve">
         <source>FTL</source>
+        <target state="translated">FTL</target>
         <note/>
       </trans-unit>
       <trans-unit id="FTL version: %@." xml:space="preserve">
         <source>FTL version: %@.</source>
+        <target state="translated">Wersja FTL: %@.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="File hosting" xml:space="preserve">
+        <source>File hosting</source>
+        <target state="translated">Hosting plików</target>
         <note/>
       </trans-unit>
       <trans-unit id="Forwarded" xml:space="preserve">
         <source>Forwarded</source>
+        <target state="translated">Przekazane</target>
         <note/>
       </trans-unit>
       <trans-unit id="Forwarded: %@" xml:space="preserve">
         <source>Forwarded: %@</source>
+        <target state="translated">Przekazane: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Gambling &amp; betting" xml:space="preserve">
         <source>Gambling &amp; betting</source>
+        <target state="translated">Hazard i zakłady</target>
         <note/>
       </trans-unit>
       <trans-unit id="Gaming" xml:space="preserve">
         <source>Gaming</source>
+        <target state="translated">Gry</target>
         <note/>
       </trans-unit>
       <trans-unit id="Get Pi-hole Blocking Status" xml:space="preserve">
         <source>Get Pi-hole Blocking Status</source>
+        <target state="translated">Pobierz status blokowania Pi-hole</target>
         <note/>
       </trans-unit>
       <trans-unit id="Get blocking status for ${instance}" xml:space="preserve">
         <source>Get blocking status for ${instance}</source>
+        <target state="translated">Pobierz status blokowania dla ${instance}</target>
         <note/>
       </trans-unit>
       <trans-unit id="Get the blocking status of your Pi-hole. Returns 'true' is blocking is enabled, otherwise returns 'false'. If you select 'All Instances', this will only return 'true' if blocking is enabled on all instances." xml:space="preserve">
         <source>Get the blocking status of your Pi-hole. Returns 'true' is blocking is enabled, otherwise returns 'false'. If you select 'All Instances', this will only return 'true' if blocking is enabled on all instances.</source>
+        <target state="translated">Pobierz status blokowania Pi-hole. Zwraca 'true' jeśli blokowanie jest włączone, w przeciwnym razie 'false'. Jeśli wybierzesz 'Wszystkie instancje', zwróci 'true' tylko gdy blokowanie jest włączone na wszystkich instancjach.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Home" xml:space="preserve">
         <source>Home</source>
+        <target state="translated">Strona główna</target>
         <note/>
       </trans-unit>
       <trans-unit id="In Progress" xml:space="preserve">
         <source>In Progress</source>
+        <target state="translated">W toku</target>
         <note/>
       </trans-unit>
       <trans-unit id="Indefinitely" xml:space="preserve">
         <source>Indefinitely</source>
+        <target state="translated">Bezterminowo</target>
         <note/>
       </trans-unit>
       <trans-unit id="Info" xml:space="preserve">
         <source>Info</source>
+        <target state="translated">Informacje</target>
         <note/>
       </trans-unit>
       <trans-unit id="Instance" xml:space="preserve">
         <source>Instance</source>
+        <target state="translated">Instancja</target>
         <note/>
       </trans-unit>
       <trans-unit id="Instances" xml:space="preserve">
         <source>Instances</source>
+        <target state="translated">Instancje</target>
         <note/>
       </trans-unit>
       <trans-unit id="Last Updated" xml:space="preserve">
         <source>Last Updated</source>
+        <target state="translated">Ostatnia aktualizacja</target>
         <note/>
       </trans-unit>
       <trans-unit id="Media sharing" xml:space="preserve">
         <source>Media sharing</source>
+        <target state="translated">Udostępnianie mediów</target>
         <note/>
       </trans-unit>
       <trans-unit id="Multiple" xml:space="preserve">
         <source>Multiple</source>
+        <target state="translated">Wiele</target>
         <note/>
       </trans-unit>
       <trans-unit id="No Instances" xml:space="preserve">
         <source>No Instances</source>
+        <target state="translated">Brak instancji</target>
         <note/>
       </trans-unit>
       <trans-unit id="No connection" xml:space="preserve">
         <source>No connection</source>
+        <target state="translated">Brak połączenia</target>
         <note/>
       </trans-unit>
       <trans-unit id="Only visible if 'Combine instances' is turned off." xml:space="preserve">
         <source>Only visible if 'Combine instances' is turned off.</source>
+        <target state="translated">Widoczne tylko gdy 'Połącz instancje' jest wyłączone.</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHR+ is required to use this feature." xml:space="preserve">
         <source>PHR+ is required to use this feature.</source>
+        <target state="translated">PHR+ jest wymagane do korzystania z tej funkcji.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pi-hole Remote" xml:space="preserve">
         <source>Pi-hole Remote</source>
+        <target state="translated">Pi-hole Remote</target>
         <note/>
       </trans-unit>
       <trans-unit id="Queries" xml:space="preserve">
         <source>Queries</source>
+        <target state="translated">Zapytania</target>
         <note/>
       </trans-unit>
       <trans-unit id="Queries: %@" xml:space="preserve">
         <source>Queries: %@</source>
+        <target state="translated">Zapytania: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Query Types" xml:space="preserve">
         <source>Query Types</source>
+        <target state="translated">Typy zapytań</target>
         <note/>
       </trans-unit>
       <trans-unit id="Refreshing" xml:space="preserve">
         <source>Refreshing</source>
+        <target state="translated">Odświeżanie</target>
         <note/>
       </trans-unit>
       <trans-unit id="RegEx" xml:space="preserve">
         <source>RegEx</source>
+        <target state="translated">RegEx</target>
         <note/>
       </trans-unit>
       <trans-unit id="Retried" xml:space="preserve">
         <source>Retried</source>
+        <target state="translated">Ponowiono</target>
         <note/>
       </trans-unit>
       <trans-unit id="Retried | DNSSEC" xml:space="preserve">
         <source>Retried | DNSSEC</source>
+        <target state="translated">Ponowiono | DNSSEC</target>
         <note/>
       </trans-unit>
       <trans-unit id="Selected" xml:space="preserve">
         <source>Selected</source>
+        <target state="translated">Wybrane</target>
         <note/>
       </trans-unit>
       <trans-unit id="Service" xml:space="preserve">
         <source>Service</source>
+        <target state="translated">Usługa</target>
         <note/>
       </trans-unit>
       <trans-unit id="Services" xml:space="preserve">
         <source>Services</source>
+        <target state="translated">Usługi</target>
         <note/>
       </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
         <source>Settings</source>
+        <target state="translated">Ustawienia</target>
         <note/>
       </trans-unit>
       <trans-unit id="Shopping" xml:space="preserve">
         <source>Shopping</source>
+        <target state="translated">Zakupy</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show Blocklist Last Updated" xml:space="preserve">
         <source>Show Blocklist Last Updated</source>
+        <target state="translated">Pokaż ostatnią aktualizację listy blokowanych</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show chart" xml:space="preserve">
         <source>Show chart</source>
+        <target state="translated">Pokaż wykres</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show hostname" xml:space="preserve">
         <source>Show hostname</source>
+        <target state="translated">Pokaż nazwę hosta</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show legend" xml:space="preserve">
         <source>Show legend</source>
+        <target state="translated">Pokaż legendę</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show metrics" xml:space="preserve">
         <source>Show metrics</source>
+        <target state="translated">Pokaż metryki</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show version" xml:space="preserve">
         <source>Show version</source>
+        <target state="translated">Pokaż wersję</target>
         <note/>
       </trans-unit>
       <trans-unit id="Social networks" xml:space="preserve">
         <source>Social networks</source>
+        <target state="translated">Sieci społecznościowe</target>
         <note/>
       </trans-unit>
       <trans-unit id="Software &amp; updates" xml:space="preserve">
         <source>Software &amp; updates</source>
+        <target state="translated">Oprogramowanie i aktualizacje</target>
         <note/>
       </trans-unit>
       <trans-unit id="Something went wrong." xml:space="preserve">
         <source>Something went wrong.</source>
+        <target state="translated">Coś poszło nie tak.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Something went wrong: %@" xml:space="preserve">
         <source>Something went wrong: %@</source>
+        <target state="translated">Coś poszło nie tak: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Special Domain" xml:space="preserve">
         <source>Special Domain</source>
+        <target state="translated">Specjalna domena</target>
         <note/>
       </trans-unit>
       <trans-unit id="Specify which group(s) to control." xml:space="preserve">
         <source>Specify which group(s) to control.</source>
+        <target state="translated">Określ, które grupy kontrolować.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Specify which instance(s) to check." xml:space="preserve">
         <source>Specify which instance(s) to check.</source>
+        <target state="translated">Określ, które instancje sprawdzić.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Specify which instance(s) to control." xml:space="preserve">
         <source>Specify which instance(s) to control.</source>
+        <target state="translated">Określ, które instancje kontrolować.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Specify which service(s) to toggle." xml:space="preserve">
         <source>Specify which service(s) to toggle.</source>
+        <target state="translated">Określ, które usługi przełączyć.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Statistics" xml:space="preserve">
         <source>Statistics</source>
+        <target state="translated">Statystyki</target>
         <note/>
       </trans-unit>
       <trans-unit id="Streaming services" xml:space="preserve">
         <source>Streaming services</source>
+        <target state="translated">Usługi streamingowe</target>
         <note/>
       </trans-unit>
       <trans-unit id="Successfully disabled blocking for %@." xml:space="preserve">
         <source>Successfully disabled blocking for %@.</source>
+        <target state="translated">Pomyślnie wyłączono blokowanie dla %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Successfully enabled blocking for %@." xml:space="preserve">
         <source>Successfully enabled blocking for %@.</source>
+        <target state="translated">Pomyślnie włączono blokowanie dla %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Target Groups" xml:space="preserve">
         <source>Target Groups</source>
+        <target state="translated">Grupy docelowe</target>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle Blocked Services" xml:space="preserve">
         <source>Toggle Blocked Services</source>
+        <target state="translated">Przełącz blokowane usługi</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Clients" xml:space="preserve">
         <source>Top Clients</source>
+        <target state="translated">Najczęstsi klienci</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Domains" xml:space="preserve">
         <source>Top Domains</source>
+        <target state="translated">Najczęstsze domeny</target>
         <note/>
       </trans-unit>
       <trans-unit id="Total" xml:space="preserve">
         <source>Total</source>
+        <target state="translated">Łącznie</target>
         <note/>
       </trans-unit>
       <trans-unit id="Total: %@" xml:space="preserve">
         <source>Total: %@</source>
+        <target state="translated">Łącznie: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>Unknown</source>
+        <target state="translated">Nieznane</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unknown error." xml:space="preserve">
         <source>Unknown error.</source>
+        <target state="translated">Nieznany błąd.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Until tomorrow" xml:space="preserve">
         <source>Until tomorrow</source>
+        <target state="translated">Do jutra</target>
         <note/>
       </trans-unit>
       <trans-unit id="Update available for Core: %@. Select for changelog." xml:space="preserve">
         <source>Update available for Core: %@. Select for changelog.</source>
+        <target state="translated">Dostępna aktualizacja Core: %@. Wybierz, aby zobaczyć zmiany.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Update available for FTL: %@. Select for changelog." xml:space="preserve">
         <source>Update available for FTL: %@. Select for changelog.</source>
+        <target state="translated">Dostępna aktualizacja FTL: %@. Wybierz, aby zobaczyć zmiany.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Update available for Web: %@. Select for changelog." xml:space="preserve">
         <source>Update available for Web: %@. Select for changelog.</source>
+        <target state="translated">Dostępna aktualizacja Web: %@. Wybierz, aby zobaczyć zmiany.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Update available: %@." xml:space="preserve">
         <source>Update available: %@.</source>
+        <target state="translated">Dostępna aktualizacja: %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Upstream Servers" xml:space="preserve">
         <source>Upstream Servers</source>
+        <target state="translated">Serwery upstream</target>
         <note/>
       </trans-unit>
       <trans-unit id="Version" xml:space="preserve">
         <source>Version</source>
+        <target state="translated">Wersja</target>
         <note/>
       </trans-unit>
       <trans-unit id="Web" xml:space="preserve">
         <source>Web</source>
+        <target state="translated">Web</target>
         <note/>
       </trans-unit>
       <trans-unit id="Web version: %@." xml:space="preserve">
         <source>Web version: %@.</source>
+        <target state="translated">Wersja Web: %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="appintent_disableblocking_description" xml:space="preserve">
         <source>appintent_disableblocking_description</source>
+        <target state="translated">Disable Pi-hole blocking on one or all of your instances for a specific duration.</target>
         <note/>
       </trans-unit>
       <trans-unit id="appintent_disableblocking_summary_${instance}" xml:space="preserve">
         <source>appintent_disableblocking_summary_${instance}</source>
+        <target state="translated">Disable Pi-hole blocking for ${instance}</target>
         <note/>
       </trans-unit>
       <trans-unit id="appintent_duration_description" xml:space="preserve">
         <source>appintent_duration_description</source>
+        <target state="translated">Specifies the duration to disable for, in minutes. Set to '0' to disable indefinitely.</target>
         <note/>
       </trans-unit>
       <trans-unit id="appintent_enableblocking_description" xml:space="preserve">
         <source>appintent_enableblocking_description</source>
+        <target state="translated">Enable Pi-hole blocking on one or all of your instances.</target>
         <note/>
       </trans-unit>
       <trans-unit id="appintent_enableblocking_summary_${instance}" xml:space="preserve">
         <source>appintent_enableblocking_summary_${instance}</source>
+        <target state="translated">Enable Pi-hole blocking for ${instance}</target>
         <note/>
       </trans-unit>
       <trans-unit id="appintent_instance_description" xml:space="preserve">
         <source>appintent_instance_description</source>
+        <target state="translated">Specifies which instance(s) to use.</target>
         <note/>
       </trans-unit>
       <trans-unit id="home_disable_blocking" xml:space="preserve">
         <source>home_disable_blocking</source>
+        <target state="translated">Wyłącz blokowanie</target>
         <note/>
       </trans-unit>
       <trans-unit id="home_disable_blocking_pihole" xml:space="preserve">
         <source>home_disable_blocking_pihole</source>
+        <target state="translated">Wyłącz blokowanie Pi-hole</target>
         <note/>
       </trans-unit>
       <trans-unit id="home_enable_blocking" xml:space="preserve">
         <source>home_enable_blocking</source>
+        <target state="translated">Włącz blokowanie</target>
         <note/>
       </trans-unit>
       <trans-unit id="home_enable_blocking_pihole" xml:space="preserve">
         <source>home_enable_blocking_pihole</source>
+        <target state="translated">Włącz blokowanie Pi-Hole</target>
         <note/>
       </trans-unit>
       <trans-unit id="instance" xml:space="preserve">
         <source>instance</source>
+        <target state="translated">instancję</target>
         <note/>
       </trans-unit>
       <trans-unit id="keyNotFound" xml:space="preserve">
         <source>keyNotFound</source>
+        <target state="translated">keyNotFound</target>
         <note>ParsingError</note>
       </trans-unit>
       <trans-unit id="something_went_wrong" xml:space="preserve">
         <source>something_went_wrong</source>
+        <target state="translated">Coś poszło nie tak.</target>
         <note/>
       </trans-unit>
       <trans-unit id="typeMismatch" xml:space="preserve">
         <source>typeMismatch</source>
+        <target state="translated">typeMismatch</target>
         <note>ParsingError</note>
       </trans-unit>
       <trans-unit id="valueNotFound" xml:space="preserve">
         <source>valueNotFound</source>
+        <target state="translated">valueNotFound</target>
         <note>ParsingError</note>
       </trans-unit>
     </body>
@@ -736,17 +893,17 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Pi-hole Remote Watch App Extension/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="pl">
+  <file original="Pi-hole Remote Watch App/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="pl">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
-        <source>Pi-hole Remote WatchKit Extension</source>
+        <source>Pi-hole Remote</source>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
-        <source>Pi-hole Remote WatchKit Extension</source>
+        <source>Pi-hole Remote Watch App</source>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -1324,8 +1481,9 @@
         <source>%@ total</source>
         <note/>
       </trans-unit>
-      <trans-unit id="%@, %@" translate="no" xml:space="preserve">
-        <source>%1$@, %2$@</source>
+      <trans-unit id="%@, %lld regex entries" xml:space="preserve">
+        <source>%1$@, %2$lld regex entries</source>
+        <target state="translated">%1$@, %2$lld wpisów regex</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@q/min" xml:space="preserve">
@@ -1435,6 +1593,11 @@
       </trans-unit>
       <trans-unit id="ACTIVE" xml:space="preserve">
         <source>ACTIVE</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="AI services" xml:space="preserve">
+        <source>AI services</source>
+        <target state="translated">Usługi AI</target>
         <note/>
       </trans-unit>
       <trans-unit id="API path" xml:space="preserve">
@@ -1920,6 +2083,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Business &amp; productivity" xml:space="preserve">
         <source>Business &amp; productivity</source>
+        <target state="translated">Biznes i produktywność</target>
         <note/>
       </trans-unit>
       <trans-unit id="CNAME Records" xml:space="preserve">
@@ -2074,6 +2238,7 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Communication" xml:space="preserve">
         <source>Communication</source>
+        <target state="translated">Komunikacja</target>
         <note/>
       </trans-unit>
       <trans-unit id="Compact mode" xml:space="preserve">
@@ -2102,6 +2267,7 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Content delivery networks" xml:space="preserve">
         <source>Content delivery networks</source>
+        <target state="translated">Sieci dostarczania treści</target>
         <note/>
       </trans-unit>
       <trans-unit id="Continue" xml:space="preserve">
@@ -2277,6 +2443,7 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Dating services" xml:space="preserve">
         <source>Dating services</source>
+        <target state="translated">Serwisy randkowe</target>
         <note/>
       </trans-unit>
       <trans-unit id="Debug" xml:space="preserve">
@@ -2591,6 +2758,11 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <target state="translated">Przegląd funkcji</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
+      <trans-unit id="File hosting" xml:space="preserve">
+        <source>File hosting</source>
+        <target state="translated">Hosting plików</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Filter" xml:space="preserve">
         <source>Filter</source>
         <note/>
@@ -2670,10 +2842,12 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Gambling &amp; betting" xml:space="preserve">
         <source>Gambling &amp; betting</source>
+        <target state="translated">Hazard i zakłady</target>
         <note/>
       </trans-unit>
       <trans-unit id="Gaming" xml:space="preserve">
         <source>Gaming</source>
+        <target state="translated">Gry</target>
         <note/>
       </trans-unit>
       <trans-unit id="Get Lifetime PHR+" xml:space="preserve">
@@ -3075,6 +3249,7 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="Media sharing" xml:space="preserve">
         <source>Media sharing</source>
+        <target state="translated">Udostępnianie mediów</target>
         <note/>
       </trans-unit>
       <trans-unit id="Medium widget only." xml:space="preserve">
@@ -3715,6 +3890,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>Search by IP, Hostname, or MAC</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Search services" xml:space="preserve">
+        <source>Search services</source>
+        <target state="translated">Usługi wyszukiwania</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Seconds" xml:space="preserve">
         <source>Seconds</source>
         <note>Used on the 'Add new disable preset' screen</note>
@@ -3762,6 +3942,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Shopping" xml:space="preserve">
         <source>Shopping</source>
+        <target state="translated">Zakupy</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show" xml:space="preserve">
@@ -3798,6 +3979,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Show chart" xml:space="preserve">
         <source>Show chart</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show favorites at the top" xml:space="preserve">
+        <source>Show favorites at the top</source>
+        <target state="translated">Pokaż ulubione na górze</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show full feature comparison" xml:space="preserve">
@@ -3846,10 +4032,12 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Social networks" xml:space="preserve">
         <source>Social networks</source>
+        <target state="translated">Sieci społecznościowe</target>
         <note/>
       </trans-unit>
       <trans-unit id="Software &amp; updates" xml:space="preserve">
         <source>Software &amp; updates</source>
+        <target state="translated">Oprogramowanie i aktualizacje</target>
         <note/>
       </trans-unit>
       <trans-unit id="Something went wrong" xml:space="preserve">
@@ -3930,6 +4118,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Streaming services" xml:space="preserve">
         <source>Streaming services</source>
+        <target state="translated">Usługi streamingowe</target>
         <note/>
       </trans-unit>
       <trans-unit id="Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period and will be charged to your iTunes account. You can turn off auto-renew/manage subscriptions in your iTunes Account Settings after purchase." xml:space="preserve">
@@ -4470,11 +4659,6 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
       <trans-unit id="blocked_services_favorites_remove" xml:space="preserve">
         <source>Remove from favorites</source>
         <target state="translated">Remove from favorites</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="blocked_services_other" xml:space="preserve">
-        <source>Other</source>
-        <target state="translated">Other</target>
         <note/>
       </trans-unit>
       <trans-unit id="changelog_accessibility" xml:space="preserve">

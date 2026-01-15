@@ -38,6 +38,9 @@
     "Adlists" : {
 
     },
+    "AI services" : {
+
+    },
     "Allow-list" : {
 
     },
@@ -214,6 +217,9 @@
 
     },
     "Exact" : {
+
+    },
+    "File hosting" : {
 
     },
     "Forwarded" : {
