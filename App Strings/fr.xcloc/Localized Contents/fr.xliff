@@ -1026,6 +1026,7 @@
       </trans-unit>
       <trans-unit id="418dKA" xml:space="preserve">
         <source>Statistics + Graph Widget</source>
+        <target>Widget de statistiques + graphique</target>
         <note/>
       </trans-unit>
       <trans-unit id="BILqn3" xml:space="preserve">
@@ -1108,6 +1109,7 @@
       </trans-unit>
       <trans-unit id="NCodr5" xml:space="preserve">
         <source>Stats And Chart Widget</source>
+        <target>Widget de statistiques et graphique</target>
         <note/>
       </trans-unit>
       <trans-unit id="NYeFKn" xml:space="preserve">
