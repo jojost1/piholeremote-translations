@@ -148,7 +148,7 @@
           <target state="translated">Rød</target>
       <trans-unit id="%@q/min" xml:space="preserve">
         <source>%@q/min</source>
-        <target state="new">%@q/min</target>
+        <target state="new">%@ spørr/min</target>
         <note/>
           <target state="translated">Turkis</target>
       <trans-unit id="%lld total" xml:space="preserve">
@@ -158,57 +158,57 @@
           <target state="translated">Gul</target>
       <trans-unit id="AI services" xml:space="preserve">
         <source>AI services</source>
-        <target state="new">AI-tjenester</target>
+        <target state="new">Utforming</target>
         <note/>
           <target state="translated">Lukk</target>
       <trans-unit id="Active Clients" xml:space="preserve">
         <source>Active Clients</source>
-        <target state="new">Aktive klienter</target>
+        <target state="new">Informasjon</target>
         <note/>
           <target state="new">aktivere mer enn 1 blokkert tjeneste.</target>
       <trans-unit id="Active clients: %@" xml:space="preserve">
         <source>Active clients: %@</source>
-        <target state="new">Aktive klienter: %@</target>
+        <target state="new">Flere DNS</target>
         <note/>
           <target state="new">rask adresseutdeling</target>
       <trans-unit id="Active clients: %@ out of %@ total" xml:space="preserve">
         <source>Active clients: %1$@ out of %2$@ total</source>
-        <target state="new">Aktive klienter: %1$@ av %2$@ totalt</target>
+        <target state="new">Handel</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add 5 minutes" xml:space="preserve">
         <source>Add 5 minutes</source>
-        <target state="new">Legg til 5 minutter</target>
+        <target state="new">rask adresseutdeling</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add your Pi-hole instances on an iOS, iPadOS, or macOS device with version 6.2 or higher and make sure iCloud is enabled." xml:space="preserve">
         <source>Add your Pi-hole instances on an iOS, iPadOS, or macOS device with version 6.2 or higher and make sure iCloud is enabled.</source>
-        <target state="new">Legg til Pi-hole-instansene dine på en iOS-, iPadOS- eller macOS-enhet med versjon 6.2 eller nyere, og sørg for at iCloud er aktivert.</target>
+        <target state="new">%@ spørr/min</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adlists" xml:space="preserve">
         <source>Adlists</source>
-        <target state="new">Annonselister</target>
+        <target>Informasjon</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allow-list" xml:space="preserve">
         <source>Allow-list</source>
-        <target state="new">Tillat-liste</target>
+        <target>Instanser</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allowed" xml:space="preserve">
         <source>Allowed</source>
-        <target state="new">Tillatt</target>
+        <target>Kun synlig hvis 'Slå sammen instanser' er slått av.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allowlist" xml:space="preserve">
         <source>Allowlist</source>
-        <target state="new">Tillatliste</target>
+        <target>Statistikk</target>
         <note/>
       </trans-unit>
       <trans-unit id="Always Dark" xml:space="preserve">
         <source>Always Dark</source>
-        <target state="new">Alltid mørk</target>
+        <target>Versjon</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked" xml:space="preserve">
@@ -318,7 +318,7 @@
       </trans-unit>
       <trans-unit id="Cache" xml:space="preserve">
         <source>Cache</source>
-        <target state="new">Cache</target>
+        <target state="new">Hurtigbuffer</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cache (optimizer)" xml:space="preserve">
@@ -513,7 +513,7 @@
       </trans-unit>
       <trans-unit id="Info" xml:space="preserve">
         <source>Info</source>
-        <target state="new">Info</target>
+        <target state="new">Informasjon</target>
         <note/>
       </trans-unit>
       <trans-unit id="Instance" xml:space="preserve">
@@ -623,7 +623,7 @@
       </trans-unit>
       <trans-unit id="Shopping" xml:space="preserve">
         <source>Shopping</source>
-        <target state="new">Shopping</target>
+        <target state="new">Handel</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show Blocklist Last Updated" xml:space="preserve">
@@ -798,7 +798,7 @@
       </trans-unit>
       <trans-unit id="Web" xml:space="preserve">
         <source>Web</source>
-        <target state="new">Web</target>
+        <target state="new">Nett</target>
         <note/>
       </trans-unit>
       <trans-unit id="Web version: %@." xml:space="preserve">
@@ -924,282 +924,282 @@
     <body>
       <trans-unit id="2C0IPw-Ixk02y" xml:space="preserve">
         <source>Just to confirm, you wanted ‘Open Statistics’?</source>
-        <target>Just to confirm, you wanted ‘Open Statistics’?</target>
+        <target>Bare for å bekrefte, ønsket du ‘Åpne statistikk’?</target>
         <note/>
       </trans-unit>
       <trans-unit id="2C0IPw-ZwOZTZ" xml:space="preserve">
         <source>Just to confirm, you wanted ‘Open Query Log’?</source>
-        <target>Just to confirm, you wanted ‘Open Query Log’?</target>
+        <target>Bare for å bekrefte, ønsket du ‘Åpne spørringslogg’?</target>
         <note/>
       </trans-unit>
       <trans-unit id="2C0IPw-awUBTf" xml:space="preserve">
         <source>Just to confirm, you wanted ‘Open Home’?</source>
-        <target>Just to confirm, you wanted ‘Open Home’?</target>
+        <target>Bare for å bekrefte, ønsket du ‘Åpne Hjem’?</target>
         <note/>
       </trans-unit>
       <trans-unit id="2C0IPw-nqHRwh" xml:space="preserve">
         <source>Just to confirm, you wanted ‘Open Lists’?</source>
-        <target>Just to confirm, you wanted ‘Open Lists’?</target>
+        <target>Bare for å bekrefte, ønsket du ‘Åpne lister’?</target>
         <note/>
       </trans-unit>
       <trans-unit id="2C0IPw-wMJOmd" xml:space="preserve">
         <source>Just to confirm, you wanted ‘Disable all for 1 minute’?</source>
-        <target>Just to confirm, you wanted ‘Disable all for 1 minute’?</target>
+        <target>Bare for å bekrefte, ønsket du ‘Deaktiver alle i 1 minutt’?</target>
         <note/>
       </trans-unit>
       <trans-unit id="2M6piF" xml:space="preserve">
         <source>Instance</source>
-        <target>Instance</target>
+        <target>Instans</target>
         <note/>
       </trans-unit>
       <trans-unit id="3MlsVj" xml:space="preserve">
         <source>Show Instance Icon</source>
-        <target>Show Instance Icon</target>
+        <target>Vis instansikon</target>
         <note/>
       </trans-unit>
       <trans-unit id="3lbWkQ" xml:space="preserve">
         <source>Appearance</source>
-        <target>Appearance</target>
+        <target>Utseende</target>
         <note/>
       </trans-unit>
       <trans-unit id="3lvNnI" xml:space="preserve">
         <source>Show</source>
-        <target>Show</target>
+        <target>Vis</target>
         <note/>
       </trans-unit>
       <trans-unit id="5JYHmU" xml:space="preserve">
         <source>Instance</source>
-        <target>Instance</target>
+        <target>Instans</target>
         <note/>
       </trans-unit>
       <trans-unit id="6gOngz" xml:space="preserve">
         <source>What instance(s) to display?</source>
-        <target>What instance to display?</target>
+        <target>Hvilken instans skal vises?</target>
         <note/>
       </trans-unit>
       <trans-unit id="7HcZp4" xml:space="preserve">
         <source>What instance to display?</source>
-        <target>What instance to display?</target>
+        <target>Hvilken instans skal vises?</target>
         <note/>
       </trans-unit>
       <trans-unit id="7TCu1Q" xml:space="preserve">
         <source>Tap Action</source>
-        <target>Tap Action</target>
+        <target>Trykkhandling</target>
         <note/>
       </trans-unit>
       <trans-unit id="7gfPrG" xml:space="preserve">
         <source>Instance</source>
-        <target>Instance</target>
+        <target>Instans</target>
         <note/>
       </trans-unit>
       <trans-unit id="8Udkqh" xml:space="preserve">
         <source>All</source>
-        <target>All</target>
+        <target>Alle</target>
         <note/>
       </trans-unit>
       <trans-unit id="8w3JVZ" xml:space="preserve">
         <source>Instance</source>
-        <target>Instance</target>
+        <target>Instans</target>
         <note/>
       </trans-unit>
       <trans-unit id="9hXLZd" xml:space="preserve">
         <source>Instance</source>
-        <target>Instance</target>
+        <target>Instans</target>
         <note/>
       </trans-unit>
       <trans-unit id="22mMz8" xml:space="preserve">
         <source>What instance(s) to display?</source>
-        <target>What instance to display?</target>
+        <target>Hvilken instans skal vises?</target>
         <note/>
       </trans-unit>
       <trans-unit id="42Koi6" xml:space="preserve">
         <source>System (Pure Black)</source>
-        <target>System (Pure Black)</target>
+        <target>System (helsvart)</target>
         <note/>
       </trans-unit>
       <trans-unit id="61CebI-Ixk02y" xml:space="preserve">
         <source>There are ${count} options matching ‘Open Statistics’.</source>
-        <target>There are ${count} options matching ‘Open Statistics’.</target>
+        <target>Det finnes ${count} alternativer som samsvarer med ‘Åpne statistikk’.</target>
         <note/>
       </trans-unit>
       <trans-unit id="61CebI-ZwOZTZ" xml:space="preserve">
         <source>There are ${count} options matching ‘Open Query Log’.</source>
-        <target>There are ${count} options matching ‘Open Query Log’.</target>
+        <target>Det finnes ${count} alternativer som samsvarer med ‘Åpne spørringslogg’.</target>
         <note/>
       </trans-unit>
       <trans-unit id="61CebI-awUBTf" xml:space="preserve">
         <source>There are ${count} options matching ‘Open Home’.</source>
-        <target>There are ${count} options matching ‘Open Home’.</target>
+        <target>Det finnes ${count} alternativer som samsvarer med ‘Åpne Hjem’.</target>
         <note/>
       </trans-unit>
       <trans-unit id="61CebI-nqHRwh" xml:space="preserve">
         <source>There are ${count} options matching ‘Open Lists’.</source>
-        <target>There are ${count} options matching ‘Open Lists’.</target>
+        <target>Det finnes ${count} alternativer som samsvarer med ‘Åpne lister’.</target>
         <note/>
       </trans-unit>
       <trans-unit id="61CebI-wMJOmd" xml:space="preserve">
         <source>There are ${count} options matching ‘Disable all for 1 minute’.</source>
-        <target>There are ${count} options matching ‘Disable all for 1 minute’.</target>
+        <target>Det finnes ${count} alternativer som samsvarer med ‘Deaktiver alle i 1 minutt’.</target>
         <note/>
       </trans-unit>
       <trans-unit id="73u0ym" xml:space="preserve">
         <source>What instance to display?</source>
-        <target>What instance to display?</target>
+        <target>Hvilken instans skal vises?</target>
         <note/>
       </trans-unit>
       <trans-unit id="418dKA" xml:space="preserve">
         <source>Statistics + Graph Widget</source>
-        <target>Statistics + Graph Widget</target>
+        <target>Statistikk + graf-widget</target>
         <note/>
       </trans-unit>
       <trans-unit id="BILqn3" xml:space="preserve">
         <source>Percent Blocked</source>
-        <target>Percent Blocked</target>
+        <target>Prosent blokkert</target>
         <note/>
       </trans-unit>
       <trans-unit id="CkCBJU" xml:space="preserve">
         <source>Color</source>
-        <target>Color</target>
+        <target>Farge</target>
         <note/>
       </trans-unit>
       <trans-unit id="DIItEm" xml:space="preserve">
         <source>Allowed</source>
-        <target>Allowed</target>
+        <target>Tillatt</target>
         <note/>
       </trans-unit>
       <trans-unit id="DJJsur" xml:space="preserve">
         <source>Widget Disable Duration</source>
-        <target>Widget Disable Duration</target>
+        <target>Varighet for å deaktivere widget</target>
         <note/>
       </trans-unit>
       <trans-unit id="DvY8Eg" xml:space="preserve">
         <source>Green</source>
-        <target>Green</target>
+        <target>Grønn</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ey6npg" xml:space="preserve">
         <source>Light</source>
-        <target>Light</target>
+        <target>Lys</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hb868n" xml:space="preserve">
         <source>Orange</source>
-        <target>Orange</target>
+        <target>Oransje</target>
         <note/>
       </trans-unit>
       <trans-unit id="IbhH23" xml:space="preserve">
         <source>Hide</source>
-        <target>Hide</target>
+        <target>Skjul</target>
         <note/>
       </trans-unit>
       <trans-unit id="IgP3Na" xml:space="preserve">
         <source>1 hour</source>
-        <target>1 hour</target>
+        <target>1 time</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ixk02y" xml:space="preserve">
         <source>Open Statistics</source>
-        <target>Open Statistics</target>
+        <target>Åpne statistikk</target>
         <note/>
       </trans-unit>
       <trans-unit id="JTTM7K" xml:space="preserve">
         <source>Status Indicator</source>
-        <target>Status Indicator</target>
+        <target>Statusindikator</target>
         <note/>
       </trans-unit>
       <trans-unit id="KL0j9K" xml:space="preserve">
         <source>Show</source>
-        <target>Show</target>
+        <target>Vis</target>
         <note/>
       </trans-unit>
       <trans-unit id="LeRij8" xml:space="preserve">
         <source>What instance(s) to display?</source>
-        <target>What instance to display?</target>
+        <target>Hvilken instans skal vises?</target>
         <note/>
       </trans-unit>
       <trans-unit id="LldBql" xml:space="preserve">
         <source>WidgetQueries</source>
-        <target>WidgetQueries</target>
+        <target>Widgetspørringer</target>
         <note/>
       </trans-unit>
       <trans-unit id="M8X4RQ" xml:space="preserve">
         <source>Hide</source>
-        <target>Hide</target>
+        <target>Skjul</target>
         <note/>
       </trans-unit>
       <trans-unit id="MEUL84" xml:space="preserve">
         <source>Show Instance Icon</source>
-        <target>Show Instance Icon</target>
+        <target>Vis instansikon</target>
         <note/>
       </trans-unit>
       <trans-unit id="NCodr5" xml:space="preserve">
         <source>Stats And Chart Widget</source>
-        <target>Stats And Chart Widget</target>
+        <target>Statistikk- og diagram-widget</target>
         <note/>
       </trans-unit>
       <trans-unit id="NYeFKn" xml:space="preserve">
         <source>Blocklist</source>
-        <target>Blocklist</target>
+        <target>Blokkliste</target>
         <note/>
       </trans-unit>
       <trans-unit id="OYA8gF" xml:space="preserve">
         <source>Widget Tap Action</source>
-        <target>Widget Tap Action</target>
+        <target>Widget-trykkhandling</target>
         <note/>
       </trans-unit>
       <trans-unit id="OsIXJN" xml:space="preserve">
         <source>Blue</source>
-        <target>Blue</target>
+        <target>Blå</target>
         <note/>
       </trans-unit>
       <trans-unit id="QfsqZh" xml:space="preserve">
         <source>Stats Text Widget</source>
-        <target>Stats Text Widget</target>
+        <target>Statistikk-tekst-widget</target>
         <note/>
       </trans-unit>
       <trans-unit id="RLFPVX" xml:space="preserve">
         <source>Disable Widget</source>
-        <target>Disable Widget</target>
+        <target>Deaktiver widget</target>
         <note/>
       </trans-unit>
       <trans-unit id="RQYOvn" xml:space="preserve">
         <source>Status Indicator</source>
-        <target>Status Indicator</target>
+        <target>Statusindikator</target>
         <note/>
       </trans-unit>
       <trans-unit id="SIOS6E" xml:space="preserve">
         <source>Unknown</source>
-        <target>Unknown</target>
+        <target>Ukjent</target>
         <note/>
       </trans-unit>
       <trans-unit id="T9gWpc-BILqn3" xml:space="preserve">
         <source>There are ${count} options matching ‘Percent Blocked’.</source>
-        <target>There are ${count} options matching ‘Percent Blocked’.</target>
+        <target>Det finnes ${count} alternativer som samsvarer med ‘Prosent blokkert’.</target>
         <note/>
       </trans-unit>
       <trans-unit id="T9gWpc-NYeFKn" xml:space="preserve">
         <source>There are ${count} options matching ‘Blocklist’.</source>
-        <target>There are ${count} options matching ‘Blocklist’.</target>
+        <target>Det finnes ${count} alternativer som samsvarer med ‘Blokkliste’.</target>
         <note/>
       </trans-unit>
       <trans-unit id="T9gWpc-XmVw2S" xml:space="preserve">
         <source>There are ${count} options matching ‘Total Queries’.</source>
-        <target>There are ${count} options matching ‘Total Queries’.</target>
+        <target>Det finnes ${count} alternativer som samsvarer med ‘Totale spørringer’.</target>
         <note/>
       </trans-unit>
       <trans-unit id="T9gWpc-YFrrAR" xml:space="preserve">
         <source>There are ${count} options matching ‘Queries Blocked’.</source>
-        <target>There are ${count} options matching ‘Queries Blocked’.</target>
+        <target>Det finnes ${count} alternativer som samsvarer med ‘Blokkerte spørringer’.</target>
         <note/>
       </trans-unit>
       <trans-unit id="T9gWpc-n8Foos" xml:space="preserve">
         <source>There are ${count} options matching ‘Clients’.</source>
-        <target>There are ${count} options matching ‘Clients’.</target>
+        <target>Det finnes ${count} alternativer som samsvarer med ‘Klienter’.</target>
         <note/>
       </trans-unit>
       <trans-unit id="T9gWpc-nIDolD" xml:space="preserve">
         <source>There are ${count} options matching ‘Unknown’.</source>
-        <target>There are ${count} options matching ‘Unknown’.</target>
+        <target>Det finnes ${count} alternativer som samsvarer med ‘Ukjent’.</target>
         <note/>
       </trans-unit>
       <trans-unit id="VEO3IS" xml:space="preserve">
@@ -1209,197 +1209,197 @@
       </trans-unit>
       <trans-unit id="VLERQ1" xml:space="preserve">
         <source>15 minutes</source>
-        <target>15 minutes</target>
+        <target>15 minutter</target>
         <note/>
       </trans-unit>
       <trans-unit id="WMGmup" xml:space="preserve">
         <source>Status Indicator</source>
-        <target>Status Indicator</target>
+        <target>Statusindikator</target>
         <note/>
       </trans-unit>
       <trans-unit id="XmVw2S" xml:space="preserve">
         <source>Total Queries</source>
-        <target>Total Queries</target>
+        <target>Totale spørringer</target>
         <note/>
       </trans-unit>
       <trans-unit id="XwHq84" xml:space="preserve">
         <source>24 hours</source>
-        <target>24 hours</target>
+        <target>24 timer</target>
         <note/>
       </trans-unit>
       <trans-unit id="YFrrAR" xml:space="preserve">
         <source>Queries Blocked</source>
-        <target>Queries Blocked</target>
+        <target>Blokkerte spørringer</target>
         <note/>
       </trans-unit>
       <trans-unit id="YT1Pew" xml:space="preserve">
         <source>8 hours</source>
-        <target>8 hours</target>
+        <target>8 timer</target>
         <note/>
       </trans-unit>
       <trans-unit id="YW3QEp" xml:space="preserve">
         <source>Dark (Pure Black)</source>
-        <target>Dark (Pure Black)</target>
+        <target>Mørk (helsvart)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Yx18vE" xml:space="preserve">
         <source>Statistic</source>
-        <target>Statistic</target>
+        <target>Statistikk</target>
         <note/>
       </trans-unit>
       <trans-unit id="ZwOZTZ" xml:space="preserve">
         <source>Open Query Log</source>
-        <target>Open Query Log</target>
+        <target>Åpne spørringslogg</target>
         <note/>
       </trans-unit>
       <trans-unit id="a81Lx9" xml:space="preserve">
         <source>Statistics Disable Widget</source>
-        <target>Statistics Disable Widget</target>
+        <target>Statistikk: deaktiver widget</target>
         <note/>
       </trans-unit>
       <trans-unit id="awUBTf" xml:space="preserve">
         <source>Open Home</source>
-        <target>Open Home</target>
+        <target>Åpne Hjem</target>
         <note/>
       </trans-unit>
       <trans-unit id="dn8NzF" xml:space="preserve">
         <source>Instance</source>
-        <target>Instance</target>
+        <target>Instans</target>
         <note/>
       </trans-unit>
       <trans-unit id="eHf5lH" xml:space="preserve">
         <source>Dark</source>
-        <target>Dark</target>
+        <target>Mørk</target>
         <note/>
       </trans-unit>
       <trans-unit id="fjMa4e" xml:space="preserve">
         <source>Query Graph Widget</source>
-        <target>Query Graph Widget</target>
+        <target>Spørringsgraf-widget</target>
         <note/>
       </trans-unit>
       <trans-unit id="fmQi7V" xml:space="preserve">
         <source>Disable Widget</source>
-        <target>Disable Widget</target>
+        <target>Deaktiver widget</target>
         <note/>
       </trans-unit>
       <trans-unit id="fohyUc" xml:space="preserve">
         <source>Statistics Disable Widget</source>
-        <target>Statistics Disable Widget</target>
+        <target>Statistikk: deaktiver widget</target>
         <note/>
       </trans-unit>
       <trans-unit id="gpCwrM" xml:space="preserve">
         <source>Stat Widget</source>
-        <target>Stat Widget</target>
+        <target>Stat-widget</target>
         <note/>
       </trans-unit>
       <trans-unit id="j5tl6I" xml:space="preserve">
         <source>Blocked</source>
-        <target>Blocked</target>
+        <target>Blokkert</target>
         <note/>
       </trans-unit>
       <trans-unit id="jiDiIB" xml:space="preserve">
         <source>What instance to display?</source>
-        <target>What instance to display?</target>
+        <target>Hvilken instans skal vises?</target>
         <note/>
       </trans-unit>
       <trans-unit id="jwB6hP" xml:space="preserve">
         <source>Overtime Widget</source>
-        <target>Overtime Widget</target>
+        <target>Over tid-widget</target>
         <note/>
       </trans-unit>
       <trans-unit id="lug6ns" xml:space="preserve">
         <source>Statistics Widget</source>
-        <target>Statistics Widget</target>
+        <target>Statistikk-widget</target>
         <note/>
       </trans-unit>
       <trans-unit id="m60OS4" xml:space="preserve">
         <source>Red</source>
-        <target>Red</target>
+        <target>Rød</target>
         <note/>
       </trans-unit>
       <trans-unit id="n8Foos" xml:space="preserve">
         <source>Clients</source>
-        <target>Clients</target>
+        <target>Klienter</target>
         <note/>
       </trans-unit>
       <trans-unit id="nBNqPC" xml:space="preserve">
         <source>Statistic</source>
-        <target>Statistic</target>
+        <target>Statistikk</target>
         <note/>
       </trans-unit>
       <trans-unit id="nIDolD" xml:space="preserve">
         <source>Unknown</source>
-        <target>Unknown</target>
+        <target>Ukjent</target>
         <note/>
       </trans-unit>
       <trans-unit id="nqHRwh" xml:space="preserve">
         <source>Open Lists</source>
-        <target>Open Lists</target>
+        <target>Åpne lister</target>
         <note/>
       </trans-unit>
       <trans-unit id="tVvJ9c" xml:space="preserve">
         <source>Single Statistic Widget</source>
-        <target>Single Statistic Widget</target>
+        <target>Enkeltstatistikk-widget</target>
         <note/>
       </trans-unit>
       <trans-unit id="uqnZUq" xml:space="preserve">
         <source>30 minutes</source>
-        <target>30 minutes</target>
+        <target>30 minutter</target>
         <note/>
       </trans-unit>
       <trans-unit id="wMJOmd" xml:space="preserve">
         <source>Disable all for 1 minute</source>
-        <target>Disable all for 1 minute</target>
+        <target>Deaktiver alle i 1 minutt</target>
         <note/>
       </trans-unit>
       <trans-unit id="xDxdFy" xml:space="preserve">
         <source>5 minutes</source>
-        <target>5 minutes</target>
+        <target>5 minutter</target>
         <note/>
       </trans-unit>
       <trans-unit id="xLSa62" xml:space="preserve">
         <source>1 minute</source>
-        <target>1 minute</target>
+        <target>1 minutt</target>
         <note/>
       </trans-unit>
       <trans-unit id="y9py1R-BILqn3" xml:space="preserve">
         <source>Just to confirm, you wanted ‘Percent Blocked’?</source>
-        <target>Just to confirm, you wanted ‘Percent Blocked’?</target>
+        <target>Bare for å bekrefte, ønsket du ‘Prosent blokkert’?</target>
         <note/>
       </trans-unit>
       <trans-unit id="y9py1R-NYeFKn" xml:space="preserve">
         <source>Just to confirm, you wanted ‘Blocklist’?</source>
-        <target>Just to confirm, you wanted ‘Blocklist’?</target>
+        <target>Bare for å bekrefte, ønsket du ‘Blokkliste’?</target>
         <note/>
       </trans-unit>
       <trans-unit id="y9py1R-XmVw2S" xml:space="preserve">
         <source>Just to confirm, you wanted ‘Total Queries’?</source>
-        <target>Just to confirm, you wanted ‘Total Queries’?</target>
+        <target>Bare for å bekrefte, ønsket du ‘Totale spørringer’?</target>
         <note/>
       </trans-unit>
       <trans-unit id="y9py1R-YFrrAR" xml:space="preserve">
         <source>Just to confirm, you wanted ‘Queries Blocked’?</source>
-        <target>Just to confirm, you wanted ‘Queries Blocked’?</target>
+        <target>Bare for å bekrefte, ønsket du ‘Blokkerte spørringer’?</target>
         <note/>
       </trans-unit>
       <trans-unit id="y9py1R-n8Foos" xml:space="preserve">
         <source>Just to confirm, you wanted ‘Clients’?</source>
-        <target>Just to confirm, you wanted ‘Clients’?</target>
+        <target>Bare for å bekrefte, ønsket du ‘Klienter’?</target>
         <note/>
       </trans-unit>
       <trans-unit id="y9py1R-nIDolD" xml:space="preserve">
         <source>Just to confirm, you wanted ‘Unknown’?</source>
-        <target>Just to confirm, you wanted ‘Unknown’?</target>
+        <target>Bare for å bekrefte, ønsket du ‘Ukjent’?</target>
         <note/>
       </trans-unit>
       <trans-unit id="zQ6Jw8" xml:space="preserve">
         <source>30 seconds</source>
-        <target>30 seconds</target>
+        <target>30 sekunder</target>
         <note/>
       </trans-unit>
       <trans-unit id="zeqXsg" xml:space="preserve">
         <source>Instance</source>
-        <target>Instance</target>
+        <target>Instans</target>
         <note/>
       </trans-unit>
     </body>
@@ -1475,17 +1475,17 @@
       </trans-unit>
       <trans-unit id=" avg" xml:space="preserve">
         <source> avg</source>
-        <target state="new"> avg</target>
+        <target state="new"> snitt</target>
         <note>Small 'average' label shown on the Home-tab when 'Combine' is enabled. The space at the start is intentional.</note>
       </trans-unit>
       <trans-unit id="# queries" xml:space="preserve">
         <source># queries</source>
-        <target state="new"># queries</target>
+        <target state="new"># spørringer</target>
         <note>Option for the blocking-card, used on the Preferences &gt; Home screen.</note>
       </trans-unit>
       <trans-unit id="% blocked" xml:space="preserve">
         <source>% blocked</source>
-        <target state="new">% blocked</target>
+        <target state="new">% blokkert</target>
         <note>Option for the blocking-card, used on the Preferences &gt; Home screen.</note>
       </trans-unit>
       <trans-unit id="%@ %@" translate="no" xml:space="preserve">
@@ -1495,22 +1495,22 @@
       </trans-unit>
       <trans-unit id="%@ OFF" xml:space="preserve">
         <source>%@ OFF</source>
-        <target state="new">%@ OFF</target>
+        <target state="new">%@ AV</target>
         <note>Used on the PHR+ purchase screen to show a discount percentage, intentionally uppercased.</note>
       </trans-unit>
       <trans-unit id="%@ active" xml:space="preserve">
         <source>%@ active</source>
-        <target state="new">%@ active</target>
+        <target state="new">%@ aktive</target>
         <note>Apple Watch, displays active clients.</note>
       </trans-unit>
       <trans-unit id="%@ active / %@ total" xml:space="preserve">
         <source>%1$@ active / %2$@ total</source>
-        <target state="new">%1$@ active / %2$@ total</target>
+        <target state="new">%1$@ aktive / %2$@ totalt</target>
         <note>Displays number of active and total clients when you tap the clients number on Home when 'Combine' is enabled.</note>
       </trans-unit>
       <trans-unit id="%@ entries" xml:space="preserve">
         <source>%@ entries</source>
-        <target state="new">%@ entries</target>
+        <target state="new">%@ oppføringer</target>
         <note>Displays the number of network devices on the network device overview.</note>
       </trans-unit>
       <trans-unit id="%@ ms" xml:space="preserve">
@@ -1520,22 +1520,22 @@
       </trans-unit>
       <trans-unit id="%@ queries per minute" xml:space="preserve">
         <source>%@ queries per minute</source>
-        <target state="new">%@ queries per minute</target>
+        <target state="new">%@ spørringer per minutt</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ total" xml:space="preserve">
         <source>%@ total</source>
-        <target state="new">%@ total</target>
+        <target state="new">%@ totalt</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@, %lld regex entries" xml:space="preserve">
         <source>%1$@, %2$lld regex entries</source>
-        <target state="new">%1$@, %2$lld regex entries</target>
+        <target state="new">%1$@, %2$lld regex-oppføringer</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@q/min" xml:space="preserve">
         <source>%@q/min</source>
-        <target state="new">%@q/min</target>
+        <target state="new">%@ spørr/min</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld regex entries|==|plural.one" xml:space="preserve">
@@ -1580,7 +1580,7 @@
       </trans-unit>
       <trans-unit id="1h" xml:space="preserve">
         <source>1h</source>
-        <target state="new">1h</target>
+        <target state="new">1t</target>
         <note>Placeholder for the DHCP lease time textfield on the DHCP settings screen.</note>
       </trans-unit>
       <trans-unit id="2 decimals" xml:space="preserve">
@@ -1635,42 +1635,42 @@
       </trans-unit>
       <trans-unit id="@PiHoleRemote on X" xml:space="preserve">
         <source>@PiHoleRemote on X</source>
-        <target state="new">@PiHoleRemote on X</target>
+        <target state="new">@PiHoleRemote på X</target>
         <note>Displayed on the support screen.</note>
       </trans-unit>
       <trans-unit id="A **one time** purchase" xml:space="preserve">
         <source>A **one time** purchase</source>
-        <target state="new">A **one time** purchase</target>
+        <target state="new">Et **engangskjøp**</target>
         <note/>
       </trans-unit>
       <trans-unit id="A monthly recurring payment" xml:space="preserve">
         <source>A monthly recurring payment</source>
-        <target state="new">A monthly recurring payment</target>
+        <target state="new">En månedlig tilbakevendende betaling</target>
         <note/>
       </trans-unit>
       <trans-unit id="A yearly recurring payment" xml:space="preserve">
         <source>A yearly recurring payment</source>
-        <target state="new">A yearly recurring payment</target>
+        <target state="new">En årlig tilbakevendende betaling</target>
         <note/>
       </trans-unit>
       <trans-unit id="ACTIVE" xml:space="preserve">
         <source>ACTIVE</source>
-        <target state="new">ACTIVE</target>
+        <target state="new">AKTIV</target>
         <note/>
       </trans-unit>
       <trans-unit id="AI services" xml:space="preserve">
         <source>AI services</source>
-        <target state="new">AI services</target>
+        <target state="new">AI-tjenester</target>
         <note/>
       </trans-unit>
       <trans-unit id="API path" xml:space="preserve">
         <source>API path</source>
-        <target state="new">API path</target>
+        <target state="new">API-bane</target>
         <note/>
       </trans-unit>
       <trans-unit id="Acknowledgements" xml:space="preserve">
         <source>Acknowledgements</source>
-        <target state="new">Acknowledgements</target>
+        <target state="new">Takk til</target>
         <note/>
       </trans-unit>
       <trans-unit id="Action" xml:space="preserve">
@@ -2285,7 +2285,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Cache" xml:space="preserve">
         <source>Cache</source>
-        <target state="new">Cache</target>
+        <target state="new">Hurtigbuffer</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cache (optimizer)" xml:space="preserve">
@@ -2769,7 +2769,7 @@ Merk at klientgjenkjenning via IP-adresser (inkl. subnett-områder) foretrekkes 
       </trans-unit>
       <trans-unit id="Design" xml:space="preserve">
         <source>Design</source>
-        <target state="new">Design</target>
+        <target state="new">Utforming</target>
         <note/>
       </trans-unit>
       <trans-unit id="Destination" xml:space="preserve">
@@ -3453,7 +3453,7 @@ Merk: Når denne funksjonen er aktivert må du konfigurere nye klienter manuelt 
       </trans-unit>
       <trans-unit id="Info" xml:space="preserve">
         <source>Info</source>
-        <target state="new">Info</target>
+        <target state="new">Informasjon</target>
         <note/>
       </trans-unit>
       <trans-unit id="Instance" xml:space="preserve">
@@ -3743,7 +3743,7 @@ Merk: Når denne funksjonen er aktivert må du konfigurere nye klienter manuelt 
       </trans-unit>
       <trans-unit id="Multi DNS" xml:space="preserve">
         <source>Multi DNS</source>
-        <target state="new">Multi DNS</target>
+        <target state="new">Flere DNS</target>
         <note/>
       </trans-unit>
       <trans-unit id="Multiple" xml:space="preserve">
@@ -4547,7 +4547,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Shopping" xml:space="preserve">
         <source>Shopping</source>
-        <target state="new">Shopping</target>
+        <target state="new">Handel</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show" xml:space="preserve">
@@ -5582,7 +5582,7 @@ Standardplasseringen for sertifikatet ditt er på enheten: /etc/pihole/tls.pem. 
       </trans-unit>
       <trans-unit id="fast address assignment" xml:space="preserve">
         <source>fast address assignment</source>
-        <target state="new">fast address assignment</target>
+        <target state="new">rask adresseutdeling</target>
         <note/>
       </trans-unit>
       <trans-unit id="home_disable" xml:space="preserve">
@@ -5985,27 +5985,27 @@ Joost</target>
     <body>
       <trans-unit id="Info" xml:space="preserve">
         <source>Info</source>
-        <target>Info</target>
+        <target>Informasjon</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Instances" xml:space="preserve">
         <source>Instances</source>
-        <target>Instances</target>
+        <target>Instanser</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Only visible if 'Combine instances' is turned off." xml:space="preserve">
         <source>Only visible if 'Combine instances' is turned off.</source>
-        <target>Only visible if 'Combine instances' is turned off.</target>
+        <target>Kun synlig hvis 'Slå sammen instanser' er slått av.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Statistics" xml:space="preserve">
         <source>Statistics</source>
-        <target>Statistics</target>
+        <target>Statistikk</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Version" xml:space="preserve">
         <source>Version</source>
-        <target>Version</target>
+        <target>Versjon</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
