@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="Base.lproj/Intents.intentdefinition" source-language="en" target-language="en" datatype="plaintext">
+  <file original="Base.lproj/Intents.intentdefinition" source-language="en" target-language="nb" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
@@ -92,7 +92,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="en.lproj/Pi-hole Remote Widgets copy-InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+  <file original="en.lproj/Pi-hole Remote Widgets copy-InfoPlist.strings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
@@ -109,7 +109,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Pi-hole Remote Share Extension/InfoPlist.xcstrings" source-language="en" target-language="en" datatype="plaintext">
+  <file original="Pi-hole Remote Share Extension/InfoPlist.xcstrings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
@@ -131,7 +131,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Pi-hole Remote tvOS App/Localizable.xcstrings" source-language="en" target-language="en" datatype="plaintext">
+  <file original="Pi-hole Remote tvOS App/Localizable.xcstrings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
@@ -883,7 +883,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Pi-hole Remote tvOS App/Pi-hole-Remote-tvOS-App-InfoPlist.xcstrings" source-language="en" target-language="en" datatype="plaintext">
+  <file original="Pi-hole Remote tvOS App/Pi-hole-Remote-tvOS-App-InfoPlist.xcstrings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
@@ -900,7 +900,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Pi-hole Remote Watch App/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+  <file original="Pi-hole Remote Watch App/en.lproj/InfoPlist.strings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
@@ -917,7 +917,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Pi-hole Remote Widgets/Base.lproj/StatWidget.intentdefinition" source-language="en" target-language="en" datatype="plaintext">
+  <file original="Pi-hole Remote Widgets/Base.lproj/StatWidget.intentdefinition" source-language="en" target-language="nb" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
@@ -1404,7 +1404,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Pi-hole Remote Widgets/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+  <file original="Pi-hole Remote Widgets/en.lproj/InfoPlist.strings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
@@ -1421,7 +1421,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Pi-hole Remote/Localization/InfoPlist.xcstrings" source-language="en" target-language="en" datatype="plaintext">
+  <file original="Pi-hole Remote/Localization/InfoPlist.xcstrings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
@@ -1463,7 +1463,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Pi-hole Remote/Localization/Localizable.xcstrings" source-language="en" target-language="en" datatype="plaintext">
+  <file original="Pi-hole Remote/Localization/Localizable.xcstrings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
@@ -5927,7 +5927,7 @@ Joost</target>
       </trans-unit>
     </body>
   </file>
-  <file original="WidgetInstance/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+  <file original="WidgetInstance/en.lproj/InfoPlist.strings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
@@ -5944,7 +5944,7 @@ Joost</target>
       </trans-unit>
     </body>
   </file>
-  <file original="WidgetInstance/en.lproj/Localizable.strings" source-language="en" target-language="en" datatype="plaintext">
+  <file original="WidgetInstance/en.lproj/Localizable.strings" source-language="en" target-language="nb" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
