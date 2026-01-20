@@ -1,0 +1,3466 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+      "shouldTranslate" : false
+    },
+    " avg" : {
+      "comment" : "Small 'average' label shown on the Home-tab when 'Combine' is enabled. The space at the start is intentional."
+    },
+    "'Add 5 min' feature" : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "(Disabled)" : {
+      "comment" : "Displayed next to an adlist when it's disabled."
+    },
+    "@PiHoleRemote on X" : {
+      "comment" : "Displayed on the support screen."
+    },
+    "# queries" : {
+      "comment" : "Option for the blocking-card, used on the Preferences > Home screen."
+    },
+    "% blocked" : {
+      "comment" : "Option for the blocking-card, used on the Preferences > Home screen."
+    },
+    "%@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ %2$@"
+          }
+        }
+      },
+      "shouldTranslate" : false
+    },
+    "%@ active" : {
+      "comment" : "Apple Watch, displays active clients."
+    },
+    "%@ active / %@ total" : {
+      "comment" : "Displays number of active and total clients when you tap the clients number on Home when 'Combine' is enabled.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ active / %2$@ total"
+          }
+        }
+      }
+    },
+    "%@ entries" : {
+      "comment" : "Displays the number of network devices on the network device overview."
+    },
+    "%@ ms" : {
+      "comment" : "Displays for example '12.34' ms on a query log or live log row."
+    },
+    "%@ OFF" : {
+      "comment" : "Used on the PHR+ purchase screen to show a discount percentage, intentionally uppercased."
+    },
+    "%@ queries per minute" : {
+
+    },
+    "%@ total" : {
+
+    },
+    "%@, %lld regex entries" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@, %2$lld regex entries"
+          }
+        }
+      }
+    },
+    "%@q/min" : {
+
+    },
+    "%lld regex entries" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld regex entry"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "%lld regex entries"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld total" : {
+      "comment" : "Displays the number of total clients in the Home-tab 'Clients' card."
+    },
+    "• Client & Group Management\n• Change DHCP & DNS Settings\n• Custom Blocked Services\n• Interactive Widgets\n• Multiple Instances\n• And much more!" : {
+      "comment" : "Displayed in the onboarding."
+    },
+    "`/api` by default" : {
+
+    },
+    "0 decimals" : {
+      "comment" : "Displays in the metrics decimals picker."
+    },
+    "1 decimal" : {
+      "comment" : "Displays in the metrics decimals picker."
+    },
+    "1. Open the Pi-hole web interface" : {
+      "comment" : "Used on Preferences > Home to explain how to change the temperature unit."
+    },
+    "1h" : {
+      "comment" : "Placeholder for the DHCP lease time textfield on the DHCP settings screen."
+    },
+    "2 decimals" : {
+      "comment" : "Displays in the metrics decimals picker."
+    },
+    "2. In the sidebar, go to **Settings > System**" : {
+      "comment" : "Used on Preferences > Home to explain how to change the temperature unit."
+    },
+    "3. In the top-right corner, turn on **Expert**" : {
+      "comment" : "Used on Preferences > Home to explain how to change the temperature unit."
+    },
+    "4. Then, go to **Settings > All settings** in the sidebar." : {
+      "comment" : "Used on Preferences > Home to explain how to change the temperature unit."
+    },
+    "5. Select **Webserver and API**, and scroll to the very bottom of the page" : {
+      "comment" : "Used on Preferences > Home to explain how to change the temperature unit."
+    },
+    "6. Under the card labeled `webserver.api.temp.unit`, choose your preferred temperature unit" : {
+      "comment" : "Used on Preferences > Home to explain how to change the temperature unit."
+    },
+    "60" : {
+      "comment" : "Placeholder for the dnsRateLimitInterval textfield on the DNS settings screen.",
+      "shouldTranslate" : false
+    },
+    "80" : {
+      "shouldTranslate" : false
+    },
+    "443" : {
+      "shouldTranslate" : false
+    },
+    "1000" : {
+      "comment" : "Placeholder for the dnsRateLimitCount textfield on the DNS settings screen.",
+      "shouldTranslate" : false
+    },
+    "A **one time** purchase" : {
+
+    },
+    "A monthly recurring payment" : {
+
+    },
+    "A yearly recurring payment" : {
+
+    },
+    "Acknowledgements" : {
+
+    },
+    "Action" : {
+
+    },
+    "Actions" : {
+      "comment" : "Displayed on the support screen."
+    },
+    "ACTIVE" : {
+
+    },
+    "Active Clients" : {
+
+    },
+    "Active clients: %@" : {
+
+    },
+    "Active clients: %@ out of %@ total" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Active clients: %1$@ out of %2$@ total"
+          }
+        }
+      }
+    },
+    "Active DHCP Leases" : {
+
+    },
+    "Add" : {
+      "comment" : "Used in the Settings-tab in the 'instances' section header."
+    },
+    "Add '%@'" : {
+      "comment" : "Used on the 'Add new disable preset' screen, e.g. 'Add 30 seconds'"
+    },
+    "Add 5 minutes" : {
+
+    },
+    "Add a comment..." : {
+
+    },
+    "Add all as wildcard" : {
+
+    },
+    "Add another" : {
+
+    },
+    "Add another group" : {
+
+    },
+    "Add as wildcard" : {
+
+    },
+    "Add custom header" : {
+
+    },
+    "Add Custom Services" : {
+
+    },
+    "Add Instance" : {
+
+    },
+    "Add new adlist" : {
+
+    },
+    "Add new adlist or domain" : {
+
+    },
+    "Add new client" : {
+
+    },
+    "Add new domain" : {
+
+    },
+    "Add new group" : {
+
+    },
+    "Add new group or client" : {
+
+    },
+    "Add new preset" : {
+      "comment" : "Used on the 'Add new disable preset' screen"
+    },
+    "Add to allow-list..." : {
+
+    },
+    "Add to allowlist..." : {
+
+    },
+    "Add to deny-list..." : {
+
+    },
+    "Add to denylist..." : {
+
+    },
+    "Add to list" : {
+
+    },
+    "Add TTL" : {
+
+    },
+    "Add your Pi-hole instances to control them and view statistics." : {
+
+    },
+    "Added on" : {
+
+    },
+    "Added to all new groups." : {
+
+    },
+    "Adding Custom Blocked Services requires PHR+" : {
+
+    },
+    "Adding new presets requires PHR+." : {
+      "comment" : "Used on the 'Add new disable preset' screen"
+    },
+    "Adding/removing local CNAME records will restart the DNS server." : {
+
+    },
+    "Adding/removing local DNS records will flush the cache but does not require a restart of the DNS server." : {
+
+    },
+    "Additional IPv6 support" : {
+
+    },
+    "Adds 5 minutes to a disabled-timer." : {
+
+    },
+    "AdGuard Home Remote" : {
+      "shouldTranslate" : false
+    },
+    "Adlist" : {
+
+    },
+    "Adlists" : {
+      "comment" : "Option for the blocklist-card, used on the Preferences > Home screen."
+    },
+    "Advanced" : {
+
+    },
+    "Advanced Settings" : {
+
+    },
+    "Advertise DNS server multiple times" : {
+
+    },
+    "Advertise DNS server multiple times to clients. Some devices will add their own proprietary DNS servers to the list of DNS servers, which can cause issues with Pi-hole. This option will advertise the Pi-hole DNS server multiple times to clients, which should prevent this from happening." : {
+
+    },
+    "AI services" : {
+
+    },
+    "All" : {
+
+    },
+    "All entries" : {
+
+    },
+    "All instances" : {
+
+    },
+    "All Instances" : {
+
+    },
+    "All options allow Family Sharing" : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "All reverse lookups for private IP ranges (i.e., 192.168.0.x/24, etc.) which are not found in /etc/hosts or the DHCP leases are answered with \"no such domain\" rather than being forwarded upstream. The set of prefixes affected is the list given in RFC6303." : {
+
+    },
+    "Allow" : {
+
+    },
+    "Allow only local requests" : {
+
+    },
+    "Allow-list" : {
+
+    },
+    "Allowed" : {
+
+    },
+    "Allowlist" : {
+
+    },
+    "Allows only queries from devices that are at most one hop away (local devices)" : {
+
+    },
+    "Alphabetically" : {
+
+    },
+    "Alphabetically (Comments)" : {
+
+    },
+    "Already in sync." : {
+
+    },
+    "Always Dark" : {
+
+    },
+    "API path" : {
+
+    },
+    "App Icon" : {
+      "comment" : "Displayed on the App Icon Settings screen."
+    },
+    "App Tint" : {
+
+    },
+    "appintent_disableblocking_description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disable Pi-hole blocking on one or all of your instances for a specific duration."
+          }
+        }
+      }
+    },
+    "appintent_disableblocking_summary_${instance}" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disable Pi-hole blocking for ${instance}"
+          }
+        }
+      }
+    },
+    "appintent_duration_description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Specifies the duration to disable for, in minutes. Set to '0' to disable indefinitely."
+          }
+        }
+      }
+    },
+    "appintent_enableblocking_description" : {
+      "comment" : "MARK: - App Intents",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable Pi-hole blocking on one or all of your instances."
+          }
+        }
+      }
+    },
+    "appintent_enableblocking_summary_${instance}" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable Pi-hole blocking for ${instance}"
+          }
+        }
+      }
+    },
+    "appintent_instance_description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Specifies which instance(s) to use."
+          }
+        }
+      }
+    },
+    "appintents_state" : {
+      "shouldTranslate" : false
+    },
+    "Application Password" : {
+
+    },
+    "Are you sure you want to delete the adlist\n%@?" : {
+
+    },
+    "Are you sure you want to delete the client '%@'?" : {
+
+    },
+    "Are you sure you want to delete the domain\n%@?" : {
+
+    },
+    "Are you sure you want to delete the group '%@'?" : {
+
+    },
+    "Are you sure you want to discard these changes?" : {
+
+    },
+    "Are you sure you want to remove %@?" : {
+
+    },
+    "Are you sure you want to remove this instance?" : {
+
+    },
+    "Are you sure?" : {
+
+    },
+    "Assigned to %lld groups" : {
+      "comment" : "Accessibility label."
+    },
+    "Assigning to the default group of all instances." : {
+
+    },
+    "Associated IP" : {
+
+    },
+    "Authentication" : {
+
+    },
+    "Auto-refresh" : {
+
+    },
+    "automatic" : {
+
+    },
+    "Automatically generated" : {
+
+    },
+    "BETA" : {
+
+    },
+    "Bind only to interface" : {
+
+    },
+    "Block All" : {
+
+    },
+    "Block clients making more than %@ requests within %@ seconds. " : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Block clients making more than %1$@ requests within %2$@ seconds. "
+          }
+        }
+      }
+    },
+    "Blocked" : {
+
+    },
+    "Blocked | Deny-list Exact" : {
+
+    },
+    "Blocked | Deny-list Exact (CNAME)" : {
+
+    },
+    "Blocked | Denylist Exact" : {
+
+    },
+    "Blocked | Denylist Exact (CNAME)" : {
+
+    },
+    "Blocked | External IP" : {
+
+    },
+    "Blocked | External NULL" : {
+
+    },
+    "Blocked | External NXRA" : {
+
+    },
+    "Blocked | Gravity" : {
+
+    },
+    "Blocked | Gravity (CNAME)" : {
+
+    },
+    "Blocked | Regex" : {
+
+    },
+    "Blocked | Regex (CNAME)" : {
+
+    },
+    "Blocked Services" : {
+
+    },
+    "blocked_services_block_service" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Block service"
+          }
+        }
+      }
+    },
+    "blocked_services_favorites" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favorites"
+          }
+        }
+      }
+    },
+    "blocked_services_favorites_add" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add to favorites"
+          }
+        }
+      }
+    },
+    "blocked_services_favorites_explainer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Swipe to the right to add a service to your favorites."
+          }
+        }
+      }
+    },
+    "blocked_services_favorites_remove" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove from favorites"
+          }
+        }
+      }
+    },
+    "Blocked: %@" : {
+      "comment" : "Displayed in the simple one-line Lock Screen widget.\nDisplayed in the simple rectangular Lock Screen widget."
+    },
+    "Blocked: %@ (%@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Blocked: %1$@ (%2$@)"
+          }
+        }
+      }
+    },
+    "Blocking" : {
+
+    },
+    "Blocking Enabled" : {
+
+    },
+    "Blocking has been re-enabled on all instances." : {
+
+    },
+    "Blocking has been re-enabled." : {
+
+    },
+    "Blocking is enabled on all instances." : {
+
+    },
+    "Blocking is enabled on instance %@." : {
+
+    },
+    "Blocking is not enabled on all instances." : {
+
+    },
+    "Blocking is not enabled on instance %@." : {
+
+    },
+    "Blocking Notifications" : {
+
+    },
+    "Blocking-card" : {
+
+    },
+    "Blocklist" : {
+
+    },
+    "Blocklist Management" : {
+      "comment" : "Displayed in the onboarding."
+    },
+    "Blocklist-card tap" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "device" : {
+              "mac" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Blocklist-card click"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "Blocklist-card tap"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Blocklist: %@" : {
+      "comment" : "Displayed in the simple one-line Lock Screen widget."
+    },
+    "Blue" : {
+
+    },
+    "Both" : {
+
+    },
+    "Both lists" : {
+
+    },
+    "Brown" : {
+
+    },
+    "Business & productivity" : {
+
+    },
+    "Cache" : {
+
+    },
+    "Cache (optimizer)" : {
+
+    },
+    "Cached" : {
+
+    },
+    "Cached: %@" : {
+
+    },
+    "Can't be edited." : {
+
+    },
+    "Can't find purchase" : {
+
+    },
+    "Canadian Color Scheme" : {
+
+    },
+    "Cancel" : {
+
+    },
+    "Cards" : {
+
+    },
+    "Change the disable duration presets of the widgets that have disable-buttons on them, like the 'Disable' and 'Statistics & Disable' widgets. To add new presets to choose from, go to Settings > Preferences > Home > Duration Presets." : {
+
+    },
+    "changelog_accessibility" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Accessibility"
+          }
+        }
+      }
+    },
+    "changelog_continue" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        }
+      }
+    },
+    "changelog_current_version" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Current"
+          }
+        }
+      }
+    },
+    "changelog_fixed" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fixed"
+          }
+        }
+      }
+    },
+    "changelog_improved" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Improved"
+          }
+        }
+      }
+    },
+    "changelog_just_updated" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just Updated!"
+          }
+        }
+      }
+    },
+    "changelog_navbar" : {
+      "comment" : "MARK: Changelog",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What's New"
+          }
+        }
+      }
+    },
+    "changelog_new" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New"
+          }
+        }
+      }
+    },
+    "changelog_settings_show" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show on App Update"
+          }
+        }
+      }
+    },
+    "changelog_show_feature_promo" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Feature Promo"
+          }
+        }
+      }
+    },
+    "changelog_view_full" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View Full Changelog"
+          }
+        }
+      }
+    },
+    "Changing App Tint on macOS requires an app restart to take effect." : {
+      "comment" : "Displayed on the App Tint Settings screen."
+    },
+    "Chart" : {
+
+    },
+    "Clear all filters" : {
+
+    },
+    "Clear filters" : {
+
+    },
+    "Client" : {
+
+    },
+    "Client ID" : {
+
+    },
+    "Client IP" : {
+
+    },
+    "Client IP: '%@'..." : {
+
+    },
+    "Client Management" : {
+      "comment" : "Displayed in the onboarding."
+    },
+    "Client Name" : {
+
+    },
+    "Client Name: '%@'..." : {
+
+    },
+    "ClientID" : {
+
+    },
+    "Clients" : {
+
+    },
+    "Clients & Groups" : {
+
+    },
+    "Clients in group" : {
+
+    },
+    "Clients may be described by their IP, MAC, or hostname. " : {
+
+    },
+    "Clients may be described either by their IP addresses (IPv4 and IPv6 are supported), IP subnets (CIDR notation, like 192.168.2.0/24), their MAC addresses (like 12:34:56:78:9A:BC), by their hostnames (like localhost), or by the interface they are connected to (prefaced with a colon, like :eth0).\n\nNote that client recognition by IP addresses (incl. subnet ranges) are preferred over MAC address, host name or interface recognition as the two latter will only be available after some time. Furthermore, MAC address recognition only works for devices at most one networking hop away from your Pi-hole." : {
+
+    },
+    "Clients: %@" : {
+      "comment" : "Displayed in the simple rectangular Lock Screen widget."
+    },
+    "Clients: %lld/%lld" : {
+      "comment" : "Displayed in the simple one-line Lock Screen widget.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clients: %1$lld/%2$lld"
+          }
+        }
+      }
+    },
+    "Close" : {
+
+    },
+    "CNAME Records" : {
+
+    },
+    "CNAME:" : {
+      "shouldTranslate" : false
+    },
+    "CNAME: %@" : {
+      "shouldTranslate" : false
+    },
+    "Code" : {
+
+    },
+    "Combine instances" : {
+
+    },
+    "Combine Instances" : {
+
+    },
+    "Comment" : {
+
+    },
+    "Communication" : {
+
+    },
+    "Compact mode" : {
+
+    },
+    "Connecting to: %@/..." : {
+
+    },
+    "Connection" : {
+
+    },
+    "Connection Error" : {
+
+    },
+    "Connection OK" : {
+
+    },
+    "Contact" : {
+      "comment" : "Displayed on the support screen."
+    },
+    "Content delivery networks" : {
+
+    },
+    "Continue" : {
+      "comment" : "Used in onboarding and changelogs."
+    },
+    "Control blocking of services on your Pi-hole. (Requires PHR+)" : {
+
+    },
+    "Converted to: (\\\\.|^)%@$" : {
+
+    },
+    "copy" : {
+      "comment" : "MARK: Context Menus",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy"
+          }
+        }
+      }
+    },
+    "Copy" : {
+
+    },
+    "Copy email" : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "Copy Email Address" : {
+      "comment" : "Displayed in an alert on the support screen when someone has no email client installed."
+    },
+    "Copy full response" : {
+
+    },
+    "Copy ID" : {
+
+    },
+    "Copy IP" : {
+
+    },
+    "Copy MAC address" : {
+
+    },
+    "Copy Message" : {
+
+    },
+    "Copy UNIX timestamp" : {
+
+    },
+    "Copy URL" : {
+
+    },
+    "Core" : {
+      "shouldTranslate" : false
+    },
+    "Core version: %@." : {
+
+    },
+    "Couldn't find your instance." : {
+
+    },
+    "Couldn't load config." : {
+      "comment" : "Displayed on the DNS Settings screen."
+    },
+    "Current Version" : {
+      "comment" : "Used in the Changelog."
+    },
+    "Custom" : {
+
+    },
+    "Custom Headers" : {
+
+    },
+    "Custom Presets" : {
+
+    },
+    "customize app tint." : {
+
+    },
+    "customize the app icon." : {
+
+    },
+    "Customize tint & icon" : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "Customize Widgets" : {
+
+    },
+    "Dark" : {
+
+    },
+    "Date" : {
+
+    },
+    "Date Added" : {
+
+    },
+    "Date Modified" : {
+
+    },
+    "Date Range" : {
+
+    },
+    "Dating services" : {
+
+    },
+    "Debug" : {
+
+    },
+    "Default Color Scheme" : {
+
+    },
+    "Delete" : {
+
+    },
+    "Delete Adlist" : {
+
+    },
+    "Delete Client" : {
+
+    },
+    "Delete Domain" : {
+
+    },
+    "Delete Group" : {
+
+    },
+    "Deny" : {
+
+    },
+    "Deny-list" : {
+
+    },
+    "Denylist" : {
+
+    },
+    "Description (optional)" : {
+
+    },
+    "Design" : {
+
+    },
+    "design_colorscheme" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Color Scheme"
+          }
+        }
+      }
+    },
+    "design_dark_mode" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dark Mode"
+          }
+        }
+      }
+    },
+    "design_light_mode" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Light Mode"
+          }
+        }
+      }
+    },
+    "design_system" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "System"
+          }
+        }
+      }
+    },
+    "design_theme" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Theme"
+          }
+        }
+      }
+    },
+    "design_tint_blue" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blue"
+          }
+        }
+      }
+    },
+    "design_tint_brown" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brown"
+          }
+        }
+      }
+    },
+    "design_tint_green" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Green"
+          }
+        }
+      }
+    },
+    "design_tint_indigo" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indigo"
+          }
+        }
+      }
+    },
+    "design_tint_mint" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mint"
+          }
+        }
+      }
+    },
+    "design_tint_orange" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orange"
+          }
+        }
+      }
+    },
+    "design_tint_pink" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pink"
+          }
+        }
+      }
+    },
+    "design_tint_purple" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Purple"
+          }
+        }
+      }
+    },
+    "design_tint_red" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Red"
+          }
+        }
+      }
+    },
+    "design_tint_teal" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teal"
+          }
+        }
+      }
+    },
+    "design_tint_yellow" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yellow"
+          }
+        }
+      }
+    },
+    "Destination" : {
+
+    },
+    "Destination Instance" : {
+
+    },
+    "Details" : {
+
+    },
+    "Device" : {
+
+    },
+    "DHCP" : {
+
+    },
+    "DHCP & DNS" : {
+
+    },
+    "DHCP lease time" : {
+
+    },
+    "DHCP Lease Time" : {
+
+    },
+    "DHCP server enabled" : {
+
+    },
+    "DHCPv4 rapid commit" : {
+
+    },
+    "Diagnosis" : {
+
+    },
+    "Disable" : {
+
+    },
+    "Disable blocking for a certain duration." : {
+
+    },
+    "Disable for 1 minute" : {
+
+    },
+    "Disable for 5 minutes" : {
+
+    },
+    "Disable for..." : {
+
+    },
+    "Disable indefinitely" : {
+
+    },
+    "Disable services with a single tap, as well as managing adlists and more." : {
+      "comment" : "Displayed in the onboarding.",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "device" : {
+              "mac" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Disable services with a single click, as well as managing adlists and more."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "Disable services with a single tap, as well as managing adlists and more."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Disable Widget" : {
+
+    },
+    "Disabled" : {
+
+    },
+    "Discard Changes" : {
+
+    },
+    "dismiss" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dismiss"
+          }
+        }
+      }
+    },
+    "Display" : {
+
+    },
+    "Display badges on Settings-tab" : {
+
+    },
+    "DNS" : {
+
+    },
+    "DNS Domain" : {
+
+    },
+    "DNS Domain Settings" : {
+      "comment" : "Displayed on the DNS Settings screen."
+    },
+    "DNS Records" : {
+
+    },
+    "DNS:" : {
+      "shouldTranslate" : false
+    },
+    "DNS: %@" : {
+      "shouldTranslate" : false
+    },
+    "DNSSEC" : {
+
+    },
+    "DNSSEC status" : {
+
+    },
+    "Docker" : {
+      "shouldTranslate" : false
+    },
+    "Domain" : {
+
+    },
+    "Domain: '%@'..." : {
+
+    },
+    "Domains" : {
+
+    },
+    "Domains & Adlists" : {
+
+    },
+    "Domains will be converted to RegEx to involve all subdomains." : {
+
+    },
+    "Domains: %@" : {
+      "comment" : "Displays the number of domains on an adlist."
+    },
+    "Done" : {
+
+    },
+    "Duration" : {
+
+    },
+    "Duration (minutes)" : {
+
+    },
+    "Duration in seconds" : {
+
+    },
+    "Duration Presets" : {
+
+    },
+    "Dutch Color Scheme" : {
+
+    },
+    "Edit" : {
+
+    },
+    "Edit Instance" : {
+
+    },
+    "Edit presets..." : {
+
+    },
+    "Edit Service" : {
+
+    },
+    "Editing presets requires PHR+." : {
+      "comment" : "Used on the 'Add new disable preset' screen"
+    },
+    "Enable" : {
+
+    },
+    "Enable and disable blocking." : {
+
+    },
+    "Enable blocking" : {
+
+    },
+    "Enable Blocking" : {
+
+    },
+    "enable more than 1 Blocked Service." : {
+
+    },
+    "Enable this option to enable IPv6 support for the Pi-hole DHCP server. This will allow the Pi-hole to hand out IPv6 addresses to clients and also provide IPv6 router advertisements (RA) to clients. This option is only useful if the Pi-hole is configured with an IPv6 address." : {
+
+    },
+    "Enable to block the service, disable to unblock it." : {
+
+    },
+    "Enabled" : {
+
+    },
+    "Enabling notifications requires PHR+." : {
+      "comment" : "Used on the Notifications-settings screen."
+    },
+    "Enabling the top two options may increase your privacy, but may also prevent you from being able to access. Make sure you have set up conditional forwarding in this case." : {
+
+    },
+    "Enabling these two options may increase your privacy, but may also prevent you from being able to access. Make sure you have set up conditional forwarding in this case." : {
+
+    },
+    "Enabling this will convert all domains to RegEx to involve all subdomains." : {
+
+    },
+    "Enabling this will convert the domain to RegEx to involve all subdomains." : {
+
+    },
+    "Ends" : {
+
+    },
+    "Enjoy great widgets and a Live Activity when disabling blocking." : {
+      "comment" : "Displayed in the onboarding."
+    },
+    "Enter the code..." : {
+      "comment" : "Used on the PHR+ purchase screen as a textfield placeholder."
+    },
+    "Entries" : {
+
+    },
+    "Error" : {
+
+    },
+    "Error: %@" : {
+
+    },
+    "Every 5 seconds" : {
+
+    },
+    "Exact" : {
+
+    },
+    "Exact entries" : {
+
+    },
+    "example.com" : {
+
+    },
+    "Execute" : {
+
+    },
+    "Expand hostnames" : {
+      "comment" : "Displayed on the DNS Settings screen."
+    },
+    "Expired DHCP Leases" : {
+
+    },
+    "Explore all queries on your network and quickly block domains." : {
+      "comment" : "Displayed in the onboarding."
+    },
+    "fast address assignment" : {
+
+    },
+    "Favorites" : {
+
+    },
+    "Feature Overview" : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "File hosting" : {
+
+    },
+    "Filter" : {
+
+    },
+    "Filter & Sort" : {
+
+    },
+    "Filter by status" : {
+
+    },
+    "Filtered by %@" : {
+
+    },
+    "Filtered by `%@`" : {
+
+    },
+    "First seen" : {
+
+    },
+    "Flags" : {
+
+    },
+    "Flush" : {
+
+    },
+    "Flush logs (last 24h)" : {
+
+    },
+    "Flush network table" : {
+
+    },
+    "Follow macOS preferences" : {
+
+    },
+    "Follow on X" : {
+
+    },
+    "For any reason" : {
+
+    },
+    "Force a refresh to update the buttons. If this doesn't work, wait a while or try restarting your device." : {
+
+    },
+    "Force Watch Sync" : {
+
+    },
+    "Force Widget Refresh" : {
+
+    },
+    "Forwarded" : {
+
+    },
+    "Forwarded: %@" : {
+
+    },
+    "Free" : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "FTL" : {
+      "shouldTranslate" : false
+    },
+    "FTL version: %@." : {
+
+    },
+    "Gambling & betting" : {
+
+    },
+    "Gaming" : {
+
+    },
+    "Get blocking status for ${instance}" : {
+
+    },
+    "Get Lifetime PHR+" : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "Get Pi-hole Blocking Status" : {
+
+    },
+    "Get the blocking status of your Pi-hole. Returns 'true' is blocking is enabled, otherwise returns 'false'. If you select 'All Instances', this will only return 'true' if blocking is enabled on all instances." : {
+
+    },
+    "Give Feedback" : {
+      "comment" : "Displayed in an alert on the support screen when someone has no email client installed."
+    },
+    "Graphite" : {
+
+    },
+    "Green" : {
+
+    },
+    "Group" : {
+
+    },
+    "Group assignment" : {
+
+    },
+    "Groups" : {
+
+    },
+    "Hardware Address" : {
+
+    },
+    "Headers" : {
+
+    },
+    "Health" : {
+
+    },
+    "Help" : {
+
+    },
+    "Help & Feedback" : {
+
+    },
+    "Help translate the app" : {
+
+    },
+    "Hi there, if you're seeing this it means that somehow the button to give you Lifetime PHR+ for free didn't work and you had to contact me. Sorry for that! To get access anyways, please enter the code I gave you here.\n\nPlease do not share this code with others." : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "Hidden on Home-tab" : {
+
+    },
+    "Hide" : {
+
+    },
+    "Hide 'Blocked Services' entries" : {
+
+    },
+    "Hide on Home-tab" : {
+
+    },
+    "Hide the %@ %@ card" : {
+      "comment" : "Accessibility hint for show/hide statistics cards.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hide the %1$@ %2$@ card"
+          }
+        }
+      }
+    },
+    "Hide the %@ card" : {
+      "comment" : "Accessibility hint for show/hide statistics cards."
+    },
+    "Home" : {
+
+    },
+    "home_disable" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disable"
+          }
+        }
+      }
+    },
+    "home_disable_blocking" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disable Blocking"
+          }
+        }
+      }
+    },
+    "home_disable_blocking_pihole" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disable Pi-hole Blocking"
+          }
+        }
+      }
+    },
+    "home_disabled" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disabled"
+          }
+        }
+      }
+    },
+    "home_enable" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable"
+          }
+        }
+      }
+    },
+    "home_enable_blocking" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable Blocking"
+          }
+        }
+      }
+    },
+    "home_enable_blocking_pihole" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable Pi-hole Blocking"
+          }
+        }
+      }
+    },
+    "home_enabled" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enabled"
+          }
+        }
+      }
+    },
+    "Host" : {
+
+    },
+    "Hostname" : {
+      "comment" : "Hostname of the device running the instance, used on the instance detail screen."
+    },
+    "Hostname or IP" : {
+
+    },
+    "Hostname or IP address" : {
+
+    },
+    "How to change" : {
+      "comment" : "Used on Preferences > Home to explain how to change the temperature unit."
+    },
+    "HTTP" : {
+      "shouldTranslate" : false
+    },
+    "HTTPS" : {
+      "shouldTranslate" : false
+    },
+    "I can't find your purchase. Do you think this is incorrect? Please contact me through the 'Help & Feedback' button in settings." : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "I see you don't have an active mail client on your device, please mail me with the request to join the TestFlight including a screenshot of this PHR+ screen so I can see you have purchased Pro.\n\nPlease mail it to developer@rocketscience-it.nl!" : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "iCloud" : {
+      "comment" : "Displayed on the support screen."
+    },
+    "Icon" : {
+
+    },
+    "ID" : {
+
+    },
+    "If set, the domain is added to simple names (without a period) in /etc/hosts in the same way as for DHCP-derived names." : {
+      "comment" : "Displayed on the DNS Settings screen."
+    },
+    "If this option is set, Pi-hole ignores all clients which are not explicitly configured through dhcp.hosts. This can be useful to prevent unauthorized clients from getting an IP address from the DHCP server.\nIt should be noted that this option is not a security feature, as clients can still assign themselves an IP address and use the network. It is merely a convenience feature to prevent unknown clients from getting a valid IP configuration assigned automatically.\n\nNote: When this feature is enabled you will need to configure new clients manually in dhcp.hosts before they can use the network." : {
+
+    },
+    "Ignore unknown DHCP clients" : {
+
+    },
+    "In Progress" : {
+
+    },
+    "indefinitely" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indefinitely"
+          }
+        }
+      }
+    },
+    "Indefinitely" : {
+
+    },
+    "Indigo" : {
+
+    },
+    "Info" : {
+
+    },
+    "instance" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instance"
+          }
+        }
+      }
+    },
+    "Instance" : {
+
+    },
+    "Instance Actions" : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "Instance settings" : {
+      "comment" : "Option for the blocklist-card, used on the Preferences > Home screen."
+    },
+    "Instances" : {
+
+    },
+    "Interactive Widgets" : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "Interface" : {
+
+    },
+    "Interface options" : {
+
+    },
+    "Interface Overview" : {
+
+    },
+    "Interface Settings" : {
+
+    },
+    "Interfaces" : {
+
+    },
+    "Invalid URL. Did you enter the correct host, port, and API path?" : {
+
+    },
+    "IP" : {
+
+    },
+    "IP / MAC / Hostname" : {
+
+    },
+    "IP addresses" : {
+
+    },
+    "IP addresses (hostname)" : {
+
+    },
+    "IPv6 support" : {
+
+    },
+    "key" : {
+
+    },
+    "keyNotFound" : {
+      "comment" : "ParsingError"
+    },
+    "Kind" : {
+
+    },
+    "Kind of list" : {
+
+    },
+    "lan" : {
+      "shouldTranslate" : false
+    },
+    "Last fetched" : {
+
+    },
+    "Last modified" : {
+
+    },
+    "Last query" : {
+
+    },
+    "Last Updated" : {
+
+    },
+    "Last updated: %@" : {
+      "comment" : "Displays the date an adlist was last updated."
+    },
+    "Last updated: N/A" : {
+      "comment" : "Displays the when adlist was just added and has never been updated."
+    },
+    "Latest" : {
+      "comment" : "Displayed under the version label on the instance detail screen."
+    },
+    "Learn More" : {
+      "comment" : "Displayed in the onboarding."
+    },
+    "Learn more..." : {
+
+    },
+    "Lease time" : {
+
+    },
+    "Leave a review" : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "Leave a Review" : {
+
+    },
+    "Leave a tip" : {
+
+    },
+    "Leave the netmask field empty to have Pi-hole infer it from the configured IP address of your device. If you want to specify a netmask, you can use the format 255.255.255.0." : {
+
+    },
+    "Lifetime PHR %@" : {
+
+    },
+    "Lifetime PHR+ Conversion" : {
+
+    },
+    "Light" : {
+      "comment" : "Displayed on the App Icon Settings screen."
+    },
+    "Light & Dark" : {
+      "comment" : "Displayed on the App Icon Settings screen."
+    },
+    "Light, Dark" : {
+      "comment" : "Displayed on the App Icon Settings screen."
+    },
+    "Light, Dark, Tinted" : {
+      "comment" : "Displayed on the App Icon Settings screen."
+    },
+    "List" : {
+
+    },
+    "List URL" : {
+
+    },
+    "Live Log" : {
+
+    },
+    "livelog_noqueriesfoundyet" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No queries found yet..."
+          }
+        }
+      }
+    },
+    "Local DNS Records" : {
+
+    },
+    "Local Records" : {
+
+    },
+    "Logs" : {
+
+    },
+    "MAC address" : {
+
+    },
+    "Made with ❤️ by one person in 🇳🇱" : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "Mail" : {
+
+    },
+    "Major updates only" : {
+
+    },
+    "Make sure your router's DHCP server is disabled when using the Pi-hole DHCP server!" : {
+
+    },
+    "manage Clients & Groups." : {
+
+    },
+    "manage DHCP settings." : {
+
+    },
+    "manage DNS settings." : {
+
+    },
+    "manage Domains & Adlists." : {
+
+    },
+    "Manage Subscription" : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "ManGo - Anime & Manga Tracker" : {
+
+    },
+    "Mark as 'Time Sensitive'" : {
+
+    },
+    "Media sharing" : {
+
+    },
+    "Medium widget only." : {
+
+    },
+    "Merge" : {
+
+    },
+    "Messages" : {
+
+    },
+    "Metrics" : {
+
+    },
+    "Metrics decimals" : {
+
+    },
+    "Minimize tabbar on scroll" : {
+
+    },
+    "Mint" : {
+
+    },
+    "Model" : {
+      "comment" : "Model of the device running the instance, used on the instance detail screen."
+    },
+    "Monthly PHR %@" : {
+
+    },
+    "Multi DNS" : {
+
+    },
+    "Multiple" : {
+
+    },
+    "Must be unique." : {
+
+    },
+    "Name" : {
+
+    },
+    "Netmask" : {
+
+    },
+    "Network" : {
+
+    },
+    "Network Overview" : {
+
+    },
+    "Never forward non-FQDN A and AAAA queries" : {
+
+    },
+    "Never forward reverse lookups for private IP ranges" : {
+
+    },
+    "New Adlist" : {
+
+    },
+    "New Client" : {
+
+    },
+    "New custom blocked service" : {
+
+    },
+    "New Group" : {
+
+    },
+    "New Groups" : {
+
+    },
+    "New Instance" : {
+
+    },
+    "New Record" : {
+
+    },
+    "New Service" : {
+
+    },
+    "NextDNS Remote" : {
+      "shouldTranslate" : false
+    },
+    "No" : {
+
+    },
+    "No connection" : {
+
+    },
+    "No Connection" : {
+
+    },
+    "No connection." : {
+
+    },
+    "No data." : {
+
+    },
+    "No Devices Found" : {
+
+    },
+    "No instance selected." : {
+
+    },
+    "No instance." : {
+
+    },
+    "No Instances" : {
+
+    },
+    "No Instances Found" : {
+
+    },
+    "No instances found." : {
+
+    },
+    "No Interfaces" : {
+
+    },
+    "No leases found." : {
+
+    },
+    "No matching adlists found." : {
+
+    },
+    "No matching adlists or domains found." : {
+
+    },
+    "No matching domains found." : {
+
+    },
+    "No Messages" : {
+
+    },
+    "No queries found" : {
+
+    },
+    "No Watch Paired" : {
+      "comment" : "Displayed on the support screen on the 'Force Watch Sync' button."
+    },
+    "No widgetFamily found" : {
+
+    },
+    "None" : {
+
+    },
+    "None found." : {
+
+    },
+    "None." : {
+
+    },
+    "Note: adlist & domain entries that are inserted will be added to the group \"default\" only." : {
+
+    },
+    "Notifications" : {
+      "comment" : "Used on the Notifications-settings screen."
+    },
+    "Notifications..." : {
+
+    },
+    "Number of clients" : {
+
+    },
+    "Number of domains" : {
+
+    },
+    "Number of queries" : {
+
+    },
+    "Number of queries shown" : {
+
+    },
+    "Numbers are an indication. Any existing matches are ignored." : {
+
+    },
+    "Numbers are an indication. Any existing matches are ignored. Includes 'Blocked Services'." : {
+
+    },
+    "OK" : {
+
+    },
+    "one person only" : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "One-tap button" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "device" : {
+              "mac" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "One-click button"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "One-tap button"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "One-tap disable duration" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "device" : {
+              "mac" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "One-click disable duration"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "One-tap disable duration"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Only change these settings if you know what you're doing." : {
+
+    },
+    "Only use this setting if you didn't set a password for your Pi-hole." : {
+
+    },
+    "Only visible if 'Combine instances' is turned off." : {
+
+    },
+    "Open Settings" : {
+
+    },
+    "Open Settings to allow 'Time Sensitive Notifications'" : {
+
+    },
+    "Open Settings to allow banners" : {
+
+    },
+    "Open Settings to allow notifications" : {
+
+    },
+    "Open technical documentation" : {
+      "comment" : "Displayed on the DNS Settings screen."
+    },
+    "Options" : {
+
+    },
+    "Or if you prefer subscriptions:" : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "Orange" : {
+
+    },
+    "original_enddate" : {
+
+    },
+    "out of %@" : {
+
+    },
+    "out of %@ total" : {
+
+    },
+    "Overwrite" : {
+
+    },
+    "Password" : {
+
+    },
+    "Password & TOTP are used once to create an application password, then deleted. Be aware: you can have only *one* application password at a time." : {
+
+    },
+    "Password+2FA" : {
+
+    },
+    "Paste" : {
+
+    },
+    "Permit all origins" : {
+
+    },
+    "PHR" : {
+      "comment" : "Used on the PHR+ purchase screen.",
+      "shouldTranslate" : false
+    },
+    "PHR %@" : {
+      "comment" : "Used on the PHR+ purchase screen.",
+      "shouldTranslate" : false
+    },
+    "PHR%@ is required to\n" : {
+
+    },
+    "PHR+" : {
+      "shouldTranslate" : false
+    },
+    "PHR+ for early users" : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "PHR+ is required to enable more than 1 Blocked Service." : {
+
+    },
+    "PHR+ is required to use this feature." : {
+
+    },
+    "PHR+ unlocks all these features, as well as new features in future updates. By purchasing PHR+ you will also support future development of the app, which is made by %@ (hi! 👋). I really appreciate it!" : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "Pi-hole" : {
+      "comment" : "Placeholder for the name textfield on the instance settings screen.",
+      "shouldTranslate" : false
+    },
+    "Pi-hole Color Scheme" : {
+
+    },
+    "Pi-hole domain name" : {
+      "comment" : "Displayed on the DNS Settings screen."
+    },
+    "Pi-hole Remote" : {
+      "comment" : "App title, do not translate.",
+      "shouldTranslate" : false
+    },
+    "Pi-hole Remote is designed to protect your privacy and will never share any information with anyone." : {
+      "comment" : "Displayed in the onboarding."
+    },
+    "Pi-hole Remote+" : {
+      "comment" : "Used in the Settings-tab.",
+      "shouldTranslate" : false
+    },
+    "Pi-hole v6.0+ Required" : {
+
+    },
+    "pi.hole" : {
+      "comment" : "Placeholder for the hostname textfield on the instance settings screen."
+    },
+    "pihole -up" : {
+      "shouldTranslate" : false
+    },
+    "Pink" : {
+
+    },
+    "Please add a Pi-hole instance first." : {
+
+    },
+    "Please add an instance in the app." : {
+
+    },
+    "Please add an instance in the iPhone app. If you did that already, please try 'Settings' > 'Help & Feedback' > 'Force Watch Sync' and do a force quit of the Watch app." : {
+
+    },
+    "Please choose two different instances." : {
+
+    },
+    "Please enter a valid URL." : {
+
+    },
+    "Please mail me with any feedback about bugs or improvements at developer@rocketscience-it.nl!" : {
+      "comment" : "Displayed in an alert on the support screen when someone has no email client installed."
+    },
+    "Please note that Pi-hole v6.0 or higher is required for the app to work. If you're running an older version of Pi-hole, please update your Pi-hole first by running " : {
+
+    },
+    "Please use English or Dutch for support requests!" : {
+      "comment" : "Displayed on the support screen."
+    },
+    "Port" : {
+
+    },
+    "Powerful Pi-hole Client & Group management." : {
+      "comment" : "Displayed in the onboarding."
+    },
+    "Preferences" : {
+
+    },
+    "Preset 1" : {
+
+    },
+    "Preset 2" : {
+
+    },
+    "Preset 3" : {
+
+    },
+    "Preset 4" : {
+
+    },
+    "Presets" : {
+
+    },
+    "Privacy Policy" : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "Processed" : {
+
+    },
+    "Protocol" : {
+
+    },
+    "Purge PHR iCloud Data" : {
+
+    },
+    "Purple" : {
+
+    },
+    "Queries" : {
+
+    },
+    "Queries: %@" : {
+      "comment" : "Displayed in the simple one-line Lock Screen widget.\nDisplayed in the simple rectangular Lock Screen widget."
+    },
+    "Query" : {
+
+    },
+    "Query Log" : {
+
+    },
+    "Query Types" : {
+
+    },
+    "Quickly disable blocking for a short time." : {
+      "comment" : "Displayed in the onboarding."
+    },
+    "Quickly disable blocking with customizable buttons." : {
+
+    },
+    "Range End" : {
+
+    },
+    "Range Start" : {
+
+    },
+    "Rate-limiting" : {
+      "comment" : "Displayed on the DNS Settings screen."
+    },
+    "Red" : {
+
+    },
+    "refresh" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Refresh"
+          }
+        }
+      }
+    },
+    "Refreshing" : {
+
+    },
+    "RegEx" : {
+
+    },
+    "RegEx entries" : {
+
+    },
+    "Remote for AdGuard DNS" : {
+      "shouldTranslate" : false
+    },
+    "Remove" : {
+
+    },
+    "Remove Custom Service" : {
+
+    },
+    "Remove Instance" : {
+
+    },
+    "Remove limits, unlock all settings, and more..." : {
+
+    },
+    "Remove TTL" : {
+
+    },
+    "Reorder" : {
+
+    },
+    "Reorder by dragging, remove by swiping." : {
+      "comment" : "Used on the 'Add new disable preset' screen"
+    },
+    "Request" : {
+
+    },
+    "Request PHR beta access" : {
+
+    },
+    "Requires PHR+" : {
+
+    },
+    "Reset" : {
+
+    },
+    "Respond only on interface" : {
+
+    },
+    "Response" : {
+
+    },
+    "Restart DNS resolver" : {
+
+    },
+    "Restore Purchase" : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "Retried" : {
+
+    },
+    "Retried | DNSSEC" : {
+
+    },
+    "RocketScience IT" : {
+      "shouldTranslate" : false
+    },
+    "rocketscience_adguarddnsremote_subtitle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rather use AdGuard DNS? I've got you covered."
+          }
+        }
+      }
+    },
+    "rocketscience_adguardhomeremote_subtitle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It's like Pi-hole Remote, but for AdGuard Home!"
+          }
+        }
+      }
+    },
+    "rocketscience_energieradar_subtitle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monitor real-time electricity and gas prices in many European countries."
+          }
+        }
+      }
+    },
+    "rocketscience_hi_subtitle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In June 2020 I started building my own apps as an independent developer, under the name 'RocketScience IT'.\n\nMy main goal is to learn: design, development, testing, support, promotion - maybe even more! Right now, I have several apps in the store which I'm continuously improving & have many ideas for other apps I might want to make in the future."
+          }
+        }
+      }
+    },
+    "rocketscience_hi_title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hi, I'm Joost!"
+          }
+        }
+      }
+    },
+    "rocketscience_mango_subtitle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A clean Anime & Manga tracker app, using the MyAnimeList API."
+          }
+        }
+      }
+    },
+    "rocketscience_my_other_apps" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My Other Apps"
+          }
+        }
+      }
+    },
+    "rocketscience_tipjar" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tip Jar"
+          }
+        }
+      }
+    },
+    "rocketscience_tipjar_thankyou" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thank you!"
+          }
+        }
+      }
+    },
+    "rocketscience_website" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Website"
+          }
+        }
+      }
+    },
+    "Router" : {
+
+    },
+    "Save" : {
+
+    },
+    "Save instance" : {
+
+    },
+    "Search" : {
+
+    },
+    "Search by IP, Hostname, or MAC" : {
+
+    },
+    "Search services" : {
+
+    },
+    "Seconds" : {
+      "comment" : "Used on the 'Add new disable preset' screen"
+    },
+    "Select an Instance" : {
+
+    },
+    "Select instance & duration" : {
+
+    },
+    "Selected" : {
+
+    },
+    "Send Notifications" : {
+
+    },
+    "Service" : {
+
+    },
+    "Services" : {
+
+    },
+    "Services toggled ON are blocked from your network. Services toggled OFF remain accessible." : {
+      "comment" : "Explainer at the bottom of the Blocked Services list."
+    },
+    "SessionID: %@" : {
+      "shouldTranslate" : false
+    },
+    "Settings" : {
+
+    },
+    "settings_made_by_rocketscience" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Made by RocketScience"
+          }
+        }
+      }
+    },
+    "settings_tipjar" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tip Jar"
+          }
+        }
+      }
+    },
+    "settings_twitter" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Follow on X"
+          }
+        }
+      }
+    },
+    "Share Pi-hole Remote" : {
+
+    },
+    "Shopping" : {
+
+    },
+    "Show" : {
+
+    },
+    "Show 'Indefinitely'" : {
+
+    },
+    "Show 'Until tomorrow'" : {
+
+    },
+    "Show all icons" : {
+
+    },
+    "Show app icons" : {
+
+    },
+    "Show Blocklist Last Updated" : {
+
+    },
+    "Show chart" : {
+
+    },
+    "Show DNSSEC status" : {
+
+    },
+    "Show favorites at the top" : {
+
+    },
+    "Show full feature comparison" : {
+
+    },
+    "Show hostname" : {
+
+    },
+    "Show legend" : {
+
+    },
+    "Show Live Log" : {
+
+    },
+    "Show metrics" : {
+
+    },
+    "Show more..." : {
+
+    },
+    "Show on Home-tab" : {
+
+    },
+    "Show response time" : {
+
+    },
+    "Show the %@ %@ card" : {
+      "comment" : "Accessibility hint for show/hide statistics cards.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show the %1$@ %2$@ card"
+          }
+        }
+      }
+    },
+    "Show the %@ card" : {
+      "comment" : "Accessibility hint for show/hide statistics cards."
+    },
+    "Show version" : {
+
+    },
+    "Showing queries after %@." : {
+
+    },
+    "SLAAC + RA" : {
+      "shouldTranslate" : false
+    },
+    "Social networks" : {
+
+    },
+    "Software & updates" : {
+
+    },
+    "Something went wrong" : {
+
+    },
+    "Something went wrong: %@" : {
+
+    },
+    "Something went wrong." : {
+      "comment" : "Generic error text."
+    },
+    "something_went_wrong" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Something went wrong."
+          }
+        }
+      }
+    },
+    "Sort" : {
+
+    },
+    "Sorted by last query" : {
+
+    },
+    "Source" : {
+
+    },
+    "Source Instance" : {
+
+    },
+    "Special Domain" : {
+
+    },
+    "Specify which group(s) to control." : {
+
+    },
+    "Specify which instance(s) to check." : {
+
+    },
+    "Specify which instance(s) to control." : {
+
+    },
+    "Specify which service(s) to toggle." : {
+
+    },
+    "Speed" : {
+
+    },
+    "Statistics" : {
+
+    },
+    "Statistics & Disable" : {
+
+    },
+    "Statistics & Disable Widget" : {
+
+    },
+    "Statistics with customizable buttons to quickly disable blocking." : {
+
+    },
+    "Status" : {
+
+    },
+    "Stop Live Activity" : {
+
+    },
+    "Streaming services" : {
+
+    },
+    "Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period and will be charged to your iTunes account. You can turn off auto-renew/manage subscriptions in your iTunes Account Settings after purchase." : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "Successfully disabled blocking for %@." : {
+
+    },
+    "Successfully enabled blocking for %@." : {
+
+    },
+    "Suggestions" : {
+
+    },
+    "Support Development" : {
+
+    },
+    "Sync adlists, domains, and local DNS records between instances." : {
+
+    },
+    "Sync Instances" : {
+
+    },
+    "System" : {
+      "comment" : "Sysname of the device running the instance, used on the instance detail screen."
+    },
+    "System Settings" : {
+
+    },
+    "Take Pi-hole Remote to the next level & support future developement." : {
+      "comment" : "Displayed in the onboarding."
+    },
+    "Take Pi-hole Remote to the next level by removing limits and unlocking full Pi-hole management, interactive widgets, multiple instances support, and more." : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "Tap for more info." : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "device" : {
+              "mac" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Click for more info."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "Tap for more info."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Target" : {
+
+    },
+    "Target Domain" : {
+
+    },
+    "Target Group" : {
+
+    },
+    "Target Groups" : {
+
+    },
+    "Teal" : {
+
+    },
+    "Tells Pi-hole to never forward A or AAAA queries for plain names, without dots or domain parts, to upstream nameservers. If the name is not known from /etc/hosts or DHCP then a \"not found\" answer is returned.\n\nIf Conditional Forwarding is enabled, unticking this box may cause a partial DNS loop under certain circumstances (e.g. if a client would send TLD DNSSEC queries)." : {
+
+    },
+    "Temperature" : {
+      "comment" : "Used on Preferences > Home."
+    },
+    "Temperature unit" : {
+
+    },
+    "Temporarily disabled blocking? Get notified when it's re-enabled. Use notification actions to quickly extend the blocking period." : {
+
+    },
+    "Terms of Use" : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "Test Connection" : {
+
+    },
+    "TestFlight access" : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "TestFlight Beta Access" : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "TestFlight Debug" : {
+
+    },
+    "Thank you for downloading the app! ❤️" : {
+      "comment" : "Displayed in the onboarding."
+    },
+    "Thank you so much for downloading/purchasing the app before the large v6 update.\n\nBuilding v6 was a massive undertaking (I'm still working on bringing back missing features from v5 that didn't make this first release) and with the switch to IAPs I didn't want existing users to have to pay again, therefore you got PHR+ for free.\n\nIn return, I would really appreciate it if you could leave a review in the App Store or leave a small donation to support my work 😊 If you can't, that's also okay! Enjoy the app. - Joost" : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "Thank you!" : {
+      "comment" : "Used in the Settings-tab, displayed when someone has PHR+ active."
+    },
+    "Thank you! ❤️" : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "The comment will be added to all entries." : {
+
+    },
+    "The DHCPv4 rapid commit option allows the Pi-hole DHCP server to assign an IP address to a client right away. This can notably speed up the address assignment process and you will notice, e.g., faster WiFi joins in your network. This option should only be enabled if the Pi-hole DHCP server is the only DHCP server in your network." : {
+
+    },
+    "The DNS domains for your Pi-hole. If no domain is specified and you are using Pi-hole's DHCP server, then any hostnames with a domain part (i.e., with a period) will be disallowed. If a domain is specified, then hostnames with a domain parts matching the domain here are allowed. In addition, when a suffix is set then hostnames without a domain part have the suffix added as an optional domain part." : {
+
+    },
+    "The expected format is `IP#port`, where the `port` is optional (defaults to 53)." : {
+
+    },
+    "The lease time can be in seconds, minutes (e.g., \"45m\"), hours (e.g., \"1h\"), days (like \"2d\"), or even weeks (\"1w\"). If no lease time is specified (empty), dnsmasq's default lease time is one hour for IPv4 and one day for IPv6. You may also use \"infinite\" as string but be aware of the drawbacks: assigned addresses are will only be made available again after the lease time has passed or when leases are manually deleted below." : {
+
+    },
+    "The original enddate when blocking would be enabled again." : {
+
+    },
+    "The red options are dangerous on devices directly connected to the Internet such as cloud instances and are only safe if your Pi-hole is properly firewalled. " : {
+
+    },
+    "The red options are dangerous on devices directly connected to the Internet such as cloud instances and are only safe if your Pi-hole is properly firewalled. In a typical at-home setup where your Pi-hole is located within your local network (and you have not forwarded port 53 in your router!) they are safe to use." : {
+
+    },
+    "This action is final and cannot be undone." : {
+
+    },
+    "This device is probably not using Pi-hole, because no queries were found." : {
+
+    },
+    "Time remaining" : {
+
+    },
+    "Time Sensitive notifications have the option to break through focus modes." : {
+      "comment" : "Used on the Notifications-settings screen."
+    },
+    "Tint" : {
+
+    },
+    "Tip Jar" : {
+
+    },
+    "tipjar_blush" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "*blush*"
+          }
+        }
+      }
+    },
+    "tipjar_header" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Tip Jar helps keep Pi-hole Remote running and directly supports development of awesome features and improvements."
+          }
+        }
+      }
+    },
+    "tipjar_header_2" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If you enjoy using this app and want to support a one-man-team indie developer (hi! 👋), please consider leaving a tip. I would greatly appreciate it!"
+          }
+        }
+      }
+    },
+    "tipjar_header_3" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thank you for your support.\n- Joost"
+          }
+        }
+      }
+    },
+    "tipjar_navbar" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tip Jar"
+          }
+        }
+      }
+    },
+    "tipjar_payment_successful" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Payment Successful"
+          }
+        }
+      }
+    },
+    "tipjar_testflight_explainer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Note: you're running a TestFlight Build, therefore payments run in Sandbox mode and do not actually process.\n\nIf you want to tip, please download the app from the App Store! After that you can download the beta again. Thanks!"
+          }
+        }
+      }
+    },
+    "tipjar_thankyou_alert" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thank you so much, I really appreciate the fact that you love the app so much you're willing to give a tip. It's extremely motivating as well. I love you!\n\nJoost"
+          }
+        }
+      }
+    },
+    "tipjar_thankyou_loveyou" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I love you! ❤️"
+          }
+        }
+      }
+    },
+    "tipjar_thankyou_tip" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thank you for your generous tip!"
+          }
+        }
+      }
+    },
+    "tipjar_thankyou_tips" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thank you for your generous tips!"
+          }
+        }
+      }
+    },
+    "tipjar_tip_coffee" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coffee Tip"
+          }
+        }
+      }
+    },
+    "tipjar_tip_ramen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ramen Tip"
+          }
+        }
+      }
+    },
+    "tipjar_tip_sushi" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sushi Tip"
+          }
+        }
+      }
+    },
+    "tipjar_tip_whiskey" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Whiskey Tip"
+          }
+        }
+      }
+    },
+    "To re-sync after purging, edit & save an instance." : {
+
+    },
+    "Toggle between enabled & disabled" : {
+
+    },
+    "Toggle Blocked Services" : {
+
+    },
+    "Toggle Blocking" : {
+      "comment" : "Displayed in the onboarding."
+    },
+    "Toggle Blocking Status" : {
+
+    },
+    "Toggle blocking status for one or all instances." : {
+
+    },
+    "Toggle only between enabled & disabled. Hold the button for more options." : {
+
+    },
+    "Toggle Status" : {
+
+    },
+    "Toggle visibility" : {
+
+    },
+    "Tools" : {
+
+    },
+    "Top Client count" : {
+
+    },
+    "Top Clients" : {
+
+    },
+    "Top Domains" : {
+
+    },
+    "Top Domains count" : {
+
+    },
+    "Total" : {
+
+    },
+    "Total: %@" : {
+
+    },
+    "TOTP" : {
+
+    },
+    "TOTP token (like '123456')" : {
+
+    },
+    "Translations" : {
+      "comment" : "Displayed on the support screen."
+    },
+    "Try for free!" : {
+
+    },
+    "TTL" : {
+
+    },
+    "TTL (in seconds)" : {
+
+    },
+    "TTL (optional)" : {
+
+    },
+    "Type" : {
+
+    },
+    "Type of list" : {
+
+    },
+    "typeMismatch" : {
+      "comment" : "ParsingError",
+      "shouldTranslate" : false
+    },
+    "UI" : {
+
+    },
+    "Unblock All" : {
+
+    },
+    "Unknown" : {
+
+    },
+    "Unknown error." : {
+
+    },
+    "Until tomorrow" : {
+
+    },
+    "Update available for Core: %@. Select for changelog." : {
+
+    },
+    "Update available for FTL: %@. Select for changelog." : {
+
+    },
+    "Update available for Web: %@. Select for changelog." : {
+
+    },
+    "Update available: %@. Select for changelog." : {
+
+    },
+    "Update gravity" : {
+
+    },
+    "Update Gravity" : {
+
+    },
+    "updated %@" : {
+
+    },
+    "Upstream" : {
+
+    },
+    "Upstream DNS Servers" : {
+
+    },
+    "Upstream Servers" : {
+
+    },
+    "URL" : {
+
+    },
+    "Use DNSSEC" : {
+
+    },
+    "Use NextDNS? Have I got an app for you." : {
+
+    },
+    "Users who purchased the app while it was paid upfront instead of free with in-app purchases, can get PHR+ Lifetime for free as a thank you. Please press the button below to let the app check if you're entitled to it. This will show a native iOS alert to restore the purchase." : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "Using SSL" : {
+
+    },
+    "Utility Radar" : {
+
+    },
+    "Validate DNS replies and cache DNSSEC data. When forwarding DNS queries, Pi-hole requests the DNSSEC records needed to validate the replies. If a domain fails validation or the upstream does not support DNSSEC, this setting can cause issues resolving domains. Use an upstream DNS server which supports DNSSEC when activating DNSSEC. Note that the size of your log might increase significantly when enabling DNSSEC." : {
+
+    },
+    "value" : {
+
+    },
+    "valueNotFound" : {
+      "comment" : "ParsingError",
+      "shouldTranslate" : false
+    },
+    "Vendor" : {
+
+    },
+    "Version" : {
+
+    },
+    "Versions" : {
+
+    },
+    "view more queries." : {
+
+    },
+    "Visible on Home-tab" : {
+
+    },
+    "Watch App Not Installed" : {
+      "comment" : "Displayed on the support screen on the 'Force Watch Sync' button."
+    },
+    "watchos_blocking" : {
+      "comment" : "MARK: - watchOS Specific",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocking"
+          }
+        }
+      }
+    },
+    "watchos_no_instances_headline" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please add a Pi-hole instance in the iPhone app."
+          }
+        }
+      }
+    },
+    "watchos_no_instances_subheadline" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If you already did, please go to your instance, press 'Edit' and press 'Save' again. It should show up after that. If the statistics don't load at first, please restart the Watch app. Thanks!"
+          }
+        }
+      }
+    },
+    "Web" : {
+      "shouldTranslate" : false
+    },
+    "Web version: %@." : {
+
+    },
+    "Welcome!" : {
+      "comment" : "Onboarding subtitle."
+    },
+    "What's New" : {
+
+    },
+    "When a client makes too many queries in too short time, it gets rate-limited. Rate-limited queries are answered with a REFUSED reply and not further processed by FTL and prevent Pi-holes getting overwhelmed by rogue clients. It is important to note that rate-limiting is happening on a per-client basis. Other clients can continue to use FTL while rate-limited clients are short-circuited at the same time.\n\nRate-limiting may be disabled altogether by setting both values to zero." : {
+      "comment" : "Displayed on the DNS Settings screen."
+    },
+    "When you use HTTPS you must make sure to install the certificate to your device first. If you don't do this, the app might not be able to establish a secure connection to your Pi-hole.\n\nThe default location of your certificate is on your device: /etc/pihole/tls.pem. Mail the file to yourself and open it on your device to install it." : {
+
+    },
+    "widget_querygraph" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Query Graph"
+          }
+        }
+      }
+    },
+    "widget_querygraph_description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check in on your queries over time."
+          }
+        }
+      }
+    },
+    "widget_statistic" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Statistic"
+          }
+        }
+      }
+    },
+    "widget_statistic_description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep an eye on one statistic."
+          }
+        }
+      }
+    },
+    "widget_statistics" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Statistics"
+          }
+        }
+      }
+    },
+    "widget_statistics_description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep an eye on all your statistics."
+          }
+        }
+      }
+    },
+    "Widgets" : {
+
+    },
+    "Widgets & Live Activity" : {
+      "comment" : "Displayed in the onboarding."
+    },
+    "Yearly PHR %@" : {
+
+    },
+    "Yellow" : {
+
+    },
+    "Yes" : {
+
+    },
+    "You can configure an application password in the Pi-hole Web Interface. Be aware that you can have only *one* application password at a time." : {
+
+    },
+    "You don't have multiple instances." : {
+
+    },
+    "You have purchased PHR %@" : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "You've reached the maximum of 6 presets." : {
+      "comment" : "Used on the 'Add new disable preset' screen"
+    },
+    "Your Pi-hole has no diagnosis messages." : {
+
+    }
+  },
+  "version" : "1.0"
+}
