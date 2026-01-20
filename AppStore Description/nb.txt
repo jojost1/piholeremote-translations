@@ -1,85 +1,85 @@
-Pi-hole Remote is a third party Pi-hole application that lets you quickly enable/disable your Pi-hole, as well as add domains to your whitelist/blacklist and view statistics such as top allowed and blocked domains!
+Pi-hole Remote er en tredjeparts Pi-hole-app som lar deg raskt aktivere/deaktivere Pi-hole, legge til domener i tillat-/nektliste og se statistikk som topp tillatte og blokkerte domener!
 
-*Disable Blocking*
-Quickly disable blocking for a few minutes with only a few taps. You can even use Siri Shortcuts to disable blocking with your voice! If you have multiple instances, you can disable blocking for all of them with one tap.
+*Deaktiver blokkering*
+Deaktiver blokkering raskt i noen minutter med bare noen få trykk. Du kan til og med bruke Siri-snarveier for å deaktivere blokkering med stemmen! Hvis du har flere instanser, kan du deaktivere blokkering for alle med ett trykk.
 
-*Statistics & Queries*
-Look up what domains are queried most on your network, as well as clients that send out the most requests. See queries sorted by domain, client, or type. You can even view a Live Log that shows requests in real-time!
+*Statistikk og spørringer*
+Se hvilke domener som blir spurt om mest i nettverket ditt, samt klientene som sender flest forespørsler. Se spørringer sortert etter domene, klient eller type. Du kan også se en Live Logg som viser forespørsler i sanntid!
 
-*Blocked Services*
-Want to quickly restrict access to Facebook, YouTube, Snapchat, and more? Block all kinds of services effortlessly with just one tap.
+*Blokkerte tjenester*
+Vil du raskt begrense tilgangen til Facebook, YouTube, Snapchat og mer? Blokker alle typer tjenester enkelt med bare ett trykk.
 
-*White & Blacklist*
-Quickly add new entries to your lists inside the app or with the iOS Share Extension. You can also add entries in bulk and export list entries. If you have two Pi-hole instances, you can even automatically sync your lists!
+*Tillat- og nektliste*
+Legg raskt til nye oppføringer i listene dine i appen eller via iOS Share Extension. Du kan også legge til oppføringer i bulk og eksportere listeoppføringer. Hvis du har to Pi-hole-instanser, kan du til og med synkronisere listene automatisk!
 
-*Local DNS*
-Manage your Local DNS and CNAME records, right from the app!
+*Lokal DNS*
+Administrer lokal DNS og CNAME-oppføringer, direkte fra appen!
 
-*Interactive Widgets & Live Activity*
-Choose from a wide range of homescreen and lock screen widgets that show statistics or graphs. There are also interactive widgets to disable blocking without opening the app! When you disable blocking, you will even see a Live Activity on your lock screen and Dynamic Island.
+*Interaktive widgeter og Live-aktivitet*
+Velg blant et bredt utvalg av hjemskjerm- og låseskjerm-widgeter som viser statistikk eller grafer. Det finnes også interaktive widgeter som lar deg deaktivere blokkering uten å åpne appen! Når du deaktiverer blokkering, vil du også se en Live-aktivitet på låseskjermen og Dynamic Island.
 
-*Full Ecosystem*
-Purchase the app once and get access to the iOS, watchOS, iPadOS, macOS, and tvOS app.
-
-==
-
-iPhone, iPad, macOS features:
-- Disable Pi-hole blocking
-- View basic & advanced statistics
-- Add domains to your whitelist or blacklist (in bulk)
-- One-tap blocking of entire services
-- Export your list entries
-- Sync list entries between two instances
-- Full Query Log with search & filters
-- Live Log which shows queries in real-time
-- Manage Local DNS & CNAME records
-- Support for up to 4 Pi-hole instances with combined statistics and queries
-- Support for scanning Pi-hole token QR code
-- Support for SSL and reverse proxies
-- Interactive widgets & Live Activity
-- Siri Shortcuts & Quick Action
-- Share Extension for quick white/blacklisting
-- VoiceOver support
-- FaceID/TouchID lock
-- Dark Mode, custom color schemes, alternative app icons
-- Optimised design for iPadOS & macOS
-- Clean and modern 100% SwiftUI design
-
-Apple Watch features:
-- Disable Pi-hole blocking
-- Change Blocked Services settings
-- View basic statistics
-- View top lists
-- Complications
-- Support for the Smart Stack
-
-Apple TV features:
-- View basic statistics
-- Disable Pi-hole blocking
-- Require Passcode on Disable
-
-Statistics:
-- Total Queries
-- Queries/Percentage Blocked
-- Blocklist + Gravity Last Updated
-- Temperature & Memory Usage
-- Graph Queries Overtime
-- Top Allowed Domains
-- Top Blocked Domains
-- Top Clients
-- Unique Domains/Clients
-- Clients Ever Seen
-- Queries Per Domain/Client
-- Query Types
-- Forward Destinations
-- Pi-hole Version
-- API Info
-- DNS Cache
-- Database Size
-
-* The in-app-purchases are only there for the Tip Jar, to support future development of the app. This is completely optional.
+*Fullt økosystem*
+Kjøp appen én gang og få tilgang til iOS-, watchOS-, iPadOS-, macOS- og tvOS-appen.
 
 ==
 
-Note: 
-You need at least one working Pi-hole instance running on another device for this app to function and you must use Pi-hole Version 5.17 or up. Find out more about Pi-hole at https://pi-hole.net/.
+iPhone-, iPad-, macOS-funksjoner:
+- Deaktiver Pi-hole-blokkering
+- Se grunnleggende og avansert statistikk
+- Legg til domener i tillat- eller nektliste (i bulk)
+- Én-trykks blokkering av hele tjenester
+- Eksporter listeoppføringer
+- Synkroniser listeoppføringer mellom to instanser
+- Full spørringslogg med søk og filtre
+- Live Logg som viser spørringer i sanntid
+- Administrer lokal DNS og CNAME-oppføringer
+- Støtte for opptil 4 Pi-hole-instanser med kombinert statistikk og spørringer
+- Støtte for skanning av Pi-hole token QR-kode
+- Støtte for SSL og reverse proxyer
+- Interaktive widgeter og Live-aktivitet
+- Siri-snarveier og Quick Action
+- Share Extension for rask tillat-/nektlisting
+- VoiceOver-støtte
+- FaceID/TouchID-lås
+- Mørk modus, tilpassede fargeskjemaer, alternative appikoner
+- Optimalisert design for iPadOS og macOS
+- Ren og moderne 100 % SwiftUI-design
+
+Apple Watch-funksjoner:
+- Deaktiver Pi-hole-blokkering
+- Endre innstillinger for blokkerte tjenester
+- Se grunnleggende statistikk
+- Se topplister
+- Komplikasjoner
+- Støtte for Smart Stack
+
+Apple TV-funksjoner:
+- Se grunnleggende statistikk
+- Deaktiver Pi-hole-blokkering
+- Krev passkode ved deaktivering
+
+Statistikk:
+- Totale spørringer
+- Spørringer/andel blokkert
+- Blokkliste + Gravity sist oppdatert
+- Temperatur og minnebruk
+- Graf over spørringer over tid
+- Topp tillatte domener
+- Topp blokkerte domener
+- Toppklienter
+- Unike domener/klienter
+- Klienter sett noensinne
+- Spørringer per domene/klient
+- Spørringstyper
+- Videresendingsdestinasjoner
+- Pi-hole-versjon
+- API-info
+- DNS-cache
+- Databasestørrelse
+
+* Kjøp i appen er kun der for Tipskrukken, for å støtte videre utvikling av appen. Dette er helt valgfritt.
+
+==
+
+Merk:
+Du trenger minst én fungerende Pi-hole-instans som kjører på en annen enhet for at appen skal fungere, og du må bruke Pi-hole versjon 5.17 eller nyere. Finn ut mer om Pi-hole på https://pi-hole.net/.
