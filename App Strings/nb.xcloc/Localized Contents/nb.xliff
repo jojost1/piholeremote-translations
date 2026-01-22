@@ -7,87 +7,87 @@
     <body>
       <trans-unit id="5NF9k6" xml:space="preserve">
         <source>Blocking is disabled.</source>
-        <target>Blokkering er deaktivert.</target>
+        <target state="translated">Blokkering er deaktivert.</target>
         <note/>
       </trans-unit>
       <trans-unit id="5ojS3R" xml:space="preserve">
         <source>Disable Blocking</source>
-        <target>Deaktiver blokkering</target>
+        <target state="translated">Deaktiver blokkering</target>
         <note/>
       </trans-unit>
       <trans-unit id="9FPMmR" xml:space="preserve">
         <source>${displayName} can’t be negative.</source>
-        <target>${displayName} kan ikke være negativ.</target>
+        <target state="translated">${displayName} kan ikke være negativ.</target>
         <note/>
       </trans-unit>
       <trans-unit id="52ZpIp" xml:space="preserve">
         <source>Enable blocking of all Pi-hole instances.</source>
-        <target>Aktiver blokkering på alle Pi-hole-instansene.</target>
+        <target state="translated">Aktiver blokkering av alle Pi-hole-instanser.</target>
         <note/>
       </trans-unit>
       <trans-unit id="DV9FMe" xml:space="preserve">
         <source>${displayName} can’t be lower than ${minimumValue}.</source>
-        <target>${displayName} kan ikke være lavere enn ${minimumValue}.</target>
+        <target state="translated">${displayName} kan ikke være lavere enn ${minimumValue}.</target>
         <note/>
       </trans-unit>
       <trans-unit id="M5KC9R" xml:space="preserve">
         <source>${displayName} can’t be higher than ${maximumValue}.</source>
-        <target>${displayName} kan ikke være høyere enn ${maximumValue}.</target>
+        <target state="translated">${displayName} kan ikke være høyere enn ${maximumValue}.</target>
         <note/>
       </trans-unit>
       <trans-unit id="NCc7a7" xml:space="preserve">
         <source>Duration (seconds)</source>
-        <target>Varighet (sekunder)</target>
+        <target state="translated">Varighet (sekunder)</target>
         <note/>
       </trans-unit>
       <trans-unit id="ONPW00" xml:space="preserve">
         <source>Something went wrong.</source>
-        <target>Noe gikk galt.</target>
+        <target state="translated">Noe gikk galt.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Q3m6RA" xml:space="preserve">
         <source>Enable Blocking</source>
-        <target>Aktiver blokkering</target>
+        <target state="translated">Aktiver blokkering</target>
         <note/>
       </trans-unit>
       <trans-unit id="ReHHsS" xml:space="preserve">
         <source>For what duration (in seconds)?</source>
-        <target>Hvor lenge (i sekunder)?</target>
+        <target state="translated">For hvilken varighet (i sekunder)?</target>
         <note/>
       </trans-unit>
       <trans-unit id="WEZcVp" xml:space="preserve">
         <source>Something went wrong.</source>
-        <target>Noe gikk galt.</target>
+        <target state="translated">Noe gikk galt.</target>
         <note/>
       </trans-unit>
       <trans-unit id="ZGxE4l" xml:space="preserve">
         <source>Blocking is enabled.</source>
-        <target>Blokkering er aktivert.</target>
+        <target state="translated">Blokkering er aktivert.</target>
         <note/>
       </trans-unit>
       <trans-unit id="bsYmWU" xml:space="preserve">
         <source>Blocking is enabled.</source>
-        <target>Blokkering er aktivert.</target>
+        <target state="translated">Blokkering er aktivert.</target>
         <note/>
       </trans-unit>
       <trans-unit id="fh8rEK" xml:space="preserve">
         <source>Disable blocking of all Pi-hole instances for a certain duration.</source>
-        <target>Deaktiver blokkering på alle Pi-hole-instansene for en bestemt varighet.</target>
+        <target state="translated">Deaktiver blokkering av alle Pi-hole-instanser for en viss periode.</target>
         <note/>
       </trans-unit>
       <trans-unit id="qJR6Qa" xml:space="preserve">
         <source>Result</source>
-        <target>Resultat</target>
+        <target state="translated">Resultat</target>
         <note/>
       </trans-unit>
       <trans-unit id="y2Dkc8" xml:space="preserve">
         <source>Result</source>
-        <target>Resultat</target>
+        <target state="translated">Resultat</target>
         <note/>
       </trans-unit>
       <trans-unit id="zI7r5m" xml:space="preserve">
         <source>Blocking is disabled.</source>
-        <target>Blokkering er deaktivert.</target>
+        <target state="translated">Blokkering er deaktivert.</target>
         <note/>
       </trans-unit>
     </body>
@@ -99,12 +99,10 @@
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Pi-hole Remote Widgets</source>
-        <target>Pi-hole Remote Widgets</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>Pi-hole Remote Widgets Watch</source>
-        <target>Pi-hole Remote Widgets Watch</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -124,7 +122,6 @@
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
         <source>Copyright © 2026 RocketScience. All rights reserved.</source>
-        <target>Copyright © 2026 RocketScience. Alle rettigheter forbeholdt.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
@@ -136,672 +133,538 @@
     <body>
       <trans-unit id=" avg" xml:space="preserve">
         <source> avg</source>
-        <target> snitt</target>
         <note>Small 'average' label shown on the Home-tab when 'Combine' is enabled. The space at the start is intentional.</note>
       </trans-unit>
       <trans-unit id="%@ total" xml:space="preserve">
         <source>%@ total</source>
-        <target>%@ totalt</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@q/min" xml:space="preserve">
         <source>%@q/min</source>
-        <target>%@ spm/min</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld total" xml:space="preserve">
         <source>%lld total</source>
-        <target>%lld totalt</target>
         <note>Displays the number of total clients in the Home-tab 'Clients' card.</note>
       </trans-unit>
       <trans-unit id="AI services" xml:space="preserve">
         <source>AI services</source>
-        <target>AI-tjenester</target>
         <note/>
       </trans-unit>
       <trans-unit id="Active Clients" xml:space="preserve">
         <source>Active Clients</source>
-        <target>Aktive klienter</target>
         <note/>
       </trans-unit>
       <trans-unit id="Active clients: %@" xml:space="preserve">
         <source>Active clients: %@</source>
-        <target>Aktive klienter: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Active clients: %@ out of %@ total" xml:space="preserve">
         <source>Active clients: %1$@ out of %2$@ total</source>
-        <target>Aktive klienter: %1$@ av %2$@ totalt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add 5 minutes" xml:space="preserve">
         <source>Add 5 minutes</source>
-        <target>Legg til 5 minutter</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add your Pi-hole instances on an iOS, iPadOS, or macOS device with version 6.2 or higher and make sure iCloud is enabled." xml:space="preserve">
         <source>Add your Pi-hole instances on an iOS, iPadOS, or macOS device with version 6.2 or higher and make sure iCloud is enabled.</source>
-        <target>Legg til Pi-hole-instansene dine på en iOS-, iPadOS- eller macOS-enhet med versjon 6.2 eller nyere, og sørg for at iCloud er aktivert.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adlists" xml:space="preserve">
         <source>Adlists</source>
-        <target>Adlister</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allow-list" xml:space="preserve">
         <source>Allow-list</source>
-        <target>Tillat-liste</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allowed" xml:space="preserve">
         <source>Allowed</source>
-        <target>Tillatt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allowlist" xml:space="preserve">
         <source>Allowlist</source>
-        <target>Tillatliste</target>
         <note/>
       </trans-unit>
       <trans-unit id="Always Dark" xml:space="preserve">
         <source>Always Dark</source>
-        <target>Alltid mørk</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked" xml:space="preserve">
         <source>Blocked</source>
-        <target>Blokkert</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Deny-list Exact" xml:space="preserve">
         <source>Blocked | Deny-list Exact</source>
-        <target>Blokkert | Deny-liste eksakt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Deny-list Exact (CNAME)" xml:space="preserve">
         <source>Blocked | Deny-list Exact (CNAME)</source>
-        <target>Blokkert | Deny-liste eksakt (CNAME)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Denylist Exact" xml:space="preserve">
         <source>Blocked | Denylist Exact</source>
-        <target>Blokkert | Denylist eksakt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Denylist Exact (CNAME)" xml:space="preserve">
         <source>Blocked | Denylist Exact (CNAME)</source>
-        <target>Blokkert | Denylist eksakt (CNAME)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | External IP" xml:space="preserve">
         <source>Blocked | External IP</source>
-        <target>Blokkert | Ekstern IP</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | External NULL" xml:space="preserve">
         <source>Blocked | External NULL</source>
-        <target>Blokkert | Ekstern NULL</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | External NXRA" xml:space="preserve">
         <source>Blocked | External NXRA</source>
-        <target>Blokkert | Ekstern NXRA</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Gravity" xml:space="preserve">
         <source>Blocked | Gravity</source>
-        <target>Blokkert | Gravity</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Gravity (CNAME)" xml:space="preserve">
         <source>Blocked | Gravity (CNAME)</source>
-        <target>Blokkert | Gravity (CNAME)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Regex" xml:space="preserve">
         <source>Blocked | Regex</source>
-        <target>Blokkert | Regex</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Regex (CNAME)" xml:space="preserve">
         <source>Blocked | Regex (CNAME)</source>
-        <target>Blokkert | Regex (CNAME)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked: %@" xml:space="preserve">
         <source>Blocked: %@</source>
-        <target>Blokkert: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked: %@ (%@)" xml:space="preserve">
         <source>Blocked: %1$@ (%2$@)</source>
-        <target>Blokkert: %1$@ (%2$@)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking is enabled on all instances." xml:space="preserve">
         <source>Blocking is enabled on all instances.</source>
-        <target>Blokkering er aktivert på alle instanser.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking is enabled on instance %@." xml:space="preserve">
         <source>Blocking is enabled on instance %@.</source>
-        <target>Blokkering er aktivert på instans %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking is not enabled on all instances." xml:space="preserve">
         <source>Blocking is not enabled on all instances.</source>
-        <target>Blokkering er ikke aktivert på alle instanser.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking is not enabled on instance %@." xml:space="preserve">
         <source>Blocking is not enabled on instance %@.</source>
-        <target>Blokkering er ikke aktivert på instans %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocklist" xml:space="preserve">
         <source>Blocklist</source>
-        <target>Blokkliste</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocklist: %@" xml:space="preserve">
         <source>Blocklist: %@</source>
-        <target>Blokkliste: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Business &amp; productivity" xml:space="preserve">
         <source>Business &amp; productivity</source>
-        <target>Business og produktivitet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cache" xml:space="preserve">
         <source>Cache</source>
-        <target>Cache</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cache (optimizer)" xml:space="preserve">
         <source>Cache (optimizer)</source>
-        <target>Cache (optimalisering)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cached" xml:space="preserve">
         <source>Cached</source>
-        <target>Bufret</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cached: %@" xml:space="preserve">
         <source>Cached: %@</source>
-        <target>Bufret: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Chart" xml:space="preserve">
         <source>Chart</source>
-        <target>Diagram</target>
         <note/>
       </trans-unit>
       <trans-unit id="Client IP" xml:space="preserve">
         <source>Client IP</source>
-        <target>Klient-IP</target>
         <note/>
       </trans-unit>
       <trans-unit id="Client Name" xml:space="preserve">
         <source>Client Name</source>
-        <target>Klientnavn</target>
         <note/>
       </trans-unit>
       <trans-unit id="Clients" xml:space="preserve">
         <source>Clients</source>
-        <target>Klienter</target>
         <note/>
       </trans-unit>
       <trans-unit id="Combine instances" xml:space="preserve">
         <source>Combine instances</source>
-        <target>Kombiner instanser</target>
         <note/>
       </trans-unit>
       <trans-unit id="Communication" xml:space="preserve">
         <source>Communication</source>
-        <target>Kommunikasjon</target>
         <note/>
       </trans-unit>
       <trans-unit id="Compact mode" xml:space="preserve">
         <source>Compact mode</source>
-        <target>Kompaktmodus</target>
         <note/>
       </trans-unit>
       <trans-unit id="Content delivery networks" xml:space="preserve">
         <source>Content delivery networks</source>
-        <target>Innholdsleveringsnettverk</target>
         <note/>
       </trans-unit>
       <trans-unit id="Control blocking of services on your Pi-hole. (Requires PHR+)" xml:space="preserve">
         <source>Control blocking of services on your Pi-hole. (Requires PHR+)</source>
-        <target>Styr blokkering av tjenester på Pi-hole. (Krever PHR+)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Core" xml:space="preserve">
         <source>Core</source>
-        <target>Core</target>
         <note/>
       </trans-unit>
       <trans-unit id="Core version: %@." xml:space="preserve">
         <source>Core version: %@.</source>
-        <target>Core-versjon: %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
         <source>Date</source>
-        <target>Dato</target>
         <note/>
       </trans-unit>
       <trans-unit id="Dating services" xml:space="preserve">
         <source>Dating services</source>
-        <target>Datingtjenester</target>
         <note/>
       </trans-unit>
       <trans-unit id="Deny-list" xml:space="preserve">
         <source>Deny-list</source>
-        <target>Deny-liste</target>
         <note/>
       </trans-unit>
       <trans-unit id="Denylist" xml:space="preserve">
         <source>Denylist</source>
-        <target>Denyliste</target>
         <note/>
       </trans-unit>
       <trans-unit id="Domain" xml:space="preserve">
         <source>Domain</source>
-        <target>Domene</target>
         <note/>
       </trans-unit>
       <trans-unit id="Domains" xml:space="preserve">
         <source>Domains</source>
-        <target>Domener</target>
         <note/>
       </trans-unit>
       <trans-unit id="Duration" xml:space="preserve">
         <source>Duration</source>
-        <target>Varighet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable Blocking" xml:space="preserve">
         <source>Enable Blocking</source>
-        <target>Aktiver blokkering</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable blocking" xml:space="preserve">
         <source>Enable blocking</source>
-        <target>Aktiver blokkering</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable to block the service, disable to unblock it." xml:space="preserve">
         <source>Enable to block the service, disable to unblock it.</source>
-        <target>Aktiver for å blokkere tjenesten, deaktiver for å oppheve blokkeringen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Exact" xml:space="preserve">
         <source>Exact</source>
-        <target>Eksakt</target>
         <note/>
       </trans-unit>
       <trans-unit id="FTL" xml:space="preserve">
         <source>FTL</source>
-        <target>FTL</target>
         <note/>
       </trans-unit>
       <trans-unit id="FTL version: %@." xml:space="preserve">
         <source>FTL version: %@.</source>
-        <target>FTL-versjon: %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="File hosting" xml:space="preserve">
         <source>File hosting</source>
-        <target>Filhosting</target>
         <note/>
       </trans-unit>
       <trans-unit id="Forwarded" xml:space="preserve">
         <source>Forwarded</source>
-        <target>Videresendt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Forwarded: %@" xml:space="preserve">
         <source>Forwarded: %@</source>
-        <target>Videresendt: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Gambling &amp; betting" xml:space="preserve">
         <source>Gambling &amp; betting</source>
-        <target>Pengespill og betting</target>
         <note/>
       </trans-unit>
       <trans-unit id="Gaming" xml:space="preserve">
         <source>Gaming</source>
-        <target>Spill</target>
         <note/>
       </trans-unit>
       <trans-unit id="Get Pi-hole Blocking Status" xml:space="preserve">
         <source>Get Pi-hole Blocking Status</source>
-        <target>Hent Pi-hole-blokkeringsstatus</target>
         <note/>
       </trans-unit>
       <trans-unit id="Get blocking status for ${instance}" xml:space="preserve">
         <source>Get blocking status for ${instance}</source>
-        <target>Hent blokkeringsstatus for ${instance}</target>
         <note/>
       </trans-unit>
       <trans-unit id="Get the blocking status of your Pi-hole. Returns 'true' is blocking is enabled, otherwise returns 'false'. If you select 'All Instances', this will only return 'true' if blocking is enabled on all instances." xml:space="preserve">
         <source>Get the blocking status of your Pi-hole. Returns 'true' is blocking is enabled, otherwise returns 'false'. If you select 'All Instances', this will only return 'true' if blocking is enabled on all instances.</source>
-        <target>Henter blokkeringsstatusen for Pi-hole. Returnerer 'true' hvis blokkering er aktivert, ellers 'false'. Hvis du velger 'All Instances', returneres 'true' bare hvis blokkering er aktivert på alle instanser.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Home" xml:space="preserve">
         <source>Home</source>
-        <target>Hjem</target>
         <note/>
       </trans-unit>
       <trans-unit id="In Progress" xml:space="preserve">
         <source>In Progress</source>
-        <target>Pågår</target>
         <note/>
       </trans-unit>
       <trans-unit id="Indefinitely" xml:space="preserve">
         <source>Indefinitely</source>
-        <target>Ubestemt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Info" xml:space="preserve">
         <source>Info</source>
-        <target>Info</target>
         <note/>
       </trans-unit>
       <trans-unit id="Instance" xml:space="preserve">
         <source>Instance</source>
-        <target>Instans</target>
         <note/>
       </trans-unit>
       <trans-unit id="Instances" xml:space="preserve">
         <source>Instances</source>
-        <target>Instanser</target>
         <note/>
       </trans-unit>
       <trans-unit id="Last Updated" xml:space="preserve">
         <source>Last Updated</source>
-        <target>Sist oppdatert</target>
         <note/>
       </trans-unit>
       <trans-unit id="Media sharing" xml:space="preserve">
         <source>Media sharing</source>
-        <target>Mediedeling</target>
         <note/>
       </trans-unit>
       <trans-unit id="Multiple" xml:space="preserve">
         <source>Multiple</source>
-        <target>Flere</target>
         <note/>
       </trans-unit>
       <trans-unit id="No Instances" xml:space="preserve">
         <source>No Instances</source>
-        <target>Ingen instanser</target>
         <note/>
       </trans-unit>
       <trans-unit id="No connection" xml:space="preserve">
         <source>No connection</source>
-        <target>Ingen tilkobling</target>
         <note/>
       </trans-unit>
       <trans-unit id="Only visible if 'Combine instances' is turned off." xml:space="preserve">
         <source>Only visible if 'Combine instances' is turned off.</source>
-        <target>Bare synlig hvis 'Kombiner instanser' er slått av.</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHR+ is required to use this feature." xml:space="preserve">
         <source>PHR+ is required to use this feature.</source>
-        <target>PHR+ kreves for å bruke denne funksjonen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pi-hole Remote" xml:space="preserve">
         <source>Pi-hole Remote</source>
-        <target>Pi-hole Remote</target>
         <note/>
       </trans-unit>
       <trans-unit id="Queries" xml:space="preserve">
         <source>Queries</source>
-        <target>Forespørsler</target>
         <note/>
       </trans-unit>
       <trans-unit id="Queries: %@" xml:space="preserve">
         <source>Queries: %@</source>
-        <target>Forespørsler: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Query Types" xml:space="preserve">
         <source>Query Types</source>
-        <target>Forespørselstyper</target>
         <note/>
       </trans-unit>
       <trans-unit id="Refreshing" xml:space="preserve">
         <source>Refreshing</source>
-        <target>Oppdaterer</target>
         <note/>
       </trans-unit>
       <trans-unit id="RegEx" xml:space="preserve">
         <source>RegEx</source>
-        <target>RegEx</target>
         <note/>
       </trans-unit>
       <trans-unit id="Retried" xml:space="preserve">
         <source>Retried</source>
-        <target>Prøvd på nytt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Retried | DNSSEC" xml:space="preserve">
         <source>Retried | DNSSEC</source>
-        <target>Prøvd på nytt | DNSSEC</target>
         <note/>
       </trans-unit>
       <trans-unit id="Selected" xml:space="preserve">
         <source>Selected</source>
-        <target>Valgt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Service" xml:space="preserve">
         <source>Service</source>
-        <target>Tjeneste</target>
         <note/>
       </trans-unit>
       <trans-unit id="Services" xml:space="preserve">
         <source>Services</source>
-        <target>Tjenester</target>
         <note/>
       </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
         <source>Settings</source>
-        <target>Innstillinger</target>
         <note/>
       </trans-unit>
       <trans-unit id="Shopping" xml:space="preserve">
         <source>Shopping</source>
-        <target>Shopping</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show Blocklist Last Updated" xml:space="preserve">
         <source>Show Blocklist Last Updated</source>
-        <target>Vis sist oppdatert blokkliste</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show chart" xml:space="preserve">
         <source>Show chart</source>
-        <target>Vis diagram</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show hostname" xml:space="preserve">
         <source>Show hostname</source>
-        <target>Vis vertsnavn</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show legend" xml:space="preserve">
         <source>Show legend</source>
-        <target>Vis forklaring</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show metrics" xml:space="preserve">
         <source>Show metrics</source>
-        <target>Vis måleverdier</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show version" xml:space="preserve">
         <source>Show version</source>
-        <target>Vis versjon</target>
         <note/>
       </trans-unit>
       <trans-unit id="Social networks" xml:space="preserve">
         <source>Social networks</source>
-        <target>Sosiale nettverk</target>
         <note/>
       </trans-unit>
       <trans-unit id="Software &amp; updates" xml:space="preserve">
         <source>Software &amp; updates</source>
-        <target>Programvare og oppdateringer</target>
         <note/>
       </trans-unit>
       <trans-unit id="Something went wrong." xml:space="preserve">
         <source>Something went wrong.</source>
-        <target>Noe gikk galt.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Something went wrong: %@" xml:space="preserve">
         <source>Something went wrong: %@</source>
-        <target>Noe gikk galt: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Special Domain" xml:space="preserve">
         <source>Special Domain</source>
-        <target>Spesielt domene</target>
         <note/>
       </trans-unit>
       <trans-unit id="Specify which group(s) to control." xml:space="preserve">
         <source>Specify which group(s) to control.</source>
-        <target>Angi hvilke gruppe(r) som skal styres.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Specify which instance(s) to check." xml:space="preserve">
         <source>Specify which instance(s) to check.</source>
-        <target>Angi hvilke instans(er) som skal sjekkes.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Specify which instance(s) to control." xml:space="preserve">
         <source>Specify which instance(s) to control.</source>
-        <target>Angi hvilke instans(er) som skal styres.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Specify which service(s) to toggle." xml:space="preserve">
         <source>Specify which service(s) to toggle.</source>
-        <target>Angi hvilke tjeneste(r) som skal slås av/på.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Statistics" xml:space="preserve">
         <source>Statistics</source>
-        <target>Statistikk</target>
         <note/>
       </trans-unit>
       <trans-unit id="Streaming services" xml:space="preserve">
         <source>Streaming services</source>
-        <target>Strømmetjenester</target>
         <note/>
       </trans-unit>
       <trans-unit id="Successfully disabled blocking for %@." xml:space="preserve">
         <source>Successfully disabled blocking for %@.</source>
-        <target>Blokkering for %@ ble deaktivert.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Successfully enabled blocking for %@." xml:space="preserve">
         <source>Successfully enabled blocking for %@.</source>
-        <target>Blokkering for %@ ble aktivert.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Target Groups" xml:space="preserve">
         <source>Target Groups</source>
-        <target>Målgrupper</target>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle Blocked Services" xml:space="preserve">
         <source>Toggle Blocked Services</source>
-        <target>Slå av/på blokkerte tjenester</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Clients" xml:space="preserve">
         <source>Top Clients</source>
-        <target>Toppklienter</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Domains" xml:space="preserve">
         <source>Top Domains</source>
-        <target>Toppdomener</target>
         <note/>
       </trans-unit>
       <trans-unit id="Total" xml:space="preserve">
         <source>Total</source>
-        <target>Totalt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Total: %@" xml:space="preserve">
         <source>Total: %@</source>
-        <target>Totalt: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>Unknown</source>
-        <target>Ukjent</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unknown error." xml:space="preserve">
         <source>Unknown error.</source>
-        <target>Ukjent feil.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Until tomorrow" xml:space="preserve">
         <source>Until tomorrow</source>
-        <target>Til i morgen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Update available for Core: %@. Select for changelog." xml:space="preserve">
         <source>Update available for Core: %@. Select for changelog.</source>
-        <target>Oppdatering tilgjengelig for Core: %@. Velg for endringslogg.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Update available for FTL: %@. Select for changelog." xml:space="preserve">
         <source>Update available for FTL: %@. Select for changelog.</source>
-        <target>Oppdatering tilgjengelig for FTL: %@. Velg for endringslogg.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Update available for Web: %@. Select for changelog." xml:space="preserve">
         <source>Update available for Web: %@. Select for changelog.</source>
-        <target>Oppdatering tilgjengelig for Web: %@. Velg for endringslogg.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Update available: %@." xml:space="preserve">
         <source>Update available: %@.</source>
-        <target>Oppdatering tilgjengelig: %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Upstream Servers" xml:space="preserve">
         <source>Upstream Servers</source>
-        <target>Upstream-servere</target>
         <note/>
       </trans-unit>
       <trans-unit id="Version" xml:space="preserve">
         <source>Version</source>
-        <target>Versjon</target>
         <note/>
       </trans-unit>
       <trans-unit id="Web" xml:space="preserve">
         <source>Web</source>
-        <target>Web</target>
         <note/>
       </trans-unit>
       <trans-unit id="Web version: %@." xml:space="preserve">
         <source>Web version: %@.</source>
-        <target>Web-versjon: %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="appintent_disableblocking_description" xml:space="preserve">
@@ -1309,30 +1172,37 @@
     <body>
       <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
         <source>Pi-hole Remote</source>
+        <target state="translated">Pi-hole Fjernstyring</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="Disable All" xml:space="preserve">
         <source>Disable All</source>
+        <target state="translated">Deaktiver alle</target>
         <note/>
       </trans-unit>
       <trans-unit id="For 1 minute" xml:space="preserve">
         <source>For 1 minute</source>
+        <target state="translated">I 1 minutt</target>
         <note/>
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
         <source>Pi-hole Remote uses your camera to scan your Pi-hole API token QR-code.</source>
+        <target state="translated">Pi-hole Fjernstyring bruker kameraet ditt for å skanne QR-koden til Pi-hole API-tokenet ditt.</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
         <source>Pi-hole Remote uses Face ID to unlock the app.</source>
+        <target state="translated">Pi-hole Fjernstyring bruker Face ID for å låse opp appen.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" translate="no" xml:space="preserve">
         <source>Copyright © 2026 RocketScience IT</source>
+        <target state="translated">Opphavsrett © 2026 RocketScience IT</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
         <source>Pi-hole Remote uses the local network to connect with your Pi-hole instances.</source>
+        <target state="translated">Pi-hole Fjernstyring bruker det lokale nettverket for å koble til Pi-hole-instanser.</target>
         <note>Privacy - Local Network Usage Description</note>
       </trans-unit>
     </body>
@@ -1348,17 +1218,17 @@
       </trans-unit>
       <trans-unit id=" avg" xml:space="preserve">
         <source> avg</source>
-        <target> snitt</target>
+        <target state="needs-translation"/>
         <note>Small 'average' label shown on the Home-tab when 'Combine' is enabled. The space at the start is intentional.</note>
       </trans-unit>
       <trans-unit id="# queries" xml:space="preserve">
         <source># queries</source>
-        <target># forespørsler</target>
+        <target state="translated"># forespørsler</target>
         <note>Option for the blocking-card, used on the Preferences &gt; Home screen.</note>
       </trans-unit>
       <trans-unit id="% blocked" xml:space="preserve">
         <source>% blocked</source>
-        <target>% blokkert</target>
+        <target state="translated">% blokkert</target>
         <note>Option for the blocking-card, used on the Preferences &gt; Home screen.</note>
       </trans-unit>
       <trans-unit id="%@ %@" translate="no" xml:space="preserve">
@@ -1367,122 +1237,121 @@
       </trans-unit>
       <trans-unit id="%@ OFF" xml:space="preserve">
         <source>%@ OFF</source>
-        <target>%@ AV</target>
+        <target state="translated">%@ AV</target>
         <note>Used on the PHR+ purchase screen to show a discount percentage, intentionally uppercased.</note>
       </trans-unit>
       <trans-unit id="%@ active" xml:space="preserve">
         <source>%@ active</source>
-        <target>%@ aktive</target>
+        <target state="translated">%@ aktiv</target>
         <note>Apple Watch, displays active clients.</note>
       </trans-unit>
       <trans-unit id="%@ active / %@ total" xml:space="preserve">
         <source>%1$@ active / %2$@ total</source>
-        <target>%1$@ aktive / %2$@ totalt</target>
+        <target state="translated">%1$@ aktiv / %2$@ totalt</target>
         <note>Displays number of active and total clients when you tap the clients number on Home when 'Combine' is enabled.</note>
       </trans-unit>
       <trans-unit id="%@ entries" xml:space="preserve">
         <source>%@ entries</source>
-        <target>%@ oppføringer</target>
+        <target state="translated">%@ oppføringer</target>
         <note>Displays the number of network devices on the network device overview.</note>
       </trans-unit>
       <trans-unit id="%@ ms" xml:space="preserve">
         <source>%@ ms</source>
-        <target>%@ ms</target>
+        <target state="translated">%@ ms</target>
         <note>Displays for example '12.34' ms on a query log or live log row.</note>
       </trans-unit>
       <trans-unit id="%@ queries per minute" xml:space="preserve">
         <source>%@ queries per minute</source>
-        <target>%@ forespørsler per minutt</target>
+        <target state="translated">%@ forespørsler per minutt</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ total" xml:space="preserve">
         <source>%@ total</source>
-        <target>%@ totalt</target>
+        <target state="translated">%@ totalt</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@, %lld regex entries" xml:space="preserve">
         <source>%1$@, %2$lld regex entries</source>
-        <target>%1$@, %2$lld regex-oppføringer</target>
+        <target state="translated">%1$@, %2$lld regex-oppføringer</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@q/min" xml:space="preserve">
         <source>%@q/min</source>
-        <target>%@ spm/min</target>
+        <target state="translated">%@f/min</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld regex entries|==|plural.one" xml:space="preserve">
         <source>%lld regex entry</source>
-        <target>%lld regex-oppføring</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld regex entries|==|plural.other" xml:space="preserve">
         <source>%lld regex entries</source>
-        <target>%lld regex-oppføringer</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld total" xml:space="preserve">
         <source>%lld total</source>
-        <target>%lld totalt</target>
+        <target state="translated">%lld totalt</target>
         <note>Displays the number of total clients in the Home-tab 'Clients' card.</note>
       </trans-unit>
       <trans-unit id="'Add 5 min' feature" xml:space="preserve">
         <source>'Add 5 min' feature</source>
-        <target>'Legg til 5 min'-funksjon</target>
+        <target state="translated">'Legg til 5 min' funksjon</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="(Disabled)" xml:space="preserve">
         <source>(Disabled)</source>
-        <target>(Deaktivert)</target>
+        <target state="translated">(Deaktivert)
+</target>
         <note>Displayed next to an adlist when it's disabled.</note>
       </trans-unit>
       <trans-unit id="0 decimals" xml:space="preserve">
         <source>0 decimals</source>
-        <target>0 desimaler</target>
+        <target state="translated">0 desimaler</target>
         <note>Displays in the metrics decimals picker.</note>
       </trans-unit>
       <trans-unit id="1 decimal" xml:space="preserve">
         <source>1 decimal</source>
-        <target>1 desimal</target>
+        <target state="translated">1 desimal</target>
         <note>Displays in the metrics decimals picker.</note>
       </trans-unit>
       <trans-unit id="1. Open the Pi-hole web interface" xml:space="preserve">
         <source>1. Open the Pi-hole web interface</source>
-        <target>1. Åpne Pi-hole-nettgrensesnittet</target>
+        <target state="translated">1. Åpne Pi-hole webgrensesnittet</target>
         <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
       </trans-unit>
       <trans-unit id="1h" xml:space="preserve">
         <source>1h</source>
-        <target>1 t</target>
+        <target state="translated">1t</target>
         <note>Placeholder for the DHCP lease time textfield on the DHCP settings screen.</note>
       </trans-unit>
       <trans-unit id="2 decimals" xml:space="preserve">
         <source>2 decimals</source>
-        <target>2 desimaler</target>
+        <target state="translated">2 desimaler</target>
         <note>Displays in the metrics decimals picker.</note>
       </trans-unit>
       <trans-unit id="2. In the sidebar, go to **Settings &gt; System**" xml:space="preserve">
         <source>2. In the sidebar, go to **Settings &gt; System**</source>
-        <target>2. Gå til **Settings &gt; System** i sidepanelet</target>
+        <target state="translated">2. I sidepanelet, gå til **Innstillinger &gt; System**</target>
         <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
       </trans-unit>
       <trans-unit id="3. In the top-right corner, turn on **Expert**" xml:space="preserve">
         <source>3. In the top-right corner, turn on **Expert**</source>
-        <target>3. Øverst til høyre, slå på **Expert**</target>
+        <target state="translated">3. Øverst til høyre, slå på **Ekspert**</target>
         <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
       </trans-unit>
       <trans-unit id="4. Then, go to **Settings &gt; All settings** in the sidebar." xml:space="preserve">
         <source>4. Then, go to **Settings &gt; All settings** in the sidebar.</source>
-        <target>4. Gå deretter til **Settings &gt; All settings** i sidepanelet.</target>
+        <target state="translated">4. Gå deretter til **Innstillinger &gt; Alle innstillinger** i sidepanelet.</target>
         <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
       </trans-unit>
       <trans-unit id="5. Select **Webserver and API**, and scroll to the very bottom of the page" xml:space="preserve">
         <source>5. Select **Webserver and API**, and scroll to the very bottom of the page</source>
-        <target>5. Velg **Webserver and API**, og scroll helt til bunnen av siden</target>
+        <target state="translated">5. Velg **Webserver og API**, og bla helt ned til bunnen av siden.</target>
         <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
       </trans-unit>
       <trans-unit id="6. Under the card labeled `webserver.api.temp.unit`, choose your preferred temperature unit" xml:space="preserve">
         <source>6. Under the card labeled `webserver.api.temp.unit`, choose your preferred temperature unit</source>
-        <target>6. Under kortet merket `webserver.api.temp.unit`, velg ønsket temperatureinhet</target>
+        <target state="translated">6. Under kortet merket `webserver.api.temp.unit`, velg ønsket temperaturnhet.</target>
         <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
       </trans-unit>
       <trans-unit id="60" translate="no" xml:space="preserve">
@@ -1503,72 +1372,70 @@
       </trans-unit>
       <trans-unit id="@PiHoleRemote on X" xml:space="preserve">
         <source>@PiHoleRemote on X</source>
-        <target>@PiHoleRemote på X</target>
+        <target state="translated">@PiHoleRemote på X</target>
         <note>Displayed on the support screen.</note>
       </trans-unit>
       <trans-unit id="A **one time** purchase" xml:space="preserve">
         <source>A **one time** purchase</source>
-        <target>Et **engangskjøp**</target>
+        <target state="translated">Et **engangskjøp**</target>
         <note/>
       </trans-unit>
       <trans-unit id="A monthly recurring payment" xml:space="preserve">
         <source>A monthly recurring payment</source>
-        <target>En månedlig, gjentakende betaling</target>
+        <target state="translated">En månedlig tilbakevendende betaling</target>
         <note/>
       </trans-unit>
       <trans-unit id="A yearly recurring payment" xml:space="preserve">
         <source>A yearly recurring payment</source>
-        <target>En årlig, gjentakende betaling</target>
+        <target state="translated">En årlig tilbakevendende betaling</target>
         <note/>
       </trans-unit>
       <trans-unit id="ACTIVE" xml:space="preserve">
         <source>ACTIVE</source>
-        <target>AKTIV</target>
+        <target state="translated">AKTIV</target>
         <note/>
       </trans-unit>
       <trans-unit id="AI services" xml:space="preserve">
         <source>AI services</source>
-        <target>AI-tjenester</target>
         <note/>
       </trans-unit>
       <trans-unit id="API path" xml:space="preserve">
         <source>API path</source>
-        <target>API-sti</target>
         <note/>
       </trans-unit>
       <trans-unit id="Acknowledgements" xml:space="preserve">
         <source>Acknowledgements</source>
-        <target>Takk</target>
+        <target state="translated">Anerkjennelser</target>
         <note/>
       </trans-unit>
       <trans-unit id="Action" xml:space="preserve">
         <source>Action</source>
-        <target>Handling</target>
+        <target state="translated">Handling</target>
         <note/>
       </trans-unit>
       <trans-unit id="Actions" xml:space="preserve">
         <source>Actions</source>
-        <target>Handlinger</target>
+        <target state="translated">Handlinger</target>
         <note>Displayed on the support screen.</note>
       </trans-unit>
       <trans-unit id="Active Clients" xml:space="preserve">
         <source>Active Clients</source>
-        <target>Aktive klienter</target>
+        <target state="translated">Aktive klienter</target>
         <note/>
       </trans-unit>
       <trans-unit id="Active DHCP Leases" xml:space="preserve">
         <source>Active DHCP Leases</source>
-        <target>Aktive DHCP-leaser</target>
+        <target state="translated">Aktive DHCP-leieavtaler</target>
         <note/>
       </trans-unit>
       <trans-unit id="Active clients: %@" xml:space="preserve">
         <source>Active clients: %@</source>
-        <target>Aktive klienter: %@</target>
+        <target state="translated">Aktive klienter: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Active clients: %@ out of %@ total" xml:space="preserve">
         <source>Active clients: %1$@ out of %2$@ total</source>
-        <target>Aktive klienter: %1$@ av %2$@ totalt</target>
+        <target state="translated">Aktive klienter: %1$@ av %2$@ totalt</target>
         <note/>
       </trans-unit>
       <trans-unit id="AdGuard Home Remote" translate="no" xml:space="preserve">
@@ -1577,567 +1444,481 @@
       </trans-unit>
       <trans-unit id="Add" xml:space="preserve">
         <source>Add</source>
-        <target>Legg til</target>
+        <target state="translated">Legg til</target>
         <note>Used in the Settings-tab in the 'instances' section header.</note>
       </trans-unit>
       <trans-unit id="Add '%@'" xml:space="preserve">
         <source>Add '%@'</source>
-        <target>Legg til '%@'</target>
+        <target state="translated">Legg til '%@'</target>
         <note>Used on the 'Add new disable preset' screen, e.g. 'Add 30 seconds'</note>
       </trans-unit>
       <trans-unit id="Add 5 minutes" xml:space="preserve">
         <source>Add 5 minutes</source>
-        <target>Legg til 5 minutter</target>
+        <target state="translated">Legg til 5 minutter</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add Custom Services" xml:space="preserve">
         <source>Add Custom Services</source>
-        <target>Legg til egendefinerte tjenester</target>
+        <target state="translated">Legg til egendefinerte tjenester</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add Instance" xml:space="preserve">
         <source>Add Instance</source>
-        <target>Legg til instans</target>
+        <target state="translated">Legg til instans</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add TTL" xml:space="preserve">
         <source>Add TTL</source>
-        <target>Legg til TTL</target>
+        <target state="translated">Legg til TTL</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add a comment..." xml:space="preserve">
         <source>Add a comment...</source>
-        <target>Legg til en kommentar...</target>
+        <target state="translated">Legg til en kommentar...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add all as wildcard" xml:space="preserve">
         <source>Add all as wildcard</source>
-        <target>Legg til alle som jokertegn</target>
+        <target state="translated">Legg til alle som jokertegn</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add another" xml:space="preserve">
         <source>Add another</source>
-        <target>Legg til en til</target>
+        <target state="translated">Legg til en til</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add another group" xml:space="preserve">
         <source>Add another group</source>
-        <target>Legg til en gruppe til</target>
+        <target state="translated">Legg til en ny gruppe</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add as wildcard" xml:space="preserve">
         <source>Add as wildcard</source>
-        <target>Legg til som jokertegn</target>
+        <target state="translated">Legg til som jokertegn</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add custom header" xml:space="preserve">
         <source>Add custom header</source>
-        <target>Legg til egendefinert header</target>
+        <target state="translated">Legg til egendefinert overskrift</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add new adlist" xml:space="preserve">
         <source>Add new adlist</source>
-        <target>Legg til ny adliste</target>
+        <target state="translated">Legg til ny annonse-liste</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add new adlist or domain" xml:space="preserve">
         <source>Add new adlist or domain</source>
-        <target>Legg til ny adliste eller domene</target>
+        <target state="translated">Legg til ny annonse-liste eller domene</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add new client" xml:space="preserve">
         <source>Add new client</source>
-        <target>Legg til ny klient</target>
+        <target state="translated">Legg til ny klient</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add new domain" xml:space="preserve">
         <source>Add new domain</source>
-        <target>Legg til nytt domene</target>
+        <target state="translated">Legg til nytt domene</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add new group" xml:space="preserve">
         <source>Add new group</source>
-        <target>Legg til ny gruppe</target>
+        <target state="translated">Legg til ny gruppe</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add new group or client" xml:space="preserve">
         <source>Add new group or client</source>
-        <target>Legg til ny gruppe eller klient</target>
+        <target state="translated">Legg til ny gruppe eller klient</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add new preset" xml:space="preserve">
         <source>Add new preset</source>
-        <target>Legg til ny forhåndsinnstilling</target>
+        <target state="translated">Legg til ny forhåndsinnstilling</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Add to allow-list..." xml:space="preserve">
         <source>Add to allow-list...</source>
-        <target>Legg til i tillat-liste...</target>
+        <target state="translated">Legg til i tillatelseslisten...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add to allowlist..." xml:space="preserve">
         <source>Add to allowlist...</source>
-        <target>Legg til i tillatliste...</target>
+        <target state="translated">Legg til i tillatelseslisten...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add to deny-list..." xml:space="preserve">
         <source>Add to deny-list...</source>
-        <target>Legg til i deny-liste...</target>
+        <target state="translated">Legg til i blokklisten...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add to denylist..." xml:space="preserve">
         <source>Add to denylist...</source>
-        <target>Legg til i denylist...</target>
+        <target state="translated">Legg til i blokklisten...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add to list" xml:space="preserve">
         <source>Add to list</source>
-        <target>Legg til i liste</target>
+        <target state="translated">Legg til i listen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add your Pi-hole instances to control them and view statistics." xml:space="preserve">
         <source>Add your Pi-hole instances to control them and view statistics.</source>
-        <target>Legg til Pi-hole-instansene dine for å styre dem og se statistikk.</target>
+        <target state="translated">Legg til Pi-hole-instanser for å kontrollere dem og se statistikk.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Added on" xml:space="preserve">
         <source>Added on</source>
-        <target>Lagt til den</target>
+        <target state="translated">Lagt til den</target>
         <note/>
       </trans-unit>
       <trans-unit id="Added to all new groups." xml:space="preserve">
         <source>Added to all new groups.</source>
-        <target>Lagt til i alle nye grupper.</target>
+        <target state="translated">Lagt til i alle nye grupper.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adding Custom Blocked Services requires PHR+" xml:space="preserve">
         <source>Adding Custom Blocked Services requires PHR+</source>
-        <target>Å legge til egendefinerte blokkerte tjenester krever PHR+</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adding new presets requires PHR+." xml:space="preserve">
         <source>Adding new presets requires PHR+.</source>
-        <target>Å legge til nye forhåndsinnstillinger krever PHR+.</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Adding/removing local CNAME records will restart the DNS server." xml:space="preserve">
         <source>Adding/removing local CNAME records will restart the DNS server.</source>
-        <target>Å legge til/fjerne lokale CNAME-oppføringer vil starte DNS-serveren på nytt.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adding/removing local DNS records will flush the cache but does not require a restart of the DNS server." xml:space="preserve">
         <source>Adding/removing local DNS records will flush the cache but does not require a restart of the DNS server.</source>
-        <target>Å legge til/fjerne lokale DNS-oppføringer vil tømme hurtigbufferen, men krever ikke omstart av DNS-serveren.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Additional IPv6 support" xml:space="preserve">
         <source>Additional IPv6 support</source>
-        <target>Ekstra IPv6-støtte</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adds 5 minutes to a disabled-timer." xml:space="preserve">
         <source>Adds 5 minutes to a disabled-timer.</source>
-        <target>Legger til 5 minutter på en deaktiveringstimer.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adlist" xml:space="preserve">
         <source>Adlist</source>
-        <target>Adliste</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adlists" xml:space="preserve">
         <source>Adlists</source>
-        <target>Adlister</target>
         <note>Option for the blocklist-card, used on the Preferences &gt; Home screen.</note>
       </trans-unit>
       <trans-unit id="Advanced" xml:space="preserve">
         <source>Advanced</source>
-        <target>Avansert</target>
         <note/>
       </trans-unit>
       <trans-unit id="Advanced Settings" xml:space="preserve">
         <source>Advanced Settings</source>
-        <target>Avanserte innstillinger</target>
         <note/>
       </trans-unit>
       <trans-unit id="Advertise DNS server multiple times" xml:space="preserve">
         <source>Advertise DNS server multiple times</source>
-        <target>Annonser DNS-server flere ganger</target>
         <note/>
       </trans-unit>
       <trans-unit id="Advertise DNS server multiple times to clients. Some devices will add their own proprietary DNS servers to the list of DNS servers, which can cause issues with Pi-hole. This option will advertise the Pi-hole DNS server multiple times to clients, which should prevent this from happening." xml:space="preserve">
         <source>Advertise DNS server multiple times to clients. Some devices will add their own proprietary DNS servers to the list of DNS servers, which can cause issues with Pi-hole. This option will advertise the Pi-hole DNS server multiple times to clients, which should prevent this from happening.</source>
-        <target>Annonser DNS-serveren flere ganger til klienter. Noen enheter legger til sine egne proprietære DNS-servere i listen over DNS-servere, noe som kan gi problemer med Pi-hole. Dette alternativet annonserer Pi-hole DNS-serveren flere ganger til klientene, noe som bør forhindre dette.</target>
         <note/>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
         <source>All</source>
-        <target>Alle</target>
+        <target state="translated">Alle</target>
         <note/>
       </trans-unit>
       <trans-unit id="All Instances" xml:space="preserve">
         <source>All Instances</source>
-        <target>Alle instanser</target>
         <note/>
       </trans-unit>
       <trans-unit id="All entries" xml:space="preserve">
         <source>All entries</source>
-        <target>Alle oppføringer</target>
         <note/>
       </trans-unit>
       <trans-unit id="All instances" xml:space="preserve">
         <source>All instances</source>
-        <target>Alle instanser</target>
         <note/>
       </trans-unit>
       <trans-unit id="All options allow Family Sharing" xml:space="preserve">
         <source>All options allow Family Sharing</source>
-        <target>Alle alternativer tillater Familiedeling</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="All reverse lookups for private IP ranges (i.e., 192.168.0.x/24, etc.) which are not found in /etc/hosts or the DHCP leases are answered with &quot;no such domain&quot; rather than being forwarded upstream. The set of prefixes affected is the list given in RFC6303." xml:space="preserve">
         <source>All reverse lookups for private IP ranges (i.e., 192.168.0.x/24, etc.) which are not found in /etc/hosts or the DHCP leases are answered with "no such domain" rather than being forwarded upstream. The set of prefixes affected is the list given in RFC6303.</source>
-        <target>Alle omvendte oppslag for private IP-områder (f.eks. 192.168.0.x/24 osv.) som ikke finnes i /etc/hosts eller DHCP-leasene besvares med «no such domain» i stedet for å videresendes oppstrøms. Sett med berørte prefikser er listen gitt i RFC6303.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allow" xml:space="preserve">
         <source>Allow</source>
-        <target>Tillat</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allow only local requests" xml:space="preserve">
         <source>Allow only local requests</source>
-        <target>Tillat kun lokale forespørsler</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allow-list" xml:space="preserve">
         <source>Allow-list</source>
-        <target>Tillat-liste</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allowed" xml:space="preserve">
         <source>Allowed</source>
-        <target>Tillatt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allowlist" xml:space="preserve">
         <source>Allowlist</source>
-        <target>Tillatliste</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allows only queries from devices that are at most one hop away (local devices)" xml:space="preserve">
         <source>Allows only queries from devices that are at most one hop away (local devices)</source>
-        <target>Tillater kun forespørsler fra enheter som er maks ett hopp unna (lokale enheter)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Alphabetically" xml:space="preserve">
         <source>Alphabetically</source>
-        <target>Alfabetisk</target>
         <note/>
       </trans-unit>
       <trans-unit id="Alphabetically (Comments)" xml:space="preserve">
         <source>Alphabetically (Comments)</source>
-        <target>Alfabetisk (kommentarer)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Already in sync." xml:space="preserve">
         <source>Already in sync.</source>
-        <target>Allerede synkronisert.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Always Dark" xml:space="preserve">
         <source>Always Dark</source>
-        <target>Alltid mørk</target>
         <note/>
       </trans-unit>
       <trans-unit id="App Icon" xml:space="preserve">
         <source>App Icon</source>
-        <target>App-ikon</target>
         <note>Displayed on the App Icon Settings screen.</note>
       </trans-unit>
       <trans-unit id="App Tint" xml:space="preserve">
         <source>App Tint</source>
-        <target>App-farge</target>
         <note/>
       </trans-unit>
       <trans-unit id="Application Password" xml:space="preserve">
         <source>Application Password</source>
-        <target>Applikasjonspassord</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete the adlist&#10;%@?" xml:space="preserve">
         <source>Are you sure you want to delete the adlist
 %@?</source>
-        <target>Er du sikker på at du vil slette adlisten
-%@?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete the client '%@'?" xml:space="preserve">
         <source>Are you sure you want to delete the client '%@'?</source>
-        <target>Er du sikker på at du vil slette klienten '%@'?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete the domain&#10;%@?" xml:space="preserve">
         <source>Are you sure you want to delete the domain
 %@?</source>
-        <target>Er du sikker på at du vil slette domenet
-%@?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete the group '%@'?" xml:space="preserve">
         <source>Are you sure you want to delete the group '%@'?</source>
-        <target>Er du sikker på at du vil slette gruppen '%@'?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure you want to discard these changes?" xml:space="preserve">
         <source>Are you sure you want to discard these changes?</source>
-        <target>Er du sikker på at du vil forkaste disse endringene?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure you want to remove %@?" xml:space="preserve">
         <source>Are you sure you want to remove %@?</source>
-        <target>Er du sikker på at du vil fjerne %@?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure you want to remove this instance?" xml:space="preserve">
         <source>Are you sure you want to remove this instance?</source>
-        <target>Er du sikker på at du vil fjerne denne instansen?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
         <source>Are you sure?</source>
-        <target>Er du sikker?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Assigned to %lld groups" xml:space="preserve">
         <source>Assigned to %lld groups</source>
-        <target>Tildelt %lld grupper</target>
         <note>Accessibility label.</note>
       </trans-unit>
       <trans-unit id="Assigning to the default group of all instances." xml:space="preserve">
         <source>Assigning to the default group of all instances.</source>
-        <target>Tildeler til standardgruppen for alle instanser.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Associated IP" xml:space="preserve">
         <source>Associated IP</source>
-        <target>Tilknyttet IP</target>
         <note/>
       </trans-unit>
       <trans-unit id="Authentication" xml:space="preserve">
         <source>Authentication</source>
-        <target>Autentisering</target>
         <note/>
       </trans-unit>
       <trans-unit id="Auto-refresh" xml:space="preserve">
         <source>Auto-refresh</source>
-        <target>Auto-oppdater</target>
         <note/>
       </trans-unit>
       <trans-unit id="Automatically generated" xml:space="preserve">
         <source>Automatically generated</source>
-        <target>Automatisk generert</target>
         <note/>
       </trans-unit>
       <trans-unit id="BETA" xml:space="preserve">
         <source>BETA</source>
-        <target>BETA</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bind only to interface" xml:space="preserve">
         <source>Bind only to interface</source>
-        <target>Bind kun til grensesnitt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Block All" xml:space="preserve">
         <source>Block All</source>
-        <target>Blokker alle</target>
         <note/>
       </trans-unit>
       <trans-unit id="Block clients making more than %@ requests within %@ seconds. " xml:space="preserve">
         <source>Block clients making more than %1$@ requests within %2$@ seconds. </source>
-        <target>Blokker klienter som gjør mer enn %1$@ forespørsler innen %2$@ sekunder. </target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked" xml:space="preserve">
         <source>Blocked</source>
-        <target>Blokkert</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked Services" xml:space="preserve">
         <source>Blocked Services</source>
-        <target>Blokkerte tjenester</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Deny-list Exact" xml:space="preserve">
         <source>Blocked | Deny-list Exact</source>
-        <target>Blokkert | Deny-liste eksakt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Deny-list Exact (CNAME)" xml:space="preserve">
         <source>Blocked | Deny-list Exact (CNAME)</source>
-        <target>Blokkert | Deny-liste eksakt (CNAME)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Denylist Exact" xml:space="preserve">
         <source>Blocked | Denylist Exact</source>
-        <target>Blokkert | Denylist eksakt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Denylist Exact (CNAME)" xml:space="preserve">
         <source>Blocked | Denylist Exact (CNAME)</source>
-        <target>Blokkert | Denylist eksakt (CNAME)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | External IP" xml:space="preserve">
         <source>Blocked | External IP</source>
-        <target>Blokkert | Ekstern IP</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | External NULL" xml:space="preserve">
         <source>Blocked | External NULL</source>
-        <target>Blokkert | Ekstern NULL</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | External NXRA" xml:space="preserve">
         <source>Blocked | External NXRA</source>
-        <target>Blokkert | Ekstern NXRA</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Gravity" xml:space="preserve">
         <source>Blocked | Gravity</source>
-        <target>Blokkert | Gravity</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Gravity (CNAME)" xml:space="preserve">
         <source>Blocked | Gravity (CNAME)</source>
-        <target>Blokkert | Gravity (CNAME)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Regex" xml:space="preserve">
         <source>Blocked | Regex</source>
-        <target>Blokkert | Regex</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Regex (CNAME)" xml:space="preserve">
         <source>Blocked | Regex (CNAME)</source>
-        <target>Blokkert | Regex (CNAME)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked: %@" xml:space="preserve">
         <source>Blocked: %@</source>
-        <target>Blokkert: %@</target>
         <note>Displayed in the simple one-line Lock Screen widget.
 Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Blocked: %@ (%@)" xml:space="preserve">
         <source>Blocked: %1$@ (%2$@)</source>
-        <target>Blokkert: %1$@ (%2$@)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking" xml:space="preserve">
         <source>Blocking</source>
-        <target>Blokkering</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking Enabled" xml:space="preserve">
         <source>Blocking Enabled</source>
-        <target>Blokkering aktivert</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking Notifications" xml:space="preserve">
         <source>Blocking Notifications</source>
-        <target>Blokkeringsvarsler</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking has been re-enabled on all instances." xml:space="preserve">
         <source>Blocking has been re-enabled on all instances.</source>
-        <target>Blokkering er aktivert igjen på alle instanser.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking has been re-enabled." xml:space="preserve">
         <source>Blocking has been re-enabled.</source>
-        <target>Blokkering er aktivert igjen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking is enabled on all instances." xml:space="preserve">
         <source>Blocking is enabled on all instances.</source>
-        <target>Blokkering er aktivert på alle instanser.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking is enabled on instance %@." xml:space="preserve">
         <source>Blocking is enabled on instance %@.</source>
-        <target>Blokkering er aktivert på instans %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking is not enabled on all instances." xml:space="preserve">
         <source>Blocking is not enabled on all instances.</source>
-        <target>Blokkering er ikke aktivert på alle instanser.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking is not enabled on instance %@." xml:space="preserve">
         <source>Blocking is not enabled on instance %@.</source>
-        <target>Blokkering er ikke aktivert på instans %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking-card" xml:space="preserve">
         <source>Blocking-card</source>
-        <target>Blokkerings-kort</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocklist" xml:space="preserve">
         <source>Blocklist</source>
-        <target>Blokkliste</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocklist Management" xml:space="preserve">
         <source>Blocklist Management</source>
-        <target>Blokklisteadministrasjon</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
       <trans-unit id="Blocklist-card tap|==|device.mac" xml:space="preserve">
         <source>Blocklist-card click</source>
-        <target>Blokkliste-kort klikk</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocklist-card tap|==|device.other" xml:space="preserve">
         <source>Blocklist-card tap</source>
-        <target>Blokkliste-kort trykk</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocklist: %@" xml:space="preserve">
         <source>Blocklist: %@</source>
-        <target>Blokkliste: %@</target>
         <note>Displayed in the simple one-line Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Blue" xml:space="preserve">
         <source>Blue</source>
-        <target>Blå</target>
         <note/>
       </trans-unit>
       <trans-unit id="Both" xml:space="preserve">
         <source>Both</source>
-        <target>Begge</target>
         <note/>
       </trans-unit>
       <trans-unit id="Both lists" xml:space="preserve">
         <source>Both lists</source>
-        <target>Begge lister</target>
         <note/>
       </trans-unit>
       <trans-unit id="Brown" xml:space="preserve">
         <source>Brown</source>
-        <target>Brun</target>
         <note/>
       </trans-unit>
       <trans-unit id="Business &amp; productivity" xml:space="preserve">
         <source>Business &amp; productivity</source>
-        <target>Business og produktivitet</target>
         <note/>
       </trans-unit>
       <trans-unit id="CNAME Records" xml:space="preserve">
         <source>CNAME Records</source>
-        <target>CNAME-oppføringer</target>
         <note/>
       </trans-unit>
       <trans-unit id="CNAME:" translate="no" xml:space="preserve">
@@ -2150,281 +1931,224 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Cache" xml:space="preserve">
         <source>Cache</source>
-        <target>Cache</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cache (optimizer)" xml:space="preserve">
         <source>Cache (optimizer)</source>
-        <target>Cache (optimalisering)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cached" xml:space="preserve">
         <source>Cached</source>
-        <target>Bufret</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cached: %@" xml:space="preserve">
         <source>Cached: %@</source>
-        <target>Bufret: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Can't be edited." xml:space="preserve">
         <source>Can't be edited.</source>
-        <target>Kan ikke redigeres.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Can't find purchase" xml:space="preserve">
         <source>Can't find purchase</source>
-        <target>Finner ikke kjøp</target>
         <note/>
       </trans-unit>
       <trans-unit id="Canadian Color Scheme" xml:space="preserve">
         <source>Canadian Color Scheme</source>
-        <target>Kanadisk fargeskjema</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
-        <target>Avbryt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cards" xml:space="preserve">
         <source>Cards</source>
-        <target>Kort</target>
         <note/>
       </trans-unit>
       <trans-unit id="Change the disable duration presets of the widgets that have disable-buttons on them, like the 'Disable' and 'Statistics &amp; Disable' widgets. To add new presets to choose from, go to Settings &gt; Preferences &gt; Home &gt; Duration Presets." xml:space="preserve">
         <source>Change the disable duration presets of the widgets that have disable-buttons on them, like the 'Disable' and 'Statistics &amp; Disable' widgets. To add new presets to choose from, go to Settings &gt; Preferences &gt; Home &gt; Duration Presets.</source>
-        <target>Endre forhåndsinnstillinger for deaktiveringsvarighet på widgetene som har deaktiveringsknapper, som «Disable»- og «Statistics &amp; Disable»-widgetene. For å legge til nye forhåndsinnstillinger å velge mellom, gå til Settings &gt; Preferences &gt; Home &gt; Duration Presets.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Changing App Tint on macOS requires an app restart to take effect." xml:space="preserve">
         <source>Changing App Tint on macOS requires an app restart to take effect.</source>
-        <target>Endring av appfarge på macOS krever omstart av appen for å tre i kraft.</target>
         <note>Displayed on the App Tint Settings screen.</note>
       </trans-unit>
       <trans-unit id="Chart" xml:space="preserve">
         <source>Chart</source>
-        <target>Diagram</target>
         <note/>
       </trans-unit>
       <trans-unit id="Clear all filters" xml:space="preserve">
         <source>Clear all filters</source>
-        <target>Fjern alle filtre</target>
         <note/>
       </trans-unit>
       <trans-unit id="Clear filters" xml:space="preserve">
         <source>Clear filters</source>
-        <target>Fjern filtre</target>
         <note/>
       </trans-unit>
       <trans-unit id="Client" xml:space="preserve">
         <source>Client</source>
-        <target>Klient</target>
         <note/>
       </trans-unit>
       <trans-unit id="Client ID" xml:space="preserve">
         <source>Client ID</source>
-        <target>Klient-ID</target>
         <note/>
       </trans-unit>
       <trans-unit id="Client IP" xml:space="preserve">
         <source>Client IP</source>
-        <target>Klient-IP</target>
         <note/>
       </trans-unit>
       <trans-unit id="Client IP: '%@'..." xml:space="preserve">
         <source>Client IP: '%@'...</source>
-        <target>Klient-IP: '%@'...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Client Management" xml:space="preserve">
         <source>Client Management</source>
-        <target>Klientadministrasjon</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
       <trans-unit id="Client Name" xml:space="preserve">
         <source>Client Name</source>
-        <target>Klientnavn</target>
         <note/>
       </trans-unit>
       <trans-unit id="Client Name: '%@'..." xml:space="preserve">
         <source>Client Name: '%@'...</source>
-        <target>Klientnavn: '%@'...</target>
         <note/>
       </trans-unit>
       <trans-unit id="ClientID" xml:space="preserve">
         <source>ClientID</source>
-        <target>ClientID</target>
         <note/>
       </trans-unit>
       <trans-unit id="Clients" xml:space="preserve">
         <source>Clients</source>
-        <target>Klienter</target>
         <note/>
       </trans-unit>
       <trans-unit id="Clients &amp; Groups" xml:space="preserve">
         <source>Clients &amp; Groups</source>
-        <target>Klienter og grupper</target>
         <note/>
       </trans-unit>
       <trans-unit id="Clients in group" xml:space="preserve">
         <source>Clients in group</source>
-        <target>Klienter i gruppe</target>
         <note/>
       </trans-unit>
       <trans-unit id="Clients may be described by their IP, MAC, or hostname. " xml:space="preserve">
         <source>Clients may be described by their IP, MAC, or hostname. </source>
-        <target>Klienter kan beskrives med IP, MAC eller vertsnavn.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Clients may be described either by their IP addresses (IPv4 and IPv6 are supported), IP subnets (CIDR notation, like 192.168.2.0/24), their MAC addresses (like 12:34:56:78:9A:BC), by their hostnames (like localhost), or by the interface they are connected to (prefaced with a colon, like :eth0).&#10;&#10;Note that client recognition by IP addresses (incl. subnet ranges) are preferred over MAC address, host name or interface recognition as the two latter will only be available after some time. Furthermore, MAC address recognition only works for devices at most one networking hop away from your Pi-hole." xml:space="preserve">
         <source>Clients may be described either by their IP addresses (IPv4 and IPv6 are supported), IP subnets (CIDR notation, like 192.168.2.0/24), their MAC addresses (like 12:34:56:78:9A:BC), by their hostnames (like localhost), or by the interface they are connected to (prefaced with a colon, like :eth0).
 
 Note that client recognition by IP addresses (incl. subnet ranges) are preferred over MAC address, host name or interface recognition as the two latter will only be available after some time. Furthermore, MAC address recognition only works for devices at most one networking hop away from your Pi-hole.</source>
-        <target>Klienter kan beskrives enten med IP-adresser (IPv4 og IPv6 støttes), IP-subnett (CIDR-notasjon, f.eks. 192.168.2.0/24), MAC-adresser (f.eks. 12:34:56:78:9A:BC), vertsnavn (f.eks. localhost) eller grensesnittet de er koblet til (med kolon, f.eks. :eth0).
-
-Merk at gjenkjenning via IP-adresser (inkl. subnett) foretrekkes framfor MAC-adresse, vertsnavn eller grensesnitt, siden de to sistnevnte først blir tilgjengelige etter en stund. Dessuten fungerer MAC-adressegjenkjenning bare for enheter som er maks ett nettverkshopp unna Pi-hole.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Clients: %@" xml:space="preserve">
         <source>Clients: %@</source>
-        <target>Klienter: %@</target>
         <note>Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Clients: %lld/%lld" xml:space="preserve">
         <source>Clients: %1$lld/%2$lld</source>
-        <target>Klienter: %1$lld/%2$lld</target>
         <note>Displayed in the simple one-line Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
         <source>Close</source>
-        <target>Lukk</target>
         <note/>
       </trans-unit>
       <trans-unit id="Code" xml:space="preserve">
         <source>Code</source>
-        <target>Kode</target>
         <note/>
       </trans-unit>
       <trans-unit id="Combine Instances" xml:space="preserve">
         <source>Combine Instances</source>
-        <target>Kombiner instanser</target>
         <note/>
       </trans-unit>
       <trans-unit id="Combine instances" xml:space="preserve">
         <source>Combine instances</source>
-        <target>Kombiner instanser</target>
         <note/>
       </trans-unit>
       <trans-unit id="Comment" xml:space="preserve">
         <source>Comment</source>
-        <target>Kommentar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Communication" xml:space="preserve">
         <source>Communication</source>
-        <target>Kommunikasjon</target>
         <note/>
       </trans-unit>
       <trans-unit id="Compact mode" xml:space="preserve">
         <source>Compact mode</source>
-        <target>Kompaktmodus</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connecting to: %@/..." xml:space="preserve">
         <source>Connecting to: %@/...</source>
-        <target>Kobler til: %@/...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connection" xml:space="preserve">
         <source>Connection</source>
-        <target>Tilkobling</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connection Error" xml:space="preserve">
         <source>Connection Error</source>
-        <target>Tilkoblingsfeil</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connection OK" xml:space="preserve">
         <source>Connection OK</source>
-        <target>Tilkobling OK</target>
         <note/>
       </trans-unit>
       <trans-unit id="Contact" xml:space="preserve">
         <source>Contact</source>
-        <target>Kontakt</target>
         <note>Displayed on the support screen.</note>
       </trans-unit>
       <trans-unit id="Content delivery networks" xml:space="preserve">
         <source>Content delivery networks</source>
-        <target>Innholdsleveringsnettverk</target>
         <note/>
       </trans-unit>
       <trans-unit id="Continue" xml:space="preserve">
         <source>Continue</source>
-        <target>Fortsett</target>
         <note>Used in onboarding and changelogs.</note>
       </trans-unit>
       <trans-unit id="Control blocking of services on your Pi-hole. (Requires PHR+)" xml:space="preserve">
         <source>Control blocking of services on your Pi-hole. (Requires PHR+)</source>
-        <target>Styr blokkering av tjenester på Pi-hole. (Krever PHR+)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Converted to: (\\.|^)%@$" xml:space="preserve">
         <source>Converted to: (\\.|^)%@$</source>
-        <target>Konvertert til: (\\.|^)%@$</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy" xml:space="preserve">
         <source>Copy</source>
-        <target>Kopier</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy Email Address" xml:space="preserve">
         <source>Copy Email Address</source>
-        <target>Kopier e-postadresse</target>
         <note>Displayed in an alert on the support screen when someone has no email client installed.</note>
       </trans-unit>
       <trans-unit id="Copy ID" xml:space="preserve">
         <source>Copy ID</source>
-        <target>Kopier ID</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy IP" xml:space="preserve">
         <source>Copy IP</source>
-        <target>Kopier IP</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy MAC address" xml:space="preserve">
         <source>Copy MAC address</source>
-        <target>Kopier MAC-adresse</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy Message" xml:space="preserve">
         <source>Copy Message</source>
-        <target>Kopier melding</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy UNIX timestamp" xml:space="preserve">
         <source>Copy UNIX timestamp</source>
-        <target>Kopier UNIX-tidsstempel</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy URL" xml:space="preserve">
         <source>Copy URL</source>
-        <target>Kopier URL</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy email" xml:space="preserve">
         <source>Copy email</source>
-        <target>Kopier e-post</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Copy full response" xml:space="preserve">
         <source>Copy full response</source>
-        <target>Kopier fullstendig svar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Core" translate="no" xml:space="preserve">
@@ -2433,97 +2157,78 @@ Merk at gjenkjenning via IP-adresser (inkl. subnett) foretrekkes framfor MAC-adr
       </trans-unit>
       <trans-unit id="Core version: %@." xml:space="preserve">
         <source>Core version: %@.</source>
-        <target>Core-versjon: %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Couldn't find your instance." xml:space="preserve">
         <source>Couldn't find your instance.</source>
-        <target>Fant ikke instansen din.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Couldn't load config." xml:space="preserve">
         <source>Couldn't load config.</source>
-        <target>Kunne ikke laste konfigurasjon.</target>
         <note>Displayed on the DNS Settings screen.</note>
       </trans-unit>
       <trans-unit id="Current Version" xml:space="preserve">
         <source>Current Version</source>
-        <target>Gjeldende versjon</target>
         <note>Used in the Changelog.</note>
       </trans-unit>
       <trans-unit id="Custom" xml:space="preserve">
         <source>Custom</source>
-        <target>Egendefinert</target>
         <note/>
       </trans-unit>
       <trans-unit id="Custom Headers" xml:space="preserve">
         <source>Custom Headers</source>
-        <target>Egendefinerte headere</target>
         <note/>
       </trans-unit>
       <trans-unit id="Custom Presets" xml:space="preserve">
         <source>Custom Presets</source>
-        <target>Egendefinerte forhåndsinnstillinger</target>
         <note/>
       </trans-unit>
       <trans-unit id="Customize Widgets" xml:space="preserve">
         <source>Customize Widgets</source>
-        <target>Tilpass widgets</target>
         <note/>
       </trans-unit>
       <trans-unit id="Customize tint &amp; icon" xml:space="preserve">
         <source>Customize tint &amp; icon</source>
-        <target>Tilpass farge og ikon</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="DHCP" xml:space="preserve">
         <source>DHCP</source>
-        <target>DHCP</target>
         <note/>
       </trans-unit>
       <trans-unit id="DHCP &amp; DNS" xml:space="preserve">
         <source>DHCP &amp; DNS</source>
-        <target>DHCP og DNS</target>
         <note/>
       </trans-unit>
       <trans-unit id="DHCP Lease Time" xml:space="preserve">
         <source>DHCP Lease Time</source>
-        <target>DHCP-leasetid</target>
         <note/>
       </trans-unit>
       <trans-unit id="DHCP lease time" xml:space="preserve">
         <source>DHCP lease time</source>
-        <target>DHCP-leasetid</target>
         <note/>
       </trans-unit>
       <trans-unit id="DHCP server enabled" xml:space="preserve">
         <source>DHCP server enabled</source>
-        <target>DHCP-server aktivert</target>
         <note/>
       </trans-unit>
       <trans-unit id="DHCPv4 rapid commit" xml:space="preserve">
         <source>DHCPv4 rapid commit</source>
-        <target>DHCPv4 rapid commit</target>
         <note/>
       </trans-unit>
       <trans-unit id="DNS" xml:space="preserve">
         <source>DNS</source>
-        <target>DNS</target>
         <note/>
       </trans-unit>
       <trans-unit id="DNS Domain" xml:space="preserve">
         <source>DNS Domain</source>
-        <target>DNS-domene</target>
         <note/>
       </trans-unit>
       <trans-unit id="DNS Domain Settings" xml:space="preserve">
         <source>DNS Domain Settings</source>
-        <target>DNS-domeneinnstillinger</target>
         <note>Displayed on the DNS Settings screen.</note>
       </trans-unit>
       <trans-unit id="DNS Records" xml:space="preserve">
         <source>DNS Records</source>
-        <target>DNS-oppføringer</target>
         <note/>
       </trans-unit>
       <trans-unit id="DNS:" translate="no" xml:space="preserve">
@@ -2536,192 +2241,154 @@ Merk at gjenkjenning via IP-adresser (inkl. subnett) foretrekkes framfor MAC-adr
       </trans-unit>
       <trans-unit id="DNSSEC" xml:space="preserve">
         <source>DNSSEC</source>
-        <target>DNSSEC</target>
         <note/>
       </trans-unit>
       <trans-unit id="DNSSEC status" xml:space="preserve">
         <source>DNSSEC status</source>
-        <target>DNSSEC-status</target>
         <note/>
       </trans-unit>
       <trans-unit id="Dark" xml:space="preserve">
         <source>Dark</source>
-        <target>Mørk</target>
         <note/>
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
         <source>Date</source>
-        <target>Dato</target>
         <note/>
       </trans-unit>
       <trans-unit id="Date Added" xml:space="preserve">
         <source>Date Added</source>
-        <target>Dato lagt til</target>
         <note/>
       </trans-unit>
       <trans-unit id="Date Modified" xml:space="preserve">
         <source>Date Modified</source>
-        <target>Dato endret</target>
         <note/>
       </trans-unit>
       <trans-unit id="Date Range" xml:space="preserve">
         <source>Date Range</source>
-        <target>Datoperiode</target>
         <note/>
       </trans-unit>
       <trans-unit id="Dating services" xml:space="preserve">
         <source>Dating services</source>
-        <target>Datingtjenester</target>
         <note/>
       </trans-unit>
       <trans-unit id="Debug" xml:space="preserve">
         <source>Debug</source>
-        <target>Debug</target>
         <note/>
       </trans-unit>
       <trans-unit id="Default Color Scheme" xml:space="preserve">
         <source>Default Color Scheme</source>
-        <target>Standard fargeskjema</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
         <source>Delete</source>
-        <target>Slett</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete Adlist" xml:space="preserve">
         <source>Delete Adlist</source>
-        <target>Slett adliste</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete Client" xml:space="preserve">
         <source>Delete Client</source>
-        <target>Slett klient</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete Domain" xml:space="preserve">
         <source>Delete Domain</source>
-        <target>Slett domene</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete Group" xml:space="preserve">
         <source>Delete Group</source>
-        <target>Slett gruppe</target>
         <note/>
       </trans-unit>
       <trans-unit id="Deny" xml:space="preserve">
         <source>Deny</source>
-        <target>Avvis</target>
         <note/>
       </trans-unit>
       <trans-unit id="Deny-list" xml:space="preserve">
         <source>Deny-list</source>
-        <target>Deny-liste</target>
         <note/>
       </trans-unit>
       <trans-unit id="Denylist" xml:space="preserve">
         <source>Denylist</source>
-        <target>Denyliste</target>
         <note/>
       </trans-unit>
       <trans-unit id="Description (optional)" xml:space="preserve">
         <source>Description (optional)</source>
-        <target>Beskrivelse (valgfritt)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Design" xml:space="preserve">
         <source>Design</source>
-        <target>Design</target>
         <note/>
       </trans-unit>
       <trans-unit id="Destination" xml:space="preserve">
         <source>Destination</source>
-        <target>Destinasjon</target>
         <note/>
       </trans-unit>
       <trans-unit id="Destination Instance" xml:space="preserve">
         <source>Destination Instance</source>
-        <target>Destinasjonsinstans</target>
         <note/>
       </trans-unit>
       <trans-unit id="Details" xml:space="preserve">
         <source>Details</source>
-        <target>Detaljer</target>
         <note/>
       </trans-unit>
       <trans-unit id="Device" xml:space="preserve">
         <source>Device</source>
-        <target>Enhet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Diagnosis" xml:space="preserve">
         <source>Diagnosis</source>
-        <target>Diagnose</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disable" xml:space="preserve">
         <source>Disable</source>
-        <target>Deaktiver</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disable Widget" xml:space="preserve">
         <source>Disable Widget</source>
-        <target>Deaktiver widget</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disable blocking for a certain duration." xml:space="preserve">
         <source>Disable blocking for a certain duration.</source>
-        <target>Deaktiver blokkering i en bestemt varighet.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disable for 1 minute" xml:space="preserve">
         <source>Disable for 1 minute</source>
-        <target>Deaktiver i 1 minutt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disable for 5 minutes" xml:space="preserve">
         <source>Disable for 5 minutes</source>
-        <target>Deaktiver i 5 minutter</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disable for..." xml:space="preserve">
         <source>Disable for...</source>
-        <target>Deaktiver i...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disable indefinitely" xml:space="preserve">
         <source>Disable indefinitely</source>
-        <target>Deaktiver på ubestemt tid</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disable services with a single tap, as well as managing adlists and more.|==|device.mac" xml:space="preserve">
         <source>Disable services with a single click, as well as managing adlists and more.</source>
-        <target>Deaktiver tjenester med ett klikk, samt administrer adlister og mer.</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
       <trans-unit id="Disable services with a single tap, as well as managing adlists and more.|==|device.other" xml:space="preserve">
         <source>Disable services with a single tap, as well as managing adlists and more.</source>
-        <target>Deaktiver tjenester med ett trykk, samt administrer adlister og mer.</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
       <trans-unit id="Disabled" xml:space="preserve">
         <source>Disabled</source>
-        <target>Deaktivert</target>
         <note/>
       </trans-unit>
       <trans-unit id="Discard Changes" xml:space="preserve">
         <source>Discard Changes</source>
-        <target>Forkast endringer</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display" xml:space="preserve">
         <source>Display</source>
-        <target>Visning</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display badges on Settings-tab" xml:space="preserve">
         <source>Display badges on Settings-tab</source>
-        <target>Vis merker i Innstillinger-fanen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Docker" translate="no" xml:space="preserve">
@@ -2730,212 +2397,170 @@ Merk at gjenkjenning via IP-adresser (inkl. subnett) foretrekkes framfor MAC-adr
       </trans-unit>
       <trans-unit id="Domain" xml:space="preserve">
         <source>Domain</source>
-        <target>Domene</target>
         <note/>
       </trans-unit>
       <trans-unit id="Domain: '%@'..." xml:space="preserve">
         <source>Domain: '%@'...</source>
-        <target>Domene: '%@'...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Domains" xml:space="preserve">
         <source>Domains</source>
-        <target>Domener</target>
         <note/>
       </trans-unit>
       <trans-unit id="Domains &amp; Adlists" xml:space="preserve">
         <source>Domains &amp; Adlists</source>
-        <target>Domener og adlister</target>
         <note/>
       </trans-unit>
       <trans-unit id="Domains will be converted to RegEx to involve all subdomains." xml:space="preserve">
         <source>Domains will be converted to RegEx to involve all subdomains.</source>
-        <target>Domener vil bli konvertert til RegEx for å inkludere alle underdomener.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Domains: %@" xml:space="preserve">
         <source>Domains: %@</source>
-        <target>Domener: %@</target>
         <note>Displays the number of domains on an adlist.</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
-        <target>Ferdig</target>
         <note/>
       </trans-unit>
       <trans-unit id="Duration" xml:space="preserve">
         <source>Duration</source>
-        <target>Varighet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Duration (minutes)" xml:space="preserve">
         <source>Duration (minutes)</source>
-        <target>Varighet (minutter)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Duration Presets" xml:space="preserve">
         <source>Duration Presets</source>
-        <target>Varighetsforhåndsinnstillinger</target>
         <note/>
       </trans-unit>
       <trans-unit id="Duration in seconds" xml:space="preserve">
         <source>Duration in seconds</source>
-        <target>Varighet i sekunder</target>
         <note/>
       </trans-unit>
       <trans-unit id="Dutch Color Scheme" xml:space="preserve">
         <source>Dutch Color Scheme</source>
-        <target>Nederlandsk fargeskjema</target>
         <note/>
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
         <source>Edit</source>
-        <target>Rediger</target>
         <note/>
       </trans-unit>
       <trans-unit id="Edit Instance" xml:space="preserve">
         <source>Edit Instance</source>
-        <target>Rediger instans</target>
         <note/>
       </trans-unit>
       <trans-unit id="Edit Service" xml:space="preserve">
         <source>Edit Service</source>
-        <target>Rediger tjeneste</target>
         <note/>
       </trans-unit>
       <trans-unit id="Edit presets..." xml:space="preserve">
         <source>Edit presets...</source>
-        <target>Rediger forhåndsinnstillinger...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Editing presets requires PHR+." xml:space="preserve">
         <source>Editing presets requires PHR+.</source>
-        <target>Redigering av forhåndsinnstillinger krever PHR+.</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Enable" xml:space="preserve">
         <source>Enable</source>
-        <target>Aktiver</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable Blocking" xml:space="preserve">
         <source>Enable Blocking</source>
-        <target>Aktiver blokkering</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable and disable blocking." xml:space="preserve">
         <source>Enable and disable blocking.</source>
-        <target>Aktiver og deaktiver blokkering.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable blocking" xml:space="preserve">
         <source>Enable blocking</source>
-        <target>Aktiver blokkering</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable this option to enable IPv6 support for the Pi-hole DHCP server. This will allow the Pi-hole to hand out IPv6 addresses to clients and also provide IPv6 router advertisements (RA) to clients. This option is only useful if the Pi-hole is configured with an IPv6 address." xml:space="preserve">
         <source>Enable this option to enable IPv6 support for the Pi-hole DHCP server. This will allow the Pi-hole to hand out IPv6 addresses to clients and also provide IPv6 router advertisements (RA) to clients. This option is only useful if the Pi-hole is configured with an IPv6 address.</source>
-        <target>Aktiver dette alternativet for å aktivere IPv6-støtte for Pi-hole DHCP-serveren. Dette gjør at Pi-hole kan dele ut IPv6-adresser til klienter og også gi IPv6-ruterannonser (RA) til klienter. Dette alternativet er bare nyttig hvis Pi-hole er konfigurert med en IPv6-adresse.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable to block the service, disable to unblock it." xml:space="preserve">
         <source>Enable to block the service, disable to unblock it.</source>
-        <target>Aktiver for å blokkere tjenesten, deaktiver for å oppheve blokkeringen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enabled" xml:space="preserve">
         <source>Enabled</source>
-        <target>Aktivert</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enabling notifications requires PHR+." xml:space="preserve">
         <source>Enabling notifications requires PHR+.</source>
-        <target>Aktivering av varsler krever PHR+.</target>
         <note>Used on the Notifications-settings screen.</note>
       </trans-unit>
       <trans-unit id="Enabling the top two options may increase your privacy, but may also prevent you from being able to access. Make sure you have set up conditional forwarding in this case." xml:space="preserve">
         <source>Enabling the top two options may increase your privacy, but may also prevent you from being able to access. Make sure you have set up conditional forwarding in this case.</source>
-        <target>Aktivering av de to øverste alternativene kan øke personvernet ditt, men kan også hindre tilgang. Sørg for at du har satt opp betinget videresending i dette tilfellet.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enabling these two options may increase your privacy, but may also prevent you from being able to access. Make sure you have set up conditional forwarding in this case." xml:space="preserve">
         <source>Enabling these two options may increase your privacy, but may also prevent you from being able to access. Make sure you have set up conditional forwarding in this case.</source>
-        <target>Aktivering av disse to alternativene kan øke personvernet ditt, men kan også hindre tilgang. Sørg for at du har satt opp betinget videresending i dette tilfellet.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enabling this will convert all domains to RegEx to involve all subdomains." xml:space="preserve">
         <source>Enabling this will convert all domains to RegEx to involve all subdomains.</source>
-        <target>Aktivering vil konvertere alle domener til RegEx for å inkludere alle underdomener.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enabling this will convert the domain to RegEx to involve all subdomains." xml:space="preserve">
         <source>Enabling this will convert the domain to RegEx to involve all subdomains.</source>
-        <target>Aktivering vil konvertere domenet til RegEx for å inkludere alle underdomener.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ends" xml:space="preserve">
         <source>Ends</source>
-        <target>Slutter</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enjoy great widgets and a Live Activity when disabling blocking." xml:space="preserve">
         <source>Enjoy great widgets and a Live Activity when disabling blocking.</source>
-        <target>Nyt flotte widgets og en Live Activity når blokkering deaktiveres.</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
       <trans-unit id="Enter the code..." xml:space="preserve">
         <source>Enter the code...</source>
-        <target>Skriv inn koden...</target>
         <note>Used on the PHR+ purchase screen as a textfield placeholder.</note>
       </trans-unit>
       <trans-unit id="Entries" xml:space="preserve">
         <source>Entries</source>
-        <target>Oppføringer</target>
         <note/>
       </trans-unit>
       <trans-unit id="Error" xml:space="preserve">
         <source>Error</source>
-        <target>Feil</target>
         <note/>
       </trans-unit>
       <trans-unit id="Error: %@" xml:space="preserve">
         <source>Error: %@</source>
-        <target>Feil: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Every 5 seconds" xml:space="preserve">
         <source>Every 5 seconds</source>
-        <target>Hver 5. sekund</target>
         <note/>
       </trans-unit>
       <trans-unit id="Exact" xml:space="preserve">
         <source>Exact</source>
-        <target>Eksakt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Exact entries" xml:space="preserve">
         <source>Exact entries</source>
-        <target>Eksakte oppføringer</target>
         <note/>
       </trans-unit>
       <trans-unit id="Execute" xml:space="preserve">
         <source>Execute</source>
-        <target>Utfør</target>
         <note/>
       </trans-unit>
       <trans-unit id="Expand hostnames" xml:space="preserve">
         <source>Expand hostnames</source>
-        <target>Utvid vertsnavn</target>
         <note>Displayed on the DNS Settings screen.</note>
       </trans-unit>
       <trans-unit id="Expired DHCP Leases" xml:space="preserve">
         <source>Expired DHCP Leases</source>
-        <target>Utløpte DHCP-leaser</target>
         <note/>
       </trans-unit>
       <trans-unit id="Explore all queries on your network and quickly block domains." xml:space="preserve">
         <source>Explore all queries on your network and quickly block domains.</source>
-        <target>Utforsk alle forespørsler på nettverket ditt og blokker domener raskt.</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
       <trans-unit id="FTL" translate="no" xml:space="preserve">
@@ -2944,177 +2569,142 @@ Merk at gjenkjenning via IP-adresser (inkl. subnett) foretrekkes framfor MAC-adr
       </trans-unit>
       <trans-unit id="FTL version: %@." xml:space="preserve">
         <source>FTL version: %@.</source>
-        <target>FTL-versjon: %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Favorites" xml:space="preserve">
         <source>Favorites</source>
-        <target>Favoritter</target>
         <note/>
       </trans-unit>
       <trans-unit id="Feature Overview" xml:space="preserve">
         <source>Feature Overview</source>
-        <target>Funksjonsoversikt</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="File hosting" xml:space="preserve">
         <source>File hosting</source>
-        <target>Filhosting</target>
         <note/>
       </trans-unit>
       <trans-unit id="Filter" xml:space="preserve">
         <source>Filter</source>
-        <target>Filter</target>
         <note/>
       </trans-unit>
       <trans-unit id="Filter &amp; Sort" xml:space="preserve">
         <source>Filter &amp; Sort</source>
-        <target>Filter og sorter</target>
         <note/>
       </trans-unit>
       <trans-unit id="Filter by status" xml:space="preserve">
         <source>Filter by status</source>
-        <target>Filtrer etter status</target>
         <note/>
       </trans-unit>
       <trans-unit id="Filtered by %@" xml:space="preserve">
         <source>Filtered by %@</source>
-        <target>Filtrert etter %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Filtered by `%@`" xml:space="preserve">
         <source>Filtered by `%@`</source>
-        <target>Filtrert etter `%@`</target>
         <note/>
       </trans-unit>
       <trans-unit id="First seen" xml:space="preserve">
         <source>First seen</source>
-        <target>Først sett</target>
         <note/>
       </trans-unit>
       <trans-unit id="Flags" xml:space="preserve">
         <source>Flags</source>
-        <target>Flagg</target>
         <note/>
       </trans-unit>
       <trans-unit id="Flush" xml:space="preserve">
         <source>Flush</source>
-        <target>Tøm</target>
         <note/>
       </trans-unit>
       <trans-unit id="Flush logs (last 24h)" xml:space="preserve">
         <source>Flush logs (last 24h)</source>
-        <target>Tøm logger (siste 24 t)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Flush network table" xml:space="preserve">
         <source>Flush network table</source>
-        <target>Tøm nettverkstabell</target>
         <note/>
       </trans-unit>
       <trans-unit id="Follow macOS preferences" xml:space="preserve">
         <source>Follow macOS preferences</source>
-        <target>Følg macOS-innstillinger</target>
         <note/>
       </trans-unit>
       <trans-unit id="Follow on X" xml:space="preserve">
         <source>Follow on X</source>
-        <target>Følg på X</target>
         <note/>
       </trans-unit>
       <trans-unit id="For any reason" xml:space="preserve">
         <source>For any reason</source>
-        <target>Av hvilken som helst grunn</target>
         <note/>
       </trans-unit>
       <trans-unit id="Force Watch Sync" xml:space="preserve">
         <source>Force Watch Sync</source>
-        <target>Tving Watch-synkronisering</target>
         <note/>
       </trans-unit>
       <trans-unit id="Force Widget Refresh" xml:space="preserve">
         <source>Force Widget Refresh</source>
-        <target>Tving widget-oppdatering</target>
         <note/>
       </trans-unit>
       <trans-unit id="Force a refresh to update the buttons. If this doesn't work, wait a while or try restarting your device." xml:space="preserve">
         <source>Force a refresh to update the buttons. If this doesn't work, wait a while or try restarting your device.</source>
-        <target>Tving en oppdatering for å oppdatere knappene. Hvis dette ikke fungerer, vent litt eller prøv å starte enheten på nytt.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Forwarded" xml:space="preserve">
         <source>Forwarded</source>
-        <target>Videresendt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Forwarded: %@" xml:space="preserve">
         <source>Forwarded: %@</source>
-        <target>Videresendt: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free" xml:space="preserve">
         <source>Free</source>
-        <target>Gratis</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Gambling &amp; betting" xml:space="preserve">
         <source>Gambling &amp; betting</source>
-        <target>Pengespill og betting</target>
         <note/>
       </trans-unit>
       <trans-unit id="Gaming" xml:space="preserve">
         <source>Gaming</source>
-        <target>Spill</target>
         <note/>
       </trans-unit>
       <trans-unit id="Get Lifetime PHR+" xml:space="preserve">
         <source>Get Lifetime PHR+</source>
-        <target>Få livstids PHR+</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Get Pi-hole Blocking Status" xml:space="preserve">
         <source>Get Pi-hole Blocking Status</source>
-        <target>Hent Pi-hole-blokkeringsstatus</target>
         <note/>
       </trans-unit>
       <trans-unit id="Get blocking status for ${instance}" xml:space="preserve">
         <source>Get blocking status for ${instance}</source>
-        <target>Hent blokkeringsstatus for ${instance}</target>
         <note/>
       </trans-unit>
       <trans-unit id="Get the blocking status of your Pi-hole. Returns 'true' is blocking is enabled, otherwise returns 'false'. If you select 'All Instances', this will only return 'true' if blocking is enabled on all instances." xml:space="preserve">
         <source>Get the blocking status of your Pi-hole. Returns 'true' is blocking is enabled, otherwise returns 'false'. If you select 'All Instances', this will only return 'true' if blocking is enabled on all instances.</source>
-        <target>Henter blokkeringsstatusen for Pi-hole. Returnerer 'true' hvis blokkering er aktivert, ellers 'false'. Hvis du velger 'All Instances', returneres 'true' bare hvis blokkering er aktivert på alle instanser.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Give Feedback" xml:space="preserve">
         <source>Give Feedback</source>
-        <target>Gi tilbakemelding</target>
         <note>Displayed in an alert on the support screen when someone has no email client installed.</note>
       </trans-unit>
       <trans-unit id="Graphite" xml:space="preserve">
         <source>Graphite</source>
-        <target>Grafitt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Green" xml:space="preserve">
         <source>Green</source>
-        <target>Grønn</target>
         <note/>
       </trans-unit>
       <trans-unit id="Group" xml:space="preserve">
         <source>Group</source>
-        <target>Gruppe</target>
         <note/>
       </trans-unit>
       <trans-unit id="Group assignment" xml:space="preserve">
         <source>Group assignment</source>
-        <target>Gruppetildeling</target>
         <note/>
       </trans-unit>
       <trans-unit id="Groups" xml:space="preserve">
         <source>Groups</source>
-        <target>Grupper</target>
         <note/>
       </trans-unit>
       <trans-unit id="HTTP" translate="no" xml:space="preserve">
@@ -3127,155 +2717,122 @@ Merk at gjenkjenning via IP-adresser (inkl. subnett) foretrekkes framfor MAC-adr
       </trans-unit>
       <trans-unit id="Hardware Address" xml:space="preserve">
         <source>Hardware Address</source>
-        <target>Maskinvareadresse</target>
         <note/>
       </trans-unit>
       <trans-unit id="Headers" xml:space="preserve">
         <source>Headers</source>
-        <target>Headere</target>
         <note/>
       </trans-unit>
       <trans-unit id="Health" xml:space="preserve">
         <source>Health</source>
-        <target>Helse</target>
         <note/>
       </trans-unit>
       <trans-unit id="Help" xml:space="preserve">
         <source>Help</source>
-        <target>Hjelp</target>
         <note/>
       </trans-unit>
       <trans-unit id="Help &amp; Feedback" xml:space="preserve">
         <source>Help &amp; Feedback</source>
-        <target>Hjelp og tilbakemelding</target>
         <note/>
       </trans-unit>
       <trans-unit id="Help translate the app" xml:space="preserve">
         <source>Help translate the app</source>
-        <target>Hjelp til med å oversette appen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hi there, if you're seeing this it means that somehow the button to give you Lifetime PHR+ for free didn't work and you had to contact me. Sorry for that! To get access anyways, please enter the code I gave you here.&#10;&#10;Please do not share this code with others." xml:space="preserve">
         <source>Hi there, if you're seeing this it means that somehow the button to give you Lifetime PHR+ for free didn't work and you had to contact me. Sorry for that! To get access anyways, please enter the code I gave you here.
 
 Please do not share this code with others.</source>
-        <target>Hei, hvis du ser dette betyr det at knappen for å gi deg livstids PHR+ gratis ikke fungerte, og du måtte kontakte meg. Beklager for det! For å få tilgang likevel, skriv inn koden jeg ga deg her.
-
-Vennligst ikke del denne koden med andre.</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Hidden on Home-tab" xml:space="preserve">
         <source>Hidden on Home-tab</source>
-        <target>Skjult på Hjem-fanen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide" xml:space="preserve">
         <source>Hide</source>
-        <target>Skjul</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide 'Blocked Services' entries" xml:space="preserve">
         <source>Hide 'Blocked Services' entries</source>
-        <target>Skjul oppføringer for «Blokkerte tjenester»</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide on Home-tab" xml:space="preserve">
         <source>Hide on Home-tab</source>
-        <target>Skjul på Hjem-fanen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide the %@ %@ card" xml:space="preserve">
         <source>Hide the %1$@ %2$@ card</source>
-        <target>Skjul %1$@ %2$@-kortet</target>
         <note>Accessibility hint for show/hide statistics cards.</note>
       </trans-unit>
       <trans-unit id="Hide the %@ card" xml:space="preserve">
         <source>Hide the %@ card</source>
-        <target>Skjul %@-kortet</target>
         <note>Accessibility hint for show/hide statistics cards.</note>
       </trans-unit>
       <trans-unit id="Home" xml:space="preserve">
         <source>Home</source>
-        <target>Hjem</target>
         <note/>
       </trans-unit>
       <trans-unit id="Host" xml:space="preserve">
         <source>Host</source>
-        <target>Vert</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hostname" xml:space="preserve">
         <source>Hostname</source>
-        <target>Vertsnavn</target>
         <note>Hostname of the device running the instance, used on the instance detail screen.</note>
       </trans-unit>
       <trans-unit id="Hostname or IP" xml:space="preserve">
         <source>Hostname or IP</source>
-        <target>Vertsnavn eller IP</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hostname or IP address" xml:space="preserve">
         <source>Hostname or IP address</source>
-        <target>Vertsnavn eller IP-adresse</target>
         <note/>
       </trans-unit>
       <trans-unit id="How to change" xml:space="preserve">
         <source>How to change</source>
-        <target>Slik endrer du</target>
         <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
       </trans-unit>
       <trans-unit id="I can't find your purchase. Do you think this is incorrect? Please contact me through the 'Help &amp; Feedback' button in settings." xml:space="preserve">
         <source>I can't find your purchase. Do you think this is incorrect? Please contact me through the 'Help &amp; Feedback' button in settings.</source>
-        <target>Jeg finner ikke kjøpet ditt. Tror du dette er feil? Kontakt meg via knappen «Hjelp og tilbakemelding» i innstillingene.</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="I see you don't have an active mail client on your device, please mail me with the request to join the TestFlight including a screenshot of this PHR+ screen so I can see you have purchased Pro.&#10;&#10;Please mail it to developer@rocketscience-it.nl!" xml:space="preserve">
         <source>I see you don't have an active mail client on your device, please mail me with the request to join the TestFlight including a screenshot of this PHR+ screen so I can see you have purchased Pro.
 
 Please mail it to developer@rocketscience-it.nl!</source>
-        <target>Jeg ser at du ikke har en aktiv e-postklient på enheten din. Send meg gjerne en e-post med forespørsel om å bli med i TestFlight, inkludert et skjermbilde av denne PHR+-skjermen slik at jeg kan se at du har kjøpt Pro.
-
-Send den til developer@rocketscience-it.nl!</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="ID" xml:space="preserve">
         <source>ID</source>
-        <target>ID</target>
         <note/>
       </trans-unit>
       <trans-unit id="IP" xml:space="preserve">
         <source>IP</source>
-        <target>IP</target>
         <note/>
       </trans-unit>
       <trans-unit id="IP / MAC / Hostname" xml:space="preserve">
         <source>IP / MAC / Hostname</source>
-        <target>IP / MAC / vertsnavn</target>
         <note/>
       </trans-unit>
       <trans-unit id="IP addresses" xml:space="preserve">
         <source>IP addresses</source>
-        <target>IP-adresser</target>
         <note/>
       </trans-unit>
       <trans-unit id="IP addresses (hostname)" xml:space="preserve">
         <source>IP addresses (hostname)</source>
-        <target>IP-adresser (vertsnavn)</target>
         <note/>
       </trans-unit>
       <trans-unit id="IPv6 support" xml:space="preserve">
         <source>IPv6 support</source>
-        <target>IPv6-støtte</target>
         <note/>
       </trans-unit>
       <trans-unit id="Icon" xml:space="preserve">
         <source>Icon</source>
-        <target>Ikon</target>
         <note/>
       </trans-unit>
       <trans-unit id="If set, the domain is added to simple names (without a period) in /etc/hosts in the same way as for DHCP-derived names." xml:space="preserve">
         <source>If set, the domain is added to simple names (without a period) in /etc/hosts in the same way as for DHCP-derived names.</source>
-        <target>Hvis angitt, legges domenet til enkle navn (uten punktum) i /etc/hosts på samme måte som for DHCP-avledede navn.</target>
         <note>Displayed on the DNS Settings screen.</note>
       </trans-unit>
       <trans-unit id="If this option is set, Pi-hole ignores all clients which are not explicitly configured through dhcp.hosts. This can be useful to prevent unauthorized clients from getting an IP address from the DHCP server.&#10;It should be noted that this option is not a security feature, as clients can still assign themselves an IP address and use the network. It is merely a convenience feature to prevent unknown clients from getting a valid IP configuration assigned automatically.&#10;&#10;Note: When this feature is enabled you will need to configure new clients manually in dhcp.hosts before they can use the network." xml:space="preserve">
@@ -3283,300 +2840,238 @@ Send den til developer@rocketscience-it.nl!</target>
 It should be noted that this option is not a security feature, as clients can still assign themselves an IP address and use the network. It is merely a convenience feature to prevent unknown clients from getting a valid IP configuration assigned automatically.
 
 Note: When this feature is enabled you will need to configure new clients manually in dhcp.hosts before they can use the network.</source>
-        <target>Hvis dette alternativet er aktivert, ignorerer Pi-hole alle klienter som ikke er eksplisitt konfigurert via dhcp.hosts. Dette kan være nyttig for å hindre uautoriserte klienter i å få en IP-adresse fra DHCP-serveren.
-Det bør bemerkes at dette ikke er en sikkerhetsfunksjon, siden klienter fortsatt kan tildele seg en IP-adresse og bruke nettverket. Det er kun en bekvemmelighetsfunksjon for å hindre at ukjente klienter automatisk får tildelt en gyldig IP-konfigurasjon.
-
-Merk: Når denne funksjonen er aktivert må du konfigurere nye klienter manuelt i dhcp.hosts før de kan bruke nettverket.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ignore unknown DHCP clients" xml:space="preserve">
         <source>Ignore unknown DHCP clients</source>
-        <target>Ignorer ukjente DHCP-klienter</target>
         <note/>
       </trans-unit>
       <trans-unit id="In Progress" xml:space="preserve">
         <source>In Progress</source>
-        <target>Pågår</target>
         <note/>
       </trans-unit>
       <trans-unit id="Indefinitely" xml:space="preserve">
         <source>Indefinitely</source>
-        <target>På ubestemt tid</target>
         <note/>
       </trans-unit>
       <trans-unit id="Indigo" xml:space="preserve">
         <source>Indigo</source>
-        <target>Indigo</target>
         <note/>
       </trans-unit>
       <trans-unit id="Info" xml:space="preserve">
         <source>Info</source>
-        <target>Info</target>
         <note/>
       </trans-unit>
       <trans-unit id="Instance" xml:space="preserve">
         <source>Instance</source>
-        <target>Instans</target>
         <note/>
       </trans-unit>
       <trans-unit id="Instance Actions" xml:space="preserve">
         <source>Instance Actions</source>
-        <target>Instanshandlinger</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Instance settings" xml:space="preserve">
         <source>Instance settings</source>
-        <target>Instansinnstillinger</target>
         <note>Option for the blocklist-card, used on the Preferences &gt; Home screen.</note>
       </trans-unit>
       <trans-unit id="Instances" xml:space="preserve">
         <source>Instances</source>
-        <target>Instanser</target>
         <note/>
       </trans-unit>
       <trans-unit id="Interactive Widgets" xml:space="preserve">
         <source>Interactive Widgets</source>
-        <target>Interaktive widgeter</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Interface" xml:space="preserve">
         <source>Interface</source>
-        <target>Grensesnitt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Interface Overview" xml:space="preserve">
         <source>Interface Overview</source>
-        <target>Grensesnittoversikt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Interface Settings" xml:space="preserve">
         <source>Interface Settings</source>
-        <target>Grensesnittinnstillinger</target>
         <note/>
       </trans-unit>
       <trans-unit id="Interface options" xml:space="preserve">
         <source>Interface options</source>
-        <target>Grensesnittalternativer</target>
         <note/>
       </trans-unit>
       <trans-unit id="Interfaces" xml:space="preserve">
         <source>Interfaces</source>
-        <target>Grensesnitt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Invalid URL. Did you enter the correct host, port, and API path?" xml:space="preserve">
         <source>Invalid URL. Did you enter the correct host, port, and API path?</source>
-        <target>Ugyldig URL. Oppga du riktig vert, port og API-sti?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Kind" xml:space="preserve">
         <source>Kind</source>
-        <target>Type</target>
         <note/>
       </trans-unit>
       <trans-unit id="Kind of list" xml:space="preserve">
         <source>Kind of list</source>
-        <target>Type liste</target>
         <note/>
       </trans-unit>
       <trans-unit id="Last Updated" xml:space="preserve">
         <source>Last Updated</source>
-        <target>Sist oppdatert</target>
         <note/>
       </trans-unit>
       <trans-unit id="Last fetched" xml:space="preserve">
         <source>Last fetched</source>
-        <target>Sist hentet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Last modified" xml:space="preserve">
         <source>Last modified</source>
-        <target>Sist endret</target>
         <note/>
       </trans-unit>
       <trans-unit id="Last query" xml:space="preserve">
         <source>Last query</source>
-        <target>Siste forespørsel</target>
         <note/>
       </trans-unit>
       <trans-unit id="Last updated: %@" xml:space="preserve">
         <source>Last updated: %@</source>
-        <target>Sist oppdatert: %@</target>
         <note>Displays the date an adlist was last updated.</note>
       </trans-unit>
       <trans-unit id="Last updated: N/A" xml:space="preserve">
         <source>Last updated: N/A</source>
-        <target>Sist oppdatert: N/A</target>
         <note>Displays the when adlist was just added and has never been updated.</note>
       </trans-unit>
       <trans-unit id="Latest" xml:space="preserve">
         <source>Latest</source>
-        <target>Siste</target>
         <note>Displayed under the version label on the instance detail screen.</note>
       </trans-unit>
       <trans-unit id="Learn More" xml:space="preserve">
         <source>Learn More</source>
-        <target>Les mer</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
       <trans-unit id="Learn more..." xml:space="preserve">
         <source>Learn more...</source>
-        <target>Les mer...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Lease time" xml:space="preserve">
         <source>Lease time</source>
-        <target>Leasetid</target>
         <note/>
       </trans-unit>
       <trans-unit id="Leave a Review" xml:space="preserve">
         <source>Leave a Review</source>
-        <target>Legg igjen en vurdering</target>
         <note/>
       </trans-unit>
       <trans-unit id="Leave a review" xml:space="preserve">
         <source>Leave a review</source>
-        <target>Legg igjen en vurdering</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Leave a tip" xml:space="preserve">
         <source>Leave a tip</source>
-        <target>Gi et tips</target>
         <note/>
       </trans-unit>
       <trans-unit id="Leave the netmask field empty to have Pi-hole infer it from the configured IP address of your device. If you want to specify a netmask, you can use the format 255.255.255.0." xml:space="preserve">
         <source>Leave the netmask field empty to have Pi-hole infer it from the configured IP address of your device. If you want to specify a netmask, you can use the format 255.255.255.0.</source>
-        <target>La netmaskefeltet stå tomt slik at Pi-hole kan utlede den fra den konfigurerte IP-adressen på enheten din. Hvis du vil angi en nettmaske, kan du bruke formatet 255.255.255.0.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Lifetime PHR %@" xml:space="preserve">
         <source>Lifetime PHR %@</source>
-        <target>Livstid PHR %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Lifetime PHR+ Conversion" xml:space="preserve">
         <source>Lifetime PHR+ Conversion</source>
-        <target>Livstid PHR+-konvertering</target>
         <note/>
       </trans-unit>
       <trans-unit id="Light" xml:space="preserve">
         <source>Light</source>
-        <target>Lys</target>
         <note>Displayed on the App Icon Settings screen.</note>
       </trans-unit>
       <trans-unit id="Light &amp; Dark" xml:space="preserve">
         <source>Light &amp; Dark</source>
-        <target>Lys og mørk</target>
         <note>Displayed on the App Icon Settings screen.</note>
       </trans-unit>
       <trans-unit id="Light, Dark" xml:space="preserve">
         <source>Light, Dark</source>
-        <target>Lys, mørk</target>
         <note>Displayed on the App Icon Settings screen.</note>
       </trans-unit>
       <trans-unit id="Light, Dark, Tinted" xml:space="preserve">
         <source>Light, Dark, Tinted</source>
-        <target>Lys, mørk, tonet</target>
         <note>Displayed on the App Icon Settings screen.</note>
       </trans-unit>
       <trans-unit id="List" xml:space="preserve">
         <source>List</source>
-        <target>Liste</target>
         <note/>
       </trans-unit>
       <trans-unit id="List URL" xml:space="preserve">
         <source>List URL</source>
-        <target>Liste-URL</target>
         <note/>
       </trans-unit>
       <trans-unit id="Live Log" xml:space="preserve">
         <source>Live Log</source>
-        <target>Live-logg</target>
         <note/>
       </trans-unit>
       <trans-unit id="Local DNS Records" xml:space="preserve">
         <source>Local DNS Records</source>
-        <target>Lokale DNS-oppføringer</target>
         <note/>
       </trans-unit>
       <trans-unit id="Local Records" xml:space="preserve">
         <source>Local Records</source>
-        <target>Lokale oppføringer</target>
         <note/>
       </trans-unit>
       <trans-unit id="Logs" xml:space="preserve">
         <source>Logs</source>
-        <target>Logger</target>
         <note/>
       </trans-unit>
       <trans-unit id="MAC address" xml:space="preserve">
         <source>MAC address</source>
-        <target>MAC-adresse</target>
         <note/>
       </trans-unit>
       <trans-unit id="Made with ❤️ by one person in 🇳🇱" xml:space="preserve">
         <source>Made with ❤️ by one person in 🇳🇱</source>
-        <target>Laget med ❤️ av én person i 🇳🇱</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Mail" xml:space="preserve">
         <source>Mail</source>
-        <target>E-post</target>
         <note/>
       </trans-unit>
       <trans-unit id="Major updates only" xml:space="preserve">
         <source>Major updates only</source>
-        <target>Kun større oppdateringer</target>
         <note/>
       </trans-unit>
       <trans-unit id="Make sure your router's DHCP server is disabled when using the Pi-hole DHCP server!" xml:space="preserve">
         <source>Make sure your router's DHCP server is disabled when using the Pi-hole DHCP server!</source>
-        <target>Sørg for at ruterens DHCP-server er deaktivert når du bruker Pi-holes DHCP-server!</target>
         <note/>
       </trans-unit>
       <trans-unit id="ManGo - Anime &amp; Manga Tracker" xml:space="preserve">
         <source>ManGo - Anime &amp; Manga Tracker</source>
-        <target>ManGo – Anime- og mangatracker</target>
         <note/>
       </trans-unit>
       <trans-unit id="Manage Subscription" xml:space="preserve">
         <source>Manage Subscription</source>
-        <target>Administrer abonnement</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Mark as 'Time Sensitive'" xml:space="preserve">
         <source>Mark as 'Time Sensitive'</source>
-        <target>Merk som «Tidsfølsom»</target>
         <note/>
       </trans-unit>
       <trans-unit id="Media sharing" xml:space="preserve">
         <source>Media sharing</source>
-        <target>Mediedeling</target>
         <note/>
       </trans-unit>
       <trans-unit id="Medium widget only." xml:space="preserve">
         <source>Medium widget only.</source>
-        <target>Kun mellomstor widget.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Merge" xml:space="preserve">
         <source>Merge</source>
-        <target>Slå sammen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Messages" xml:space="preserve">
         <source>Messages</source>
-        <target>Meldinger</target>
         <note/>
       </trans-unit>
       <trans-unit id="Metrics" xml:space="preserve">
         <source>Metrics</source>
-        <target>Målinger</target>
         <note/>
       </trans-unit>
       <trans-unit id="Metrics decimals" xml:space="preserve">
         <source>Metrics decimals</source>
-        <target>Desimaler for målinger</target>
         <note/>
       </trans-unit>
       <trans-unit id="Minimize tabbar on scroll" xml:space="preserve">
@@ -4063,32 +3558,26 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Range End" xml:space="preserve">
         <source>Range End</source>
-        <target>Område slutt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Range Start" xml:space="preserve">
         <source>Range Start</source>
-        <target>Område start</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rate-limiting" xml:space="preserve">
         <source>Rate-limiting</source>
-        <target>Hastighetsbegrensning</target>
         <note>Displayed on the DNS Settings screen.</note>
       </trans-unit>
       <trans-unit id="Red" xml:space="preserve">
         <source>Red</source>
-        <target>Rød</target>
         <note/>
       </trans-unit>
       <trans-unit id="Refreshing" xml:space="preserve">
         <source>Refreshing</source>
-        <target>Oppdaterer</target>
         <note/>
       </trans-unit>
       <trans-unit id="RegEx" xml:space="preserve">
         <source>RegEx</source>
-        <target>RegEx</target>
         <note/>
       </trans-unit>
       <trans-unit id="RegEx entries" xml:space="preserve">
@@ -4101,37 +3590,30 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Remove" xml:space="preserve">
         <source>Remove</source>
-        <target>Fjern</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remove Custom Service" xml:space="preserve">
         <source>Remove Custom Service</source>
-        <target>Fjern egendefinert tjeneste</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remove Instance" xml:space="preserve">
         <source>Remove Instance</source>
-        <target>Fjern instans</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remove TTL" xml:space="preserve">
         <source>Remove TTL</source>
-        <target>Fjern TTL</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remove limits, unlock all settings, and more..." xml:space="preserve">
         <source>Remove limits, unlock all settings, and more...</source>
-        <target>Fjern begrensninger, lås opp alle innstillinger og mer...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Reorder" xml:space="preserve">
         <source>Reorder</source>
-        <target>Omorganiser</target>
         <note/>
       </trans-unit>
       <trans-unit id="Reorder by dragging, remove by swiping." xml:space="preserve">
         <source>Reorder by dragging, remove by swiping.</source>
-        <target>Omorganiser ved å dra, fjern ved å sveipe.</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Request" xml:space="preserve">
@@ -4854,77 +4336,63 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
       </trans-unit>
       <trans-unit id="Yearly PHR %@" xml:space="preserve">
         <source>Yearly PHR %@</source>
-        <target>Årlig PHR %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Yellow" xml:space="preserve">
         <source>Yellow</source>
-        <target>Gul</target>
         <note/>
       </trans-unit>
       <trans-unit id="Yes" xml:space="preserve">
         <source>Yes</source>
-        <target>Ja</target>
         <note/>
       </trans-unit>
       <trans-unit id="You can configure an application password in the Pi-hole Web Interface. Be aware that you can have only *one* application password at a time." xml:space="preserve">
         <source>You can configure an application password in the Pi-hole Web Interface. Be aware that you can have only *one* application password at a time.</source>
-        <target>Du kan konfigurere et applikasjonspassord i Pi-hole-nettgrensesnittet. Vær oppmerksom på at du kun kan ha *ett* applikasjonspassord om gangen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="You don't have multiple instances." xml:space="preserve">
         <source>You don't have multiple instances.</source>
-        <target>Du har ikke flere instanser.</target>
         <note/>
       </trans-unit>
       <trans-unit id="You have purchased PHR %@" xml:space="preserve">
         <source>You have purchased PHR %@</source>
-        <target>Du har kjøpt PHR %@</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="You've reached the maximum of 6 presets." xml:space="preserve">
         <source>You've reached the maximum of 6 presets.</source>
-        <target>Du har nådd maksimum på 6 forhåndsinnstillinger.</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Your Pi-hole has no diagnosis messages." xml:space="preserve">
         <source>Your Pi-hole has no diagnosis messages.</source>
-        <target>Pi-hole har ingen diagnosmeldinger.</target>
         <note/>
       </trans-unit>
       <trans-unit id="`/api` by default" xml:space="preserve">
         <source>`/api` by default</source>
-        <target>`/api` som standard</target>
+        <target state="translated">`/api` som standard</target>
         <note/>
       </trans-unit>
       <trans-unit id="appintent_disableblocking_description" xml:space="preserve">
         <source>Disable Pi-hole blocking on one or all of your instances for a specific duration.</source>
-        <target>Deaktiver Pi-hole-blokkering på én eller alle instansene dine i en bestemt varighet.</target>
         <note/>
       </trans-unit>
       <trans-unit id="appintent_disableblocking_summary_${instance}" xml:space="preserve">
         <source>Disable Pi-hole blocking for ${instance}</source>
-        <target>Deaktiver Pi-hole-blokkering for ${instance}</target>
         <note/>
       </trans-unit>
       <trans-unit id="appintent_duration_description" xml:space="preserve">
         <source>Specifies the duration to disable for, in minutes. Set to '0' to disable indefinitely.</source>
-        <target>Angir varigheten for deaktivering, i minutter. Sett til '0' for å deaktivere på ubestemt tid.</target>
         <note/>
       </trans-unit>
       <trans-unit id="appintent_enableblocking_description" xml:space="preserve">
         <source>Enable Pi-hole blocking on one or all of your instances.</source>
-        <target>Aktiver Pi-hole-blokkering på én eller alle instansene dine.</target>
         <note>MARK: - App Intents</note>
       </trans-unit>
       <trans-unit id="appintent_enableblocking_summary_${instance}" xml:space="preserve">
         <source>Enable Pi-hole blocking for ${instance}</source>
-        <target>Aktiver Pi-hole-blokkering for ${instance}</target>
         <note/>
       </trans-unit>
       <trans-unit id="appintent_instance_description" xml:space="preserve">
         <source>Specifies which instance(s) to use.</source>
-        <target>Angir hvilke instans(er) som skal brukes.</target>
         <note/>
       </trans-unit>
       <trans-unit id="appintents_state" translate="no" xml:space="preserve">
@@ -4933,192 +4401,154 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
       </trans-unit>
       <trans-unit id="automatic" xml:space="preserve">
         <source>automatic</source>
-        <target>automatisk</target>
         <note/>
       </trans-unit>
       <trans-unit id="blocked_services_block_service" xml:space="preserve">
         <source>Block service</source>
-        <target>Blokker tjeneste</target>
         <note/>
       </trans-unit>
       <trans-unit id="blocked_services_favorites" xml:space="preserve">
         <source>Favorites</source>
-        <target>Favoritter</target>
         <note/>
       </trans-unit>
       <trans-unit id="blocked_services_favorites_add" xml:space="preserve">
         <source>Add to favorites</source>
-        <target>Legg til i favoritter</target>
         <note/>
       </trans-unit>
       <trans-unit id="blocked_services_favorites_explainer" xml:space="preserve">
         <source>Swipe to the right to add a service to your favorites.</source>
-        <target>Sveip til høyre for å legge en tjeneste til i favorittene dine.</target>
         <note/>
       </trans-unit>
       <trans-unit id="blocked_services_favorites_remove" xml:space="preserve">
         <source>Remove from favorites</source>
-        <target>Fjern fra favoritter</target>
         <note/>
       </trans-unit>
       <trans-unit id="changelog_accessibility" xml:space="preserve">
         <source>Accessibility</source>
-        <target>Tilgjengelighet</target>
         <note/>
       </trans-unit>
       <trans-unit id="changelog_continue" xml:space="preserve">
         <source>Continue</source>
-        <target>Fortsett</target>
         <note/>
       </trans-unit>
       <trans-unit id="changelog_current_version" xml:space="preserve">
         <source>Current</source>
-        <target>Nåværende</target>
         <note/>
       </trans-unit>
       <trans-unit id="changelog_fixed" xml:space="preserve">
         <source>Fixed</source>
-        <target>Fikset</target>
         <note/>
       </trans-unit>
       <trans-unit id="changelog_improved" xml:space="preserve">
         <source>Improved</source>
-        <target>Forbedret</target>
         <note/>
       </trans-unit>
       <trans-unit id="changelog_just_updated" xml:space="preserve">
         <source>Just Updated!</source>
-        <target>Nettopp oppdatert!</target>
         <note/>
       </trans-unit>
       <trans-unit id="changelog_navbar" xml:space="preserve">
         <source>What's New</source>
-        <target>Hva er nytt</target>
         <note>MARK: Changelog</note>
       </trans-unit>
       <trans-unit id="changelog_new" xml:space="preserve">
         <source>New</source>
-        <target>Nytt</target>
         <note/>
       </trans-unit>
       <trans-unit id="changelog_settings_show" xml:space="preserve">
         <source>Show on App Update</source>
-        <target>Vis ved appoppdatering</target>
         <note/>
       </trans-unit>
       <trans-unit id="changelog_show_feature_promo" xml:space="preserve">
         <source>Show Feature Promo</source>
-        <target>Vis funksjonspromo</target>
         <note/>
       </trans-unit>
       <trans-unit id="changelog_view_full" xml:space="preserve">
         <source>View Full Changelog</source>
-        <target>Vis full endringslogg</target>
         <note/>
       </trans-unit>
       <trans-unit id="copy" xml:space="preserve">
         <source>Copy</source>
-        <target>Kopier</target>
         <note>MARK: Context Menus</note>
       </trans-unit>
       <trans-unit id="customize app tint." xml:space="preserve">
         <source>customize app tint.</source>
-        <target>tilpass appfarge.</target>
         <note/>
       </trans-unit>
       <trans-unit id="customize the app icon." xml:space="preserve">
         <source>customize the app icon.</source>
-        <target>tilpass app-ikonet.</target>
         <note/>
       </trans-unit>
       <trans-unit id="design_colorscheme" xml:space="preserve">
         <source>Color Scheme</source>
-        <target>Fargeskjema</target>
         <note/>
       </trans-unit>
       <trans-unit id="design_dark_mode" xml:space="preserve">
         <source>Dark Mode</source>
-        <target>Mørk modus</target>
         <note/>
       </trans-unit>
       <trans-unit id="design_light_mode" xml:space="preserve">
         <source>Light Mode</source>
-        <target>Lys modus</target>
         <note/>
       </trans-unit>
       <trans-unit id="design_system" xml:space="preserve">
         <source>System</source>
-        <target>System</target>
         <note/>
       </trans-unit>
       <trans-unit id="design_theme" xml:space="preserve">
         <source>Theme</source>
-        <target>Tema</target>
         <note/>
       </trans-unit>
       <trans-unit id="design_tint_blue" xml:space="preserve">
         <source>Blue</source>
-        <target>Blå</target>
         <note/>
       </trans-unit>
       <trans-unit id="design_tint_brown" xml:space="preserve">
         <source>Brown</source>
-        <target>Brun</target>
         <note/>
       </trans-unit>
       <trans-unit id="design_tint_green" xml:space="preserve">
         <source>Green</source>
-        <target>Grønn</target>
         <note/>
       </trans-unit>
       <trans-unit id="design_tint_indigo" xml:space="preserve">
         <source>Indigo</source>
-        <target>Indigo</target>
         <note/>
       </trans-unit>
       <trans-unit id="design_tint_mint" xml:space="preserve">
         <source>Mint</source>
-        <target>Mint</target>
         <note/>
       </trans-unit>
       <trans-unit id="design_tint_orange" xml:space="preserve">
         <source>Orange</source>
-        <target>Oransje</target>
         <note/>
       </trans-unit>
       <trans-unit id="design_tint_pink" xml:space="preserve">
         <source>Pink</source>
-        <target>Rosa</target>
         <note/>
       </trans-unit>
       <trans-unit id="design_tint_purple" xml:space="preserve">
         <source>Purple</source>
-        <target>Lilla</target>
         <note/>
       </trans-unit>
       <trans-unit id="design_tint_red" xml:space="preserve">
         <source>Red</source>
-        <target>Rød</target>
         <note/>
       </trans-unit>
       <trans-unit id="design_tint_teal" xml:space="preserve">
         <source>Teal</source>
-        <target>Turkis</target>
         <note/>
       </trans-unit>
       <trans-unit id="design_tint_yellow" xml:space="preserve">
         <source>Yellow</source>
-        <target>Gul</target>
         <note/>
       </trans-unit>
       <trans-unit id="dismiss" xml:space="preserve">
         <source>Dismiss</source>
-        <target>Lukk</target>
         <note/>
       </trans-unit>
       <trans-unit id="enable more than 1 Blocked Service." xml:space="preserve">
         <source>enable more than 1 Blocked Service.</source>
-        <target>aktiver mer enn 1 blokkert tjeneste.</target>
         <note/>
       </trans-unit>
       <trans-unit id="example.com" xml:space="preserve">
@@ -5127,72 +4557,58 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
       </trans-unit>
       <trans-unit id="fast address assignment" xml:space="preserve">
         <source>fast address assignment</source>
-        <target>rask adressetildeling</target>
         <note/>
       </trans-unit>
       <trans-unit id="home_disable" xml:space="preserve">
         <source>Disable</source>
-        <target>Deaktiver</target>
         <note/>
       </trans-unit>
       <trans-unit id="home_disable_blocking" xml:space="preserve">
         <source>Disable Blocking</source>
-        <target>Deaktiver blokkering</target>
         <note/>
       </trans-unit>
       <trans-unit id="home_disable_blocking_pihole" xml:space="preserve">
         <source>Disable Pi-hole Blocking</source>
-        <target>Deaktiver Pi-hole-blokkering</target>
         <note/>
       </trans-unit>
       <trans-unit id="home_disabled" xml:space="preserve">
         <source>Disabled</source>
-        <target>Deaktivert</target>
         <note/>
       </trans-unit>
       <trans-unit id="home_enable" xml:space="preserve">
         <source>Enable</source>
-        <target>Aktiver</target>
         <note/>
       </trans-unit>
       <trans-unit id="home_enable_blocking" xml:space="preserve">
         <source>Enable Blocking</source>
-        <target>Aktiver blokkering</target>
         <note/>
       </trans-unit>
       <trans-unit id="home_enable_blocking_pihole" xml:space="preserve">
         <source>Enable Pi-hole Blocking</source>
-        <target>Aktiver Pi-hole-blokkering</target>
         <note/>
       </trans-unit>
       <trans-unit id="home_enabled" xml:space="preserve">
         <source>Enabled</source>
-        <target>Aktivert</target>
         <note/>
       </trans-unit>
       <trans-unit id="iCloud" xml:space="preserve">
         <source>iCloud</source>
-        <target>iCloud</target>
         <note>Displayed on the support screen.</note>
       </trans-unit>
       <trans-unit id="indefinitely" xml:space="preserve">
         <source>Indefinitely</source>
-        <target>Ubestemt</target>
         <note/>
       </trans-unit>
       <trans-unit id="instance" xml:space="preserve">
         <source>Instance</source>
-        <target>Instans</target>
         <note/>
       </trans-unit>
       <trans-unit id="key" xml:space="preserve">
         <source>key</source>
-        <target>nøkkel</target>
         <note/>
       </trans-unit>
       <trans-unit id="keyNotFound" xml:space="preserve">
         <source>keyNotFound</source>
-        <target>Nøkkel ikke funnet</target>
         <note>ParsingError</note>
       </trans-unit>
       <trans-unit id="lan" translate="no" xml:space="preserve">
@@ -5201,52 +4617,42 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
       </trans-unit>
       <trans-unit id="livelog_noqueriesfoundyet" xml:space="preserve">
         <source>No queries found yet...</source>
-        <target>Ingen forespørsler funnet ennå...</target>
         <note/>
       </trans-unit>
       <trans-unit id="manage Clients &amp; Groups." xml:space="preserve">
         <source>manage Clients &amp; Groups.</source>
-        <target>administrer klienter og grupper.</target>
         <note/>
       </trans-unit>
       <trans-unit id="manage DHCP settings." xml:space="preserve">
         <source>manage DHCP settings.</source>
-        <target>administrer DHCP-innstillinger.</target>
         <note/>
       </trans-unit>
       <trans-unit id="manage DNS settings." xml:space="preserve">
         <source>manage DNS settings.</source>
-        <target>administrer DNS-innstillinger.</target>
         <note/>
       </trans-unit>
       <trans-unit id="manage Domains &amp; Adlists." xml:space="preserve">
         <source>manage Domains &amp; Adlists.</source>
-        <target>administrer domener og adlister.</target>
         <note/>
       </trans-unit>
       <trans-unit id="one person only" xml:space="preserve">
         <source>one person only</source>
-        <target>kun én person</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="original_enddate" xml:space="preserve">
         <source>original_enddate</source>
-        <target>original_enddate</target>
         <note/>
       </trans-unit>
       <trans-unit id="out of %@" xml:space="preserve">
         <source>out of %@</source>
-        <target>av %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="out of %@ total" xml:space="preserve">
         <source>out of %@ total</source>
-        <target>av %@ totalt</target>
         <note/>
       </trans-unit>
       <trans-unit id="pi.hole" xml:space="preserve">
         <source>pi.hole</source>
-        <target>pi.hole</target>
         <note>Placeholder for the hostname textfield on the instance settings screen.</note>
       </trans-unit>
       <trans-unit id="pihole -up" translate="no" xml:space="preserve">
@@ -5255,166 +4661,129 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
       </trans-unit>
       <trans-unit id="refresh" xml:space="preserve">
         <source>Refresh</source>
-        <target>Oppdater</target>
         <note/>
       </trans-unit>
       <trans-unit id="rocketscience_adguarddnsremote_subtitle" xml:space="preserve">
         <source>Rather use AdGuard DNS? I've got you covered.</source>
-        <target>Vil du heller bruke AdGuard DNS? Da har jeg deg dekket.</target>
         <note/>
       </trans-unit>
       <trans-unit id="rocketscience_adguardhomeremote_subtitle" xml:space="preserve">
         <source>It's like Pi-hole Remote, but for AdGuard Home!</source>
-        <target>Det er som Pi-hole Remote, men for AdGuard Home!</target>
         <note/>
       </trans-unit>
       <trans-unit id="rocketscience_energieradar_subtitle" xml:space="preserve">
         <source>Monitor real-time electricity and gas prices in many European countries.</source>
-        <target>Overvåk strøm- og gasspriser i sanntid i mange europeiske land.</target>
         <note/>
       </trans-unit>
       <trans-unit id="rocketscience_hi_subtitle" xml:space="preserve">
         <source>In June 2020 I started building my own apps as an independent developer, under the name 'RocketScience IT'.
 
 My main goal is to learn: design, development, testing, support, promotion - maybe even more! Right now, I have several apps in the store which I'm continuously improving &amp; have many ideas for other apps I might want to make in the future.</source>
-        <target>I juni 2020 begynte jeg å lage mine egne apper som uavhengig utvikler, under navnet 'RocketScience IT'.
-
-Hovedmålet mitt er å lære: design, utvikling, testing, støtte, markedsføring – kanskje enda mer! Akkurat nå har jeg flere apper i butikken som jeg kontinuerlig forbedrer, og mange ideer til andre apper jeg kanskje vil lage i fremtiden.</target>
         <note/>
       </trans-unit>
       <trans-unit id="rocketscience_hi_title" xml:space="preserve">
         <source>Hi, I'm Joost!</source>
-        <target>Hei, jeg heter Joost!</target>
         <note/>
       </trans-unit>
       <trans-unit id="rocketscience_mango_subtitle" xml:space="preserve">
         <source>A clean Anime &amp; Manga tracker app, using the MyAnimeList API.</source>
-        <target>En ryddig anime- og mangatracker-app som bruker MyAnimeList-API-et.</target>
         <note/>
       </trans-unit>
       <trans-unit id="rocketscience_my_other_apps" xml:space="preserve">
         <source>My Other Apps</source>
-        <target>Mine andre apper</target>
         <note/>
       </trans-unit>
       <trans-unit id="rocketscience_tipjar" xml:space="preserve">
         <source>Tip Jar</source>
-        <target>Tipskrukke</target>
         <note/>
       </trans-unit>
       <trans-unit id="rocketscience_tipjar_thankyou" xml:space="preserve">
         <source>Thank you!</source>
-        <target>Takk!</target>
         <note/>
       </trans-unit>
       <trans-unit id="rocketscience_website" xml:space="preserve">
         <source>Website</source>
-        <target>Nettsted</target>
         <note/>
       </trans-unit>
       <trans-unit id="settings_made_by_rocketscience" xml:space="preserve">
         <source>Made by RocketScience</source>
-        <target>Laget av RocketScience</target>
         <note/>
       </trans-unit>
       <trans-unit id="settings_tipjar" xml:space="preserve">
         <source>Tip Jar</source>
-        <target>Tipskrukke</target>
         <note/>
       </trans-unit>
       <trans-unit id="settings_twitter" xml:space="preserve">
         <source>Follow on X</source>
-        <target>Følg på X</target>
         <note/>
       </trans-unit>
       <trans-unit id="something_went_wrong" xml:space="preserve">
         <source>Something went wrong.</source>
-        <target>Noe gikk galt.</target>
         <note/>
       </trans-unit>
       <trans-unit id="tipjar_blush" xml:space="preserve">
         <source>*blush*</source>
-        <target>*rødmer*</target>
         <note/>
       </trans-unit>
       <trans-unit id="tipjar_header" xml:space="preserve">
         <source>The Tip Jar helps keep Pi-hole Remote running and directly supports development of awesome features and improvements.</source>
-        <target>Tipskrukken hjelper med å holde Pi-hole Remote i gang og støtter direkte utviklingen av flotte funksjoner og forbedringer.</target>
         <note/>
       </trans-unit>
       <trans-unit id="tipjar_header_2" xml:space="preserve">
         <source>If you enjoy using this app and want to support a one-man-team indie developer (hi! 👋), please consider leaving a tip. I would greatly appreciate it!</source>
-        <target>Hvis du liker å bruke denne appen og vil støtte en indieutvikler i et enmannsteam (hei! 👋), vurder gjerne å legge igjen et tips. Det setter jeg stor pris på!</target>
         <note/>
       </trans-unit>
       <trans-unit id="tipjar_header_3" xml:space="preserve">
         <source>Thank you for your support.
 - Joost</source>
-        <target>Takk for støtten.
-- Joost</target>
         <note/>
       </trans-unit>
       <trans-unit id="tipjar_navbar" xml:space="preserve">
         <source>Tip Jar</source>
-        <target>Tipskrukke</target>
         <note/>
       </trans-unit>
       <trans-unit id="tipjar_payment_successful" xml:space="preserve">
         <source>Payment Successful</source>
-        <target>Betaling vellykket</target>
         <note/>
       </trans-unit>
       <trans-unit id="tipjar_testflight_explainer" xml:space="preserve">
         <source>Note: you're running a TestFlight Build, therefore payments run in Sandbox mode and do not actually process.
 
 If you want to tip, please download the app from the App Store! After that you can download the beta again. Thanks!</source>
-        <target>Merk: Du kjører en TestFlight-build, derfor går betalinger i sandbox-modus og blir ikke faktisk behandlet.
-
-Hvis du vil gi et tips, last ned appen fra App Store! Etterpå kan du laste ned betaen igjen. Takk!</target>
         <note/>
       </trans-unit>
       <trans-unit id="tipjar_thankyou_alert" xml:space="preserve">
         <source>Thank you so much, I really appreciate the fact that you love the app so much you're willing to give a tip. It's extremely motivating as well. I love you!
 
 Joost</source>
-        <target>Tusen takk, jeg setter stor pris på at du liker appen så mye at du vil gi et tips. Det er også utrolig motiverende. Jeg elsker deg!
-
-Joost</target>
         <note/>
       </trans-unit>
       <trans-unit id="tipjar_thankyou_loveyou" xml:space="preserve">
         <source>I love you! ❤️</source>
-        <target>Jeg elsker deg! ❤️</target>
         <note/>
       </trans-unit>
       <trans-unit id="tipjar_thankyou_tip" xml:space="preserve">
         <source>Thank you for your generous tip!</source>
-        <target>Takk for ditt generøse tips!</target>
         <note/>
       </trans-unit>
       <trans-unit id="tipjar_thankyou_tips" xml:space="preserve">
         <source>Thank you for your generous tips!</source>
-        <target>Takk for dine generøse tips!</target>
         <note/>
       </trans-unit>
       <trans-unit id="tipjar_tip_coffee" xml:space="preserve">
         <source>Coffee Tip</source>
-        <target>Kaffetips</target>
         <note/>
       </trans-unit>
       <trans-unit id="tipjar_tip_ramen" xml:space="preserve">
         <source>Ramen Tip</source>
-        <target>Ramentips</target>
         <note/>
       </trans-unit>
       <trans-unit id="tipjar_tip_sushi" xml:space="preserve">
         <source>Sushi Tip</source>
-        <target>Sushitips</target>
         <note/>
       </trans-unit>
       <trans-unit id="tipjar_tip_whiskey" xml:space="preserve">
         <source>Whiskey Tip</source>
-        <target>Whisky-tips</target>
         <note/>
       </trans-unit>
       <trans-unit id="typeMismatch" translate="no" xml:space="preserve">
@@ -5423,12 +4792,10 @@ Joost</target>
       </trans-unit>
       <trans-unit id="updated %@" xml:space="preserve">
         <source>updated %@</source>
-        <target>oppdatert %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="value" xml:space="preserve">
         <source>value</source>
-        <target>verdi</target>
         <note/>
       </trans-unit>
       <trans-unit id="valueNotFound" translate="no" xml:space="preserve">
@@ -5437,52 +4804,42 @@ Joost</target>
       </trans-unit>
       <trans-unit id="view more queries." xml:space="preserve">
         <source>view more queries.</source>
-        <target>vis flere forespørsler.</target>
         <note/>
       </trans-unit>
       <trans-unit id="watchos_blocking" xml:space="preserve">
         <source>Blocking</source>
-        <target>Blokkering</target>
         <note>MARK: - watchOS Specific</note>
       </trans-unit>
       <trans-unit id="watchos_no_instances_headline" xml:space="preserve">
         <source>Please add a Pi-hole instance in the iPhone app.</source>
-        <target>Legg til en Pi-hole-instans i iPhone-appen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="watchos_no_instances_subheadline" xml:space="preserve">
         <source>If you already did, please go to your instance, press 'Edit' and press 'Save' again. It should show up after that. If the statistics don't load at first, please restart the Watch app. Thanks!</source>
-        <target>Hvis du allerede har gjort det, gå til instansen din, trykk «Rediger» og trykk «Lagre» igjen. Da skal den dukke opp. Hvis statistikken ikke lastes inn med en gang, start Watch-appen på nytt. Takk!</target>
         <note/>
       </trans-unit>
       <trans-unit id="widget_querygraph" xml:space="preserve">
         <source>Query Graph</source>
-        <target>Forespørselsgraf</target>
         <note/>
       </trans-unit>
       <trans-unit id="widget_querygraph_description" xml:space="preserve">
         <source>Check in on your queries over time.</source>
-        <target>Følg med på forespørslene dine over tid.</target>
         <note/>
       </trans-unit>
       <trans-unit id="widget_statistic" xml:space="preserve">
         <source>Statistic</source>
-        <target>Statistikk</target>
         <note/>
       </trans-unit>
       <trans-unit id="widget_statistic_description" xml:space="preserve">
         <source>Keep an eye on one statistic.</source>
-        <target>Hold øye med én statistikk.</target>
         <note/>
       </trans-unit>
       <trans-unit id="widget_statistics" xml:space="preserve">
         <source>Statistics</source>
-        <target>Statistikk</target>
         <note/>
       </trans-unit>
       <trans-unit id="widget_statistics_description" xml:space="preserve">
         <source>Keep an eye on all your statistics.</source>
-        <target>Hold øye med all statistikken din.</target>
         <note/>
       </trans-unit>
       <trans-unit id="• Client &amp; Group Management&#10;• Change DHCP &amp; DNS Settings&#10;• Custom Blocked Services&#10;• Interactive Widgets&#10;• Multiple Instances&#10;• And much more!" xml:space="preserve">
@@ -5492,9 +4849,9 @@ Joost</target>
 • Interactive Widgets
 • Multiple Instances
 • And much more!</source>
-        <target>• Klient- og gruppeadministrasjon
+        <target state="translated">• Klient- og gruppeadministrasjon
 • Endre DHCP- og DNS-innstillinger
-• Egendefinerte blokkerte tjenester
+• Tilpassede blokkerte tjenester
 • Interaktive widgets
 • Flere instanser
 • Og mye mer!</target>
@@ -5509,12 +4866,10 @@ Joost</target>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>WidgetInstance</source>
-        <target>WidgetInstance</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>WidgetInstance</source>
-        <target>WidgetInstance</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -5526,27 +4881,22 @@ Joost</target>
     <body>
       <trans-unit id="Info" xml:space="preserve">
         <source>Info</source>
-        <target>Info</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Instances" xml:space="preserve">
         <source>Instances</source>
-        <target>Instanser</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Only visible if 'Combine instances' is turned off." xml:space="preserve">
         <source>Only visible if 'Combine instances' is turned off.</source>
-        <target>Bare synlig hvis 'Kombiner instanser' er slått av.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Statistics" xml:space="preserve">
         <source>Statistics</source>
-        <target>Statistikk</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Version" xml:space="preserve">
         <source>Version</source>
-        <target>Versjon</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
