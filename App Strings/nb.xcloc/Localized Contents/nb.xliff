@@ -1110,12 +1110,12 @@ Merk at identifisering via IP-adresser (inkludert subnett) foretrekkes fremfor M
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Pi-hole Remote</source>
-        <target state="translated">Pi-hole Remote</target>
+        <target state="translated">Pi-hole Fjernstyring</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>Pi-hole Remote tvOS App</source>
-        <target state="translated">Pi-hole Remote tvOS App</target>
+        <target state="translated">Pi-hole Fjernstyring tvOS-app</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -1127,12 +1127,12 @@ Merk at identifisering via IP-adresser (inkludert subnett) foretrekkes fremfor M
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Pi-hole Remote</source>
-        <target state="translated">Pi-hole Remote</target>
+        <target state="translated">Pi-hole Fjernstyring</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>Pi-hole Remote Watch App</source>
-        <target state="translated">Pi-hole Remote Watch App</target>
+        <target state="translated">Pi-hole Fjernstyring Klokke App</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -1631,12 +1631,12 @@ Merk at identifisering via IP-adresser (inkludert subnett) foretrekkes fremfor M
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Pi-hole Remote Widgets</source>
-        <target state="translated">Pi-hole Remote Widgets</target>
+        <target state="translated">Pi-hole Fjernstyring Widgets</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>Pi-hole Remote Widgets</source>
-        <target state="translated">Pi-hole Remote Widgets</target>
+        <target state="translated">Pi-hole Fjernstyring Widgets</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
