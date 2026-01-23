@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <target state="translated">Lagre instans</target>
-  <file original="Base.lproj/Intents.intentdefinition" datatype="plaintext" source-language="en" target-language="nb">
+  <file original="Base.lproj/Intents.intentdefinition" source-language="en" target-language="en" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
@@ -93,7 +92,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="en.lproj/Pi-hole Remote Widgets copy-InfoPlist.strings" datatype="plaintext" source-language="en" target-language="nb">
+  <file original="en.lproj/Pi-hole Remote Widgets copy-InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
@@ -110,617 +109,398 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Pi-hole Remote Share Extension/InfoPlist.xcstrings" source-language="en" target-language="nb" datatype="plaintext">
+  <file original="Pi-hole Remote Share Extension/InfoPlist.xcstrings" source-language="en" target-language="en" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
         <source>Pi-hole Remote Share Extension</source>
-        <target state="translated">Pi-hole Fjernstyring deleutvidelse</target>
+        <target state="translated">Pi-hole Remote Share Extension</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
         <source>Pi-hole Remote Share Extension</source>
-        <target state="translated">Pi-hole Fjernstyring deleutvidelse</target>
+        <target state="translated">Pi-hole Remote Share Extension</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
         <source>Copyright © 2026 RocketScience. All rights reserved.</source>
-        <target state="translated">Copyright © 2026 RocketScience. All rights reserved.</target>
         <target state="translated">Lagre</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
   </file>
-  <file original="Pi-hole Remote tvOS App/Localizable.xcstrings" source-language="en" target-language="nb" datatype="plaintext">
+  <file original="Pi-hole Remote tvOS App/Localizable.xcstrings" source-language="en" target-language="en" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
-    <target state="translated">Søk</target>
     <body>
       <trans-unit id=" avg" xml:space="preserve">
         <source> avg</source>
         <target state="translated"> snitt</target>
-        <target state="translated">Søk etter IP, vertsnavn eller MAC</target>
         <note>Small 'average' label shown on the Home-tab when 'Combine' is enabled. The space at the start is intentional.</note>
       </trans-unit>
       <trans-unit id="%@ total" xml:space="preserve">
         <source>%@ total</source>
-        <target state="translated">Søk i tjenester</target>
         <target state="translated">%@ totalt</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@q/min" xml:space="preserve">
-        <target state="translated">Sekunder</target>
         <source>%@q/min</source>
-        <target state="translated">%@q/min</target>
+        <target state="translated">%@f/min</target>
         <note/>
       </trans-unit>
-      <target state="translated">Velg en instans</target>
       <trans-unit id="%lld total" xml:space="preserve">
         <source>%lld total</source>
         <target state="translated">%lld totalt</target>
         <note>Displays the number of total clients in the Home-tab 'Clients' card.</note>
-        <target state="translated">Velg instans og varighet</target>
       </trans-unit>
       <trans-unit id="AI services" xml:space="preserve">
         <source>AI services</source>
         <target state="translated">KI-tjenester</target>
-        <target state="translated">Valgt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Active Clients" xml:space="preserve">
         <source>Active Clients</source>
-        <target state="translated">Send varsler</target>
         <target state="translated">Aktive klienter</target>
         <note/>
       </trans-unit>
       <trans-unit id="Active clients: %@" xml:space="preserve">
-        <target state="translated">Tjeneste</target>
         <source>Active clients: %@</source>
         <target state="translated">Aktive klienter: %@</target>
         <note/>
       </trans-unit>
-      <target state="translated">Tjenester</target>
       <trans-unit id="Active clients: %@ out of %@ total" xml:space="preserve">
         <source>Active clients: %1$@ out of %2$@ total</source>
         <target state="translated">Aktive klienter: %1$@ av %2$@ totalt</target>
         <note/>
-        <target state="translated">Finner ikke kjøpet</target>
-        <target state="translated">Tjenester som er slått PÅ, blokkeres fra nettverket ditt. Tjenester som er slått AV, forblir tilgjengelige.</target>
       </trans-unit>
       <trans-unit id="Add 5 minutes" xml:space="preserve">
         <source>Add 5 minutes</source>
-        <target state="translated">Kanadisk fargeskjema</target>
         <target state="translated">Legg til 5 minutter</target>
-        <target state="translated">SessionID: %@</target>
-        <target state="translated">Brun</target>
         <note/>
-        <target state="translated">Avbryt</target>
       </trans-unit>
       <trans-unit id="Add your Pi-hole instances on an iOS, iPadOS, or macOS device with version 6.2 or higher and make sure iCloud is enabled." xml:space="preserve">
-        <target state="translated">Innstillinger</target>
         <source>Add your Pi-hole instances on an iOS, iPadOS, or macOS device with version 6.2 or higher and make sure iCloud is enabled.</source>
-        <target state="translated">Kort</target>
-        <target state="translated">Forretning og produktivitet</target>
-        <target state="translated">Legg til Pi-hole-instansene dine på en iOS-, iPadOS- eller macOS-enhet med versjon 6.2 eller nyere, og sørg for at iCloud er aktivert.</target>
+        <target state="translated">Legg til Pi-hole-instanser på en iOS-, iPadOS- eller macOS-enhet med versjon 6.2 eller nyere, og sørg for at iCloud er aktivert.</target>
         <note/>
-        <target state="translated">Del Pi-hole Remote</target>
-        <target state="translated">Endre forhåndsinnstillinger for deaktiveringsvarighet på widgetene som har deaktiveringsknapper, som «Deaktiver» og «Statistikk og deaktiver». For å legge til nye forhåndsinnstillinger, gå til Innstillinger &gt; Preferanser &gt; Hjem &gt; Varighetsforhåndsinnstillinger.</target>
       </trans-unit>
       <trans-unit id="Adlists" xml:space="preserve">
-        <target state="translated">CNAME-poster</target>
         <source>Adlists</source>
-        <target state="translated">Å endre appfargetone på macOS krever omstart av appen.</target>
-        <target state="translated">Shopping</target>
-        <target state="translated">Adlister</target>
+        <target state="translated">Annonse-lister</target>
         <note/>
       </trans-unit>
-      <target state="translated">Diagram</target>
-      <target state="translated">CNAME:</target>
-      <target state="translated">Vis</target>
       <trans-unit id="Allow-list" xml:space="preserve">
         <source>Allow-list</source>
-        <target state="translated">Fjern alle filtre</target>
         <target state="translated">Tillat-liste</target>
         <note/>
-        <target state="translated">Vis «På ubestemt tid»</target>
-        <target state="translated">CNAME: %@</target>
-        <target state="translated">Fjern filtre</target>
       </trans-unit>
       <trans-unit id="Allowed" xml:space="preserve">
         <source>Allowed</source>
-        <target state="translated">Vis «Til i morgen»</target>
-        <target state="translated">Klient</target>
         <target state="translated">Tillatt</target>
-        <target state="translated">Mellomlager</target>
         <note/>
       </trans-unit>
-      <target state="translated">Klient-ID</target>
-      <target state="translated">Vis sist oppdatert for blokkeringsliste</target>
       <trans-unit id="Allowlist" xml:space="preserve">
         <source>Allowlist</source>
-        <target state="translated">Mellomlager (optimalisering)</target>
-        <target state="translated">Klient-IP</target>
         <target state="translated">Tillatelsesliste</target>
-        <target state="translated">Vis DNSSEC-status</target>
         <note/>
       </trans-unit>
-      <target state="translated">Klient-IP: '%@'...</target>
       <trans-unit id="Always Dark" xml:space="preserve">
-        <target state="translated">Bufret</target>
-        <target state="translated">Vis live-logg</target>
         <source>Always Dark</source>
-        <target state="translated">Klientadministrasjon</target>
         <target state="translated">Alltid mørk</target>
         <note/>
       </trans-unit>
-      <target state="translated">Vis alle ikoner</target>
-      <target state="translated">Klientnavn</target>
-      <target state="translated">Bufret: %@</target>
       <trans-unit id="Blocked" xml:space="preserve">
         <source>Blocked</source>
         <target state="translated">Blokkert</target>
-        <target state="translated">Klientnavn: '%@'...</target>
-        <target state="translated">Vis appikoner</target>
         <note/>
-        <target state="translated">Kan ikke redigeres.</target>
       </trans-unit>
-      <target state="translated">KlientID</target>
       <trans-unit id="Blocked | Deny-list Exact" xml:space="preserve">
-        <target state="translated">Vis diagram</target>
         <source>Blocked | Deny-list Exact</source>
-        <target state="translated">Blokkert | Blokkeringsliste nøyaktig</target>
-        <target state="translated">Klienter</target>
-        <target state="translated">Finner ikke kjøpet</target>
+        <target state="translated">Blokkert | Blokkeringsliste eksakt</target>
         <note/>
-        <target state="translated">Vis favoritter øverst</target>
       </trans-unit>
-      <target state="translated">Klienter og grupper</target>
       <trans-unit id="Blocked | Deny-list Exact (CNAME)" xml:space="preserve">
         <source>Blocked | Deny-list Exact (CNAME)</source>
-        <target state="translated">Canadisk fargeskjema</target>
-        <target state="translated">Vis full funksjonssammenligning</target>
-        <target state="translated">Klienter i gruppe</target>
-        <target state="translated">Blokkert | Blokkeringsliste nøyaktig (CNAME)</target>
+        <target state="translated">Blokkert | Blokkeringsliste eksakt (CNAME)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Denylist Exact" xml:space="preserve">
-        <target state="translated">Klienter kan beskrives ved IP, MAC eller vertsnavn. </target>
-        <target state="translated">Vis vertsnavn</target>
-        <target state="translated">Avbryt</target>
         <source>Blocked | Denylist Exact</source>
-        <target state="translated">Blokkert | Blokkeringsliste nøyaktig</target>
-        <target state="translated">Klienter: %@</target>
+        <target state="translated">Blokkert | Blokkeringsliste eksakt</target>
         <note/>
-        <target state="translated">Vis forklaring</target>
       </trans-unit>
-      <target state="translated">Kort</target>
-      <target state="translated">Klienter: %1$lld/%2$lld</target>
       <trans-unit id="Blocked | Denylist Exact (CNAME)" xml:space="preserve">
         <source>Blocked | Denylist Exact (CNAME)</source>
-        <target state="translated">Vis metrikk</target>
-        <target state="translated">Blokkert | Blokkeringsliste nøyaktig (CNAME)</target>
-        <target state="translated">Lukk</target>
+        <target state="translated">Blokkert | Blokkeringsliste eksakt (CNAME)</target>
         <note/>
-        <target state="translated">Endre forhåndsinnstillinger for deaktiveringsvarighet for widgeter med deaktiveringsknapper, som «Deaktiver» og «Statistikk og deaktiver». For å legge til nye forhåndsinnstillinger, gå til Innstillinger &gt; Preferanser &gt; Hjem &gt; Varighetspresets.</target>
       </trans-unit>
-      <target state="translated">Vis mer...</target>
-      <target state="translated">Kode</target>
       <trans-unit id="Blocked | External IP" xml:space="preserve">
         <source>Blocked | External IP</source>
         <target state="translated">Blokkert | Ekstern IP</target>
-        <target state="translated">Å endre appfargetone på macOS krever omstart av appen.</target>
-        <target state="translated">Kombiner instanser</target>
-        <target state="translated">Vis på Hjem-fanen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | External NULL" xml:space="preserve">
-        <target state="translated">Kombiner instanser</target>
         <source>Blocked | External NULL</source>
-        <target state="translated">Vis svartid</target>
-        <target state="translated">Diagram</target>
         <target state="translated">Blokkert | Ekstern NULL</target>
-        <target state="translated">Kommentar</target>
         <note/>
       </trans-unit>
-      <target state="translated">Vis %1$@ %2$@-kortet</target>
       <trans-unit id="Blocked | External NXRA" xml:space="preserve">
-        <target state="translated">Kommunikasjon</target>
-        <target state="translated">Fjern alle filtre</target>
         <source>Blocked | External NXRA</source>
         <target state="translated">Blokkert | Ekstern NXRA</target>
-        <target state="translated">Vis %@-kortet</target>
-        <target state="translated">Kompaktmodus</target>
         <note/>
       </trans-unit>
-      <target state="translated">Fjern filtre</target>
       <trans-unit id="Blocked | Gravity" xml:space="preserve">
-        <target state="translated">Kobler til: %@/...</target>
-        <target state="translated">Vis versjon</target>
         <source>Blocked | Gravity</source>
         <target state="translated">Blokkert | Gravity</target>
         <note/>
-        <target state="translated">Tilkobling</target>
-        <target state="translated">Klient</target>
-        <target state="translated">Viser spørringer etter %@.</target>
       </trans-unit>
       <trans-unit id="Blocked | Gravity (CNAME)" xml:space="preserve">
-        <target state="translated">Tilkoblingsfeil</target>
         <source>Blocked | Gravity (CNAME)</source>
         <target state="translated">Blokkert | Gravity (CNAME)</target>
-        <target state="translated">Sosiale nettverk</target>
-        <target state="translated">Klient-ID</target>
-        <target state="translated">Tilkobling OK</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Regex" xml:space="preserve">
-        <target state="translated">Programvare og oppdateringer</target>
-        <target state="translated">Kontakt</target>
         <source>Blocked | Regex</source>
-        <target state="translated">Klient-IP</target>
         <target state="translated">Blokkert | Regex</target>
         <note/>
-        <target state="translated">Innholdsleveringsnettverk</target>
-        <target state="translated">Noe gikk galt</target>
       </trans-unit>
       <trans-unit id="Blocked | Regex (CNAME)" xml:space="preserve">
-        <target state="translated">Klient-IP: '%@'...</target>
-        <target state="translated">Fortsett</target>
         <source>Blocked | Regex (CNAME)</source>
-        <target state="translated">Noe gikk galt.</target>
         <target state="translated">Blokkert | Regex (CNAME)</target>
         <note/>
-        <target state="translated">Kontroller blokkering av tjenester på Pi-hole. (Krever PHR+)</target>
       </trans-unit>
-      <target state="translated">Klientadministrasjon</target>
-      <target state="translated">Noe gikk galt: %@</target>
       <trans-unit id="Blocked: %@" xml:space="preserve">
-        <target state="translated">Konvertert til: (\\.|^)%@$</target>
         <source>Blocked: %@</source>
         <target state="translated">Blokkert: %@</target>
         <note/>
-        <target state="translated">Sorter</target>
-        <target state="translated">Kopier</target>
-        <target state="translated">Klientnavn</target>
       </trans-unit>
       <trans-unit id="Blocked: %@ (%@)" xml:space="preserve">
         <source>Blocked: %1$@ (%2$@)</source>
-        <target state="translated">Kopier e-postadresse</target>
-        <target state="translated">Sortert etter siste spørring</target>
         <target state="translated">Blokkert: %1$@ (%2$@)</target>
-        <target state="translated">Klientnavn: '%@'...</target>
         <note/>
-        <target state="translated">Kopier ID</target>
       </trans-unit>
-      <target state="translated">Kilde</target>
       <trans-unit id="Blocking is enabled on all instances." xml:space="preserve">
         <source>Blocking is enabled on all instances.</source>
-        <target state="translated">KlientID</target>
         <target state="translated">Blokkering er aktivert på alle instanser.</target>
-        <target state="translated">Kildeinstans</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking is enabled on instance %@." xml:space="preserve">
-        <target state="translated">Klienter</target>
-        <target state="translated">Spesialdomene</target>
         <source>Blocking is enabled on instance %@.</source>
-        <target state="translated">Blokkering er aktivert på instansen %@.</target>
+        <target state="translated">Blokkering er aktivert på instans %@.</target>
         <note/>
       </trans-unit>
-      <target state="translated">Angi hvilke gruppe(r) som skal kontrolleres.</target>
-      <target state="translated">Klienter og grupper</target>
       <trans-unit id="Blocking is not enabled on all instances." xml:space="preserve">
         <source>Blocking is not enabled on all instances.</source>
         <target state="translated">Blokkering er ikke aktivert på alle instanser.</target>
-        <target state="translated">Angi hvilke instans(er) som skal sjekkes.</target>
         <note/>
-        <target state="translated">Klienter i gruppe</target>
       </trans-unit>
       <trans-unit id="Blocking is not enabled on instance %@." xml:space="preserve">
-        <target state="translated">Angi hvilke instans(er) som skal kontrolleres.</target>
         <source>Blocking is not enabled on instance %@.</source>
-        <target state="translated">Blokkering er ikke aktivert på instansen %@.</target>
-        <target state="translated">Klienter kan beskrives med IP, MAC eller vertsnavn. </target>
+        <target state="translated">Blokkering er ikke aktivert på instans %@.</target>
         <note/>
-        <target state="translated">Angi hvilke tjeneste(r) som skal veksles.</target>
       </trans-unit>
       <trans-unit id="Blocklist" xml:space="preserve">
         <source>Blocklist</source>
         <target state="translated">Blokkeringsliste</target>
-        <target state="translated">Hastighet</target>
         <note/>
-        <target state="translated">Klienter kan beskrives med IP-adresser (IPv4 og IPv6 støttes), IP-undernett (CIDR-notasjon, som 192.168.2.0/24), MAC-adresser (for eksempel 12:34:56:78:9A:BC), vertsnavn (for eksempel localhost), eller grensesnittet de er koblet til (prefiks med kolon, som :eth0).
-
-Merk at identifisering via IP-adresser (inkludert subnett) foretrekkes fremfor MAC-adresse, vertsnavn eller grensesnitt, siden de to siste først blir tilgjengelige etter en stund. MAC-adressegjenkjenning fungerer dessuten bare for enheter som er maks ett nettverkshopp unna Pi-hole.</target>
-        <target state="translated">Statistikk</target>
       </trans-unit>
       <trans-unit id="Blocklist: %@" xml:space="preserve">
         <source>Blocklist: %@</source>
         <target state="translated">Blokkeringsliste: %@</target>
-        <target state="translated">Statistikk og deaktiver</target>
-        <target state="translated">Klienter: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Business &amp; productivity" xml:space="preserve">
-        <target state="translated">Statistikk- og deaktiveringswidget</target>
         <source>Business &amp; productivity</source>
-        <target state="translated">Klienter: %1$lld/%2$lld</target>
         <target state="translated">Forretning og produktivitet</target>
         <note/>
-        <target state="translated">Statistikk med tilpassbare knapper for rask deaktivering av blokkering.</target>
       </trans-unit>
       <trans-unit id="Cache" xml:space="preserve">
-        <target state="translated">Lukk</target>
         <source>Cache</source>
-        <target state="translated">Status</target>
-        <target state="translated">Mellomlager</target>
+        <target state="translated">Hurtigbuffer</target>
         <note/>
       </trans-unit>
-      <target state="translated">Kode</target>
-      <target state="translated">Stopp Live-aktivitet</target>
       <trans-unit id="Cache (optimizer)" xml:space="preserve">
         <source>Cache (optimizer)</source>
-        <target state="translated">Mellomlager (optimalisering)</target>
+        <target state="translated">Hurtigbuffer (optimalisering)</target>
         <note/>
-        <target state="translated">Strømmetjenester</target>
-        <target state="translated">Slå sammen instanser</target>
       </trans-unit>
       <trans-unit id="Cached" xml:space="preserve">
         <source>Cached</source>
-        <target state="translated">Abonnement fornyes automatisk med mindre automatisk fornyelse slås av minst 24 timer før slutten av gjeldende periode, og belastes iTunes-kontoen din. Du kan slå av automatisk fornyelse/administrere abonnement i iTunes-kontoinnstillingene etter kjøp.</target>
         <target state="translated">Bufret</target>
-        <target state="translated">Slå sammen instanser</target>
         <note/>
       </trans-unit>
-      <target state="translated">Blokkering ble deaktivert for %@.</target>
       <trans-unit id="Cached: %@" xml:space="preserve">
         <source>Cached: %@</source>
-        <target state="translated">Kommentar</target>
         <target state="translated">Bufret: %@</target>
-        <target state="translated">Blokkering ble aktivert for %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Chart" xml:space="preserve">
-        <target state="translated">Kommunikasjon</target>
-        <target state="translated">Forslag</target>
         <source>Chart</source>
         <target state="translated">Diagram</target>
         <note/>
       </trans-unit>
-      <target state="translated">Støtt utviklingen</target>
-      <target state="translated">Kompaktmodus</target>
       <trans-unit id="Client IP" xml:space="preserve">
         <source>Client IP</source>
         <target state="translated">Klient-IP</target>
-        <target state="translated">Synkroniser instanser</target>
         <note/>
-        <target state="translated">Kobler til: %@/...</target>
       </trans-unit>
       <trans-unit id="Client Name" xml:space="preserve">
-        <target state="translated">Synkroniser adlister, domener og lokale DNS-poster mellom instanser.</target>
         <source>Client Name</source>
         <target state="translated">Klientnavn</target>
-        <target state="translated">Tilkobling</target>
         <note/>
-        <target state="translated">System</target>
       </trans-unit>
       <trans-unit id="Clients" xml:space="preserve">
         <source>Clients</source>
-        <target state="translated">Tilkoblingsfeil</target>
-        <target state="translated">Systeminnstillinger</target>
         <target state="translated">Klienter</target>
         <note/>
       </trans-unit>
       <trans-unit id="Combine instances" xml:space="preserve">
-        <target state="translated">TOTP</target>
-        <target state="translated">Tilkobling OK</target>
         <source>Combine instances</source>
-        <target state="translated">Slå sammen instanser</target>
+        <target state="translated">Kombiner instanser</target>
         <note/>
-        <target state="translated">TOTP-token (f.eks. «123456»)</target>
       </trans-unit>
-      <target state="translated">Kontakt</target>
       <trans-unit id="Communication" xml:space="preserve">
         <source>Communication</source>
-        <target state="translated">TTL</target>
         <target state="translated">Kommunikasjon</target>
         <note/>
-        <target state="translated">Innholdsleveringsnettverk</target>
       </trans-unit>
-      <target state="translated">TTL (i sekunder)</target>
       <trans-unit id="Compact mode" xml:space="preserve">
         <source>Compact mode</source>
         <target state="translated">Kompaktmodus</target>
-        <target state="translated">Fortsett</target>
-        <target state="translated">TTL (valgfritt)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Content delivery networks" xml:space="preserve">
         <source>Content delivery networks</source>
-        <target state="translated">Ta Pi-hole Remote til neste nivå og støtt videre utvikling.</target>
-        <target state="translated">Styr blokkering av tjenester på Pi-hole. (Krever PHR+)</target>
         <target state="translated">Innholdsleveringsnettverk</target>
         <note/>
       </trans-unit>
-      <target state="translated">Ta Pi-hole Remote til neste nivå ved å fjerne begrensninger og låse opp full Pi-hole-håndtering, interaktive widgeter, støtte for flere instanser og mer.</target>
       <trans-unit id="Control blocking of services on your Pi-hole. (Requires PHR+)" xml:space="preserve">
-        <target state="translated">Konvertert til: (\.|^)%@$</target>
         <source>Control blocking of services on your Pi-hole. (Requires PHR+)</source>
-        <target state="translated">Styr blokkering av tjenester på Pi-hole. (Krever PHR+)</target>
-        <target state="translated">Klikk for mer info.</target>
+        <target state="translated">Kontroller blokkering av tjenester på Pi-hole. (Krever PHR+)</target>
         <note/>
       </trans-unit>
-      <target state="translated">Kopier</target>
       <trans-unit id="Core" xml:space="preserve">
-        <target state="translated">Trykk for mer info.</target>
         <source>Core</source>
-        <target state="translated">Kjerne</target>
+        <target state="translated">Core</target>
         <note/>
-        <target state="translated">Kopier e-postadresse</target>
-        <target state="translated">Mål</target>
       </trans-unit>
       <trans-unit id="Core version: %@." xml:space="preserve">
         <source>Core version: %@.</source>
         <target state="translated">Kjerneversjon: %@.</target>
-        <target state="translated">Måldomene</target>
-        <target state="translated">Kopier ID</target>
         <note/>
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
-        <target state="translated">Målgruppe</target>
         <source>Date</source>
-        <target state="translated">Kopier IP</target>
         <target state="translated">Dato</target>
         <note/>
-        <target state="translated">Målgrupper</target>
       </trans-unit>
       <trans-unit id="Dating services" xml:space="preserve">
-        <target state="translated">Kopier MAC-adresse</target>
         <source>Dating services</source>
-        <target state="translated">Turkis</target>
         <target state="translated">Datingtjenester</target>
         <note/>
       </trans-unit>
-      <target state="translated">Kopier melding</target>
       <trans-unit id="Deny-list" xml:space="preserve">
         <source>Deny-list</source>
-        <target state="translated">Blokkeringsliste</target>
+        <target state="translated">Nekteliste</target>
         <note/>
-        <target state="translated">Forteller Pi-hole aldri å videresende A- eller AAAA-forespørsler for enkle navn, uten punktum eller domenedeler, til oppstrøms navneservere. Hvis navnet ikke er kjent fra /etc/hosts eller DHCP, returneres et «not found»-svar.
-
-  Hvis betinget videresending er aktivert, kan å fjerne avhukingen gi en delvis DNS-loop under visse omstendigheter (f.eks. hvis en klient sender TLD DNSSEC-forespørsler).</target>
-        <target state="translated">Kopier UNIX-tidsstempel</target>
       </trans-unit>
       <trans-unit id="Denylist" xml:space="preserve">
         <source>Denylist</source>
-        <target state="translated">Temperatur</target>
-        <target state="translated">Blokkeringsliste</target>
-        <target state="translated">Kopier URL</target>
+        <target state="translated">Nekteliste</target>
         <note/>
       </trans-unit>
-      <target state="translated">Temperaturenhet</target>
       <trans-unit id="Domain" xml:space="preserve">
         <source>Domain</source>
-        <target state="translated">Kopier e-post</target>
         <target state="translated">Domene</target>
-        <target state="translated">Har du midlertidig deaktivert blokkering? Få varsel når den aktiveres igjen. Bruk varselhandlinger for raskt å forlenge blokkeringsperioden.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Domains" xml:space="preserve">
-        <target state="translated">Kopier full respons</target>
-        <target state="translated">Bruksvilkår</target>
         <source>Domains</source>
         <target state="translated">Domener</target>
         <note/>
       </trans-unit>
-      <target state="translated">Test tilkobling</target>
-      <target state="translated">Kjerneversjon: %@.</target>
       <trans-unit id="Duration" xml:space="preserve">
         <source>Duration</source>
         <target state="translated">Varighet</target>
-        <target state="translated">TestFlight beta-tilgang</target>
         <note/>
-        <target state="translated">Fant ikke instansen din.</target>
       </trans-unit>
       <trans-unit id="Enable Blocking" xml:space="preserve">
-        <target state="translated">TestFlight-debugg</target>
         <source>Enable Blocking</source>
         <target state="translated">Aktiver blokkering</target>
-        <target state="translated">Kunne ikke laste konfigurasjon.</target>
         <note/>
-        <target state="translated">TestFlight-tilgang</target>
       </trans-unit>
       <trans-unit id="Enable blocking" xml:space="preserve">
         <source>Enable blocking</source>
-        <target state="translated">Gjeldende versjon</target>
-        <target state="translated">Takk for at du lastet ned appen! ❤️</target>
         <target state="translated">Aktiver blokkering</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable to block the service, disable to unblock it." xml:space="preserve">
-        <target state="translated">Tilpasset</target>
         <source>Enable to block the service, disable to unblock it.</source>
-        <target state="translated">Aktiver for å blokkere tjenesten, deaktiver for å oppheve blokkering.</target>
+        <target state="translated">Aktiver for å blokkere tjenesten, deaktiver for å oppheve blokkeringen.</target>
         <note/>
       </trans-unit>
-      <target state="translated">Egendefinerte overskrifter</target>
       <trans-unit id="Exact" xml:space="preserve">
         <source>Exact</source>
-        <target state="translated">Nøyaktig</target>
+        <target state="translated">Eksakt</target>
         <note/>
-        <target state="translated">Egendefinerte forhåndsinnstillinger</target>
       </trans-unit>
       <trans-unit id="FTL" xml:space="preserve">
         <source>FTL</source>
         <target state="translated">FTL</target>
-        <target state="translated">Tilpass widgeter</target>
         <note/>
       </trans-unit>
       <trans-unit id="FTL version: %@." xml:space="preserve">
         <source>FTL version: %@.</source>
-        <target state="translated">Tilpass fargetone og ikon</target>
         <target state="translated">FTL-versjon: %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="File hosting" xml:space="preserve">
-        <target state="translated">DHCP</target>
         <source>File hosting</source>
         <target state="translated">Filhosting</target>
         <note/>
       </trans-unit>
-      <target state="translated">DHCP og DNS</target>
       <trans-unit id="Forwarded" xml:space="preserve">
         <source>Forwarded</source>
         <target state="translated">Videresendt</target>
         <note/>
-        <target state="translated">DHCP-leietid</target>
       </trans-unit>
       <trans-unit id="Forwarded: %@" xml:space="preserve">
         <source>Forwarded: %@</source>
         <target state="translated">Videresendt: %@</target>
-        <target state="translated">DHCP-leietid</target>
         <note/>
       </trans-unit>
       <trans-unit id="Gambling &amp; betting" xml:space="preserve">
         <source>Gambling &amp; betting</source>
-        <target state="translated">DHCP-server aktivert</target>
         <target state="translated">Pengespill og betting</target>
         <note/>
       </trans-unit>
       <trans-unit id="Gaming" xml:space="preserve">
-        <target state="translated">DHCPv4 rask bekreftelse</target>
         <source>Gaming</source>
-        <target state="translated">Spill</target>
+        <target state="translated">Gaming</target>
         <note/>
       </trans-unit>
-      <target state="translated">DNS</target>
       <trans-unit id="Get Pi-hole Blocking Status" xml:space="preserve">
         <source>Get Pi-hole Blocking Status</source>
         <target state="translated">Hent Pi-hole-blokkeringsstatus</target>
         <note/>
-        <target state="translated">DNS-domene</target>
       </trans-unit>
       <trans-unit id="Get blocking status for ${instance}" xml:space="preserve">
         <source>Get blocking status for ${instance}</source>
         <target state="translated">Hent blokkeringsstatus for ${instance}</target>
-        <target state="translated">Innstillinger for DNS-domene</target>
         <note/>
       </trans-unit>
       <trans-unit id="Get the blocking status of your Pi-hole. Returns 'true' is blocking is enabled, otherwise returns 'false'. If you select 'All Instances', this will only return 'true' if blocking is enabled on all instances." xml:space="preserve">
         <source>Get the blocking status of your Pi-hole. Returns 'true' is blocking is enabled, otherwise returns 'false'. If you select 'All Instances', this will only return 'true' if blocking is enabled on all instances.</source>
-        <target state="translated">DNS-poster</target>
-        <target state="translated">Hent blokkeringsstatusen til Pi-hole. Returnerer 'true' dersom blokkering er aktivert, ellers 'false'. Hvis du velger 'Alle instanser', returneres 'true' bare hvis blokkering er aktivert på alle instanser.</target>
+        <target state="translated">Hent blokkeringsstatusen til Pi-hole. Returnerer 'true' hvis blokkering er aktivert, ellers returneres 'false'. Hvis du velger 'Alle instanser', returneres 'true' bare hvis blokkering er aktivert på alle instanser.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Home" xml:space="preserve">
-        <target state="translated">DNS:</target>
         <source>Home</source>
         <target state="translated">Hjem</target>
         <note/>
       </trans-unit>
-      <target state="translated">DNS: %@</target>
       <trans-unit id="In Progress" xml:space="preserve">
         <source>In Progress</source>
         <target state="translated">Pågår</target>
@@ -773,7 +553,7 @@ Merk at identifisering via IP-adresser (inkludert subnett) foretrekkes fremfor M
       </trans-unit>
       <trans-unit id="Only visible if 'Combine instances' is turned off." xml:space="preserve">
         <source>Only visible if 'Combine instances' is turned off.</source>
-        <target state="translated">Synlig bare hvis 'Slå sammen instanser' er slått av.</target>
+        <target state="translated">Synlig bare hvis «Kombiner instanser» er slått av.</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHR+ is required to use this feature." xml:space="preserve">
@@ -788,17 +568,17 @@ Merk at identifisering via IP-adresser (inkludert subnett) foretrekkes fremfor M
       </trans-unit>
       <trans-unit id="Queries" xml:space="preserve">
         <source>Queries</source>
-        <target state="translated">Forespørsler</target>
+        <target state="translated">Spørringer</target>
         <note/>
       </trans-unit>
       <trans-unit id="Queries: %@" xml:space="preserve">
         <source>Queries: %@</source>
-        <target state="translated">Forespørsler: %@</target>
+        <target state="translated">Spørringer: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Query Types" xml:space="preserve">
         <source>Query Types</source>
-        <target state="translated">Forespørselstyper</target>
+        <target state="translated">Spørringstyper</target>
         <note/>
       </trans-unit>
       <trans-unit id="Refreshing" xml:space="preserve">
@@ -848,7 +628,7 @@ Merk at identifisering via IP-adresser (inkludert subnett) foretrekkes fremfor M
       </trans-unit>
       <trans-unit id="Show Blocklist Last Updated" xml:space="preserve">
         <source>Show Blocklist Last Updated</source>
-        <target state="translated">Vis sist oppdatert for blokkeringsliste</target>
+        <target state="translated">Vis sist oppdatert blokkeringsliste</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show chart" xml:space="preserve">
@@ -903,7 +683,7 @@ Merk at identifisering via IP-adresser (inkludert subnett) foretrekkes fremfor M
       </trans-unit>
       <trans-unit id="Specify which group(s) to control." xml:space="preserve">
         <source>Specify which group(s) to control.</source>
-        <target state="translated">Angi hvilke gruppe(r) som skal kontrolleres.</target>
+        <target state="translated">Angi hvilke gruppe(r) som skal styres.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Specify which instance(s) to check." xml:space="preserve">
@@ -913,7 +693,7 @@ Merk at identifisering via IP-adresser (inkludert subnett) foretrekkes fremfor M
       </trans-unit>
       <trans-unit id="Specify which instance(s) to control." xml:space="preserve">
         <source>Specify which instance(s) to control.</source>
-        <target state="translated">Angi hvilke instans(er) som skal kontrolleres.</target>
+        <target state="translated">Angi hvilke instans(er) som skal styres.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Specify which service(s) to toggle." xml:space="preserve">
@@ -933,12 +713,12 @@ Merk at identifisering via IP-adresser (inkludert subnett) foretrekkes fremfor M
       </trans-unit>
       <trans-unit id="Successfully disabled blocking for %@." xml:space="preserve">
         <source>Successfully disabled blocking for %@.</source>
-        <target state="translated">Blokkering ble deaktivert for %@.</target>
+        <target state="translated">Blokkering deaktivert for %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Successfully enabled blocking for %@." xml:space="preserve">
         <source>Successfully enabled blocking for %@.</source>
-        <target state="translated">Blokkering ble aktivert for %@.</target>
+        <target state="translated">Blokkering aktivert for %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Target Groups" xml:space="preserve">
@@ -988,7 +768,7 @@ Merk at identifisering via IP-adresser (inkludert subnett) foretrekkes fremfor M
       </trans-unit>
       <trans-unit id="Update available for Core: %@. Select for changelog." xml:space="preserve">
         <source>Update available for Core: %@. Select for changelog.</source>
-        <target state="translated">Oppdatering tilgjengelig for kjerne: %@. Velg for endringslogg.</target>
+        <target state="translated">Oppdatering tilgjengelig for Core: %@. Velg for endringslogg.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Update available for FTL: %@. Select for changelog." xml:space="preserve">
@@ -1028,57 +808,57 @@ Merk at identifisering via IP-adresser (inkludert subnett) foretrekkes fremfor M
       </trans-unit>
       <trans-unit id="appintent_disableblocking_description" xml:space="preserve">
         <source>appintent_disableblocking_description</source>
-        <target state="translated">appintent_disableblocking_description</target>
+        <target state="translated">Deaktiver Pi-hole-blokkering på én eller alle instanser i en bestemt varighet.</target>
         <note/>
       </trans-unit>
       <trans-unit id="appintent_disableblocking_summary_${instance}" xml:space="preserve">
         <source>appintent_disableblocking_summary_${instance}</source>
-        <target state="translated">appintent_disableblocking_summary_${instance}</target>
+        <target state="translated">Deaktiver Pi-hole-blokkering for ${instance}</target>
         <note/>
       </trans-unit>
       <trans-unit id="appintent_duration_description" xml:space="preserve">
         <source>appintent_duration_description</source>
-        <target state="translated">appintent_duration_description</target>
+        <target state="translated">Angir varigheten å deaktivere i, i minutter. Sett til «0» for å deaktivere på ubestemt tid.</target>
         <note/>
       </trans-unit>
       <trans-unit id="appintent_enableblocking_description" xml:space="preserve">
         <source>appintent_enableblocking_description</source>
-        <target state="translated">appintent_enableblocking_description</target>
+        <target state="translated">Aktiver Pi-hole-blokkering på én eller alle instanser.</target>
         <note/>
       </trans-unit>
       <trans-unit id="appintent_enableblocking_summary_${instance}" xml:space="preserve">
         <source>appintent_enableblocking_summary_${instance}</source>
-        <target state="translated">appintent_enableblocking_summary_${instance}</target>
+        <target state="translated">Aktiver Pi-hole-blokkering for ${instance}</target>
         <note/>
       </trans-unit>
       <trans-unit id="appintent_instance_description" xml:space="preserve">
         <source>appintent_instance_description</source>
-        <target state="translated">appintent_instance_description</target>
+        <target state="translated">Angir hvilke instanser som skal brukes.</target>
         <note/>
       </trans-unit>
       <trans-unit id="home_disable_blocking" xml:space="preserve">
         <source>home_disable_blocking</source>
-        <target state="translated">home_disable_blocking</target>
+        <target state="translated">Deaktiver blokkering</target>
         <note/>
       </trans-unit>
       <trans-unit id="home_disable_blocking_pihole" xml:space="preserve">
         <source>home_disable_blocking_pihole</source>
-        <target state="translated">home_disable_blocking_pihole</target>
+        <target state="translated">Deaktiver Pi-hole-blokkering</target>
         <note/>
       </trans-unit>
       <trans-unit id="home_enable_blocking" xml:space="preserve">
         <source>home_enable_blocking</source>
-        <target state="translated">home_enable_blocking</target>
+        <target state="translated">Aktiver blokkering</target>
         <note/>
       </trans-unit>
       <trans-unit id="home_enable_blocking_pihole" xml:space="preserve">
         <source>home_enable_blocking_pihole</source>
-        <target state="translated">home_enable_blocking_pihole</target>
+        <target state="translated">Aktiver Pi-hole-blokkering</target>
         <note/>
       </trans-unit>
       <trans-unit id="instance" xml:space="preserve">
         <source>instance</source>
-        <target state="translated">instance</target>
+        <target state="translated">Instans</target>
         <note/>
       </trans-unit>
       <trans-unit id="keyNotFound" xml:space="preserve">
@@ -1088,7 +868,7 @@ Merk at identifisering via IP-adresser (inkludert subnett) foretrekkes fremfor M
       </trans-unit>
       <trans-unit id="something_went_wrong" xml:space="preserve">
         <source>something_went_wrong</source>
-        <target state="translated">something_went_wrong</target>
+        <target state="translated">Noe gikk galt.</target>
         <note/>
       </trans-unit>
       <trans-unit id="typeMismatch" xml:space="preserve">
@@ -1103,7 +883,7 @@ Merk at identifisering via IP-adresser (inkludert subnett) foretrekkes fremfor M
       </trans-unit>
     </body>
   </file>
-  <file original="Pi-hole Remote tvOS App/Pi-hole-Remote-tvOS-App-InfoPlist.xcstrings" source-language="en" target-language="nb" datatype="plaintext">
+  <file original="Pi-hole Remote tvOS App/Pi-hole-Remote-tvOS-App-InfoPlist.xcstrings" source-language="en" target-language="en" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
@@ -1120,7 +900,7 @@ Merk at identifisering via IP-adresser (inkludert subnett) foretrekkes fremfor M
       </trans-unit>
     </body>
   </file>
-  <file original="Pi-hole Remote Watch App/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="nb">
+  <file original="Pi-hole Remote Watch App/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
@@ -1137,7 +917,7 @@ Merk at identifisering via IP-adresser (inkludert subnett) foretrekkes fremfor M
       </trans-unit>
     </body>
   </file>
-  <file original="Pi-hole Remote Widgets/Base.lproj/StatWidget.intentdefinition" datatype="plaintext" source-language="en" target-language="nb">
+  <file original="Pi-hole Remote Widgets/Base.lproj/StatWidget.intentdefinition" source-language="en" target-language="en" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
@@ -1624,7 +1404,7 @@ Merk at identifisering via IP-adresser (inkludert subnett) foretrekkes fremfor M
       </trans-unit>
     </body>
   </file>
-  <file original="Pi-hole Remote Widgets/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="nb">
+  <file original="Pi-hole Remote Widgets/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
@@ -1641,7 +1421,7 @@ Merk at identifisering via IP-adresser (inkludert subnett) foretrekkes fremfor M
       </trans-unit>
     </body>
   </file>
-  <file original="Pi-hole Remote/Localization/InfoPlist.xcstrings" source-language="en" target-language="nb" datatype="plaintext">
+  <file original="Pi-hole Remote/Localization/InfoPlist.xcstrings" source-language="en" target-language="en" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
@@ -1683,13 +1463,14 @@ Merk at identifisering via IP-adresser (inkludert subnett) foretrekkes fremfor M
       </trans-unit>
     </body>
   </file>
-  <file original="Pi-hole Remote/Localization/Localizable.xcstrings" source-language="en" target-language="nb" datatype="plaintext">
+  <file original="Pi-hole Remote/Localization/Localizable.xcstrings" source-language="en" target-language="en" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="" translate="no" xml:space="preserve">
         <source/>
+        <target state="translated"/>
         <note/>
       </trans-unit>
       <trans-unit id=" avg" xml:space="preserve">
@@ -6180,7 +5961,7 @@ Joost</target>
       </trans-unit>
     </body>
   </file>
-  <file original="WidgetInstance/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="nb">
+  <file original="WidgetInstance/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
@@ -6197,7 +5978,7 @@ Joost</target>
       </trans-unit>
     </body>
   </file>
-  <file original="WidgetInstance/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="nb">
+  <file original="WidgetInstance/en.lproj/Localizable.strings" source-language="en" target-language="en" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
