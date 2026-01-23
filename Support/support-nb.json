@@ -1,0 +1,220 @@
+{
+    "headerItems": [
+        {
+            "id": 5,
+            "title": "Legg til instansen din",
+            "subtitle": "Enkelt!",
+            "imageName": "server.rack",
+            "color": 1,
+            "supportPages": [
+                {
+                    "id": 0,
+                    "title": "Instansen din",
+                    "subtitle": "Først må du finne IP-adressen og porten til Pi-hole-installasjonen din. Du finner den ved å se i Safari-adresselinjen! Gå til Pi-hole-nettgrensesnittet i Safari.",
+                    "imageURL": "https://rocketscience-it.nl/phr/support/safari-dashboard.png",
+                    "darkImageURL": "https://rocketscience-it.nl/phr/support/safari-dashboard-dark.png"
+                },
+                {
+                    "id": 1,
+                    "title": "Finn IP og port",
+                    "subtitle": "Trykk på Safari-adresselinjen, så finner du IP-en (eller vertsnavnet) og en port. Ikke stress om du ikke ser et portnummer, i så fall er det sannsynligvis 80 (det er standarden). Neste steg: skriv inn disse dataene i appen!",
+                    "imageURL": "https://rocketscience-it.nl/phr/support/safari-dashboard-addressbar-annotated.png",
+                    "darkImageURL": "https://rocketscience-it.nl/phr/support/safari-dashboard-addressbar-annotated.png"
+                },
+                 {
+                     "id": 2,
+                     "title": "Fyll inn detaljer",
+                     "subtitle": "Nå åpner du Pi-hole Remote og trykker på Innstillinger > Legg til Pi-hole. Du kan skrive inn IP og port der! Ett siste steg...",
+                    "imageURL": "https://rocketscience-it.nl/phr/support/app-addinstance-top-annotated.png",
+                    "darkImageURL": "https://rocketscience-it.nl/phr/support/app-addinstance-top-annotated-dark.png"
+                 },
+                 {
+                     "id": 3,
+                     "title": "API-nøkkel",
+                     "subtitle": "For å kunne kommunisere med Pi-hole-en din trenger appen API-tokenet ditt. Du finner det i Pi-hole-nettgrensesnittet ved å gå til «Settings > API / Web Interface > Show API token». Kopier og lim inn tokenet, eller skann QR-koden med Pi-hole Remote!",
+                     "videoURL": "https://rocketscience-it.nl/phr/support/api-key-video.mp4"
+                 },
+                 {
+                     "id": 4,
+                     "title": "Voilà!",
+                     "subtitle": "Trykk «Test Connection», og du skal se en grønn hake! Trykk «Save» øverst til høyre, så er alt klart. Ser du ingen grønn hake? Dobbeltsjekk alle dataene du skrev inn. Nyt appen!",
+                    "imageURL": "https://rocketscience-it.nl/phr/support/app-dashboard.png",
+                    "darkImageURL": "https://rocketscience-it.nl/phr/support/app-dashboard-dark.png"
+                 }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Tips og triks for spørringsloggen",
+            "subtitle": "Noen nyttige tips!",
+            "imageName": "doc.text.magnifyingglass",
+            "color": 2,
+            "supportPages": [
+                {
+                    "id": 7,
+                    "title": "Langt trykk",
+                    "subtitle": "Visste du at du kan trykke og holde på en spørring for å se hurtighandlinger?",
+                    "imageURL": "https://rocketscience-it.nl/phr/support/querylog-contextmenu-light.png",
+                    "darkImageURL": "https://rocketscience-it.nl/phr/support/querylog-contextmenu-dark.png"
+                },
+                {
+                    "id": 8,
+                    "title": "Vis detaljer",
+                    "subtitle": "Slå på «Vis detaljer» for å gjøre spørringsloggen litt mer detaljert.",
+                    "imageURL": "https://rocketscience-it.nl/phr/support/querylog-extradetail-light.png",
+                    "darkImageURL": "https://rocketscience-it.nl/phr/support/querylog-extradetail-dark.png"
+                }
+            ]
+        }
+    ],
+    "highlightedSections": [
+        {
+            "id": 0,
+            "title": "Oppsett",
+            "items": [
+                {
+                    "id": 5,
+                    "title": "Legg til Pi-hole",
+                    "subtitle": "Hvordan legger du til en instans?",
+                    "imageName": "plus.circle.fill",
+                    "color": 2,
+                    "supportPages": [
+                        {
+                            "id": 0,
+                            "title": "Instansen din",
+                            "subtitle": "Først må du finne IP-adressen og porten til Pi-hole-installasjonen din. Du finner den ved å se i Safari-adresselinjen! Gå til Pi-hole-nettgrensesnittet i Safari.",
+                            "imageURL": "https://rocketscience-it.nl/phr/support/safari-dashboard.png",
+                            "darkImageURL": "https://rocketscience-it.nl/phr/support/safari-dashboard-dark.png"
+                        },
+                        {
+                            "id": 1,
+                            "title": "Finn IP og port",
+                            "subtitle": "Trykk på Safari-adresselinjen, så finner du IP-en (eller vertsnavnet) og en port. Ikke stress om du ikke ser et portnummer, i så fall er det sannsynligvis 80 (det er standarden). Neste steg: skriv inn disse dataene i appen!",
+                            "imageURL": "https://rocketscience-it.nl/phr/support/safari-dashboard-addressbar-annotated.png",
+                            "darkImageURL": "https://rocketscience-it.nl/phr/support/safari-dashboard-addressbar-annotated.png"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Fyll inn detaljer",
+                            "subtitle": "Nå åpner du Pi-hole Remote og trykker på Innstillinger > Legg til Pi-hole. Du kan skrive inn IP og port der! Ett siste steg...",
+                            "imageURL": "https://rocketscience-it.nl/phr/support/app-addinstance-top-annotated.png",
+                            "darkImageURL": "https://rocketscience-it.nl/phr/support/app-addinstance-top-annotated-dark.png"
+                        },
+                        {
+                            "id": 3,
+                            "title": "API-nøkkel",
+                            "subtitle": "For å kunne kommunisere med Pi-hole-en din trenger appen API-tokenet ditt. Du finner det i Pi-hole-nettgrensesnittet ved å gå til «Innstillinger > API / Webgrensesnitt > Vis API-token». Kopier og lim inn tokenet, eller skann QR-koden med Pi-hole Remote!",
+                            "videoURL": "https://rocketscience-it.nl/phr/support/api-key-video.mp4"
+                        },
+                        {
+                            "id": 4,
+                            "title": "Voilà!",
+                            "subtitle": "Trykk «Test Tilkobling», og du skal se en grønn hake! Trykk «Lagre» øverst til høyre, så er alt klart. Ser du ingen grønn hake? Dobbeltsjekk alle dataene du skrev inn. Nyt appen!",
+                            "imageURL": "https://rocketscience-it.nl/phr/support/app-dashboard.png",
+                            "darkImageURL": "https://rocketscience-it.nl/phr/support/app-dashboard-dark.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Utvikling",
+            "items": [
+                {
+                    "id": 6,
+                    "title": "Veikart",
+                    "subtitle": "En grov idé om hva som kommer (kanskje).",
+                    "imageName": "map.circle.fill",
+                    "supportPages": [{
+                            "id": 5,
+                            "title": "Grovt veikart",
+                            "subtitle": "Pi-hole Remote er bare én av appene jeg bygger som et énmannsteam, noe som – sammen med de andre appene mine og jobben min – gjør det litt vanskelig å forutsi nøyaktig hvordan veikartet vil se ut. Men her er mitt beste estimat på hva som kommer snart.\n\n#1 - Forbedringer for nye kommende iOS-funksjoner.\n\n#2 - Forbedrede Siri-snarveier hvis mulig, for eksempel gjøre det mulig å hente statistikk direkte fra Snarveier.\n\n#3 - Forbedringer til widgets.\n\n#4 - Forbedret søk i spørringsloggen.\n\n#5 - Implementere nye Pi-hole API-funksjoner så snart de lanseres.\n\nVed siden av disse tingene har jeg også ganske mange andre ideer på planen. Hvis du har forslag, send dem gjerne til meg – jeg lytter!\nTakk, Joost",
+                            "imageURL": "https://rocketscience-it.nl/phr/support/blueprint-rounded-light.png",
+                            "darkImageURL": "https://rocketscience-it.nl/phr/support/blueprint-rounded-dark.png"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "faqSections": [{
+            "id": 0,
+            "title": "OOS",
+            "items": [
+                {
+                    "id": 0,
+                    "title": "Jeg får en feil med en gang, hjelp!",
+                    "text": "Kjører du nyeste versjon av Pi-hole og Pi-hole Remote? Har du gitt tillatelse til «Local Network Access» i iOS-innstillingene? Kan du prøve IP i stedet for vertsnavn eller omvendt? Kan du dobbeltsjekke API-tokenet ditt?"
+                },
+                {
+                    "id": 1,
+                    "title": "Hva kan jeg gjøre med «Ugyldig autentisering»-feil?",
+                    "text": "Sjekk at tokenet ditt er riktig. Merk: tokenet er ikke passordet til nettgrensesnittet! Du finner tokenet ditt under Web Interface > Settings > API > Show API Token. Det skal være en lang streng med tilsynelatende tilfeldige tegn."
+                },
+                {
+                    "id": 2,
+                    "title": "Hvorfor lastes ikke data når jeg er borte hjemmefra?",
+                    "text": "Pi-hole-en din er sannsynligvis bare tilgjengelig fra ditt lokale nettverk (altså når du er hjemme). Den beste måten å få tilgang til og bruke Pi-hole utenfor nettverket ditt, er å kjøre en VPN. Jeg kan anbefale å se på [PiVPN](https://pivpn.io) eller [Tailscale](https://tailscale.com). Da kan du trygt få tilgang til Pi-hole fra hvor som helst!"
+                },
+                {
+                    "id": 3,
+                    "title": "Hvorfor viser ikke Apple Watch instansen min?",
+                    "text": "Det ser ut til at det finnes en feil i watchOS som noen ganger hindrer enkelte vertsnavn i å bli oppslått. Bruk en IP-adresse for instansene dine og se om det løser problemet, ellers ta kontakt med meg."
+                },
+                {
+                    "id": 4,
+                    "title": "Hvorfor viser ikke hjemskjerm-widgeten data?",
+                    "text": "Sørg for at du er på et nettverk der enheten din kan nå Pi-hole-instansen din, for eksempel hjemmenettverket ditt. Du kan også prøve å starte enheten på nytt, noe som vil starte widgeten helt på nytt. Hvis det ikke fungerer, prøv å slette widgeten, lagre instansen på nytt i appen, og legg deretter til widgeten igjen."
+                },
+                {
+                    "id": 5,
+                    "title": "Hvorfor kan jeg ikke oppdatere appen på macOS?",
+                    "text": "Dette ser ut til å være en macOS-feil. Heldigvis finnes det en omvei: åpne «Aktivitetsmonitor», søk etter «Pi-hole», stopp alle prosesser (app + widget), og start deretter en appoppdatering igjen."
+                },
+                {
+                    "id": 6,
+                    "title": "Hva er Pi-hole?",
+                    "text": "Pi-hole® er en DNS-sinkhole som beskytter enhetene dine mot uønsket innhold uten å installere programvare på klientene. Kort sagt: den tilbyr nettverksomfattende annonseblokkering via din egen Linux-maskinvare. Finn ut mer om Pi-hole på [GitHub](https://github.com/pi-hole/pi-hole#readme)."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Tilbakemelding",
+            "items": [
+                {
+                    "id": 0,
+                    "title": "Jeg har en funksjonsidé/forespørsel!",
+                    "text": "Mange potensielle funksjoner støttes ikke av Pi-hole-API-et for øyeblikket, som å administrere grupper, aktivere/deaktivere listeoppføringer, legge til lokale DNS-oppføringer osv. Jeg vil gjerne høre forslaget ditt! Mange av de kule funksjonene i Pi-hole Remote kommer direkte fra tilbakemeldinger fra brukere! Send meg gjerne ideene dine via kontaktknappene nedenfor 😊"
+                },
+                {
+                    "id": 1,
+                    "title": "Jeg vil hjelpe til med å oversette appen til språket mitt!",
+                    "text": "Kjempebra! Ta kontakt med meg via knappene nedenfor 😊"
+                },
+                {
+                    "id": 2,
+                    "title": "Jeg vil be om en ny «blokkert tjeneste»",
+                    "text": "Kult, ta kontakt via knappene nedenfor, så ser jeg om jeg kan legge den til."
+                }
+            ]
+        }
+    ],
+
+    "contactItems": [{
+            "id": 0,
+            "title": "Twitter",
+            "url": "https://www.twitter.com/PiHoleRemote",
+            "imageName": "message.fill",
+            "color": 1
+        },
+        {
+            "id": 1,
+            "title": "E-post",
+            "url": "mailto:developer@rocketscience-it.nl",
+            "imageName": "envelope.fill",
+            "color": 2
+        }
+    ]
+}
