@@ -186,12 +186,12 @@
       </trans-unit>
       <trans-unit id="Adlists" xml:space="preserve">
         <source>Adlists</source>
-        <target state="translated">Annonse-lister</target>
+        <target state="translated">Annonselister</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allow-list" xml:space="preserve">
         <source>Allow-list</source>
-        <target state="translated">Tillat-liste</target>
+        <target state="translated">Tillatelsesliste</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allowed" xml:space="preserve">
@@ -216,22 +216,22 @@
       </trans-unit>
       <trans-unit id="Blocked | Deny-list Exact" xml:space="preserve">
         <source>Blocked | Deny-list Exact</source>
-        <target state="translated">Blokkert | Blokkeringsliste eksakt</target>
+        <target state="translated">Blokkert | Nekteliste eksakt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Deny-list Exact (CNAME)" xml:space="preserve">
         <source>Blocked | Deny-list Exact (CNAME)</source>
-        <target state="translated">Blokkert | Blokkeringsliste eksakt (CNAME)</target>
+        <target state="translated">Blokkert | Nekteliste eksakt (CNAME)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Denylist Exact" xml:space="preserve">
         <source>Blocked | Denylist Exact</source>
-        <target state="translated">Blokkert | Blokkeringsliste eksakt</target>
+        <target state="translated">Blokkert | Nekteliste eksakt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Denylist Exact (CNAME)" xml:space="preserve">
         <source>Blocked | Denylist Exact (CNAME)</source>
-        <target state="translated">Blokkert | Blokkeringsliste eksakt (CNAME)</target>
+        <target state="translated">Blokkert | Nekteliste eksakt (CNAME)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | External IP" xml:space="preserve">
@@ -386,7 +386,7 @@
       </trans-unit>
       <trans-unit id="Core version: %@." xml:space="preserve">
         <source>Core version: %@.</source>
-        <target state="translated">Kjerneversjon: %@.</target>
+        <target state="translated">Core-versjon: %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
@@ -816,7 +816,7 @@
       </trans-unit>
       <trans-unit id="appintent_duration_description" xml:space="preserve">
         <source>appintent_duration_description</source>
-        <target state="translated">Angir varigheten å deaktivere i, i minutter. Sett til «0» for å deaktivere på ubestemt tid.</target>
+        <target state="translated">Angir varigheten for deaktivering, i minutter. Sett til «0» for å deaktivere på ubestemt tid.</target>
         <note/>
       </trans-unit>
       <trans-unit id="appintent_enableblocking_description" xml:space="preserve">
@@ -1865,12 +1865,12 @@
       </trans-unit>
       <trans-unit id="Adlist" xml:space="preserve">
         <source>Adlist</source>
-        <target state="translated">Annonse-liste</target>
+        <target state="translated">Annonseliste</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adlists" xml:space="preserve">
         <source>Adlists</source>
-        <target state="translated">Annonse-lister</target>
+        <target state="translated">Annonselister</target>
         <note>Option for the blocklist-card, used on the Preferences &gt; Home screen.</note>
       </trans-unit>
       <trans-unit id="Advanced" xml:space="preserve">
@@ -1935,7 +1935,7 @@
       </trans-unit>
       <trans-unit id="Allow-list" xml:space="preserve">
         <source>Allow-list</source>
-        <target state="translated">Tillat-liste</target>
+        <target state="translated">Tillatelsesliste</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allowed" xml:space="preserve">
@@ -2094,22 +2094,22 @@
       </trans-unit>
       <trans-unit id="Blocked | Deny-list Exact" xml:space="preserve">
         <source>Blocked | Deny-list Exact</source>
-        <target state="translated">Blokkert | Blokkeringsliste eksakt</target>
+        <target state="translated">Blokkert | Nekteliste eksakt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Deny-list Exact (CNAME)" xml:space="preserve">
         <source>Blocked | Deny-list Exact (CNAME)</source>
-        <target state="translated">Blokkert | Blokkeringsliste eksakt (CNAME)</target>
+        <target state="translated">Blokkert | Nekteliste eksakt (CNAME)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Denylist Exact" xml:space="preserve">
         <source>Blocked | Denylist Exact</source>
-        <target state="translated">Blokkert | Blokkeringsliste eksakt</target>
+        <target state="translated">Blokkert | Nekteliste eksakt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Denylist Exact (CNAME)" xml:space="preserve">
         <source>Blocked | Denylist Exact (CNAME)</source>
-        <target state="translated">Blokkert | Blokkeringsliste eksakt (CNAME)</target>
+        <target state="translated">Blokkert | Nekteliste eksakt (CNAME)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | External IP" xml:space="preserve">
@@ -2556,7 +2556,7 @@ Merk at gjenkjenning via IP-adresser (inkludert subnett) foretrekkes fremfor MAC
       </trans-unit>
       <trans-unit id="Core version: %@." xml:space="preserve">
         <source>Core version: %@.</source>
-        <target state="translated">Kjerneversjon: %@.</target>
+        <target state="translated">Core-versjon: %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Couldn't find your instance." xml:space="preserve">
@@ -5304,7 +5304,7 @@ Standardplasseringen for sertifikatet er på enheten din: /etc/pihole/tls.pem. S
       </trans-unit>
       <trans-unit id="You've reached the maximum of 6 presets." xml:space="preserve">
         <source>You've reached the maximum of 6 presets.</source>
-        <target state="translated">Du har nådd maksimum 6 forvalg.</target>
+        <target state="translated">Du har nådd maksgrensen på 6 forvalg.</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Your Pi-hole has no diagnosis messages." xml:space="preserve">
@@ -5329,7 +5329,7 @@ Standardplasseringen for sertifikatet er på enheten din: /etc/pihole/tls.pem. S
       </trans-unit>
       <trans-unit id="appintent_duration_description" xml:space="preserve">
         <source>Specifies the duration to disable for, in minutes. Set to '0' to disable indefinitely.</source>
-        <target state="translated">Angir varigheten å deaktivere i, i minutter. Sett til «0» for å deaktivere på ubestemt tid.</target>
+        <target state="translated">Angir varigheten for deaktivering, i minutter. Sett til «0» for å deaktivere på ubestemt tid.</target>
         <note/>
       </trans-unit>
       <trans-unit id="appintent_enableblocking_description" xml:space="preserve">
@@ -5622,7 +5622,7 @@ Standardplasseringen for sertifikatet er på enheten din: /etc/pihole/tls.pem. S
       </trans-unit>
       <trans-unit id="livelog_noqueriesfoundyet" xml:space="preserve">
         <source>No queries found yet...</source>
-        <target state="translated">Ingen spørringer funnet ennå ...</target>
+        <target state="translated">Ingen spørringer funnet ennå...</target>
         <note/>
       </trans-unit>
       <trans-unit id="manage Clients &amp; Groups." xml:space="preserve">
@@ -5681,7 +5681,7 @@ Standardplasseringen for sertifikatet er på enheten din: /etc/pihole/tls.pem. S
       </trans-unit>
       <trans-unit id="rocketscience_adguarddnsremote_subtitle" xml:space="preserve">
         <source>Rather use AdGuard DNS? I've got you covered.</source>
-        <target state="translated">Foretrekker du AdGuard DNS? Jeg har deg dekket.</target>
+        <target state="translated">Foretrekker du AdGuard DNS? Da har jeg en løsning.</target>
         <note/>
       </trans-unit>
       <trans-unit id="rocketscience_adguardhomeremote_subtitle" xml:space="preserve">
@@ -5782,14 +5782,14 @@ Hovedmålet mitt er å lære: design, utvikling, testing, support, markedsførin
       </trans-unit>
       <trans-unit id="tipjar_payment_successful" xml:space="preserve">
         <source>Payment Successful</source>
-        <target state="translated">Betaling vellykket</target>
+        <target state="translated">Betaling fullført</target>
         <note/>
       </trans-unit>
       <trans-unit id="tipjar_testflight_explainer" xml:space="preserve">
         <source>Note: you're running a TestFlight Build, therefore payments run in Sandbox mode and do not actually process.
 
 If you want to tip, please download the app from the App Store! After that you can download the beta again. Thanks!</source>
-        <target state="translated">Merk: Du kjører en TestFlight-versjon, derfor kjøres betalinger i sandkassemodus og behandles ikke faktisk.
+        <target state="translated">Merk: Du kjører en TestFlight-versjon, derfor kjøres betalinger i sandkassemodus og blir ikke gjennomført.
 
 Hvis du vil tipse, last ned appen fra App Store! Etterpå kan du laste ned betaen igjen. Takk!</target>
         <note/>
