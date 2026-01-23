@@ -2784,7 +2784,7 @@ Merk at gjenkjenning via IP-adresser (inkludert subnett) foretrekkes fremfor MAC
       </trans-unit>
       <trans-unit id="Core" translate="no" xml:space="preserve">
         <source>Core</source>
-        <target state="translated">Kjerne</target>
+        <target state="translated">Core</target>
         <note/>
       </trans-unit>
       <trans-unit id="Core version: %@." xml:space="preserve">
