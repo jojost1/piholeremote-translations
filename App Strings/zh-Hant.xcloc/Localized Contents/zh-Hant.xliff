@@ -1440,14 +1440,17 @@
       </trans-unit>
       <trans-unit id=" avg" xml:space="preserve">
         <source> avg</source>
+        <target state="translated"> 平均</target>
         <note>Small 'average' label shown on the Home-tab when 'Combine' is enabled. The space at the start is intentional.</note>
       </trans-unit>
       <trans-unit id="# queries" xml:space="preserve">
         <source># queries</source>
+        <target state="translated"># 查詢</target>
         <note>Option for the blocking-card, used on the Preferences &gt; Home screen.</note>
       </trans-unit>
       <trans-unit id="% blocked" xml:space="preserve">
         <source>% blocked</source>
+        <target state="translated">% 已封鎖</target>
         <note>Option for the blocking-card, used on the Preferences &gt; Home screen.</note>
       </trans-unit>
       <trans-unit id="%@ %@" translate="no" xml:space="preserve">
@@ -1461,26 +1464,32 @@
       </trans-unit>
       <trans-unit id="%@ active" xml:space="preserve">
         <source>%@ active</source>
+        <target state="translated">%@ 活躍</target>
         <note>Apple Watch, displays active clients.</note>
       </trans-unit>
       <trans-unit id="%@ active / %@ total" xml:space="preserve">
         <source>%1$@ active / %2$@ total</source>
+        <target state="translated">%1$@ 活躍 / %2$@ 總計</target>
         <note>Displays number of active and total clients when you tap the clients number on Home when 'Combine' is enabled.</note>
       </trans-unit>
       <trans-unit id="%@ entries" xml:space="preserve">
         <source>%@ entries</source>
+        <target state="translated">%@ entries</target>
         <note>Displays the number of network devices on the network device overview.</note>
       </trans-unit>
       <trans-unit id="%@ ms" xml:space="preserve">
         <source>%@ ms</source>
+        <target state="translated">%@ ms</target>
         <note>Displays for example '12.34' ms on a query log or live log row.</note>
       </trans-unit>
       <trans-unit id="%@ queries per minute" xml:space="preserve">
         <source>%@ queries per minute</source>
+        <target state="translated">%@ 查詢 per 分鐘</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ total" xml:space="preserve">
         <source>%@ total</source>
+        <target state="translated">%@ 總計</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@, %lld regex entries" xml:space="preserve">
@@ -1490,14 +1499,17 @@
       </trans-unit>
       <trans-unit id="%@q/min" xml:space="preserve">
         <source>%@q/min</source>
+        <target state="translated">%@q/min</target>
         <note/>
       </trans-unit>
-      <trans-unit id="%lld regex entries|==|plural.other" xml:space="preserve">
+      <trans-unit id="%lld regex entries" xml:space="preserve">
         <source>%lld regex entries</source>
+        <target state="translated">%lld 正規表達式 entries</target>
         <note/>
       </trans-unit>
       <trans-unit id="%lld total" xml:space="preserve">
         <source>%lld total</source>
+        <target state="translated">%lld 總計</target>
         <note>Displays the number of total clients in the Home-tab 'Clients' card.</note>
       </trans-unit>
       <trans-unit id="'Add 5 min' feature" xml:space="preserve">
@@ -1507,46 +1519,57 @@
       </trans-unit>
       <trans-unit id="(Disabled)" xml:space="preserve">
         <source>(Disabled)</source>
+        <target state="translated">(已停用)</target>
         <note>Displayed next to an adlist when it's disabled.</note>
       </trans-unit>
       <trans-unit id="0 decimals" xml:space="preserve">
         <source>0 decimals</source>
+        <target state="translated">0 decimals</target>
         <note>Displays in the metrics decimals picker.</note>
       </trans-unit>
       <trans-unit id="1 decimal" xml:space="preserve">
         <source>1 decimal</source>
+        <target state="translated">1 decimal</target>
         <note>Displays in the metrics decimals picker.</note>
       </trans-unit>
       <trans-unit id="1. Open the Pi-hole web interface" xml:space="preserve">
         <source>1. Open the Pi-hole web interface</source>
+        <target state="translated">1. 開啟 the Pi-hole web interface</target>
         <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
       </trans-unit>
       <trans-unit id="1h" xml:space="preserve">
         <source>1h</source>
+        <target state="translated">1h</target>
         <note>Placeholder for the DHCP lease time textfield on the DHCP settings screen.</note>
       </trans-unit>
       <trans-unit id="2 decimals" xml:space="preserve">
         <source>2 decimals</source>
+        <target state="translated">2 decimals</target>
         <note>Displays in the metrics decimals picker.</note>
       </trans-unit>
       <trans-unit id="2. In the sidebar, go to **Settings &gt; System**" xml:space="preserve">
         <source>2. In the sidebar, go to **Settings &gt; System**</source>
+        <target state="translated">2. In the sidebar, go to **設定 &gt; 系統**</target>
         <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
       </trans-unit>
       <trans-unit id="3. In the top-right corner, turn on **Expert**" xml:space="preserve">
         <source>3. In the top-right corner, turn on **Expert**</source>
+        <target state="translated">3. In the top-right corner, turn on **Expert**</target>
         <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
       </trans-unit>
       <trans-unit id="4. Then, go to **Settings &gt; All settings** in the sidebar." xml:space="preserve">
         <source>4. Then, go to **Settings &gt; All settings** in the sidebar.</source>
+        <target state="translated">4. Then, go to **設定 &gt; 全部 設定** in the sidebar.</target>
         <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
       </trans-unit>
       <trans-unit id="5. Select **Webserver and API**, and scroll to the very bottom of the page" xml:space="preserve">
         <source>5. Select **Webserver and API**, and scroll to the very bottom of the page</source>
+        <target state="translated">5. 選擇 **Web伺服器 and API**, and scroll to the very bottom of the page</target>
         <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
       </trans-unit>
       <trans-unit id="6. Under the card labeled `webserver.api.temp.unit`, choose your preferred temperature unit" xml:space="preserve">
         <source>6. Under the card labeled `webserver.api.temp.unit`, choose your preferred temperature unit</source>
+        <target state="translated">6. Under the card labeled `web伺服器.API.temp.unit`, choose your preferred 溫度 unit</target>
         <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
       </trans-unit>
       <trans-unit id="60" translate="no" xml:space="preserve">
@@ -1567,22 +1590,27 @@
       </trans-unit>
       <trans-unit id="@PiHoleRemote on X" xml:space="preserve">
         <source>@PiHoleRemote on X</source>
+        <target state="translated">@PiHoleRemote 於 X</target>
         <note>Displayed on the support screen.</note>
       </trans-unit>
       <trans-unit id="A **one time** purchase" xml:space="preserve">
         <source>A **one time** purchase</source>
+        <target state="translated">A **one time** purchase</target>
         <note/>
       </trans-unit>
       <trans-unit id="A monthly recurring payment" xml:space="preserve">
         <source>A monthly recurring payment</source>
+        <target state="translated">A 月ly recurring payment</target>
         <note/>
       </trans-unit>
       <trans-unit id="A yearly recurring payment" xml:space="preserve">
         <source>A yearly recurring payment</source>
+        <target state="translated">A 年ly recurring payment</target>
         <note/>
       </trans-unit>
       <trans-unit id="ACTIVE" xml:space="preserve">
         <source>ACTIVE</source>
+        <target state="translated">活躍</target>
         <note/>
       </trans-unit>
       <trans-unit id="AI services" xml:space="preserve">
@@ -1592,34 +1620,42 @@
       </trans-unit>
       <trans-unit id="API path" xml:space="preserve">
         <source>API path</source>
+        <target state="translated">API path</target>
         <note/>
       </trans-unit>
       <trans-unit id="Acknowledgements" xml:space="preserve">
         <source>Acknowledgements</source>
+        <target state="translated">Ack否wledgements</target>
         <note/>
       </trans-unit>
       <trans-unit id="Action" xml:space="preserve">
         <source>Action</source>
+        <target state="translated">Action</target>
         <note/>
       </trans-unit>
       <trans-unit id="Actions" xml:space="preserve">
         <source>Actions</source>
+        <target state="translated">Actions</target>
         <note>Displayed on the support screen.</note>
       </trans-unit>
       <trans-unit id="Active Clients" xml:space="preserve">
         <source>Active Clients</source>
+        <target state="translated">活躍客戶端</target>
         <note/>
       </trans-unit>
       <trans-unit id="Active DHCP Leases" xml:space="preserve">
         <source>Active DHCP Leases</source>
+        <target state="translated">活躍 DHCP Leases</target>
         <note/>
       </trans-unit>
       <trans-unit id="Active clients: %@" xml:space="preserve">
         <source>Active clients: %@</source>
+        <target state="translated">活躍 客戶端: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Active clients: %@ out of %@ total" xml:space="preserve">
         <source>Active clients: %1$@ out of %2$@ total</source>
+        <target state="translated">活躍 客戶端: %1$@ out of %2$@ 總計</target>
         <note/>
       </trans-unit>
       <trans-unit id="AdGuard Home Remote" translate="no" xml:space="preserve">
@@ -1628,174 +1664,217 @@
       </trans-unit>
       <trans-unit id="Add" xml:space="preserve">
         <source>Add</source>
+        <target state="translated">新增</target>
         <note>Used in the Settings-tab in the 'instances' section header.</note>
       </trans-unit>
       <trans-unit id="Add '%@'" xml:space="preserve">
         <source>Add '%@'</source>
+        <target state="translated">新增 '%@'</target>
         <note>Used on the 'Add new disable preset' screen, e.g. 'Add 30 seconds'</note>
       </trans-unit>
       <trans-unit id="Add 5 minutes" xml:space="preserve">
         <source>Add 5 minutes</source>
+        <target state="translated">新增 5 分鐘</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add Custom Services" xml:space="preserve">
         <source>Add Custom Services</source>
+        <target state="translated">新增 自訂 Services</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add Instance" xml:space="preserve">
         <source>Add Instance</source>
+        <target state="translated">新增實例</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add TTL" xml:space="preserve">
         <source>Add TTL</source>
+        <target state="translated">新增 TTL</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add a comment..." xml:space="preserve">
         <source>Add a comment...</source>
+        <target state="translated">新增 a comment...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add all as wildcard" xml:space="preserve">
         <source>Add all as wildcard</source>
+        <target state="translated">新增 全部 as 萬用字元</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add another" xml:space="preserve">
         <source>Add another</source>
+        <target state="translated">新增 a否ther</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add another group" xml:space="preserve">
         <source>Add another group</source>
+        <target state="translated">新增 a否ther 群組</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add as wildcard" xml:space="preserve">
         <source>Add as wildcard</source>
+        <target state="translated">新增 as 萬用字元</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add custom header" xml:space="preserve">
         <source>Add custom header</source>
+        <target state="translated">新增 自訂 header</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add new adlist" xml:space="preserve">
         <source>Add new adlist</source>
+        <target state="translated">新增 new 廣告清單</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add new adlist or domain" xml:space="preserve">
         <source>Add new adlist or domain</source>
+        <target state="translated">新增 new 廣告清單 or 網域</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add new client" xml:space="preserve">
         <source>Add new client</source>
+        <target state="translated">新增 new 客戶端</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add new domain" xml:space="preserve">
         <source>Add new domain</source>
+        <target state="translated">新增 new 網域</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add new group" xml:space="preserve">
         <source>Add new group</source>
+        <target state="translated">新增 new 群組</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add new group or client" xml:space="preserve">
         <source>Add new group or client</source>
+        <target state="translated">新增 new 群組 or 客戶端</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add new preset" xml:space="preserve">
         <source>Add new preset</source>
+        <target state="translated">新增 new p重置</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Add to allow-list..." xml:space="preserve">
         <source>Add to allow-list...</source>
+        <target state="translated">新增 to 允許-list...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add to allowlist..." xml:space="preserve">
         <source>Add to allowlist...</source>
+        <target state="translated">新增 to 允許list...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add to deny-list..." xml:space="preserve">
         <source>Add to deny-list...</source>
+        <target state="translated">新增 to deny-list...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add to denylist..." xml:space="preserve">
         <source>Add to denylist...</source>
+        <target state="translated">新增 to denylist...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add to list" xml:space="preserve">
         <source>Add to list</source>
+        <target state="translated">新增 to list</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add your Pi-hole instances to control them and view statistics." xml:space="preserve">
         <source>Add your Pi-hole instances to control them and view statistics.</source>
+        <target state="translated">新增 your Pi-hole 實例 to control them and 檢視 統計.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Added on" xml:space="preserve">
         <source>Added on</source>
+        <target state="translated">新增ed on</target>
         <note/>
       </trans-unit>
       <trans-unit id="Added to all new groups." xml:space="preserve">
         <source>Added to all new groups.</source>
+        <target state="translated">新增ed to 全部 new 群組.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adding Custom Blocked Services requires PHR+" xml:space="preserve">
         <source>Adding Custom Blocked Services requires PHR+</source>
+        <target state="translated">新增ing 自訂 已封鎖 Services requires PHR+</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adding new presets requires PHR+." xml:space="preserve">
         <source>Adding new presets requires PHR+.</source>
+        <target state="translated">新增ing new p重置s requires PHR+.</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Adding/removing local CNAME records will restart the DNS server." xml:space="preserve">
         <source>Adding/removing local CNAME records will restart the DNS server.</source>
+        <target state="translated">新增ing/removing local CNAME records will 重新啟動 the DNS 伺服器.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adding/removing local DNS records will flush the cache but does not require a restart of the DNS server." xml:space="preserve">
         <source>Adding/removing local DNS records will flush the cache but does not require a restart of the DNS server.</source>
+        <target state="translated">新增ing/removing local DNS records will 清除 the 快取 but does 否t require a 重新啟動 of the DNS 伺服器.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Additional IPv6 support" xml:space="preserve">
         <source>Additional IPv6 support</source>
+        <target state="translated">新增itional IPv6 支援</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adds 5 minutes to a disabled-timer." xml:space="preserve">
         <source>Adds 5 minutes to a disabled-timer.</source>
+        <target state="translated">新增s 5 分鐘 to a 已停用-timer.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adlist" xml:space="preserve">
         <source>Adlist</source>
+        <target state="translated">廣告清單</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adlists" xml:space="preserve">
         <source>Adlists</source>
+        <target state="translated">廣告清單</target>
         <note>Option for the blocklist-card, used on the Preferences &gt; Home screen.</note>
       </trans-unit>
       <trans-unit id="Advanced" xml:space="preserve">
         <source>Advanced</source>
+        <target state="translated">進階</target>
         <note/>
       </trans-unit>
       <trans-unit id="Advanced Settings" xml:space="preserve">
         <source>Advanced Settings</source>
+        <target state="translated">進階設定</target>
         <note/>
       </trans-unit>
       <trans-unit id="Advertise DNS server multiple times" xml:space="preserve">
         <source>Advertise DNS server multiple times</source>
+        <target state="translated">Advertise DNS 伺服器 mul提示le times</target>
         <note/>
       </trans-unit>
       <trans-unit id="Advertise DNS server multiple times to clients. Some devices will add their own proprietary DNS servers to the list of DNS servers, which can cause issues with Pi-hole. This option will advertise the Pi-hole DNS server multiple times to clients, which should prevent this from happening." xml:space="preserve">
         <source>Advertise DNS server multiple times to clients. Some devices will add their own proprietary DNS servers to the list of DNS servers, which can cause issues with Pi-hole. This option will advertise the Pi-hole DNS server multiple times to clients, which should prevent this from happening.</source>
+        <target state="translated">Advertise DNS 伺服器 mul提示le times to 客戶端. Some devices will 新增 their own proprietary DNS 伺服器 to the list of DNS 伺服器, which can cause issues with Pi-hole. This option will advertise the Pi-hole DNS 伺服器 mul提示le times to 客戶端, which should prevent this from happening.</target>
         <note/>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
         <source>All</source>
+        <target state="translated">全部</target>
         <note/>
       </trans-unit>
       <trans-unit id="All Instances" xml:space="preserve">
         <source>All Instances</source>
+        <target state="translated">全部 實例</target>
         <note/>
       </trans-unit>
       <trans-unit id="All entries" xml:space="preserve">
         <source>All entries</source>
+        <target state="translated">全部 entries</target>
         <note/>
       </trans-unit>
       <trans-unit id="All instances" xml:space="preserve">
         <source>All instances</source>
+        <target state="translated">全部 實例</target>
         <note/>
       </trans-unit>
       <trans-unit id="All options allow Family Sharing" xml:space="preserve">
@@ -1805,124 +1884,156 @@
       </trans-unit>
       <trans-unit id="All reverse lookups for private IP ranges (i.e., 192.168.0.x/24, etc.) which are not found in /etc/hosts or the DHCP leases are answered with &quot;no such domain&quot; rather than being forwarded upstream. The set of prefixes affected is the list given in RFC6303." xml:space="preserve">
         <source>All reverse lookups for private IP ranges (i.e., 192.168.0.x/24, etc.) which are not found in /etc/hosts or the DHCP leases are answered with "no such domain" rather than being forwarded upstream. The set of prefixes affected is the list given in RFC6303.</source>
+        <target state="translated">全部 reverse lo確定ups for private IP ranges (i.e., 192.168.0.x/24, etc.) which are 否t found in /etc/hosts or the DHCP leases are answered with "否 such 網域" rather than being 已轉發 上游. The set of prefixes affected is the list given in RFC6303.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allow" xml:space="preserve">
         <source>Allow</source>
+        <target state="translated">允許</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allow only local requests" xml:space="preserve">
         <source>Allow only local requests</source>
+        <target state="translated">允許 only local 請求</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allow-list" xml:space="preserve">
         <source>Allow-list</source>
+        <target state="translated">允許-list</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allowed" xml:space="preserve">
         <source>Allowed</source>
+        <target state="translated">已允許</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allowlist" xml:space="preserve">
         <source>Allowlist</source>
+        <target state="translated">允許list</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allows only queries from devices that are at most one hop away (local devices)" xml:space="preserve">
         <source>Allows only queries from devices that are at most one hop away (local devices)</source>
+        <target state="translated">允許s only 查詢 from devices that are at most one hop away (local devices)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Alphabetically" xml:space="preserve">
         <source>Alphabetically</source>
+        <target state="translated">Alphabetic全部y</target>
         <note/>
       </trans-unit>
       <trans-unit id="Alphabetically (Comments)" xml:space="preserve">
         <source>Alphabetically (Comments)</source>
+        <target state="translated">Alphabetic全部y (Comments)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Already in sync." xml:space="preserve">
         <source>Already in sync.</source>
+        <target state="translated">Already in sync.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Always Dark" xml:space="preserve">
         <source>Always Dark</source>
+        <target state="translated">Always 深色</target>
         <note/>
       </trans-unit>
       <trans-unit id="App Icon" xml:space="preserve">
         <source>App Icon</source>
+        <target state="translated">應用程式圖示</target>
         <note>Displayed on the App Icon Settings screen.</note>
       </trans-unit>
       <trans-unit id="App Tint" xml:space="preserve">
         <source>App Tint</source>
+        <target state="translated">App Tint</target>
         <note/>
       </trans-unit>
       <trans-unit id="Application Password" xml:space="preserve">
         <source>Application Password</source>
+        <target state="translated">Application 密碼</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete the adlist&#10;%@?" xml:space="preserve">
         <source>Are you sure you want to delete the adlist
 %@?</source>
+        <target state="translated">Are you sure you want to 刪除 the 廣告清單
+%@?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete the client '%@'?" xml:space="preserve">
         <source>Are you sure you want to delete the client '%@'?</source>
+        <target state="translated">Are you sure you want to 刪除 the 客戶端 '%@'?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete the domain&#10;%@?" xml:space="preserve">
         <source>Are you sure you want to delete the domain
 %@?</source>
+        <target state="translated">Are you sure you want to 刪除 the 網域
+%@?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete the group '%@'?" xml:space="preserve">
         <source>Are you sure you want to delete the group '%@'?</source>
+        <target state="translated">Are you sure you want to 刪除 the 群組 '%@'?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure you want to discard these changes?" xml:space="preserve">
         <source>Are you sure you want to discard these changes?</source>
+        <target state="translated">Are you sure you want to discard these changes?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure you want to remove %@?" xml:space="preserve">
         <source>Are you sure you want to remove %@?</source>
+        <target state="translated">Are you sure you want to 移除 %@?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure you want to remove this instance?" xml:space="preserve">
         <source>Are you sure you want to remove this instance?</source>
+        <target state="translated">Are you sure you want to 移除 this 實例?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
         <source>Are you sure?</source>
+        <target state="translated">您確定嗎？</target>
         <note/>
       </trans-unit>
       <trans-unit id="Assigned to %lld groups" xml:space="preserve">
         <source>Assigned to %lld groups</source>
+        <target state="translated">Assigned to %lld 群組</target>
         <note>Accessibility label.</note>
       </trans-unit>
       <trans-unit id="Assigning to the default group of all instances." xml:space="preserve">
         <source>Assigning to the default group of all instances.</source>
+        <target state="translated">Assigning to the 預設 群組 of 全部 實例.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Associated IP" xml:space="preserve">
         <source>Associated IP</source>
+        <target state="translated">Associated IP</target>
         <note/>
       </trans-unit>
       <trans-unit id="Authentication" xml:space="preserve">
         <source>Authentication</source>
+        <target state="translated">驗證</target>
         <note/>
       </trans-unit>
       <trans-unit id="Auto-refresh" xml:space="preserve">
         <source>Auto-refresh</source>
+        <target state="translated">Auto-重新整理</target>
         <note/>
       </trans-unit>
       <trans-unit id="Automatically generated" xml:space="preserve">
         <source>Automatically generated</source>
+        <target state="translated">自動全部y gene速率d</target>
         <note/>
       </trans-unit>
       <trans-unit id="BETA" xml:space="preserve">
         <source>BETA</source>
+        <target state="translated">BETA</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bind only to interface" xml:space="preserve">
         <source>Bind only to interface</source>
+        <target state="translated">Bind only to interface</target>
         <note/>
       </trans-unit>
       <trans-unit id="Block All" xml:space="preserve">
@@ -1932,143 +2043,173 @@
       </trans-unit>
       <trans-unit id="Block clients making more than %@ requests within %@ seconds. " xml:space="preserve">
         <source>Block clients making more than %1$@ requests within %2$@ seconds. </source>
+        <target state="translated">封鎖 客戶端 making 更多 than %1$@ 請求 within %2$@ 秒. </target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked" xml:space="preserve">
         <source>Blocked</source>
+        <target state="translated">已封鎖</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked Services" xml:space="preserve">
         <source>Blocked Services</source>
+        <target state="translated">已封鎖 Services</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Deny-list Exact" xml:space="preserve">
         <source>Blocked | Deny-list Exact</source>
+        <target state="translated">已封鎖 | Deny-list 精確</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Deny-list Exact (CNAME)" xml:space="preserve">
         <source>Blocked | Deny-list Exact (CNAME)</source>
+        <target state="translated">已封鎖 | Deny-list 精確 (CNAME)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Denylist Exact" xml:space="preserve">
         <source>Blocked | Denylist Exact</source>
+        <target state="translated">已封鎖 | Denylist 精確</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Denylist Exact (CNAME)" xml:space="preserve">
         <source>Blocked | Denylist Exact (CNAME)</source>
+        <target state="translated">已封鎖 | Denylist 精確 (CNAME)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | External IP" xml:space="preserve">
         <source>Blocked | External IP</source>
+        <target state="translated">已封鎖 | External IP</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | External NULL" xml:space="preserve">
         <source>Blocked | External NULL</source>
+        <target state="translated">已封鎖 | External NULL</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | External NXRA" xml:space="preserve">
         <source>Blocked | External NXRA</source>
+        <target state="translated">已封鎖 | External NXRA</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Gravity" xml:space="preserve">
         <source>Blocked | Gravity</source>
+        <target state="translated">已封鎖 | Gravity</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Gravity (CNAME)" xml:space="preserve">
         <source>Blocked | Gravity (CNAME)</source>
+        <target state="translated">已封鎖 | Gravity (CNAME)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Regex" xml:space="preserve">
         <source>Blocked | Regex</source>
+        <target state="translated">已封鎖 | 正規表達式</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Regex (CNAME)" xml:space="preserve">
         <source>Blocked | Regex (CNAME)</source>
+        <target state="translated">已封鎖 | 正規表達式 (CNAME)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked: %@" xml:space="preserve">
         <source>Blocked: %@</source>
+        <target state="translated">已封鎖: %@</target>
         <note>Displayed in the simple one-line Lock Screen widget.
 Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Blocked: %@ (%@)" xml:space="preserve">
         <source>Blocked: %1$@ (%2$@)</source>
+        <target state="translated">已封鎖: %1$@ (%2$@)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking" xml:space="preserve">
         <source>Blocking</source>
+        <target state="translated">封鎖</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking Enabled" xml:space="preserve">
         <source>Blocking Enabled</source>
+        <target state="translated">封鎖ing 已啟用</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking Notifications" xml:space="preserve">
         <source>Blocking Notifications</source>
+        <target state="translated">封鎖ing 通知</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking has been re-enabled on all instances." xml:space="preserve">
         <source>Blocking has been re-enabled on all instances.</source>
+        <target state="translated">封鎖ing has been re-已啟用 on 全部 實例.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking has been re-enabled." xml:space="preserve">
         <source>Blocking has been re-enabled.</source>
+        <target state="translated">封鎖ing has been re-已啟用.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking is enabled on all instances." xml:space="preserve">
         <source>Blocking is enabled on all instances.</source>
+        <target state="translated">封鎖ing is 已啟用 on 全部 實例.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking is enabled on instance %@." xml:space="preserve">
         <source>Blocking is enabled on instance %@.</source>
+        <target state="translated">封鎖ing is 已啟用 on 實例 %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking is not enabled on all instances." xml:space="preserve">
         <source>Blocking is not enabled on all instances.</source>
+        <target state="translated">封鎖ing is 否t 已啟用 on 全部 實例.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking is not enabled on instance %@." xml:space="preserve">
         <source>Blocking is not enabled on instance %@.</source>
+        <target state="translated">封鎖ing is 否t 已啟用 on 實例 %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking-card" xml:space="preserve">
         <source>Blocking-card</source>
+        <target state="translated">封鎖ing-card</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocklist" xml:space="preserve">
         <source>Blocklist</source>
+        <target state="translated">封鎖list</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocklist Management" xml:space="preserve">
         <source>Blocklist Management</source>
+        <target state="translated">封鎖list Management</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
-      <trans-unit id="Blocklist-card tap|==|device.mac" xml:space="preserve">
-        <source>Blocklist-card click</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Blocklist-card tap|==|device.other" xml:space="preserve">
+      <trans-unit id="Blocklist-card tap" xml:space="preserve">
         <source>Blocklist-card tap</source>
+        <target state="translated">封鎖list-card tap</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocklist: %@" xml:space="preserve">
         <source>Blocklist: %@</source>
+        <target state="translated">封鎖list: %@</target>
         <note>Displayed in the simple one-line Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Blue" xml:space="preserve">
         <source>Blue</source>
+        <target state="translated">Blue</target>
         <note/>
       </trans-unit>
       <trans-unit id="Both" xml:space="preserve">
         <source>Both</source>
+        <target state="translated">Both</target>
         <note/>
       </trans-unit>
       <trans-unit id="Both lists" xml:space="preserve">
         <source>Both lists</source>
+        <target state="translated">Both lists</target>
         <note/>
       </trans-unit>
       <trans-unit id="Brown" xml:space="preserve">
         <source>Brown</source>
+        <target state="translated">Brown</target>
         <note/>
       </trans-unit>
       <trans-unit id="Business &amp; productivity" xml:space="preserve">
@@ -2078,6 +2219,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="CNAME Records" xml:space="preserve">
         <source>CNAME Records</source>
+        <target state="translated">CNAME Records</target>
         <note/>
       </trans-unit>
       <trans-unit id="CNAME:" translate="no" xml:space="preserve">
@@ -2090,140 +2232,176 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Cache" xml:space="preserve">
         <source>Cache</source>
+        <target state="translated">快取</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cache (optimizer)" xml:space="preserve">
         <source>Cache (optimizer)</source>
+        <target state="translated">快取 (optimizer)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cached" xml:space="preserve">
         <source>Cached</source>
+        <target state="translated">已快取</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cached: %@" xml:space="preserve">
         <source>Cached: %@</source>
+        <target state="translated">已快取: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Can't be edited." xml:space="preserve">
         <source>Can't be edited.</source>
+        <target state="translated">Can't be 編輯ed.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Can't find purchase" xml:space="preserve">
         <source>Can't find purchase</source>
+        <target state="translated">Can't find purchase</target>
         <note/>
       </trans-unit>
       <trans-unit id="Canadian Color Scheme" xml:space="preserve">
         <source>Canadian Color Scheme</source>
+        <target state="translated">Canadian Color Scheme</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
+        <target state="translated">取消</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cards" xml:space="preserve">
         <source>Cards</source>
+        <target state="translated">Cards</target>
         <note/>
       </trans-unit>
       <trans-unit id="Change the disable duration presets of the widgets that have disable-buttons on them, like the 'Disable' and 'Statistics &amp; Disable' widgets. To add new presets to choose from, go to Settings &gt; Preferences &gt; Home &gt; Duration Presets." xml:space="preserve">
         <source>Change the disable duration presets of the widgets that have disable-buttons on them, like the 'Disable' and 'Statistics &amp; Disable' widgets. To add new presets to choose from, go to Settings &gt; Preferences &gt; Home &gt; Duration Presets.</source>
+        <target state="translated">Change the 停用 duration p重置s of the 小工具 that have 停用-buttons on them, like the '停用' and '統計 &amp; 停用' 小工具. To 新增 new p重置s to choose from, go to 設定 &gt; Preferences &gt; 首頁 &gt; Duration P重置s.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Changing App Tint on macOS requires an app restart to take effect." xml:space="preserve">
         <source>Changing App Tint on macOS requires an app restart to take effect.</source>
+        <target state="translated">Changing App Tint on MacOS requires an app 重新啟動 to take effect.</target>
         <note>Displayed on the App Tint Settings screen.</note>
       </trans-unit>
       <trans-unit id="Chart" xml:space="preserve">
         <source>Chart</source>
+        <target state="translated">Chart</target>
         <note/>
       </trans-unit>
       <trans-unit id="Clear all filters" xml:space="preserve">
         <source>Clear all filters</source>
+        <target state="translated">清除 全部 篩選s</target>
         <note/>
       </trans-unit>
       <trans-unit id="Clear filters" xml:space="preserve">
         <source>Clear filters</source>
+        <target state="translated">清除 篩選s</target>
         <note/>
       </trans-unit>
       <trans-unit id="Client" xml:space="preserve">
         <source>Client</source>
+        <target state="translated">客戶端</target>
         <note/>
       </trans-unit>
       <trans-unit id="Client ID" xml:space="preserve">
         <source>Client ID</source>
+        <target state="translated">客戶端 ID</target>
         <note/>
       </trans-unit>
       <trans-unit id="Client IP" xml:space="preserve">
         <source>Client IP</source>
+        <target state="translated">客戶端 IP</target>
         <note/>
       </trans-unit>
       <trans-unit id="Client IP: '%@'..." xml:space="preserve">
         <source>Client IP: '%@'...</source>
+        <target state="translated">客戶端 IP: '%@'...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Client Management" xml:space="preserve">
         <source>Client Management</source>
+        <target state="translated">客戶端 Management</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
       <trans-unit id="Client Name" xml:space="preserve">
         <source>Client Name</source>
+        <target state="translated">客戶端 Name</target>
         <note/>
       </trans-unit>
       <trans-unit id="Client Name: '%@'..." xml:space="preserve">
         <source>Client Name: '%@'...</source>
+        <target state="translated">客戶端 Name: '%@'...</target>
         <note/>
       </trans-unit>
       <trans-unit id="ClientID" xml:space="preserve">
         <source>ClientID</source>
+        <target state="translated">客戶端ID</target>
         <note/>
       </trans-unit>
       <trans-unit id="Clients" xml:space="preserve">
         <source>Clients</source>
+        <target state="translated">客戶端</target>
         <note/>
       </trans-unit>
       <trans-unit id="Clients &amp; Groups" xml:space="preserve">
         <source>Clients &amp; Groups</source>
+        <target state="translated">客戶端 &amp; 群組</target>
         <note/>
       </trans-unit>
       <trans-unit id="Clients in group" xml:space="preserve">
         <source>Clients in group</source>
+        <target state="translated">客戶端 in 群組</target>
         <note/>
       </trans-unit>
       <trans-unit id="Clients may be described by their IP, MAC, or hostname. " xml:space="preserve">
         <source>Clients may be described by their IP, MAC, or hostname. </source>
+        <target state="translated">客戶端 may be described by their IP, Mac, or hostname. </target>
         <note/>
       </trans-unit>
       <trans-unit id="Clients may be described either by their IP addresses (IPv4 and IPv6 are supported), IP subnets (CIDR notation, like 192.168.2.0/24), their MAC addresses (like 12:34:56:78:9A:BC), by their hostnames (like localhost), or by the interface they are connected to (prefaced with a colon, like :eth0).&#10;&#10;Note that client recognition by IP addresses (incl. subnet ranges) are preferred over MAC address, host name or interface recognition as the two latter will only be available after some time. Furthermore, MAC address recognition only works for devices at most one networking hop away from your Pi-hole." xml:space="preserve">
         <source>Clients may be described either by their IP addresses (IPv4 and IPv6 are supported), IP subnets (CIDR notation, like 192.168.2.0/24), their MAC addresses (like 12:34:56:78:9A:BC), by their hostnames (like localhost), or by the interface they are connected to (prefaced with a colon, like :eth0).
 
 Note that client recognition by IP addresses (incl. subnet ranges) are preferred over MAC address, host name or interface recognition as the two latter will only be available after some time. Furthermore, MAC address recognition only works for devices at most one networking hop away from your Pi-hole.</source>
+        <target state="translated">客戶端 may be described either by their IP 新增resses (IPv4 and IPv6 are 支援ed), IP subnets (CIDR 否tation, like 192.168.2.0/24), their Mac 新增resses (like 12:34:56:78:9A:BC), by their hostnames (like localhost), or by the interface they are 已連線 to (prefaced with a colon, like :eth0).
+
+備註 that 客戶端 recognition by IP 新增resses (incl. subnet ranges) are preferred over Mac 新增ress, host name or interface recognition as the two latter will only be available after some time. Further更多, Mac 新增ress recognition only works for devices at most one 網路ing hop away from your Pi-hole.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Clients: %@" xml:space="preserve">
         <source>Clients: %@</source>
+        <target state="translated">客戶端: %@</target>
         <note>Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Clients: %lld/%lld" xml:space="preserve">
         <source>Clients: %1$lld/%2$lld</source>
+        <target state="translated">客戶端: %1$lld/%2$lld</target>
         <note>Displayed in the simple one-line Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
         <source>Close</source>
+        <target state="translated">關閉</target>
         <note/>
       </trans-unit>
       <trans-unit id="Code" xml:space="preserve">
         <source>Code</source>
+        <target state="translated">Code</target>
         <note/>
       </trans-unit>
       <trans-unit id="Combine Instances" xml:space="preserve">
         <source>Combine Instances</source>
+        <target state="translated">Combine 實例</target>
         <note/>
       </trans-unit>
       <trans-unit id="Combine instances" xml:space="preserve">
         <source>Combine instances</source>
+        <target state="translated">Combine 實例</target>
         <note/>
       </trans-unit>
       <trans-unit id="Comment" xml:space="preserve">
         <source>Comment</source>
+        <target state="translated">備註</target>
         <note/>
       </trans-unit>
       <trans-unit id="Communication" xml:space="preserve">
@@ -2233,26 +2411,32 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Compact mode" xml:space="preserve">
         <source>Compact mode</source>
+        <target state="translated">Compact mode</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connecting to: %@/..." xml:space="preserve">
         <source>Connecting to: %@/...</source>
+        <target state="translated">連線中 to: %@/...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connection" xml:space="preserve">
         <source>Connection</source>
+        <target state="translated">連線</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connection Error" xml:space="preserve">
         <source>Connection Error</source>
+        <target state="translated">連線錯誤</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connection OK" xml:space="preserve">
         <source>Connection OK</source>
+        <target state="translated">Connection 確定</target>
         <note/>
       </trans-unit>
       <trans-unit id="Contact" xml:space="preserve">
         <source>Contact</source>
+        <target state="translated">Contact</target>
         <note>Displayed on the support screen.</note>
       </trans-unit>
       <trans-unit id="Content delivery networks" xml:space="preserve">
@@ -2262,34 +2446,42 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Continue" xml:space="preserve">
         <source>Continue</source>
+        <target state="translated">繼續</target>
         <note>Used in onboarding and changelogs.</note>
       </trans-unit>
       <trans-unit id="Control blocking of services on your Pi-hole. (Requires PHR+)" xml:space="preserve">
         <source>Control blocking of services on your Pi-hole. (Requires PHR+)</source>
+        <target state="translated">Control 封鎖ing of services on your Pi-hole. (Requires PHR+)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Converted to: (\\.|^)%@$" xml:space="preserve">
         <source>Converted to: (\\.|^)%@$</source>
+        <target state="translated">Converted to: (\\.|^)%@$</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy" xml:space="preserve">
         <source>Copy</source>
+        <target state="translated">複製</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy Email Address" xml:space="preserve">
         <source>Copy Email Address</source>
+        <target state="translated">複製 Email 新增ress</target>
         <note>Displayed in an alert on the support screen when someone has no email client installed.</note>
       </trans-unit>
       <trans-unit id="Copy ID" xml:space="preserve">
         <source>Copy ID</source>
+        <target state="translated">複製 ID</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy IP" xml:space="preserve">
         <source>Copy IP</source>
+        <target state="translated">複製 IP</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy MAC address" xml:space="preserve">
         <source>Copy MAC address</source>
+        <target state="translated">複製 Mac 新增ress</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy Message" xml:space="preserve">
@@ -2299,10 +2491,12 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Copy UNIX timestamp" xml:space="preserve">
         <source>Copy UNIX timestamp</source>
+        <target state="translated">複製 UNIX timestamp</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy URL" xml:space="preserve">
         <source>Copy URL</source>
+        <target state="translated">複製 URL</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy email" xml:space="preserve">
@@ -2312,6 +2506,7 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Copy full response" xml:space="preserve">
         <source>Copy full response</source>
+        <target state="translated">複製 full 回應</target>
         <note/>
       </trans-unit>
       <trans-unit id="Core" translate="no" xml:space="preserve">
@@ -2320,34 +2515,42 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Core version: %@." xml:space="preserve">
         <source>Core version: %@.</source>
+        <target state="translated">Core 版本: %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Couldn't find your instance." xml:space="preserve">
         <source>Couldn't find your instance.</source>
+        <target state="translated">Couldn't find your 實例.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Couldn't load config." xml:space="preserve">
         <source>Couldn't load config.</source>
+        <target state="translated">Couldn't 負載 config.</target>
         <note>Displayed on the DNS Settings screen.</note>
       </trans-unit>
       <trans-unit id="Current Version" xml:space="preserve">
         <source>Current Version</source>
+        <target state="translated">Current 版本</target>
         <note>Used in the Changelog.</note>
       </trans-unit>
       <trans-unit id="Custom" xml:space="preserve">
         <source>Custom</source>
+        <target state="translated">自訂</target>
         <note/>
       </trans-unit>
       <trans-unit id="Custom Headers" xml:space="preserve">
         <source>Custom Headers</source>
+        <target state="translated">自訂 Headers</target>
         <note/>
       </trans-unit>
       <trans-unit id="Custom Presets" xml:space="preserve">
         <source>Custom Presets</source>
+        <target state="translated">自訂 P重置s</target>
         <note/>
       </trans-unit>
       <trans-unit id="Customize Widgets" xml:space="preserve">
         <source>Customize Widgets</source>
+        <target state="translated">自訂ize 小工具</target>
         <note/>
       </trans-unit>
       <trans-unit id="Customize tint &amp; icon" xml:space="preserve">
@@ -2357,42 +2560,52 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="DHCP" xml:space="preserve">
         <source>DHCP</source>
+        <target state="translated">DHCP</target>
         <note/>
       </trans-unit>
       <trans-unit id="DHCP &amp; DNS" xml:space="preserve">
         <source>DHCP &amp; DNS</source>
+        <target state="translated">DHCP &amp; DNS</target>
         <note/>
       </trans-unit>
       <trans-unit id="DHCP Lease Time" xml:space="preserve">
         <source>DHCP Lease Time</source>
+        <target state="translated">DHCP Lease Time</target>
         <note/>
       </trans-unit>
       <trans-unit id="DHCP lease time" xml:space="preserve">
         <source>DHCP lease time</source>
+        <target state="translated">DHCP lease time</target>
         <note/>
       </trans-unit>
       <trans-unit id="DHCP server enabled" xml:space="preserve">
         <source>DHCP server enabled</source>
+        <target state="translated">DHCP 伺服器 已啟用</target>
         <note/>
       </trans-unit>
       <trans-unit id="DHCPv4 rapid commit" xml:space="preserve">
         <source>DHCPv4 rapid commit</source>
+        <target state="translated">DHCPv4 rAPId commit</target>
         <note/>
       </trans-unit>
       <trans-unit id="DNS" xml:space="preserve">
         <source>DNS</source>
+        <target state="translated">DNS</target>
         <note/>
       </trans-unit>
       <trans-unit id="DNS Domain" xml:space="preserve">
         <source>DNS Domain</source>
+        <target state="translated">DNS 網域</target>
         <note/>
       </trans-unit>
       <trans-unit id="DNS Domain Settings" xml:space="preserve">
         <source>DNS Domain Settings</source>
+        <target state="translated">DNS 網域 設定</target>
         <note>Displayed on the DNS Settings screen.</note>
       </trans-unit>
       <trans-unit id="DNS Records" xml:space="preserve">
         <source>DNS Records</source>
+        <target state="translated">DNS Records</target>
         <note/>
       </trans-unit>
       <trans-unit id="DNS:" translate="no" xml:space="preserve">
@@ -2405,30 +2618,37 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="DNSSEC" xml:space="preserve">
         <source>DNSSEC</source>
+        <target state="translated">DNSSEC</target>
         <note/>
       </trans-unit>
       <trans-unit id="DNSSEC status" xml:space="preserve">
         <source>DNSSEC status</source>
+        <target state="translated">DNSSEC 狀態</target>
         <note/>
       </trans-unit>
       <trans-unit id="Dark" xml:space="preserve">
         <source>Dark</source>
+        <target state="translated">深色</target>
         <note/>
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
         <source>Date</source>
+        <target state="translated">日期</target>
         <note/>
       </trans-unit>
       <trans-unit id="Date Added" xml:space="preserve">
         <source>Date Added</source>
+        <target state="translated">Date 新增ed</target>
         <note/>
       </trans-unit>
       <trans-unit id="Date Modified" xml:space="preserve">
         <source>Date Modified</source>
+        <target state="translated">Date Modified</target>
         <note/>
       </trans-unit>
       <trans-unit id="Date Range" xml:space="preserve">
         <source>Date Range</source>
+        <target state="translated">Date Range</target>
         <note/>
       </trans-unit>
       <trans-unit id="Dating services" xml:space="preserve">
@@ -2438,66 +2658,82 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Debug" xml:space="preserve">
         <source>Debug</source>
+        <target state="translated">Debug</target>
         <note/>
       </trans-unit>
       <trans-unit id="Default Color Scheme" xml:space="preserve">
         <source>Default Color Scheme</source>
+        <target state="translated">預設 Color Scheme</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
         <source>Delete</source>
+        <target state="translated">刪除</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete Adlist" xml:space="preserve">
         <source>Delete Adlist</source>
+        <target state="translated">刪除 廣告清單</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete Client" xml:space="preserve">
         <source>Delete Client</source>
+        <target state="translated">刪除 客戶端</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete Domain" xml:space="preserve">
         <source>Delete Domain</source>
+        <target state="translated">刪除 網域</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete Group" xml:space="preserve">
         <source>Delete Group</source>
+        <target state="translated">刪除 群組</target>
         <note/>
       </trans-unit>
       <trans-unit id="Deny" xml:space="preserve">
         <source>Deny</source>
+        <target state="translated">Deny</target>
         <note/>
       </trans-unit>
       <trans-unit id="Deny-list" xml:space="preserve">
         <source>Deny-list</source>
+        <target state="translated">Deny-list</target>
         <note/>
       </trans-unit>
       <trans-unit id="Denylist" xml:space="preserve">
         <source>Denylist</source>
+        <target state="translated">Denylist</target>
         <note/>
       </trans-unit>
       <trans-unit id="Description (optional)" xml:space="preserve">
         <source>Description (optional)</source>
+        <target state="translated">Description (選填)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Design" xml:space="preserve">
         <source>Design</source>
+        <target state="translated">Design</target>
         <note/>
       </trans-unit>
       <trans-unit id="Destination" xml:space="preserve">
         <source>Destination</source>
+        <target state="translated">Destination</target>
         <note/>
       </trans-unit>
       <trans-unit id="Destination Instance" xml:space="preserve">
         <source>Destination Instance</source>
+        <target state="translated">Destination 實例</target>
         <note/>
       </trans-unit>
       <trans-unit id="Details" xml:space="preserve">
         <source>Details</source>
+        <target state="translated">詳細資訊</target>
         <note/>
       </trans-unit>
       <trans-unit id="Device" xml:space="preserve">
         <source>Device</source>
+        <target state="translated">Device</target>
         <note/>
       </trans-unit>
       <trans-unit id="Diagnosis" xml:space="preserve">
@@ -2507,50 +2743,57 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Disable" xml:space="preserve">
         <source>Disable</source>
+        <target state="translated">停用</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disable Widget" xml:space="preserve">
         <source>Disable Widget</source>
+        <target state="translated">停用 小工具</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disable blocking for a certain duration." xml:space="preserve">
         <source>Disable blocking for a certain duration.</source>
+        <target state="translated">停用 封鎖ing for a certain duration.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disable for 1 minute" xml:space="preserve">
         <source>Disable for 1 minute</source>
+        <target state="translated">停用 for 1 分鐘</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disable for 5 minutes" xml:space="preserve">
         <source>Disable for 5 minutes</source>
+        <target state="translated">停用 for 5 分鐘</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disable for..." xml:space="preserve">
         <source>Disable for...</source>
+        <target state="translated">停用 for...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disable indefinitely" xml:space="preserve">
         <source>Disable indefinitely</source>
+        <target state="translated">停用 indefinitely</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Disable services with a single tap, as well as managing adlists and more.|==|device.mac" xml:space="preserve">
-        <source>Disable services with a single click, as well as managing adlists and more.</source>
-        <note>Displayed in the onboarding.</note>
-      </trans-unit>
-      <trans-unit id="Disable services with a single tap, as well as managing adlists and more.|==|device.other" xml:space="preserve">
+      <trans-unit id="Disable services with a single tap, as well as managing adlists and more." xml:space="preserve">
         <source>Disable services with a single tap, as well as managing adlists and more.</source>
+        <target state="translated">停用 services with a single tap, as well as managing 廣告清單 and 更多.</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
       <trans-unit id="Disabled" xml:space="preserve">
         <source>Disabled</source>
+        <target state="translated">已停用</target>
         <note/>
       </trans-unit>
       <trans-unit id="Discard Changes" xml:space="preserve">
         <source>Discard Changes</source>
+        <target state="translated">Discard Changes</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display" xml:space="preserve">
         <source>Display</source>
+        <target state="translated">Display</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display badges on Settings-tab" xml:space="preserve">
@@ -2564,126 +2807,157 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Domain" xml:space="preserve">
         <source>Domain</source>
+        <target state="translated">網域</target>
         <note/>
       </trans-unit>
       <trans-unit id="Domain: '%@'..." xml:space="preserve">
         <source>Domain: '%@'...</source>
+        <target state="translated">網域: '%@'...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Domains" xml:space="preserve">
         <source>Domains</source>
+        <target state="translated">網域</target>
         <note/>
       </trans-unit>
       <trans-unit id="Domains &amp; Adlists" xml:space="preserve">
         <source>Domains &amp; Adlists</source>
+        <target state="translated">網域 &amp; 廣告清單</target>
         <note/>
       </trans-unit>
       <trans-unit id="Domains will be converted to RegEx to involve all subdomains." xml:space="preserve">
         <source>Domains will be converted to RegEx to involve all subdomains.</source>
+        <target state="translated">網域 will be converted to 正規表達式 to involve 全部 sub網域.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Domains: %@" xml:space="preserve">
         <source>Domains: %@</source>
+        <target state="translated">網域: %@</target>
         <note>Displays the number of domains on an adlist.</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
+        <target state="translated">完成</target>
         <note/>
       </trans-unit>
       <trans-unit id="Duration" xml:space="preserve">
         <source>Duration</source>
+        <target state="translated">持續時間</target>
         <note/>
       </trans-unit>
       <trans-unit id="Duration (minutes)" xml:space="preserve">
         <source>Duration (minutes)</source>
+        <target state="translated">Duration (分鐘)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Duration Presets" xml:space="preserve">
         <source>Duration Presets</source>
+        <target state="translated">Duration P重置s</target>
         <note/>
       </trans-unit>
       <trans-unit id="Duration in seconds" xml:space="preserve">
         <source>Duration in seconds</source>
+        <target state="translated">Duration in 秒</target>
         <note/>
       </trans-unit>
       <trans-unit id="Dutch Color Scheme" xml:space="preserve">
         <source>Dutch Color Scheme</source>
+        <target state="translated">Dutch Color Scheme</target>
         <note/>
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
         <source>Edit</source>
+        <target state="translated">編輯</target>
         <note/>
       </trans-unit>
       <trans-unit id="Edit Instance" xml:space="preserve">
         <source>Edit Instance</source>
+        <target state="translated">編輯 實例</target>
         <note/>
       </trans-unit>
       <trans-unit id="Edit Service" xml:space="preserve">
         <source>Edit Service</source>
+        <target state="translated">編輯 Service</target>
         <note/>
       </trans-unit>
       <trans-unit id="Edit presets..." xml:space="preserve">
         <source>Edit presets...</source>
+        <target state="translated">編輯 p重置s...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Editing presets requires PHR+." xml:space="preserve">
         <source>Editing presets requires PHR+.</source>
+        <target state="translated">編輯ing p重置s requires PHR+.</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Enable" xml:space="preserve">
         <source>Enable</source>
+        <target state="translated">啟用</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable Blocking" xml:space="preserve">
         <source>Enable Blocking</source>
+        <target state="translated">啟用封鎖</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable and disable blocking." xml:space="preserve">
         <source>Enable and disable blocking.</source>
+        <target state="translated">啟用 and 停用 封鎖ing.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable blocking" xml:space="preserve">
         <source>Enable blocking</source>
+        <target state="translated">啟用 封鎖ing</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable this option to enable IPv6 support for the Pi-hole DHCP server. This will allow the Pi-hole to hand out IPv6 addresses to clients and also provide IPv6 router advertisements (RA) to clients. This option is only useful if the Pi-hole is configured with an IPv6 address." xml:space="preserve">
         <source>Enable this option to enable IPv6 support for the Pi-hole DHCP server. This will allow the Pi-hole to hand out IPv6 addresses to clients and also provide IPv6 router advertisements (RA) to clients. This option is only useful if the Pi-hole is configured with an IPv6 address.</source>
+        <target state="translated">啟用 this option to 啟用 IPv6 支援 for the Pi-hole DHCP 伺服器. This will 允許 the Pi-hole to hand out IPv6 新增resses to 客戶端 and also provide IPv6 router advertisements (RA) to 客戶端. This option is only useful if the Pi-hole is 設定d with an IPv6 新增ress.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable to block the service, disable to unblock it." xml:space="preserve">
         <source>Enable to block the service, disable to unblock it.</source>
+        <target state="translated">啟用 to 封鎖 the service, 停用 to un封鎖 it.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enabled" xml:space="preserve">
         <source>Enabled</source>
+        <target state="translated">已啟用</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enabling notifications requires PHR+." xml:space="preserve">
         <source>Enabling notifications requires PHR+.</source>
+        <target state="translated">Enabling 通知 requires PHR+.</target>
         <note>Used on the Notifications-settings screen.</note>
       </trans-unit>
       <trans-unit id="Enabling the top two options may increase your privacy, but may also prevent you from being able to access. Make sure you have set up conditional forwarding in this case." xml:space="preserve">
         <source>Enabling the top two options may increase your privacy, but may also prevent you from being able to access. Make sure you have set up conditional forwarding in this case.</source>
+        <target state="translated">Enabling the top two options may increase your 隱私, but may also prevent you from being able to access. Make sure you have set up conditional forwarding in this case.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enabling these two options may increase your privacy, but may also prevent you from being able to access. Make sure you have set up conditional forwarding in this case." xml:space="preserve">
         <source>Enabling these two options may increase your privacy, but may also prevent you from being able to access. Make sure you have set up conditional forwarding in this case.</source>
+        <target state="translated">Enabling these two options may increase your 隱私, but may also prevent you from being able to access. Make sure you have set up conditional forwarding in this case.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enabling this will convert all domains to RegEx to involve all subdomains." xml:space="preserve">
         <source>Enabling this will convert all domains to RegEx to involve all subdomains.</source>
+        <target state="translated">Enabling this will convert 全部 網域 to 正規表達式 to involve 全部 sub網域.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enabling this will convert the domain to RegEx to involve all subdomains." xml:space="preserve">
         <source>Enabling this will convert the domain to RegEx to involve all subdomains.</source>
+        <target state="translated">Enabling this will convert the 網域 to 正規表達式 to involve 全部 sub網域.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ends" xml:space="preserve">
         <source>Ends</source>
+        <target state="translated">Ends</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enjoy great widgets and a Live Activity when disabling blocking." xml:space="preserve">
         <source>Enjoy great widgets and a Live Activity when disabling blocking.</source>
+        <target state="translated">Enjoy great 小工具 and a Live Activity when disabling 封鎖ing.</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
       <trans-unit id="Enter the code..." xml:space="preserve">
@@ -2693,42 +2967,52 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Entries" xml:space="preserve">
         <source>Entries</source>
+        <target state="translated">Entries</target>
         <note/>
       </trans-unit>
       <trans-unit id="Error" xml:space="preserve">
         <source>Error</source>
+        <target state="translated">錯誤</target>
         <note/>
       </trans-unit>
       <trans-unit id="Error: %@" xml:space="preserve">
         <source>Error: %@</source>
+        <target state="translated">錯誤: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Every 5 seconds" xml:space="preserve">
         <source>Every 5 seconds</source>
+        <target state="translated">Every 5 秒</target>
         <note/>
       </trans-unit>
       <trans-unit id="Exact" xml:space="preserve">
         <source>Exact</source>
+        <target state="translated">精確</target>
         <note/>
       </trans-unit>
       <trans-unit id="Exact entries" xml:space="preserve">
         <source>Exact entries</source>
+        <target state="translated">精確 entries</target>
         <note/>
       </trans-unit>
       <trans-unit id="Execute" xml:space="preserve">
         <source>Execute</source>
+        <target state="translated">Execute</target>
         <note/>
       </trans-unit>
       <trans-unit id="Expand hostnames" xml:space="preserve">
         <source>Expand hostnames</source>
+        <target state="translated">Expand hostnames</target>
         <note>Displayed on the DNS Settings screen.</note>
       </trans-unit>
       <trans-unit id="Expired DHCP Leases" xml:space="preserve">
         <source>Expired DHCP Leases</source>
+        <target state="translated">Expired DHCP Leases</target>
         <note/>
       </trans-unit>
       <trans-unit id="Explore all queries on your network and quickly block domains." xml:space="preserve">
         <source>Explore all queries on your network and quickly block domains.</source>
+        <target state="translated">Explore 全部 查詢 on your 網路 and quickly 封鎖 網域.</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
       <trans-unit id="FTL" translate="no" xml:space="preserve">
@@ -2737,10 +3021,12 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="FTL version: %@." xml:space="preserve">
         <source>FTL version: %@.</source>
+        <target state="translated">FTL 版本: %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Favorites" xml:space="preserve">
         <source>Favorites</source>
+        <target state="translated">Favorites</target>
         <note/>
       </trans-unit>
       <trans-unit id="Feature Overview" xml:space="preserve">
@@ -2755,74 +3041,92 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Filter" xml:space="preserve">
         <source>Filter</source>
+        <target state="translated">篩選</target>
         <note/>
       </trans-unit>
       <trans-unit id="Filter &amp; Sort" xml:space="preserve">
         <source>Filter &amp; Sort</source>
+        <target state="translated">篩選 &amp; Sort</target>
         <note/>
       </trans-unit>
       <trans-unit id="Filter by status" xml:space="preserve">
         <source>Filter by status</source>
+        <target state="translated">篩選 by 狀態</target>
         <note/>
       </trans-unit>
       <trans-unit id="Filtered by %@" xml:space="preserve">
         <source>Filtered by %@</source>
+        <target state="translated">篩選ed by %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Filtered by `%@`" xml:space="preserve">
         <source>Filtered by `%@`</source>
+        <target state="translated">篩選ed by `%@`</target>
         <note/>
       </trans-unit>
       <trans-unit id="First seen" xml:space="preserve">
         <source>First seen</source>
+        <target state="translated">First seen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Flags" xml:space="preserve">
         <source>Flags</source>
+        <target state="translated">Flags</target>
         <note/>
       </trans-unit>
       <trans-unit id="Flush" xml:space="preserve">
         <source>Flush</source>
+        <target state="translated">清除</target>
         <note/>
       </trans-unit>
       <trans-unit id="Flush logs (last 24h)" xml:space="preserve">
         <source>Flush logs (last 24h)</source>
+        <target state="translated">清除 日誌 (last 24h)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Flush network table" xml:space="preserve">
         <source>Flush network table</source>
+        <target state="translated">清除 網路 table</target>
         <note/>
       </trans-unit>
       <trans-unit id="Follow macOS preferences" xml:space="preserve">
         <source>Follow macOS preferences</source>
+        <target state="translated">Follow MacOS preferences</target>
         <note/>
       </trans-unit>
       <trans-unit id="Follow on X" xml:space="preserve">
         <source>Follow on X</source>
+        <target state="translated">Follow on X</target>
         <note/>
       </trans-unit>
       <trans-unit id="For any reason" xml:space="preserve">
         <source>For any reason</source>
+        <target state="translated">For any reason</target>
         <note/>
       </trans-unit>
       <trans-unit id="Force Watch Sync" xml:space="preserve">
         <source>Force Watch Sync</source>
+        <target state="translated">Force 手錶 Sync</target>
         <note/>
       </trans-unit>
       <trans-unit id="Force Widget Refresh" xml:space="preserve">
         <source>Force Widget Refresh</source>
+        <target state="translated">Force 小工具 重新整理</target>
         <note/>
       </trans-unit>
       <trans-unit id="Force a refresh to update the buttons. If this doesn't work, wait a while or try restarting your device." xml:space="preserve">
         <source>Force a refresh to update the buttons. If this doesn't work, wait a while or try restarting your device.</source>
+        <target state="translated">Force a 重新整理 to 更新 the buttons. If this doesn't work, wait a while or try 重新啟動中 your device.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Forwarded" xml:space="preserve">
         <source>Forwarded</source>
+        <target state="translated">已轉發</target>
         <note/>
       </trans-unit>
       <trans-unit id="Forwarded: %@" xml:space="preserve">
         <source>Forwarded: %@</source>
+        <target state="translated">已轉發: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free" xml:space="preserve">
@@ -2847,38 +3151,47 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Get Pi-hole Blocking Status" xml:space="preserve">
         <source>Get Pi-hole Blocking Status</source>
+        <target state="translated">Get Pi-hole 封鎖ing 狀態</target>
         <note/>
       </trans-unit>
       <trans-unit id="Get blocking status for ${instance}" xml:space="preserve">
         <source>Get blocking status for ${instance}</source>
+        <target state="translated">Get 封鎖ing 狀態 for ${實例}</target>
         <note/>
       </trans-unit>
       <trans-unit id="Get the blocking status of your Pi-hole. Returns 'true' is blocking is enabled, otherwise returns 'false'. If you select 'All Instances', this will only return 'true' if blocking is enabled on all instances." xml:space="preserve">
         <source>Get the blocking status of your Pi-hole. Returns 'true' is blocking is enabled, otherwise returns 'false'. If you select 'All Instances', this will only return 'true' if blocking is enabled on all instances.</source>
+        <target state="translated">Get the 封鎖ing 狀態 of your Pi-hole. Returns 'true' is 封鎖ing is 已啟用, otherwise returns 'false'. If you 選擇 '全部 實例', this will only return 'true' if 封鎖ing is 已啟用 on 全部 實例.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Give Feedback" xml:space="preserve">
         <source>Give Feedback</source>
+        <target state="translated">Give Feedback</target>
         <note>Displayed in an alert on the support screen when someone has no email client installed.</note>
       </trans-unit>
       <trans-unit id="Graphite" xml:space="preserve">
         <source>Graphite</source>
+        <target state="translated">Graphite</target>
         <note/>
       </trans-unit>
       <trans-unit id="Green" xml:space="preserve">
         <source>Green</source>
+        <target state="translated">Green</target>
         <note/>
       </trans-unit>
       <trans-unit id="Group" xml:space="preserve">
         <source>Group</source>
+        <target state="translated">群組</target>
         <note/>
       </trans-unit>
       <trans-unit id="Group assignment" xml:space="preserve">
         <source>Group assignment</source>
+        <target state="translated">群組 assignment</target>
         <note/>
       </trans-unit>
       <trans-unit id="Groups" xml:space="preserve">
         <source>Groups</source>
+        <target state="translated">群組</target>
         <note/>
       </trans-unit>
       <trans-unit id="HTTP" translate="no" xml:space="preserve">
@@ -2891,10 +3204,12 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Hardware Address" xml:space="preserve">
         <source>Hardware Address</source>
+        <target state="translated">Hardware 新增ress</target>
         <note/>
       </trans-unit>
       <trans-unit id="Headers" xml:space="preserve">
         <source>Headers</source>
+        <target state="translated">Headers</target>
         <note/>
       </trans-unit>
       <trans-unit id="Health" xml:space="preserve">
@@ -2904,14 +3219,17 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       </trans-unit>
       <trans-unit id="Help" xml:space="preserve">
         <source>Help</source>
+        <target state="translated">說明</target>
         <note/>
       </trans-unit>
       <trans-unit id="Help &amp; Feedback" xml:space="preserve">
         <source>Help &amp; Feedback</source>
+        <target state="translated">說明 &amp; Feedback</target>
         <note/>
       </trans-unit>
       <trans-unit id="Help translate the app" xml:space="preserve">
         <source>Help translate the app</source>
+        <target state="translated">說明 translate the app</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hi there, if you're seeing this it means that somehow the button to give you Lifetime PHR+ for free didn't work and you had to contact me. Sorry for that! To get access anyways, please enter the code I gave you here.&#10;&#10;Please do not share this code with others." xml:space="preserve">
@@ -2925,50 +3243,62 @@ Please do not share this code with others.</source>
       </trans-unit>
       <trans-unit id="Hidden on Home-tab" xml:space="preserve">
         <source>Hidden on Home-tab</source>
+        <target state="translated">Hidden on 首頁-tab</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide" xml:space="preserve">
         <source>Hide</source>
+        <target state="translated">隱藏</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide 'Blocked Services' entries" xml:space="preserve">
         <source>Hide 'Blocked Services' entries</source>
+        <target state="translated">隱藏 '已封鎖 Services' entries</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide on Home-tab" xml:space="preserve">
         <source>Hide on Home-tab</source>
+        <target state="translated">隱藏 on 首頁-tab</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide the %@ %@ card" xml:space="preserve">
         <source>Hide the %1$@ %2$@ card</source>
+        <target state="translated">隱藏 the %1$@ %2$@ card</target>
         <note>Accessibility hint for show/hide statistics cards.</note>
       </trans-unit>
       <trans-unit id="Hide the %@ card" xml:space="preserve">
         <source>Hide the %@ card</source>
+        <target state="translated">隱藏 the %@ card</target>
         <note>Accessibility hint for show/hide statistics cards.</note>
       </trans-unit>
       <trans-unit id="Home" xml:space="preserve">
         <source>Home</source>
+        <target state="translated">首頁</target>
         <note/>
       </trans-unit>
       <trans-unit id="Host" xml:space="preserve">
         <source>Host</source>
+        <target state="translated">主機</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hostname" xml:space="preserve">
         <source>Hostname</source>
+        <target state="translated">主機名稱</target>
         <note>Hostname of the device running the instance, used on the instance detail screen.</note>
       </trans-unit>
       <trans-unit id="Hostname or IP" xml:space="preserve">
         <source>Hostname or IP</source>
+        <target state="translated">Hostname or IP</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hostname or IP address" xml:space="preserve">
         <source>Hostname or IP address</source>
+        <target state="translated">Hostname or IP 新增ress</target>
         <note/>
       </trans-unit>
       <trans-unit id="How to change" xml:space="preserve">
         <source>How to change</source>
+        <target state="translated">How to change</target>
         <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
       </trans-unit>
       <trans-unit id="I can't find your purchase. Do you think this is incorrect? Please contact me through the 'Help &amp; Feedback' button in settings." xml:space="preserve">
@@ -2987,34 +3317,42 @@ Please mail it to developer@rocketscience-it.nl!</source>
       </trans-unit>
       <trans-unit id="ID" xml:space="preserve">
         <source>ID</source>
+        <target state="translated">ID</target>
         <note/>
       </trans-unit>
       <trans-unit id="IP" xml:space="preserve">
         <source>IP</source>
+        <target state="translated">IP</target>
         <note/>
       </trans-unit>
       <trans-unit id="IP / MAC / Hostname" xml:space="preserve">
         <source>IP / MAC / Hostname</source>
+        <target state="translated">IP / Mac / Hostname</target>
         <note/>
       </trans-unit>
       <trans-unit id="IP addresses" xml:space="preserve">
         <source>IP addresses</source>
+        <target state="translated">IP 新增resses</target>
         <note/>
       </trans-unit>
       <trans-unit id="IP addresses (hostname)" xml:space="preserve">
         <source>IP addresses (hostname)</source>
+        <target state="translated">IP 新增resses (hostname)</target>
         <note/>
       </trans-unit>
       <trans-unit id="IPv6 support" xml:space="preserve">
         <source>IPv6 support</source>
+        <target state="translated">IPv6 支援</target>
         <note/>
       </trans-unit>
       <trans-unit id="Icon" xml:space="preserve">
         <source>Icon</source>
+        <target state="translated">Icon</target>
         <note/>
       </trans-unit>
       <trans-unit id="If set, the domain is added to simple names (without a period) in /etc/hosts in the same way as for DHCP-derived names." xml:space="preserve">
         <source>If set, the domain is added to simple names (without a period) in /etc/hosts in the same way as for DHCP-derived names.</source>
+        <target state="translated">If set, the 網域 is 新增ed to simple names (without a period) in /etc/hosts in the same way as for DHCP-derived names.</target>
         <note>Displayed on the DNS Settings screen.</note>
       </trans-unit>
       <trans-unit id="If this option is set, Pi-hole ignores all clients which are not explicitly configured through dhcp.hosts. This can be useful to prevent unauthorized clients from getting an IP address from the DHCP server.&#10;It should be noted that this option is not a security feature, as clients can still assign themselves an IP address and use the network. It is merely a convenience feature to prevent unknown clients from getting a valid IP configuration assigned automatically.&#10;&#10;Note: When this feature is enabled you will need to configure new clients manually in dhcp.hosts before they can use the network." xml:space="preserve">
@@ -3022,30 +3360,40 @@ Please mail it to developer@rocketscience-it.nl!</source>
 It should be noted that this option is not a security feature, as clients can still assign themselves an IP address and use the network. It is merely a convenience feature to prevent unknown clients from getting a valid IP configuration assigned automatically.
 
 Note: When this feature is enabled you will need to configure new clients manually in dhcp.hosts before they can use the network.</source>
+        <target state="translated">If this option is set, Pi-hole ig否res 全部 客戶端 which are 否t explicitly 設定d through dhcp.hosts. This can be useful to prevent unauthorized 客戶端 from getting an IP 新增ress from the DHCP 伺服器.
+It should be 備註d that this option is 否t a security feature, as 客戶端 can still assign themselves an IP 新增ress and use the 網路. It is merely a convenience feature to prevent unk否wn 客戶端 from getting a 有效 IP 設定 assigned 自動全部y.
+
+備註: When this feature is 已啟用 you will need to 設定 new 客戶端 手動ly in dhcp.hosts before they can use the 網路.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ignore unknown DHCP clients" xml:space="preserve">
         <source>Ignore unknown DHCP clients</source>
+        <target state="translated">Ig否re unk否wn DHCP 客戶端</target>
         <note/>
       </trans-unit>
       <trans-unit id="In Progress" xml:space="preserve">
         <source>In Progress</source>
+        <target state="translated">In Progress</target>
         <note/>
       </trans-unit>
       <trans-unit id="Indefinitely" xml:space="preserve">
         <source>Indefinitely</source>
+        <target state="translated">無限期</target>
         <note/>
       </trans-unit>
       <trans-unit id="Indigo" xml:space="preserve">
         <source>Indigo</source>
+        <target state="translated">Indigo</target>
         <note/>
       </trans-unit>
       <trans-unit id="Info" xml:space="preserve">
         <source>Info</source>
+        <target state="translated">資訊</target>
         <note/>
       </trans-unit>
       <trans-unit id="Instance" xml:space="preserve">
         <source>Instance</source>
+        <target state="translated">實例</target>
         <note/>
       </trans-unit>
       <trans-unit id="Instance Actions" xml:space="preserve">
@@ -3055,10 +3403,12 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="Instance settings" xml:space="preserve">
         <source>Instance settings</source>
+        <target state="translated">實例 設定</target>
         <note>Option for the blocklist-card, used on the Preferences &gt; Home screen.</note>
       </trans-unit>
       <trans-unit id="Instances" xml:space="preserve">
         <source>Instances</source>
+        <target state="translated">實例</target>
         <note/>
       </trans-unit>
       <trans-unit id="Interactive Widgets" xml:space="preserve">
@@ -3068,78 +3418,97 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="Interface" xml:space="preserve">
         <source>Interface</source>
+        <target state="translated">介面</target>
         <note/>
       </trans-unit>
       <trans-unit id="Interface Overview" xml:space="preserve">
         <source>Interface Overview</source>
+        <target state="translated">Interface Over檢視</target>
         <note/>
       </trans-unit>
       <trans-unit id="Interface Settings" xml:space="preserve">
         <source>Interface Settings</source>
+        <target state="translated">Interface 設定</target>
         <note/>
       </trans-unit>
       <trans-unit id="Interface options" xml:space="preserve">
         <source>Interface options</source>
+        <target state="translated">Interface options</target>
         <note/>
       </trans-unit>
       <trans-unit id="Interfaces" xml:space="preserve">
         <source>Interfaces</source>
+        <target state="translated">Interfaces</target>
         <note/>
       </trans-unit>
       <trans-unit id="Invalid URL. Did you enter the correct host, port, and API path?" xml:space="preserve">
         <source>Invalid URL. Did you enter the correct host, port, and API path?</source>
+        <target state="translated">無效 URL. Did you enter the correct host, 連接埠, and API path?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Kind" xml:space="preserve">
         <source>Kind</source>
+        <target state="translated">Kind</target>
         <note/>
       </trans-unit>
       <trans-unit id="Kind of list" xml:space="preserve">
         <source>Kind of list</source>
+        <target state="translated">Kind of list</target>
         <note/>
       </trans-unit>
       <trans-unit id="Last Updated" xml:space="preserve">
         <source>Last Updated</source>
+        <target state="translated">Last 已更新</target>
         <note/>
       </trans-unit>
       <trans-unit id="Last fetched" xml:space="preserve">
         <source>Last fetched</source>
+        <target state="translated">Last fetched</target>
         <note/>
       </trans-unit>
       <trans-unit id="Last modified" xml:space="preserve">
         <source>Last modified</source>
+        <target state="translated">Last modified</target>
         <note/>
       </trans-unit>
       <trans-unit id="Last query" xml:space="preserve">
         <source>Last query</source>
+        <target state="translated">Last 查詢</target>
         <note/>
       </trans-unit>
       <trans-unit id="Last updated: %@" xml:space="preserve">
         <source>Last updated: %@</source>
+        <target state="translated">Last 已更新: %@</target>
         <note>Displays the date an adlist was last updated.</note>
       </trans-unit>
       <trans-unit id="Last updated: N/A" xml:space="preserve">
         <source>Last updated: N/A</source>
+        <target state="translated">Last 已更新: N/A</target>
         <note>Displays the when adlist was just added and has never been updated.</note>
       </trans-unit>
       <trans-unit id="Latest" xml:space="preserve">
         <source>Latest</source>
+        <target state="translated">La測試</target>
         <note>Displayed under the version label on the instance detail screen.</note>
       </trans-unit>
       <trans-unit id="Learn More" xml:space="preserve">
         <source>Learn More</source>
+        <target state="translated">Learn 更多</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
       <trans-unit id="Learn more..." xml:space="preserve">
         <source>Learn more...</source>
+        <target state="translated">Learn 更多...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Lease time" xml:space="preserve">
         <source>Lease time</source>
+        <target state="translated">Lease time</target>
         <note/>
       </trans-unit>
       <trans-unit id="Leave a Review" xml:space="preserve">
         <source>Leave a Review</source>
+        <target state="translated">Leave a Re檢視</target>
         <note/>
       </trans-unit>
       <trans-unit id="Leave a review" xml:space="preserve">
@@ -3149,62 +3518,77 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="Leave a tip" xml:space="preserve">
         <source>Leave a tip</source>
+        <target state="translated">Leave a 提示</target>
         <note/>
       </trans-unit>
       <trans-unit id="Leave the netmask field empty to have Pi-hole infer it from the configured IP address of your device. If you want to specify a netmask, you can use the format 255.255.255.0." xml:space="preserve">
         <source>Leave the netmask field empty to have Pi-hole infer it from the configured IP address of your device. If you want to specify a netmask, you can use the format 255.255.255.0.</source>
+        <target state="translated">Leave the netmask field empty to have Pi-hole infer it from the 設定d IP 新增ress of your device. If you want to specify a netmask, you can use the format 255.255.255.0.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Lifetime PHR %@" xml:space="preserve">
         <source>Lifetime PHR %@</source>
+        <target state="translated">Lifetime PHR %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Lifetime PHR+ Conversion" xml:space="preserve">
         <source>Lifetime PHR+ Conversion</source>
+        <target state="translated">Lifetime PHR+ Con版本</target>
         <note/>
       </trans-unit>
       <trans-unit id="Light" xml:space="preserve">
         <source>Light</source>
+        <target state="translated">淺色</target>
         <note>Displayed on the App Icon Settings screen.</note>
       </trans-unit>
       <trans-unit id="Light &amp; Dark" xml:space="preserve">
         <source>Light &amp; Dark</source>
+        <target state="translated">淺色 &amp; 深色</target>
         <note>Displayed on the App Icon Settings screen.</note>
       </trans-unit>
       <trans-unit id="Light, Dark" xml:space="preserve">
         <source>Light, Dark</source>
+        <target state="translated">淺色, 深色</target>
         <note>Displayed on the App Icon Settings screen.</note>
       </trans-unit>
       <trans-unit id="Light, Dark, Tinted" xml:space="preserve">
         <source>Light, Dark, Tinted</source>
+        <target state="translated">淺色, 深色, Tinted</target>
         <note>Displayed on the App Icon Settings screen.</note>
       </trans-unit>
       <trans-unit id="List" xml:space="preserve">
         <source>List</source>
+        <target state="translated">List</target>
         <note/>
       </trans-unit>
       <trans-unit id="List URL" xml:space="preserve">
         <source>List URL</source>
+        <target state="translated">List URL</target>
         <note/>
       </trans-unit>
       <trans-unit id="Live Log" xml:space="preserve">
         <source>Live Log</source>
+        <target state="translated">Live 日誌</target>
         <note/>
       </trans-unit>
       <trans-unit id="Local DNS Records" xml:space="preserve">
         <source>Local DNS Records</source>
+        <target state="translated">Local DNS Records</target>
         <note/>
       </trans-unit>
       <trans-unit id="Local Records" xml:space="preserve">
         <source>Local Records</source>
+        <target state="translated">Local Records</target>
         <note/>
       </trans-unit>
       <trans-unit id="Logs" xml:space="preserve">
         <source>Logs</source>
+        <target state="translated">日誌</target>
         <note/>
       </trans-unit>
       <trans-unit id="MAC address" xml:space="preserve">
         <source>MAC address</source>
+        <target state="translated">Mac 新增ress</target>
         <note/>
       </trans-unit>
       <trans-unit id="Made with ❤️ by one person in 🇳🇱" xml:space="preserve">
@@ -3214,18 +3598,22 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="Mail" xml:space="preserve">
         <source>Mail</source>
+        <target state="translated">Mail</target>
         <note/>
       </trans-unit>
       <trans-unit id="Major updates only" xml:space="preserve">
         <source>Major updates only</source>
+        <target state="translated">Major 更新s only</target>
         <note/>
       </trans-unit>
       <trans-unit id="Make sure your router's DHCP server is disabled when using the Pi-hole DHCP server!" xml:space="preserve">
         <source>Make sure your router's DHCP server is disabled when using the Pi-hole DHCP server!</source>
+        <target state="translated">Make sure your router's DHCP 伺服器 is 已停用 when using the Pi-hole DHCP 伺服器!</target>
         <note/>
       </trans-unit>
       <trans-unit id="ManGo - Anime &amp; Manga Tracker" xml:space="preserve">
         <source>ManGo - Anime &amp; Manga Tracker</source>
+        <target state="translated">ManGo - Anime &amp; Manga Tracker</target>
         <note/>
       </trans-unit>
       <trans-unit id="Manage Subscription" xml:space="preserve">
@@ -3235,6 +3623,7 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="Mark as 'Time Sensitive'" xml:space="preserve">
         <source>Mark as 'Time Sensitive'</source>
+        <target state="translated">Mark as 'Time Sensitive'</target>
         <note/>
       </trans-unit>
       <trans-unit id="Media sharing" xml:space="preserve">
@@ -3244,106 +3633,132 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="Medium widget only." xml:space="preserve">
         <source>Medium widget only.</source>
+        <target state="translated">Medium 小工具 only.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Merge" xml:space="preserve">
         <source>Merge</source>
+        <target state="translated">Merge</target>
         <note/>
       </trans-unit>
       <trans-unit id="Messages" xml:space="preserve">
         <source>Messages</source>
+        <target state="translated">Messages</target>
         <note/>
       </trans-unit>
       <trans-unit id="Metrics" xml:space="preserve">
         <source>Metrics</source>
+        <target state="translated">Metrics</target>
         <note/>
       </trans-unit>
       <trans-unit id="Metrics decimals" xml:space="preserve">
         <source>Metrics decimals</source>
+        <target state="translated">Metrics decimals</target>
         <note/>
       </trans-unit>
       <trans-unit id="Minimize tabbar on scroll" xml:space="preserve">
         <source>Minimize tabbar on scroll</source>
+        <target state="translated">Minimize tabbar on scroll</target>
         <note/>
       </trans-unit>
       <trans-unit id="Mint" xml:space="preserve">
         <source>Mint</source>
+        <target state="translated">Mint</target>
         <note/>
       </trans-unit>
       <trans-unit id="Model" xml:space="preserve">
         <source>Model</source>
+        <target state="translated">Model</target>
         <note>Model of the device running the instance, used on the instance detail screen.</note>
       </trans-unit>
       <trans-unit id="Monthly PHR %@" xml:space="preserve">
         <source>Monthly PHR %@</source>
+        <target state="translated">月ly PHR %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Multi DNS" xml:space="preserve">
         <source>Multi DNS</source>
+        <target state="translated">Multi DNS</target>
         <note/>
       </trans-unit>
       <trans-unit id="Multiple" xml:space="preserve">
         <source>Multiple</source>
+        <target state="translated">Mul提示le</target>
         <note/>
       </trans-unit>
       <trans-unit id="Must be unique." xml:space="preserve">
         <source>Must be unique.</source>
+        <target state="translated">Must be unique.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
         <source>Name</source>
+        <target state="translated">名稱</target>
         <note/>
       </trans-unit>
       <trans-unit id="Netmask" xml:space="preserve">
         <source>Netmask</source>
+        <target state="translated">Netmask</target>
         <note/>
       </trans-unit>
       <trans-unit id="Network" xml:space="preserve">
         <source>Network</source>
+        <target state="translated">網路</target>
         <note/>
       </trans-unit>
       <trans-unit id="Network Overview" xml:space="preserve">
         <source>Network Overview</source>
+        <target state="translated">網路 Over檢視</target>
         <note/>
       </trans-unit>
       <trans-unit id="Never forward non-FQDN A and AAAA queries" xml:space="preserve">
         <source>Never forward non-FQDN A and AAAA queries</source>
+        <target state="translated">Never forward 否n-FQDN A and AAAA 查詢</target>
         <note/>
       </trans-unit>
       <trans-unit id="Never forward reverse lookups for private IP ranges" xml:space="preserve">
         <source>Never forward reverse lookups for private IP ranges</source>
+        <target state="translated">Never forward reverse lo確定ups for private IP ranges</target>
         <note/>
       </trans-unit>
       <trans-unit id="New Adlist" xml:space="preserve">
         <source>New Adlist</source>
+        <target state="translated">New 廣告清單</target>
         <note/>
       </trans-unit>
       <trans-unit id="New Client" xml:space="preserve">
         <source>New Client</source>
+        <target state="translated">New 客戶端</target>
         <note/>
       </trans-unit>
       <trans-unit id="New Group" xml:space="preserve">
         <source>New Group</source>
+        <target state="translated">New 群組</target>
         <note/>
       </trans-unit>
       <trans-unit id="New Groups" xml:space="preserve">
         <source>New Groups</source>
+        <target state="translated">New 群組</target>
         <note/>
       </trans-unit>
       <trans-unit id="New Instance" xml:space="preserve">
         <source>New Instance</source>
+        <target state="translated">New 實例</target>
         <note/>
       </trans-unit>
       <trans-unit id="New Record" xml:space="preserve">
         <source>New Record</source>
+        <target state="translated">New Record</target>
         <note/>
       </trans-unit>
       <trans-unit id="New Service" xml:space="preserve">
         <source>New Service</source>
+        <target state="translated">New Service</target>
         <note/>
       </trans-unit>
       <trans-unit id="New custom blocked service" xml:space="preserve">
         <source>New custom blocked service</source>
+        <target state="translated">New 自訂 已封鎖 service</target>
         <note/>
       </trans-unit>
       <trans-unit id="NextDNS Remote" translate="no" xml:space="preserve">
@@ -3352,26 +3767,32 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="No" xml:space="preserve">
         <source>No</source>
+        <target state="translated">否</target>
         <note/>
       </trans-unit>
       <trans-unit id="No Connection" xml:space="preserve">
         <source>No Connection</source>
+        <target state="translated">否 Connection</target>
         <note/>
       </trans-unit>
       <trans-unit id="No Devices Found" xml:space="preserve">
         <source>No Devices Found</source>
+        <target state="translated">否 Devices Found</target>
         <note/>
       </trans-unit>
       <trans-unit id="No Instances" xml:space="preserve">
         <source>No Instances</source>
+        <target state="translated">否 實例</target>
         <note/>
       </trans-unit>
       <trans-unit id="No Instances Found" xml:space="preserve">
         <source>No Instances Found</source>
+        <target state="translated">否 實例 Found</target>
         <note/>
       </trans-unit>
       <trans-unit id="No Interfaces" xml:space="preserve">
         <source>No Interfaces</source>
+        <target state="translated">否 Interfaces</target>
         <note/>
       </trans-unit>
       <trans-unit id="No Messages" xml:space="preserve">
@@ -3381,158 +3802,187 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="No Watch Paired" xml:space="preserve">
         <source>No Watch Paired</source>
+        <target state="translated">否 手錶 Paired</target>
         <note>Displayed on the support screen on the 'Force Watch Sync' button.</note>
       </trans-unit>
       <trans-unit id="No connection" xml:space="preserve">
         <source>No connection</source>
+        <target state="translated">否 connection</target>
         <note/>
       </trans-unit>
       <trans-unit id="No connection." xml:space="preserve">
         <source>No connection.</source>
+        <target state="translated">否 connection.</target>
         <note/>
       </trans-unit>
       <trans-unit id="No data." xml:space="preserve">
         <source>No data.</source>
+        <target state="translated">否 data.</target>
         <note/>
       </trans-unit>
       <trans-unit id="No instance selected." xml:space="preserve">
         <source>No instance selected.</source>
+        <target state="translated">否 實例 已選擇.</target>
         <note/>
       </trans-unit>
       <trans-unit id="No instance." xml:space="preserve">
         <source>No instance.</source>
+        <target state="translated">否 實例.</target>
         <note/>
       </trans-unit>
       <trans-unit id="No instances found." xml:space="preserve">
         <source>No instances found.</source>
+        <target state="translated">否 實例 found.</target>
         <note/>
       </trans-unit>
       <trans-unit id="No leases found." xml:space="preserve">
         <source>No leases found.</source>
+        <target state="translated">否 leases found.</target>
         <note/>
       </trans-unit>
       <trans-unit id="No matching adlists found." xml:space="preserve">
         <source>No matching adlists found.</source>
+        <target state="translated">否 matching 廣告清單 found.</target>
         <note/>
       </trans-unit>
       <trans-unit id="No matching adlists or domains found." xml:space="preserve">
         <source>No matching adlists or domains found.</source>
+        <target state="translated">否 matching 廣告清單 or 網域 found.</target>
         <note/>
       </trans-unit>
       <trans-unit id="No matching domains found." xml:space="preserve">
         <source>No matching domains found.</source>
+        <target state="translated">否 matching 網域 found.</target>
         <note/>
       </trans-unit>
       <trans-unit id="No queries found" xml:space="preserve">
         <source>No queries found</source>
+        <target state="translated">否 查詢 found</target>
         <note/>
       </trans-unit>
       <trans-unit id="No widgetFamily found" xml:space="preserve">
         <source>No widgetFamily found</source>
+        <target state="translated">否 小工具Family found</target>
         <note/>
       </trans-unit>
       <trans-unit id="None" xml:space="preserve">
         <source>None</source>
+        <target state="translated">無</target>
         <note/>
       </trans-unit>
       <trans-unit id="None found." xml:space="preserve">
         <source>None found.</source>
+        <target state="translated">無 found.</target>
         <note/>
       </trans-unit>
       <trans-unit id="None." xml:space="preserve">
         <source>None.</source>
+        <target state="translated">無.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Note: adlist &amp; domain entries that are inserted will be added to the group &quot;default&quot; only." xml:space="preserve">
         <source>Note: adlist &amp; domain entries that are inserted will be added to the group "default" only.</source>
+        <target state="translated">備註: 廣告清單 &amp; 網域 entries that are inserted will be 新增ed to the 群組 "預設" only.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Notifications" xml:space="preserve">
         <source>Notifications</source>
+        <target state="translated">通知</target>
         <note>Used on the Notifications-settings screen.</note>
       </trans-unit>
       <trans-unit id="Notifications..." xml:space="preserve">
         <source>Notifications...</source>
+        <target state="translated">通知...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Number of clients" xml:space="preserve">
         <source>Number of clients</source>
+        <target state="translated">Number of 客戶端</target>
         <note/>
       </trans-unit>
       <trans-unit id="Number of domains" xml:space="preserve">
         <source>Number of domains</source>
+        <target state="translated">Number of 網域</target>
         <note/>
       </trans-unit>
       <trans-unit id="Number of queries" xml:space="preserve">
         <source>Number of queries</source>
+        <target state="translated">Number of 查詢</target>
         <note/>
       </trans-unit>
       <trans-unit id="Number of queries shown" xml:space="preserve">
         <source>Number of queries shown</source>
+        <target state="translated">Number of 查詢 顯示n</target>
         <note/>
       </trans-unit>
       <trans-unit id="Numbers are an indication. Any existing matches are ignored." xml:space="preserve">
         <source>Numbers are an indication. Any existing matches are ignored.</source>
+        <target state="translated">Numbers are an indication. Any existing matches are ig否red.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Numbers are an indication. Any existing matches are ignored. Includes 'Blocked Services'." xml:space="preserve">
         <source>Numbers are an indication. Any existing matches are ignored. Includes 'Blocked Services'.</source>
+        <target state="translated">Numbers are an indication. Any existing matches are ig否red. Includes '已封鎖 Services'.</target>
         <note/>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
         <source>OK</source>
+        <target state="translated">確定</target>
         <note/>
       </trans-unit>
-      <trans-unit id="One-tap button|==|device.mac" xml:space="preserve">
-        <source>One-click button</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="One-tap button|==|device.other" xml:space="preserve">
+      <trans-unit id="One-tap button" xml:space="preserve">
         <source>One-tap button</source>
+        <target state="translated">One-tap button</target>
         <note/>
       </trans-unit>
-      <trans-unit id="One-tap disable duration|==|device.mac" xml:space="preserve">
-        <source>One-click disable duration</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="One-tap disable duration|==|device.other" xml:space="preserve">
+      <trans-unit id="One-tap disable duration" xml:space="preserve">
         <source>One-tap disable duration</source>
+        <target state="translated">One-tap 停用 duration</target>
         <note/>
       </trans-unit>
       <trans-unit id="Only change these settings if you know what you're doing." xml:space="preserve">
         <source>Only change these settings if you know what you're doing.</source>
+        <target state="translated">Only change these 設定 if you k否w what you're doing.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Only use this setting if you didn't set a password for your Pi-hole." xml:space="preserve">
         <source>Only use this setting if you didn't set a password for your Pi-hole.</source>
+        <target state="translated">Only use this setting if you didn't set a 密碼 for your Pi-hole.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Only visible if 'Combine instances' is turned off." xml:space="preserve">
         <source>Only visible if 'Combine instances' is turned off.</source>
+        <target state="translated">Only visible if 'Combine 實例' is turned off.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open Settings" xml:space="preserve">
         <source>Open Settings</source>
+        <target state="translated">開啟 設定</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open Settings to allow 'Time Sensitive Notifications'" xml:space="preserve">
         <source>Open Settings to allow 'Time Sensitive Notifications'</source>
+        <target state="translated">開啟 設定 to 允許 'Time Sensitive 通知'</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open Settings to allow banners" xml:space="preserve">
         <source>Open Settings to allow banners</source>
+        <target state="translated">開啟 設定 to 允許 banners</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open Settings to allow notifications" xml:space="preserve">
         <source>Open Settings to allow notifications</source>
+        <target state="translated">開啟 設定 to 允許 通知</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open technical documentation" xml:space="preserve">
         <source>Open technical documentation</source>
+        <target state="translated">開啟 technical documentation</target>
         <note>Displayed on the DNS Settings screen.</note>
       </trans-unit>
       <trans-unit id="Options" xml:space="preserve">
         <source>Options</source>
+        <target state="translated">選項</target>
         <note/>
       </trans-unit>
       <trans-unit id="Or if you prefer subscriptions:" xml:space="preserve">
@@ -3542,10 +3992,12 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="Orange" xml:space="preserve">
         <source>Orange</source>
+        <target state="translated">Orange</target>
         <note/>
       </trans-unit>
       <trans-unit id="Overwrite" xml:space="preserve">
         <source>Overwrite</source>
+        <target state="translated">Overwrite</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHR" translate="no" xml:space="preserve">
@@ -3561,6 +4013,8 @@ Note: When this feature is enabled you will need to configure new clients manual
       <trans-unit id="PHR%@ is required to&#10;" xml:space="preserve">
         <source>PHR%@ is required to
 </source>
+        <target state="translated">PHR%@ is 必填 to
+</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHR+" translate="no" xml:space="preserve">
@@ -3574,10 +4028,12 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="PHR+ is required to enable more than 1 Blocked Service." xml:space="preserve">
         <source>PHR+ is required to enable more than 1 Blocked Service.</source>
+        <target state="translated">PHR+ is 必填 to 啟用 更多 than 1 已封鎖 Service.</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHR+ is required to use this feature." xml:space="preserve">
         <source>PHR+ is required to use this feature.</source>
+        <target state="translated">PHR+ is 必填 to use this feature.</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHR+ unlocks all these features, as well as new features in future updates. By purchasing PHR+ you will also support future development of the app, which is made by %@ (hi! 👋). I really appreciate it!" xml:space="preserve">
@@ -3587,22 +4043,27 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="Password" xml:space="preserve">
         <source>Password</source>
+        <target state="translated">密碼</target>
         <note/>
       </trans-unit>
       <trans-unit id="Password &amp; TOTP are used once to create an application password, then deleted. Be aware: you can have only *one* application password at a time." xml:space="preserve">
         <source>Password &amp; TOTP are used once to create an application password, then deleted. Be aware: you can have only *one* application password at a time.</source>
+        <target state="translated">密碼 &amp; TOTP are used once to create an application 密碼, then 刪除d. Be aware: you can have only *one* application 密碼 at a time.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Password+2FA" xml:space="preserve">
         <source>Password+2FA</source>
+        <target state="translated">密碼+2FA</target>
         <note/>
       </trans-unit>
       <trans-unit id="Paste" xml:space="preserve">
         <source>Paste</source>
+        <target state="translated">Paste</target>
         <note/>
       </trans-unit>
       <trans-unit id="Permit all origins" xml:space="preserve">
         <source>Permit all origins</source>
+        <target state="translated">Permit 全部 origins</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pi-hole" translate="no" xml:space="preserve">
@@ -3611,6 +4072,7 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="Pi-hole Color Scheme" xml:space="preserve">
         <source>Pi-hole Color Scheme</source>
+        <target state="translated">Pi-hole Color Scheme</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pi-hole Remote" translate="no" xml:space="preserve">
@@ -3619,6 +4081,7 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="Pi-hole Remote is designed to protect your privacy and will never share any information with anyone." xml:space="preserve">
         <source>Pi-hole Remote is designed to protect your privacy and will never share any information with anyone.</source>
+        <target state="translated">Pi-hole Remote is designed to protect your 隱私 and will never 分享 any 資訊rmation with anyone.</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
       <trans-unit id="Pi-hole Remote+" translate="no" xml:space="preserve">
@@ -3627,78 +4090,97 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="Pi-hole domain name" xml:space="preserve">
         <source>Pi-hole domain name</source>
+        <target state="translated">Pi-hole 網域 name</target>
         <note>Displayed on the DNS Settings screen.</note>
       </trans-unit>
       <trans-unit id="Pi-hole v6.0+ Required" xml:space="preserve">
         <source>Pi-hole v6.0+ Required</source>
+        <target state="translated">Pi-hole v6.0+ 必填</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pink" xml:space="preserve">
         <source>Pink</source>
+        <target state="translated">Pink</target>
         <note/>
       </trans-unit>
       <trans-unit id="Please add a Pi-hole instance first." xml:space="preserve">
         <source>Please add a Pi-hole instance first.</source>
+        <target state="translated">Please 新增 a Pi-hole 實例 first.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Please add an instance in the app." xml:space="preserve">
         <source>Please add an instance in the app.</source>
+        <target state="translated">Please 新增 an 實例 in the app.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Please add an instance in the iPhone app. If you did that already, please try 'Settings' &gt; 'Help &amp; Feedback' &gt; 'Force Watch Sync' and do a force quit of the Watch app." xml:space="preserve">
         <source>Please add an instance in the iPhone app. If you did that already, please try 'Settings' &gt; 'Help &amp; Feedback' &gt; 'Force Watch Sync' and do a force quit of the Watch app.</source>
+        <target state="translated">Please 新增 an 實例 in the iPhone app. If you did that already, please try '設定' &gt; '說明 &amp; Feedback' &gt; 'Force 手錶 Sync' and do a force quit of the 手錶 app.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Please choose two different instances." xml:space="preserve">
         <source>Please choose two different instances.</source>
+        <target state="translated">Please choose two different 實例.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Please enter a valid URL." xml:space="preserve">
         <source>Please enter a valid URL.</source>
+        <target state="translated">Please enter a 有效 URL.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Please mail me with any feedback about bugs or improvements at developer@rocketscience-it.nl!" xml:space="preserve">
         <source>Please mail me with any feedback about bugs or improvements at developer@rocketscience-it.nl!</source>
+        <target state="translated">Please mail me with any feedback 關於 bugs or improvements at developer@rocketscience-it.nl!</target>
         <note>Displayed in an alert on the support screen when someone has no email client installed.</note>
       </trans-unit>
       <trans-unit id="Please note that Pi-hole v6.0 or higher is required for the app to work. If you're running an older version of Pi-hole, please update your Pi-hole first by running " xml:space="preserve">
         <source>Please note that Pi-hole v6.0 or higher is required for the app to work. If you're running an older version of Pi-hole, please update your Pi-hole first by running </source>
+        <target state="translated">Please 備註 that Pi-hole v6.0 or higher is 必填 for the app to work. If you're running an older 版本 of Pi-hole, please 更新 your Pi-hole first by running </target>
         <note/>
       </trans-unit>
       <trans-unit id="Please use English or Dutch for support requests!" xml:space="preserve">
         <source>Please use English or Dutch for support requests!</source>
+        <target state="translated">Please use English or Dutch for 支援 請求!</target>
         <note>Displayed on the support screen.</note>
       </trans-unit>
       <trans-unit id="Port" xml:space="preserve">
         <source>Port</source>
+        <target state="translated">連接埠</target>
         <note/>
       </trans-unit>
       <trans-unit id="Powerful Pi-hole Client &amp; Group management." xml:space="preserve">
         <source>Powerful Pi-hole Client &amp; Group management.</source>
+        <target state="translated">Powerful Pi-hole 客戶端 &amp; 群組 management.</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
       <trans-unit id="Preferences" xml:space="preserve">
         <source>Preferences</source>
+        <target state="translated">偏好設定</target>
         <note/>
       </trans-unit>
       <trans-unit id="Preset 1" xml:space="preserve">
         <source>Preset 1</source>
+        <target state="translated">P重置 1</target>
         <note/>
       </trans-unit>
       <trans-unit id="Preset 2" xml:space="preserve">
         <source>Preset 2</source>
+        <target state="translated">P重置 2</target>
         <note/>
       </trans-unit>
       <trans-unit id="Preset 3" xml:space="preserve">
         <source>Preset 3</source>
+        <target state="translated">P重置 3</target>
         <note/>
       </trans-unit>
       <trans-unit id="Preset 4" xml:space="preserve">
         <source>Preset 4</source>
+        <target state="translated">P重置 4</target>
         <note/>
       </trans-unit>
       <trans-unit id="Presets" xml:space="preserve">
         <source>Presets</source>
+        <target state="translated">P重置s</target>
         <note/>
       </trans-unit>
       <trans-unit id="Privacy Policy" xml:space="preserve">
@@ -3708,75 +4190,93 @@ Note: When this feature is enabled you will need to configure new clients manual
       </trans-unit>
       <trans-unit id="Processed" xml:space="preserve">
         <source>Processed</source>
+        <target state="translated">Processed</target>
         <note/>
       </trans-unit>
       <trans-unit id="Protocol" xml:space="preserve">
         <source>Protocol</source>
+        <target state="translated">協定</target>
         <note/>
       </trans-unit>
       <trans-unit id="Purge PHR iCloud Data" xml:space="preserve">
         <source>Purge PHR iCloud Data</source>
+        <target state="translated">Purge PHR iCloud Data</target>
         <note/>
       </trans-unit>
       <trans-unit id="Purple" xml:space="preserve">
         <source>Purple</source>
+        <target state="translated">Purple</target>
         <note/>
       </trans-unit>
       <trans-unit id="Queries" xml:space="preserve">
         <source>Queries</source>
+        <target state="translated">查詢</target>
         <note/>
       </trans-unit>
       <trans-unit id="Queries: %@" xml:space="preserve">
         <source>Queries: %@</source>
+        <target state="translated">查詢: %@</target>
         <note>Displayed in the simple one-line Lock Screen widget.
 Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Query" xml:space="preserve">
         <source>Query</source>
+        <target state="translated">查詢</target>
         <note/>
       </trans-unit>
       <trans-unit id="Query Log" xml:space="preserve">
         <source>Query Log</source>
+        <target state="translated">查詢日誌</target>
         <note/>
       </trans-unit>
       <trans-unit id="Query Types" xml:space="preserve">
         <source>Query Types</source>
+        <target state="translated">查詢類型</target>
         <note/>
       </trans-unit>
       <trans-unit id="Quickly disable blocking for a short time." xml:space="preserve">
         <source>Quickly disable blocking for a short time.</source>
+        <target state="translated">Quickly 停用 封鎖ing for a short time.</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
       <trans-unit id="Quickly disable blocking with customizable buttons." xml:space="preserve">
         <source>Quickly disable blocking with customizable buttons.</source>
+        <target state="translated">Quickly 停用 封鎖ing with 自訂izable buttons.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Range End" xml:space="preserve">
         <source>Range End</source>
+        <target state="translated">Range End</target>
         <note/>
       </trans-unit>
       <trans-unit id="Range Start" xml:space="preserve">
         <source>Range Start</source>
+        <target state="translated">Range Start</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rate-limiting" xml:space="preserve">
         <source>Rate-limiting</source>
+        <target state="translated">速率-limiting</target>
         <note>Displayed on the DNS Settings screen.</note>
       </trans-unit>
       <trans-unit id="Red" xml:space="preserve">
         <source>Red</source>
+        <target state="translated">Red</target>
         <note/>
       </trans-unit>
       <trans-unit id="Refreshing" xml:space="preserve">
         <source>Refreshing</source>
+        <target state="translated">重新整理ing</target>
         <note/>
       </trans-unit>
       <trans-unit id="RegEx" xml:space="preserve">
         <source>RegEx</source>
+        <target state="translated">正規表達式</target>
         <note/>
       </trans-unit>
       <trans-unit id="RegEx entries" xml:space="preserve">
         <source>RegEx entries</source>
+        <target state="translated">正規表達式 entries</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remote for AdGuard DNS" translate="no" xml:space="preserve">
@@ -3785,71 +4285,87 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Remove" xml:space="preserve">
         <source>Remove</source>
+        <target state="translated">移除</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remove Custom Service" xml:space="preserve">
         <source>Remove Custom Service</source>
+        <target state="translated">移除 自訂 Service</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remove Instance" xml:space="preserve">
         <source>Remove Instance</source>
+        <target state="translated">移除 實例</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remove TTL" xml:space="preserve">
         <source>Remove TTL</source>
+        <target state="translated">移除 TTL</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remove limits, unlock all settings, and more..." xml:space="preserve">
         <source>Remove limits, unlock all settings, and more...</source>
+        <target state="translated">移除 limits, unlock 全部 設定, and 更多...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Reorder" xml:space="preserve">
         <source>Reorder</source>
+        <target state="translated">Reorder</target>
         <note/>
       </trans-unit>
       <trans-unit id="Reorder by dragging, remove by swiping." xml:space="preserve">
         <source>Reorder by dragging, remove by swiping.</source>
+        <target state="translated">Reorder by dragging, 移除 by swiping.</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Request" xml:space="preserve">
         <source>Request</source>
+        <target state="translated">Request</target>
         <note/>
       </trans-unit>
       <trans-unit id="Request PHR beta access" xml:space="preserve">
         <source>Request PHR beta access</source>
+        <target state="translated">Request PHR beta access</target>
         <note/>
       </trans-unit>
       <trans-unit id="Requires PHR+" xml:space="preserve">
         <source>Requires PHR+</source>
+        <target state="translated">需要 PHR+</target>
         <note/>
       </trans-unit>
       <trans-unit id="Reset" xml:space="preserve">
         <source>Reset</source>
+        <target state="translated">重置</target>
         <note/>
       </trans-unit>
       <trans-unit id="Respond only on interface" xml:space="preserve">
         <source>Respond only on interface</source>
+        <target state="translated">Respond only on interface</target>
         <note/>
       </trans-unit>
       <trans-unit id="Response" xml:space="preserve">
         <source>Response</source>
+        <target state="translated">回應</target>
         <note/>
       </trans-unit>
       <trans-unit id="Restart DNS resolver" xml:space="preserve">
         <source>Restart DNS resolver</source>
+        <target state="translated">重新啟動 DNS resolver</target>
         <note/>
       </trans-unit>
       <trans-unit id="Restore Purchase" xml:space="preserve">
         <source>Restore Purchase</source>
-        <target state="translated">恢復購買</target>
+        <target state="translated">還原購買</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Retried" xml:space="preserve">
         <source>Retried</source>
+        <target state="translated">Retried</target>
         <note/>
       </trans-unit>
       <trans-unit id="Retried | DNSSEC" xml:space="preserve">
         <source>Retried | DNSSEC</source>
+        <target state="translated">Retried | DNSSEC</target>
         <note/>
       </trans-unit>
       <trans-unit id="RocketScience IT" translate="no" xml:space="preserve">
@@ -3858,6 +4374,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Router" xml:space="preserve">
         <source>Router</source>
+        <target state="translated">Router</target>
         <note/>
       </trans-unit>
       <trans-unit id="SLAAC + RA" translate="no" xml:space="preserve">
@@ -3866,18 +4383,22 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
         <source>Save</source>
+        <target state="translated">儲存</target>
         <note/>
       </trans-unit>
       <trans-unit id="Save instance" xml:space="preserve">
         <source>Save instance</source>
+        <target state="translated">儲存 實例</target>
         <note/>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
         <source>Search</source>
+        <target state="translated">搜尋</target>
         <note/>
       </trans-unit>
       <trans-unit id="Search by IP, Hostname, or MAC" xml:space="preserve">
         <source>Search by IP, Hostname, or MAC</source>
+        <target state="translated">搜尋 by IP, Hostname, or Mac</target>
         <note/>
       </trans-unit>
       <trans-unit id="Search services" xml:space="preserve">
@@ -3887,30 +4408,37 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Seconds" xml:space="preserve">
         <source>Seconds</source>
+        <target state="translated">秒</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Select an Instance" xml:space="preserve">
         <source>Select an Instance</source>
+        <target state="translated">選擇 an 實例</target>
         <note/>
       </trans-unit>
       <trans-unit id="Select instance &amp; duration" xml:space="preserve">
         <source>Select instance &amp; duration</source>
+        <target state="translated">選擇 實例 &amp; duration</target>
         <note/>
       </trans-unit>
       <trans-unit id="Selected" xml:space="preserve">
         <source>Selected</source>
+        <target state="translated">已選擇</target>
         <note/>
       </trans-unit>
       <trans-unit id="Send Notifications" xml:space="preserve">
         <source>Send Notifications</source>
+        <target state="translated">Send 通知</target>
         <note/>
       </trans-unit>
       <trans-unit id="Service" xml:space="preserve">
         <source>Service</source>
+        <target state="translated">Service</target>
         <note/>
       </trans-unit>
       <trans-unit id="Services" xml:space="preserve">
         <source>Services</source>
+        <target state="translated">Services</target>
         <note/>
       </trans-unit>
       <trans-unit id="Services toggled ON are blocked from your network. Services toggled OFF remain accessible." xml:space="preserve">
@@ -3924,10 +4452,12 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
         <source>Settings</source>
+        <target state="translated">設定</target>
         <note/>
       </trans-unit>
       <trans-unit id="Share Pi-hole Remote" xml:space="preserve">
         <source>Share Pi-hole Remote</source>
+        <target state="translated">分享 Pi-hole Remote</target>
         <note/>
       </trans-unit>
       <trans-unit id="Shopping" xml:space="preserve">
@@ -3937,38 +4467,47 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Show" xml:space="preserve">
         <source>Show</source>
+        <target state="translated">顯示</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show 'Indefinitely'" xml:space="preserve">
         <source>Show 'Indefinitely'</source>
+        <target state="translated">顯示 'Indefinitely'</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show 'Until tomorrow'" xml:space="preserve">
         <source>Show 'Until tomorrow'</source>
+        <target state="translated">顯示 'Until tomorrow'</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show Blocklist Last Updated" xml:space="preserve">
         <source>Show Blocklist Last Updated</source>
+        <target state="translated">顯示 封鎖list Last 已更新</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show DNSSEC status" xml:space="preserve">
         <source>Show DNSSEC status</source>
+        <target state="translated">顯示 DNSSEC 狀態</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show Live Log" xml:space="preserve">
         <source>Show Live Log</source>
+        <target state="translated">顯示 Live 日誌</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show all icons" xml:space="preserve">
         <source>Show all icons</source>
+        <target state="translated">顯示 全部 icons</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show app icons" xml:space="preserve">
         <source>Show app icons</source>
+        <target state="translated">顯示 app icons</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show chart" xml:space="preserve">
         <source>Show chart</source>
+        <target state="translated">顯示 chart</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show favorites at the top" xml:space="preserve">
@@ -3978,46 +4517,57 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Show full feature comparison" xml:space="preserve">
         <source>Show full feature comparison</source>
+        <target state="translated">顯示 full feature comparison</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show hostname" xml:space="preserve">
         <source>Show hostname</source>
+        <target state="translated">顯示 hostname</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show legend" xml:space="preserve">
         <source>Show legend</source>
+        <target state="translated">顯示 legend</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show metrics" xml:space="preserve">
         <source>Show metrics</source>
+        <target state="translated">顯示 metrics</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show more..." xml:space="preserve">
         <source>Show more...</source>
+        <target state="translated">顯示 更多...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show on Home-tab" xml:space="preserve">
         <source>Show on Home-tab</source>
+        <target state="translated">顯示 on 首頁-tab</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show response time" xml:space="preserve">
         <source>Show response time</source>
+        <target state="translated">顯示 回應 time</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show the %@ %@ card" xml:space="preserve">
         <source>Show the %1$@ %2$@ card</source>
+        <target state="translated">顯示 the %1$@ %2$@ card</target>
         <note>Accessibility hint for show/hide statistics cards.</note>
       </trans-unit>
       <trans-unit id="Show the %@ card" xml:space="preserve">
         <source>Show the %@ card</source>
+        <target state="translated">顯示 the %@ card</target>
         <note>Accessibility hint for show/hide statistics cards.</note>
       </trans-unit>
       <trans-unit id="Show version" xml:space="preserve">
         <source>Show version</source>
+        <target state="translated">顯示 版本</target>
         <note/>
       </trans-unit>
       <trans-unit id="Showing queries after %@." xml:space="preserve">
         <source>Showing queries after %@.</source>
+        <target state="translated">顯示ing 查詢 after %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Social networks" xml:space="preserve">
@@ -4032,78 +4582,97 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Something went wrong" xml:space="preserve">
         <source>Something went wrong</source>
+        <target state="translated">出現問題</target>
         <note/>
       </trans-unit>
       <trans-unit id="Something went wrong." xml:space="preserve">
         <source>Something went wrong.</source>
+        <target state="translated">Something went wrong.</target>
         <note>Generic error text.</note>
       </trans-unit>
       <trans-unit id="Something went wrong: %@" xml:space="preserve">
         <source>Something went wrong: %@</source>
+        <target state="translated">Something went wrong: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sort" xml:space="preserve">
         <source>Sort</source>
+        <target state="translated">排序</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sorted by last query" xml:space="preserve">
         <source>Sorted by last query</source>
+        <target state="translated">Sorted by last 查詢</target>
         <note/>
       </trans-unit>
       <trans-unit id="Source" xml:space="preserve">
         <source>Source</source>
+        <target state="translated">Source</target>
         <note/>
       </trans-unit>
       <trans-unit id="Source Instance" xml:space="preserve">
         <source>Source Instance</source>
+        <target state="translated">Source 實例</target>
         <note/>
       </trans-unit>
       <trans-unit id="Special Domain" xml:space="preserve">
         <source>Special Domain</source>
+        <target state="translated">Special 網域</target>
         <note/>
       </trans-unit>
       <trans-unit id="Specify which group(s) to control." xml:space="preserve">
         <source>Specify which group(s) to control.</source>
+        <target state="translated">Specify which 群組(s) to control.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Specify which instance(s) to check." xml:space="preserve">
         <source>Specify which instance(s) to check.</source>
+        <target state="translated">Specify which 實例(s) to check.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Specify which instance(s) to control." xml:space="preserve">
         <source>Specify which instance(s) to control.</source>
+        <target state="translated">Specify which 實例(s) to control.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Specify which service(s) to toggle." xml:space="preserve">
         <source>Specify which service(s) to toggle.</source>
+        <target state="translated">Specify which service(s) to toggle.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Speed" xml:space="preserve">
         <source>Speed</source>
+        <target state="translated">Speed</target>
         <note/>
       </trans-unit>
       <trans-unit id="Statistics" xml:space="preserve">
         <source>Statistics</source>
+        <target state="translated">統計</target>
         <note/>
       </trans-unit>
       <trans-unit id="Statistics &amp; Disable" xml:space="preserve">
         <source>Statistics &amp; Disable</source>
+        <target state="translated">統計 &amp; 停用</target>
         <note/>
       </trans-unit>
       <trans-unit id="Statistics &amp; Disable Widget" xml:space="preserve">
         <source>Statistics &amp; Disable Widget</source>
+        <target state="translated">統計 &amp; 停用 小工具</target>
         <note/>
       </trans-unit>
       <trans-unit id="Statistics with customizable buttons to quickly disable blocking." xml:space="preserve">
         <source>Statistics with customizable buttons to quickly disable blocking.</source>
+        <target state="translated">統計 with 自訂izable buttons to quickly 停用 封鎖ing.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Status" xml:space="preserve">
         <source>Status</source>
+        <target state="translated">狀態</target>
         <note/>
       </trans-unit>
       <trans-unit id="Stop Live Activity" xml:space="preserve">
         <source>Stop Live Activity</source>
+        <target state="translated">Stop Live Activity</target>
         <note/>
       </trans-unit>
       <trans-unit id="Streaming services" xml:space="preserve">
@@ -4118,58 +4687,72 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Successfully disabled blocking for %@." xml:space="preserve">
         <source>Successfully disabled blocking for %@.</source>
+        <target state="translated">成功fully 已停用 封鎖ing for %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Successfully enabled blocking for %@." xml:space="preserve">
         <source>Successfully enabled blocking for %@.</source>
+        <target state="translated">成功fully 已啟用 封鎖ing for %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Suggestions" xml:space="preserve">
         <source>Suggestions</source>
+        <target state="translated">Suggestions</target>
         <note/>
       </trans-unit>
       <trans-unit id="Support Development" xml:space="preserve">
         <source>Support Development</source>
+        <target state="translated">支援 Development</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sync Instances" xml:space="preserve">
         <source>Sync Instances</source>
+        <target state="translated">Sync 實例</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sync adlists, domains, and local DNS records between instances." xml:space="preserve">
         <source>Sync adlists, domains, and local DNS records between instances.</source>
+        <target state="translated">Sync 廣告清單, 網域, and local DNS records between 實例.</target>
         <note/>
       </trans-unit>
       <trans-unit id="System" xml:space="preserve">
         <source>System</source>
+        <target state="translated">系統</target>
         <note>Sysname of the device running the instance, used on the instance detail screen.</note>
       </trans-unit>
       <trans-unit id="System Settings" xml:space="preserve">
         <source>System Settings</source>
+        <target state="translated">系統 設定</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOTP" xml:space="preserve">
         <source>TOTP</source>
+        <target state="translated">TOTP</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOTP token (like '123456')" xml:space="preserve">
         <source>TOTP token (like '123456')</source>
+        <target state="translated">TOTP 權杖 (like '123456')</target>
         <note/>
       </trans-unit>
       <trans-unit id="TTL" xml:space="preserve">
         <source>TTL</source>
+        <target state="translated">TTL</target>
         <note/>
       </trans-unit>
       <trans-unit id="TTL (in seconds)" xml:space="preserve">
         <source>TTL (in seconds)</source>
+        <target state="translated">TTL (in 秒)</target>
         <note/>
       </trans-unit>
       <trans-unit id="TTL (optional)" xml:space="preserve">
         <source>TTL (optional)</source>
+        <target state="translated">TTL (選填)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Take Pi-hole Remote to the next level &amp; support future developement." xml:space="preserve">
         <source>Take Pi-hole Remote to the next level &amp; support future developement.</source>
+        <target state="translated">Take Pi-hole Remote to the next level &amp; 支援 future developement.</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
       <trans-unit id="Take Pi-hole Remote to the next level by removing limits and unlocking full Pi-hole management, interactive widgets, multiple instances support, and more." xml:space="preserve">
@@ -4177,50 +4760,58 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">通過移除限制並解鎖完整的 Pi-hole 管理、互動式小工具、多實例支援等功能，將 Pi-hole Remote 提升到新的層次。</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
-      <trans-unit id="Tap for more info.|==|device.mac" xml:space="preserve">
-        <source>Click for more info.</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Tap for more info.|==|device.other" xml:space="preserve">
+      <trans-unit id="Tap for more info." xml:space="preserve">
         <source>Tap for more info.</source>
+        <target state="translated">Tap for 更多 資訊.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Target" xml:space="preserve">
         <source>Target</source>
+        <target state="translated">Target</target>
         <note/>
       </trans-unit>
       <trans-unit id="Target Domain" xml:space="preserve">
         <source>Target Domain</source>
+        <target state="translated">Target 網域</target>
         <note/>
       </trans-unit>
       <trans-unit id="Target Group" xml:space="preserve">
         <source>Target Group</source>
+        <target state="translated">Target 群組</target>
         <note/>
       </trans-unit>
       <trans-unit id="Target Groups" xml:space="preserve">
         <source>Target Groups</source>
+        <target state="translated">Target 群組</target>
         <note/>
       </trans-unit>
       <trans-unit id="Teal" xml:space="preserve">
         <source>Teal</source>
+        <target state="translated">Teal</target>
         <note/>
       </trans-unit>
       <trans-unit id="Tells Pi-hole to never forward A or AAAA queries for plain names, without dots or domain parts, to upstream nameservers. If the name is not known from /etc/hosts or DHCP then a &quot;not found&quot; answer is returned.&#10;&#10;If Conditional Forwarding is enabled, unticking this box may cause a partial DNS loop under certain circumstances (e.g. if a client would send TLD DNSSEC queries)." xml:space="preserve">
         <source>Tells Pi-hole to never forward A or AAAA queries for plain names, without dots or domain parts, to upstream nameservers. If the name is not known from /etc/hosts or DHCP then a "not found" answer is returned.
 
 If Conditional Forwarding is enabled, unticking this box may cause a partial DNS loop under certain circumstances (e.g. if a client would send TLD DNSSEC queries).</source>
+        <target state="translated">Tells Pi-hole to never forward A or AAAA 查詢 for plain names, without dots or 網域 parts, to 上游 name伺服器. If the name is 否t k否wn from /etc/hosts or DHCP then a "否t found" answer is returned.
+
+If Conditional Forwarding is 已啟用, unticking this box may cause a partial DNS loop under certain circumstances (e.g. if a 客戶端 would send TLD DNSSEC 查詢).</target>
         <note/>
       </trans-unit>
       <trans-unit id="Temperature" xml:space="preserve">
         <source>Temperature</source>
+        <target state="translated">溫度</target>
         <note>Used on Preferences &gt; Home.</note>
       </trans-unit>
       <trans-unit id="Temperature unit" xml:space="preserve">
         <source>Temperature unit</source>
+        <target state="translated">溫度 unit</target>
         <note/>
       </trans-unit>
       <trans-unit id="Temporarily disabled blocking? Get notified when it's re-enabled. Use notification actions to quickly extend the blocking period." xml:space="preserve">
         <source>Temporarily disabled blocking? Get notified when it's re-enabled. Use notification actions to quickly extend the blocking period.</source>
+        <target state="translated">Temporarily 已停用 封鎖ing? Get 否tified when it's re-已啟用. Use 通知 actions to quickly extend the 封鎖ing period.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Terms of Use" xml:space="preserve">
@@ -4230,6 +4821,7 @@ If Conditional Forwarding is enabled, unticking this box may cause a partial DNS
       </trans-unit>
       <trans-unit id="Test Connection" xml:space="preserve">
         <source>Test Connection</source>
+        <target state="translated">測試連線</target>
         <note/>
       </trans-unit>
       <trans-unit id="TestFlight Beta Access" xml:space="preserve">
@@ -4239,6 +4831,7 @@ If Conditional Forwarding is enabled, unticking this box may cause a partial DNS
       </trans-unit>
       <trans-unit id="TestFlight Debug" xml:space="preserve">
         <source>TestFlight Debug</source>
+        <target state="translated">測試F淺色 Debug</target>
         <note/>
       </trans-unit>
       <trans-unit id="TestFlight access" xml:space="preserve">
@@ -4248,6 +4841,7 @@ If Conditional Forwarding is enabled, unticking this box may cause a partial DNS
       </trans-unit>
       <trans-unit id="Thank you for downloading the app! ❤️" xml:space="preserve">
         <source>Thank you for downloading the app! ❤️</source>
+        <target state="translated">Thank you for down載入中 the app! ❤️</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
       <trans-unit id="Thank you so much for downloading/purchasing the app before the large v6 update.&#10;&#10;Building v6 was a massive undertaking (I'm still working on bringing back missing features from v5 that didn't make this first release) and with the switch to IAPs I didn't want existing users to have to pay again, therefore you got PHR+ for free.&#10;&#10;In return, I would really appreciate it if you could leave a review in the App Store or leave a small donation to support my work 😊 If you can't, that's also okay! Enjoy the app. - Joost" xml:space="preserve">
@@ -4265,6 +4859,7 @@ In return, I would really appreciate it if you could leave a review in the App S
       </trans-unit>
       <trans-unit id="Thank you!" xml:space="preserve">
         <source>Thank you!</source>
+        <target state="translated">Thank you!</target>
         <note>Used in the Settings-tab, displayed when someone has PHR+ active.</note>
       </trans-unit>
       <trans-unit id="Thank you! ❤️" xml:space="preserve">
@@ -4274,146 +4869,182 @@ In return, I would really appreciate it if you could leave a review in the App S
       </trans-unit>
       <trans-unit id="The DHCPv4 rapid commit option allows the Pi-hole DHCP server to assign an IP address to a client right away. This can notably speed up the address assignment process and you will notice, e.g., faster WiFi joins in your network. This option should only be enabled if the Pi-hole DHCP server is the only DHCP server in your network." xml:space="preserve">
         <source>The DHCPv4 rapid commit option allows the Pi-hole DHCP server to assign an IP address to a client right away. This can notably speed up the address assignment process and you will notice, e.g., faster WiFi joins in your network. This option should only be enabled if the Pi-hole DHCP server is the only DHCP server in your network.</source>
+        <target state="translated">The DHCPv4 rAPId commit option 允許s the Pi-hole DHCP 伺服器 to assign an IP 新增ress to a 客戶端 right away. This can 否tably speed up the 新增ress assignment process and you will 否tice, e.g., faster WiFi joins in your 網路. This option should only be 已啟用 if the Pi-hole DHCP 伺服器 is the only DHCP 伺服器 in your 網路.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The DNS domains for your Pi-hole. If no domain is specified and you are using Pi-hole's DHCP server, then any hostnames with a domain part (i.e., with a period) will be disallowed. If a domain is specified, then hostnames with a domain parts matching the domain here are allowed. In addition, when a suffix is set then hostnames without a domain part have the suffix added as an optional domain part." xml:space="preserve">
         <source>The DNS domains for your Pi-hole. If no domain is specified and you are using Pi-hole's DHCP server, then any hostnames with a domain part (i.e., with a period) will be disallowed. If a domain is specified, then hostnames with a domain parts matching the domain here are allowed. In addition, when a suffix is set then hostnames without a domain part have the suffix added as an optional domain part.</source>
+        <target state="translated">The DNS 網域 for your Pi-hole. If 否 網域 is specified and you are using Pi-hole's DHCP 伺服器, then any hostnames with a 網域 part (i.e., with a period) will be dis已允許. If a 網域 is specified, then hostnames with a 網域 parts matching the 網域 here are 已允許. In 新增ition, when a suffix is set then hostnames without a 網域 part have the suffix 新增ed as an 選填 網域 part.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The comment will be added to all entries." xml:space="preserve">
         <source>The comment will be added to all entries.</source>
+        <target state="translated">The comment will be 新增ed to 全部 entries.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The expected format is `IP#port`, where the `port` is optional (defaults to 53)." xml:space="preserve">
         <source>The expected format is `IP#port`, where the `port` is optional (defaults to 53).</source>
+        <target state="translated">The expected format is `IP#連接埠`, where the `連接埠` is 選填 (預設s to 53).</target>
         <note/>
       </trans-unit>
       <trans-unit id="The lease time can be in seconds, minutes (e.g., &quot;45m&quot;), hours (e.g., &quot;1h&quot;), days (like &quot;2d&quot;), or even weeks (&quot;1w&quot;). If no lease time is specified (empty), dnsmasq's default lease time is one hour for IPv4 and one day for IPv6. You may also use &quot;infinite&quot; as string but be aware of the drawbacks: assigned addresses are will only be made available again after the lease time has passed or when leases are manually deleted below." xml:space="preserve">
         <source>The lease time can be in seconds, minutes (e.g., "45m"), hours (e.g., "1h"), days (like "2d"), or even weeks ("1w"). If no lease time is specified (empty), dnsmasq's default lease time is one hour for IPv4 and one day for IPv6. You may also use "infinite" as string but be aware of the drawbacks: assigned addresses are will only be made available again after the lease time has passed or when leases are manually deleted below.</source>
+        <target state="translated">The lease time can be in 秒, 分鐘 (e.g., "45m"), 小時 (e.g., "1h"), 天 (like "2d"), or even 週s ("1w"). If 否 lease time is specified (empty), DNSmasq's 預設 lease time is one 小時 for IPv4 and one 天 for IPv6. You may also use "infinite" as string but be aware of the drawbacks: assigned 新增resses are will only be made available again after the lease time has passed or when leases are 手動ly 刪除d below.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The original enddate when blocking would be enabled again." xml:space="preserve">
         <source>The original enddate when blocking would be enabled again.</source>
+        <target state="translated">The original enddate when 封鎖ing would be 已啟用 again.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The red options are dangerous on devices directly connected to the Internet such as cloud instances and are only safe if your Pi-hole is properly firewalled. " xml:space="preserve">
         <source>The red options are dangerous on devices directly connected to the Internet such as cloud instances and are only safe if your Pi-hole is properly firewalled. </source>
+        <target state="translated">The red options are dangerous on devices directly 已連線 to the Internet such as cloud 實例 and are only safe if your Pi-hole is properly firew全部ed. </target>
         <note/>
       </trans-unit>
       <trans-unit id="The red options are dangerous on devices directly connected to the Internet such as cloud instances and are only safe if your Pi-hole is properly firewalled. In a typical at-home setup where your Pi-hole is located within your local network (and you have not forwarded port 53 in your router!) they are safe to use." xml:space="preserve">
         <source>The red options are dangerous on devices directly connected to the Internet such as cloud instances and are only safe if your Pi-hole is properly firewalled. In a typical at-home setup where your Pi-hole is located within your local network (and you have not forwarded port 53 in your router!) they are safe to use.</source>
+        <target state="translated">The red options are dangerous on devices directly 已連線 to the Internet such as cloud 實例 and are only safe if your Pi-hole is properly firew全部ed. In a typical at-首頁 setup where your Pi-hole is located within your local 網路 (and you have 否t 已轉發 連接埠 53 in your router!) they are safe to use.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This action is final and cannot be undone." xml:space="preserve">
         <source>This action is final and cannot be undone.</source>
+        <target state="translated">This action is final and can否t be un完成.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This device is probably not using Pi-hole, because no queries were found." xml:space="preserve">
         <source>This device is probably not using Pi-hole, because no queries were found.</source>
+        <target state="translated">This device is probably 否t using Pi-hole, because 否 查詢 were found.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Time Sensitive notifications have the option to break through focus modes." xml:space="preserve">
         <source>Time Sensitive notifications have the option to break through focus modes.</source>
+        <target state="translated">Time Sensitive 通知 have the option to break through focus modes.</target>
         <note>Used on the Notifications-settings screen.</note>
       </trans-unit>
       <trans-unit id="Time remaining" xml:space="preserve">
         <source>Time remaining</source>
+        <target state="translated">Time remaining</target>
         <note/>
       </trans-unit>
       <trans-unit id="Tint" xml:space="preserve">
         <source>Tint</source>
+        <target state="translated">Tint</target>
         <note/>
       </trans-unit>
       <trans-unit id="Tip Jar" xml:space="preserve">
         <source>Tip Jar</source>
+        <target state="translated">提示 Jar</target>
         <note/>
       </trans-unit>
       <trans-unit id="To re-sync after purging, edit &amp; save an instance." xml:space="preserve">
         <source>To re-sync after purging, edit &amp; save an instance.</source>
+        <target state="translated">To re-sync after purging, 編輯 &amp; 儲存 an 實例.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle Blocked Services" xml:space="preserve">
         <source>Toggle Blocked Services</source>
+        <target state="translated">Toggle 已封鎖 Services</target>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle Blocking" xml:space="preserve">
         <source>Toggle Blocking</source>
+        <target state="translated">Toggle 封鎖ing</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
       <trans-unit id="Toggle Blocking Status" xml:space="preserve">
         <source>Toggle Blocking Status</source>
+        <target state="translated">Toggle 封鎖ing 狀態</target>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle Status" xml:space="preserve">
         <source>Toggle Status</source>
+        <target state="translated">Toggle 狀態</target>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle between enabled &amp; disabled" xml:space="preserve">
         <source>Toggle between enabled &amp; disabled</source>
+        <target state="translated">Toggle between 已啟用 &amp; 已停用</target>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle blocking status for one or all instances." xml:space="preserve">
         <source>Toggle blocking status for one or all instances.</source>
+        <target state="translated">Toggle 封鎖ing 狀態 for one or 全部 實例.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle only between enabled &amp; disabled. Hold the button for more options." xml:space="preserve">
         <source>Toggle only between enabled &amp; disabled. Hold the button for more options.</source>
+        <target state="translated">Toggle only between 已啟用 &amp; 已停用. Hold the button for 更多 options.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle visibility" xml:space="preserve">
         <source>Toggle visibility</source>
+        <target state="translated">Toggle visibility</target>
         <note/>
       </trans-unit>
       <trans-unit id="Tools" xml:space="preserve">
         <source>Tools</source>
+        <target state="translated">Tools</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Client count" xml:space="preserve">
         <source>Top Client count</source>
+        <target state="translated">Top 客戶端 計數</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Clients" xml:space="preserve">
         <source>Top Clients</source>
+        <target state="translated">熱門客戶端</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Domains" xml:space="preserve">
         <source>Top Domains</source>
+        <target state="translated">熱門網域</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Domains count" xml:space="preserve">
         <source>Top Domains count</source>
+        <target state="translated">Top 網域 計數</target>
         <note/>
       </trans-unit>
       <trans-unit id="Total" xml:space="preserve">
         <source>Total</source>
+        <target state="translated">總計</target>
         <note/>
       </trans-unit>
       <trans-unit id="Total: %@" xml:space="preserve">
         <source>Total: %@</source>
+        <target state="translated">總計: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Translations" xml:space="preserve">
         <source>Translations</source>
+        <target state="translated">Translations</target>
         <note>Displayed on the support screen.</note>
       </trans-unit>
       <trans-unit id="Try for free!" xml:space="preserve">
         <source>Try for free!</source>
+        <target state="translated">Try for free!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Type" xml:space="preserve">
         <source>Type</source>
+        <target state="translated">類型</target>
         <note/>
       </trans-unit>
       <trans-unit id="Type of list" xml:space="preserve">
         <source>Type of list</source>
+        <target state="translated">Type of list</target>
         <note/>
       </trans-unit>
       <trans-unit id="UI" xml:space="preserve">
         <source>UI</source>
+        <target state="translated">UI</target>
         <note/>
       </trans-unit>
       <trans-unit id="URL" xml:space="preserve">
         <source>URL</source>
+        <target state="translated">URL</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unblock All" xml:space="preserve">
@@ -4423,58 +5054,72 @@ In return, I would really appreciate it if you could leave a review in the App S
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>Unknown</source>
+        <target state="translated">未知</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unknown error." xml:space="preserve">
         <source>Unknown error.</source>
+        <target state="translated">Unk否wn 錯誤.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Until tomorrow" xml:space="preserve">
         <source>Until tomorrow</source>
+        <target state="translated">Until tomorrow</target>
         <note/>
       </trans-unit>
       <trans-unit id="Update Gravity" xml:space="preserve">
         <source>Update Gravity</source>
+        <target state="translated">更新 Gravity</target>
         <note/>
       </trans-unit>
       <trans-unit id="Update available for Core: %@. Select for changelog." xml:space="preserve">
         <source>Update available for Core: %@. Select for changelog.</source>
+        <target state="translated">更新 available for Core: %@. 選擇 for change日誌.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Update available for FTL: %@. Select for changelog." xml:space="preserve">
         <source>Update available for FTL: %@. Select for changelog.</source>
+        <target state="translated">更新 available for FTL: %@. 選擇 for change日誌.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Update available for Web: %@. Select for changelog." xml:space="preserve">
         <source>Update available for Web: %@. Select for changelog.</source>
+        <target state="translated">更新 available for Web: %@. 選擇 for change日誌.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Update available: %@. Select for changelog." xml:space="preserve">
         <source>Update available: %@. Select for changelog.</source>
+        <target state="translated">更新 available: %@. 選擇 for change日誌.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Update gravity" xml:space="preserve">
         <source>Update gravity</source>
+        <target state="translated">更新 Gravity</target>
         <note/>
       </trans-unit>
       <trans-unit id="Upstream" xml:space="preserve">
         <source>Upstream</source>
+        <target state="translated">上游</target>
         <note/>
       </trans-unit>
       <trans-unit id="Upstream DNS Servers" xml:space="preserve">
         <source>Upstream DNS Servers</source>
+        <target state="translated">上游 DNS 伺服器</target>
         <note/>
       </trans-unit>
       <trans-unit id="Upstream Servers" xml:space="preserve">
         <source>Upstream Servers</source>
+        <target state="translated">上游伺服器</target>
         <note/>
       </trans-unit>
       <trans-unit id="Use DNSSEC" xml:space="preserve">
         <source>Use DNSSEC</source>
+        <target state="translated">Use DNSSEC</target>
         <note/>
       </trans-unit>
       <trans-unit id="Use NextDNS? Have I got an app for you." xml:space="preserve">
         <source>Use NextDNS? Have I got an app for you.</source>
+        <target state="translated">Use NextDNS? Have I got an app for you.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Users who purchased the app while it was paid upfront instead of free with in-app purchases, can get PHR+ Lifetime for free as a thank you. Please press the button below to let the app check if you're entitled to it. This will show a native iOS alert to restore the purchase." xml:space="preserve">
@@ -4484,34 +5129,42 @@ In return, I would really appreciate it if you could leave a review in the App S
       </trans-unit>
       <trans-unit id="Using SSL" xml:space="preserve">
         <source>Using SSL</source>
+        <target state="translated">Using SSL</target>
         <note/>
       </trans-unit>
       <trans-unit id="Utility Radar" xml:space="preserve">
         <source>Utility Radar</source>
+        <target state="translated">Utility Radar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Validate DNS replies and cache DNSSEC data. When forwarding DNS queries, Pi-hole requests the DNSSEC records needed to validate the replies. If a domain fails validation or the upstream does not support DNSSEC, this setting can cause issues resolving domains. Use an upstream DNS server which supports DNSSEC when activating DNSSEC. Note that the size of your log might increase significantly when enabling DNSSEC." xml:space="preserve">
         <source>Validate DNS replies and cache DNSSEC data. When forwarding DNS queries, Pi-hole requests the DNSSEC records needed to validate the replies. If a domain fails validation or the upstream does not support DNSSEC, this setting can cause issues resolving domains. Use an upstream DNS server which supports DNSSEC when activating DNSSEC. Note that the size of your log might increase significantly when enabling DNSSEC.</source>
+        <target state="translated">有效ate DNS replies and 快取 DNSSEC data. When forwarding DNS 查詢, Pi-hole 請求 the DNSSEC records needed to 有效ate the replies. If a 網域 fails 有效ation or the 上游 does 否t 支援 DNSSEC, this setting can cause issues resolving 網域. Use an 上游 DNS 伺服器 which 支援s DNSSEC when activating DNSSEC. 備註 that the size of your 日誌 might increase significantly when enabling DNSSEC.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Vendor" xml:space="preserve">
         <source>Vendor</source>
+        <target state="translated">Vendor</target>
         <note/>
       </trans-unit>
       <trans-unit id="Version" xml:space="preserve">
         <source>Version</source>
+        <target state="translated">版本</target>
         <note/>
       </trans-unit>
       <trans-unit id="Versions" xml:space="preserve">
         <source>Versions</source>
+        <target state="translated">版本s</target>
         <note/>
       </trans-unit>
       <trans-unit id="Visible on Home-tab" xml:space="preserve">
         <source>Visible on Home-tab</source>
+        <target state="translated">Visible on 首頁-tab</target>
         <note/>
       </trans-unit>
       <trans-unit id="Watch App Not Installed" xml:space="preserve">
         <source>Watch App Not Installed</source>
+        <target state="translated">手錶 App 否t Inst全部ed</target>
         <note>Displayed on the support screen on the 'Force Watch Sync' button.</note>
       </trans-unit>
       <trans-unit id="Web" translate="no" xml:space="preserve">
@@ -4520,54 +5173,70 @@ In return, I would really appreciate it if you could leave a review in the App S
       </trans-unit>
       <trans-unit id="Web version: %@." xml:space="preserve">
         <source>Web version: %@.</source>
+        <target state="translated">Web 版本: %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Welcome!" xml:space="preserve">
         <source>Welcome!</source>
+        <target state="translated">Welcome!</target>
         <note>Onboarding subtitle.</note>
       </trans-unit>
       <trans-unit id="What's New" xml:space="preserve">
         <source>What's New</source>
+        <target state="translated">What's New</target>
         <note/>
       </trans-unit>
       <trans-unit id="When a client makes too many queries in too short time, it gets rate-limited. Rate-limited queries are answered with a REFUSED reply and not further processed by FTL and prevent Pi-holes getting overwhelmed by rogue clients. It is important to note that rate-limiting is happening on a per-client basis. Other clients can continue to use FTL while rate-limited clients are short-circuited at the same time.&#10;&#10;Rate-limiting may be disabled altogether by setting both values to zero." xml:space="preserve">
         <source>When a client makes too many queries in too short time, it gets rate-limited. Rate-limited queries are answered with a REFUSED reply and not further processed by FTL and prevent Pi-holes getting overwhelmed by rogue clients. It is important to note that rate-limiting is happening on a per-client basis. Other clients can continue to use FTL while rate-limited clients are short-circuited at the same time.
 
 Rate-limiting may be disabled altogether by setting both values to zero.</source>
+        <target state="translated">When a 客戶端 makes too many 查詢 in too short time, it gets 速率-limited. 速率-limited 查詢 are answered with a REFUSED reply and 否t further processed by FTL and prevent Pi-holes getting overwhelmed by rogue 客戶端. It is 匯入ant to 備註 that 速率-limiting is happening on a per-客戶端 basis. Other 客戶端 can continue to use FTL while 速率-limited 客戶端 are short-circuited at the same time.
+
+速率-limiting may be 已停用 altogether by setting both values to zero.</target>
         <note>Displayed on the DNS Settings screen.</note>
       </trans-unit>
       <trans-unit id="When you use HTTPS you must make sure to install the certificate to your device first. If you don't do this, the app might not be able to establish a secure connection to your Pi-hole.&#10;&#10;The default location of your certificate is on your device: /etc/pihole/tls.pem. Mail the file to yourself and open it on your device to install it." xml:space="preserve">
         <source>When you use HTTPS you must make sure to install the certificate to your device first. If you don't do this, the app might not be able to establish a secure connection to your Pi-hole.
 
 The default location of your certificate is on your device: /etc/pihole/tls.pem. Mail the file to yourself and open it on your device to install it.</source>
+        <target state="translated">When you use HTTPS you must make sure to inst全部 the certificate to your device first. If you don't do this, the app might 否t be able to establish a secure connection to your Pi-hole.
+
+The 預設 location of your certificate is on your device: /etc/pihole/tls.pem. Mail the file to yourself and 開啟 it on your device to inst全部 it.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Widgets" xml:space="preserve">
         <source>Widgets</source>
+        <target state="translated">小工具</target>
         <note/>
       </trans-unit>
       <trans-unit id="Widgets &amp; Live Activity" xml:space="preserve">
         <source>Widgets &amp; Live Activity</source>
+        <target state="translated">小工具 &amp; Live Activity</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
       <trans-unit id="Yearly PHR %@" xml:space="preserve">
         <source>Yearly PHR %@</source>
+        <target state="translated">年ly PHR %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Yellow" xml:space="preserve">
         <source>Yellow</source>
+        <target state="translated">Yellow</target>
         <note/>
       </trans-unit>
       <trans-unit id="Yes" xml:space="preserve">
         <source>Yes</source>
+        <target state="translated">是</target>
         <note/>
       </trans-unit>
       <trans-unit id="You can configure an application password in the Pi-hole Web Interface. Be aware that you can have only *one* application password at a time." xml:space="preserve">
         <source>You can configure an application password in the Pi-hole Web Interface. Be aware that you can have only *one* application password at a time.</source>
+        <target state="translated">You can 設定 an application 密碼 in the Pi-hole Web Interface. Be aware that you can have only *one* application 密碼 at a time.</target>
         <note/>
       </trans-unit>
       <trans-unit id="You don't have multiple instances." xml:space="preserve">
         <source>You don't have multiple instances.</source>
+        <target state="translated">You don't have mul提示le 實例.</target>
         <note/>
       </trans-unit>
       <trans-unit id="You have purchased PHR %@" xml:space="preserve">
@@ -4577,6 +5246,7 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
       </trans-unit>
       <trans-unit id="You've reached the maximum of 6 presets." xml:space="preserve">
         <source>You've reached the maximum of 6 presets.</source>
+        <target state="translated">You've reached the 最大 of 6 p重置s.</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Your Pi-hole has no diagnosis messages." xml:space="preserve">
@@ -4586,6 +5256,7 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
       </trans-unit>
       <trans-unit id="`/api` by default" xml:space="preserve">
         <source>`/api` by default</source>
+        <target state="translated">`/API` by 預設</target>
         <note/>
       </trans-unit>
       <trans-unit id="appintent_disableblocking_description" xml:space="preserve">
@@ -4624,6 +5295,7 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
       </trans-unit>
       <trans-unit id="automatic" xml:space="preserve">
         <source>automatic</source>
+        <target state="translated">自動</target>
         <note/>
       </trans-unit>
       <trans-unit id="blocked_services_block_service" xml:space="preserve">
@@ -4713,10 +5385,12 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
       </trans-unit>
       <trans-unit id="customize app tint." xml:space="preserve">
         <source>customize app tint.</source>
+        <target state="translated">自訂ize app tint.</target>
         <note/>
       </trans-unit>
       <trans-unit id="customize the app icon." xml:space="preserve">
         <source>customize the app icon.</source>
+        <target state="translated">自訂ize the app icon.</target>
         <note/>
       </trans-unit>
       <trans-unit id="design_colorscheme" xml:space="preserve">
@@ -4806,14 +5480,17 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
       </trans-unit>
       <trans-unit id="enable more than 1 Blocked Service." xml:space="preserve">
         <source>enable more than 1 Blocked Service.</source>
+        <target state="translated">啟用 更多 than 1 已封鎖 Service.</target>
         <note/>
       </trans-unit>
       <trans-unit id="example.com" xml:space="preserve">
         <source>example.com</source>
+        <target state="translated">example.com</target>
         <note/>
       </trans-unit>
       <trans-unit id="fast address assignment" xml:space="preserve">
         <source>fast address assignment</source>
+        <target state="translated">fast 新增ress assignment</target>
         <note/>
       </trans-unit>
       <trans-unit id="home_disable" xml:space="preserve">
@@ -4858,6 +5535,7 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
       </trans-unit>
       <trans-unit id="iCloud" xml:space="preserve">
         <source>iCloud</source>
+        <target state="translated">iCloud</target>
         <note>Displayed on the support screen.</note>
       </trans-unit>
       <trans-unit id="indefinitely" xml:space="preserve">
@@ -4872,10 +5550,12 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
       </trans-unit>
       <trans-unit id="key" xml:space="preserve">
         <source>key</source>
+        <target state="translated">key</target>
         <note/>
       </trans-unit>
       <trans-unit id="keyNotFound" xml:space="preserve">
         <source>keyNotFound</source>
+        <target state="translated">key否tFound</target>
         <note>ParsingError</note>
       </trans-unit>
       <trans-unit id="lan" translate="no" xml:space="preserve">
@@ -4889,18 +5569,22 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
       </trans-unit>
       <trans-unit id="manage Clients &amp; Groups." xml:space="preserve">
         <source>manage Clients &amp; Groups.</source>
+        <target state="translated">manage 客戶端 &amp; 群組.</target>
         <note/>
       </trans-unit>
       <trans-unit id="manage DHCP settings." xml:space="preserve">
         <source>manage DHCP settings.</source>
+        <target state="translated">manage DHCP 設定.</target>
         <note/>
       </trans-unit>
       <trans-unit id="manage DNS settings." xml:space="preserve">
         <source>manage DNS settings.</source>
+        <target state="translated">manage DNS 設定.</target>
         <note/>
       </trans-unit>
       <trans-unit id="manage Domains &amp; Adlists." xml:space="preserve">
         <source>manage Domains &amp; Adlists.</source>
+        <target state="translated">manage 網域 &amp; 廣告清單.</target>
         <note/>
       </trans-unit>
       <trans-unit id="one person only" xml:space="preserve">
@@ -4910,18 +5594,22 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
       </trans-unit>
       <trans-unit id="original_enddate" xml:space="preserve">
         <source>original_enddate</source>
+        <target state="translated">original_enddate</target>
         <note/>
       </trans-unit>
       <trans-unit id="out of %@" xml:space="preserve">
         <source>out of %@</source>
+        <target state="translated">out of %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="out of %@ total" xml:space="preserve">
         <source>out of %@ total</source>
+        <target state="translated">out of %@ 總計</target>
         <note/>
       </trans-unit>
       <trans-unit id="pi.hole" xml:space="preserve">
         <source>pi.hole</source>
+        <target state="translated">pi.hole</target>
         <note>Placeholder for the hostname textfield on the instance settings screen.</note>
       </trans-unit>
       <trans-unit id="pihole -up" translate="no" xml:space="preserve">
@@ -5098,10 +5786,12 @@ Joost</target>
       </trans-unit>
       <trans-unit id="updated %@" xml:space="preserve">
         <source>updated %@</source>
+        <target state="translated">已更新 %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="value" xml:space="preserve">
         <source>value</source>
+        <target state="translated">value</target>
         <note/>
       </trans-unit>
       <trans-unit id="valueNotFound" translate="no" xml:space="preserve">
@@ -5110,6 +5800,7 @@ Joost</target>
       </trans-unit>
       <trans-unit id="view more queries." xml:space="preserve">
         <source>view more queries.</source>
+        <target state="translated">檢視 更多 查詢.</target>
         <note/>
       </trans-unit>
       <trans-unit id="watchos_blocking" xml:space="preserve">
@@ -5164,6 +5855,12 @@ Joost</target>
 • Interactive Widgets
 • Multiple Instances
 • And much more!</source>
+        <target state="translated">• 客戶端 &amp; 群組 Management
+• Change DHCP &amp; DNS 設定
+• 自訂 已封鎖 Services
+• Inter活躍 小工具
+• Mul提示le 實例
+• And much 更多!</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
     </body>
