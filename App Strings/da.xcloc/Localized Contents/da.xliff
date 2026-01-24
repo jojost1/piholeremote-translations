@@ -1799,7 +1799,7 @@
       </trans-unit>
       <trans-unit id="Adding Custom Blocked Services requires PHR+" xml:space="preserve">
         <source>Adding Custom Blocked Services requires PHR+</source>
-        <target state="translated">Tilføjing Brugerdefineret BlOKeret Services requires PHR+</target>
+        <target state="translated">Tilføjing Brugerdefineret Blokeret Services requires PHR+</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adding new presets requires PHR+." xml:space="preserve">
@@ -2053,73 +2053,73 @@
       </trans-unit>
       <trans-unit id="Blocked Services" xml:space="preserve">
         <source>Blocked Services</source>
-        <target state="translated">BlOKeret Services</target>
+        <target state="translated">Blokeret Services</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Deny-list Exact" xml:space="preserve">
         <source>Blocked | Deny-list Exact</source>
-        <target state="translated">BlOKeret | Deny-list Præcis</target>
+        <target state="translated">Blokeret | Deny-list Præcis</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Deny-list Exact (CNAME)" xml:space="preserve">
         <source>Blocked | Deny-list Exact (CNAME)</source>
-        <target state="translated">BlOKeret | Deny-list Præcis (CNAME)</target>
+        <target state="translated">Blokeret | Deny-list Præcis (CNAME)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Denylist Exact" xml:space="preserve">
         <source>Blocked | Denylist Exact</source>
-        <target state="translated">BlOKeret | Denylist Præcis</target>
+        <target state="translated">Blokeret | Denylist Præcis</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Denylist Exact (CNAME)" xml:space="preserve">
         <source>Blocked | Denylist Exact (CNAME)</source>
-        <target state="translated">BlOKeret | Denylist Præcis (CNAME)</target>
+        <target state="translated">Blokeret | Denylist Præcis (CNAME)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | External IP" xml:space="preserve">
         <source>Blocked | External IP</source>
-        <target state="translated">BlOKeret | External IP</target>
+        <target state="translated">Blokeret | External IP</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | External NULL" xml:space="preserve">
         <source>Blocked | External NULL</source>
-        <target state="translated">BlOKeret | External NULL</target>
+        <target state="translated">Blokeret | External NULL</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | External NXRA" xml:space="preserve">
         <source>Blocked | External NXRA</source>
-        <target state="translated">BlOKeret | External NXRA</target>
+        <target state="translated">Blokeret | External NXRA</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Gravity" xml:space="preserve">
         <source>Blocked | Gravity</source>
-        <target state="translated">BlOKeret | Gravity</target>
+        <target state="translated">Blokeret | Gravity</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Gravity (CNAME)" xml:space="preserve">
         <source>Blocked | Gravity (CNAME)</source>
-        <target state="translated">BlOKeret | Gravity (CNAME)</target>
+        <target state="translated">Blokeret | Gravity (CNAME)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Regex" xml:space="preserve">
         <source>Blocked | Regex</source>
-        <target state="translated">BlOKeret | Regex</target>
+        <target state="translated">Blokeret | Regex</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked | Regex (CNAME)" xml:space="preserve">
         <source>Blocked | Regex (CNAME)</source>
-        <target state="translated">BlOKeret | Regex (CNAME)</target>
+        <target state="translated">Blokeret | Regex (CNAME)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked: %@" xml:space="preserve">
         <source>Blocked: %@</source>
-        <target state="translated">BlOKeret: %@</target>
+        <target state="translated">Blokeret: %@</target>
         <note>Displayed in the simple one-line Lock Screen widget.
 Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Blocked: %@ (%@)" xml:space="preserve">
         <source>Blocked: %1$@ (%2$@)</source>
-        <target state="translated">BlOKeret: %1$@ (%2$@)</target>
+        <target state="translated">Blokeret: %1$@ (%2$@)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking" xml:space="preserve">
@@ -3253,7 +3253,7 @@ Del venligst ikke denne kode.</target>
       </trans-unit>
       <trans-unit id="Hide 'Blocked Services' entries" xml:space="preserve">
         <source>Hide 'Blocked Services' entries</source>
-        <target state="translated">Skjul 'BlOKeret Services' entries</target>
+        <target state="translated">Skjul 'Blokeret Services' entries</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide on Home-tab" xml:space="preserve">
@@ -3758,7 +3758,7 @@ Bemærk: When this feature is Aktiveret you will need to Konfigurér new Kliente
       </trans-unit>
       <trans-unit id="New custom blocked service" xml:space="preserve">
         <source>New custom blocked service</source>
-        <target state="translated">New Brugerdefineret BlOKeret service</target>
+        <target state="translated">New Brugerdefineret Blokeret service</target>
         <note/>
       </trans-unit>
       <trans-unit id="NextDNS Remote" translate="no" xml:space="preserve">
@@ -3922,7 +3922,7 @@ Bemærk: When this feature is Aktiveret you will need to Konfigurér new Kliente
       </trans-unit>
       <trans-unit id="Numbers are an indication. Any existing matches are ignored. Includes 'Blocked Services'." xml:space="preserve">
         <source>Numbers are an indication. Any existing matches are ignored. Includes 'Blocked Services'.</source>
-        <target state="translated">Numbers are an indication. Any existing matches are igNejred. Includes 'BlOKeret Services'.</target>
+        <target state="translated">Numbers are an indication. Any existing matches are ignored. Includes 'Blokeret Services'.</target>
         <note/>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
@@ -4028,7 +4028,7 @@ Bemærk: When this feature is Aktiveret you will need to Konfigurér new Kliente
       </trans-unit>
       <trans-unit id="PHR+ is required to enable more than 1 Blocked Service." xml:space="preserve">
         <source>PHR+ is required to enable more than 1 Blocked Service.</source>
-        <target state="translated">PHR+ is påkrævet to Aktivér Mere than 1 BlOKeret Service.</target>
+        <target state="translated">PHR+ is påkrævet to Aktivér Mere than 1 Blokeret Service.</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHR+ is required to use this feature." xml:space="preserve">
@@ -4944,17 +4944,17 @@ Til gengæld ville jeg sætte pris på en anmeldelse i App Store eller en lille 
       </trans-unit>
       <trans-unit id="Toggle Blocked Services" xml:space="preserve">
         <source>Toggle Blocked Services</source>
-        <target state="translated">Toggle BlOKeret Services</target>
+        <target state="translated">Toggle Blokeret Services</target>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle Blocking" xml:space="preserve">
         <source>Toggle Blocking</source>
-        <target state="translated">Toggle BlOKéring</target>
+        <target state="translated">Toggle Blokering</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
       <trans-unit id="Toggle Blocking Status" xml:space="preserve">
         <source>Toggle Blocking Status</source>
-        <target state="translated">Toggle BlOKéring Status</target>
+        <target state="translated">Toggle Blokering Status</target>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle Status" xml:space="preserve">
@@ -5480,7 +5480,7 @@ The Standard location of your certificate is on your device: /etc/pihole/tls.pem
       </trans-unit>
       <trans-unit id="enable more than 1 Blocked Service." xml:space="preserve">
         <source>enable more than 1 Blocked Service.</source>
-        <target state="translated">Aktivér Mere than 1 BlOKeret Service.</target>
+        <target state="translated">Aktivér Mere than 1 Blokeret Service.</target>
         <note/>
       </trans-unit>
       <trans-unit id="example.com" xml:space="preserve">
@@ -5857,7 +5857,7 @@ Joost</target>
 • And much more!</source>
         <target state="translated">• Klient &amp; Gruppe Management
 • Change DHCP &amp; DNS Indstillinger
-• Brugerdefineret BlOKeret Services
+• Brugerdefineret Blokeret Services
 • InterAktiv Widgets
 • MulTiple Instanser
 • And much Mere!</target>
