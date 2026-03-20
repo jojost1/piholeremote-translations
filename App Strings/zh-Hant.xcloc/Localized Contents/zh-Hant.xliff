@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Base.lproj/Intents.intentdefinition" source-language="en" target-language="zh-Hant" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
     </header>
     <body>
       <trans-unit id="5NF9k6" xml:space="preserve">
@@ -94,7 +94,7 @@
   </file>
   <file original="en.lproj/Pi-hole Remote Widgets copy-InfoPlist.strings" datatype="plaintext" source-language="en" target-language="zh-Hant">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -109,7 +109,7 @@
   </file>
   <file original="Pi-hole Remote Share Extension/InfoPlist.xcstrings" source-language="en" target-language="zh-Hant" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -126,776 +126,28 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Pi-hole Remote tvOS App/Localizable.xcstrings" source-language="en" target-language="zh-Hant" datatype="plaintext">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
-    </header>
-    <body>
-      <trans-unit id=" avg" xml:space="preserve">
-        <source> avg</source>
-        <target state="translated"> 平均</target>
-        <note>Small 'average' label shown on the Home-tab when 'Combine' is enabled. The space at the start is intentional.</note>
-      </trans-unit>
-      <trans-unit id="%@ total" xml:space="preserve">
-        <source>%@ total</source>
-        <target state="translated">%@ 總計</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="%@q/min" xml:space="preserve">
-        <source>%@q/min</source>
-        <target state="translated">%@查/分</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="%lld total" xml:space="preserve">
-        <source>%lld total</source>
-        <target state="translated">%lld 總計</target>
-        <note>Displays the number of total clients in the Home-tab 'Clients' card.</note>
-      </trans-unit>
-      <trans-unit id="AI services" xml:space="preserve">
-        <source>AI services</source>
-        <target state="translated">AI 服務</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Active Clients" xml:space="preserve">
-        <source>Active Clients</source>
-        <target state="translated">活躍客戶端</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Active clients: %@" xml:space="preserve">
-        <source>Active clients: %@</source>
-        <target state="translated">活躍客戶端：%@</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Active clients: %@ out of %@ total" xml:space="preserve">
-        <source>Active clients: %1$@ out of %2$@ total</source>
-        <target state="translated">活躍客戶端：%1$@ / 總計 %2$@</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Add 5 minutes" xml:space="preserve">
-        <source>Add 5 minutes</source>
-        <target state="translated">增加 5 分鐘</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Add your Pi-hole instances on an iOS, iPadOS, or macOS device with version 6.2 or higher and make sure iCloud is enabled." xml:space="preserve">
-        <source>Add your Pi-hole instances on an iOS, iPadOS, or macOS device with version 6.2 or higher and make sure iCloud is enabled.</source>
-        <target state="translated">在 iOS、iPadOS 或 macOS 裝置（版本 6.2 或更高版本）上添加您的 Pi-hole 實例，並確保已啟用 iCloud。</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Adlists" xml:space="preserve">
-        <source>Adlists</source>
-        <target state="translated">廣告清單</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Allow-list" xml:space="preserve">
-        <source>Allow-list</source>
-        <target state="translated">允許清單</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Allowed" xml:space="preserve">
-        <source>Allowed</source>
-        <target state="translated">已允許</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Allowlist" xml:space="preserve">
-        <source>Allowlist</source>
-        <target state="translated">允許清單</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Always Dark" xml:space="preserve">
-        <source>Always Dark</source>
-        <target state="translated">始終深色</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Blocked" xml:space="preserve">
-        <source>Blocked</source>
-        <target state="translated">已封鎖</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Blocked | Deny-list Exact" xml:space="preserve">
-        <source>Blocked | Deny-list Exact</source>
-        <target state="translated">已封鎖 | 精確拒絕清單</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Blocked | Deny-list Exact (CNAME)" xml:space="preserve">
-        <source>Blocked | Deny-list Exact (CNAME)</source>
-        <target state="translated">已封鎖 | 精確拒絕清單 (CNAME)</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Blocked | Denylist Exact" xml:space="preserve">
-        <source>Blocked | Denylist Exact</source>
-        <target state="translated">已封鎖 | 精確拒絕清單</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Blocked | Denylist Exact (CNAME)" xml:space="preserve">
-        <source>Blocked | Denylist Exact (CNAME)</source>
-        <target state="translated">已封鎖 | 精確拒絕清單 (CNAME)</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Blocked | External IP" xml:space="preserve">
-        <source>Blocked | External IP</source>
-        <target state="translated">已封鎖 | 外部 IP</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Blocked | External NULL" xml:space="preserve">
-        <source>Blocked | External NULL</source>
-        <target state="translated">已封鎖 | 外部 NULL</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Blocked | External NXRA" xml:space="preserve">
-        <source>Blocked | External NXRA</source>
-        <target state="translated">已封鎖 | 外部 NXRA</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Blocked | Gravity" xml:space="preserve">
-        <source>Blocked | Gravity</source>
-        <target state="translated">已封鎖 | Gravity</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Blocked | Gravity (CNAME)" xml:space="preserve">
-        <source>Blocked | Gravity (CNAME)</source>
-        <target state="translated">已封鎖 | Gravity (CNAME)</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Blocked | Regex" xml:space="preserve">
-        <source>Blocked | Regex</source>
-        <target state="translated">已封鎖 | Regex</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Blocked | Regex (CNAME)" xml:space="preserve">
-        <source>Blocked | Regex (CNAME)</source>
-        <target state="translated">已封鎖 | Regex (CNAME)</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Blocked: %@" xml:space="preserve">
-        <source>Blocked: %@</source>
-        <target state="translated">已封鎖：%@</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Blocked: %@ (%@)" xml:space="preserve">
-        <source>Blocked: %1$@ (%2$@)</source>
-        <target state="translated">已封鎖：%1$@（%2$@）</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Blocking is enabled on all instances." xml:space="preserve">
-        <source>Blocking is enabled on all instances.</source>
-        <target state="translated">所有實例均已啟用封鎖。</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Blocking is enabled on instance %@." xml:space="preserve">
-        <source>Blocking is enabled on instance %@.</source>
-        <target state="translated">實例 %@ 已啟用封鎖。</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Blocking is not enabled on all instances." xml:space="preserve">
-        <source>Blocking is not enabled on all instances.</source>
-        <target state="translated">並非所有實例都已啟用封鎖。</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Blocking is not enabled on instance %@." xml:space="preserve">
-        <source>Blocking is not enabled on instance %@.</source>
-        <target state="translated">實例 %@ 未啟用封鎖。</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Blocklist" xml:space="preserve">
-        <source>Blocklist</source>
-        <target state="translated">封鎖清單</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Blocklist: %@" xml:space="preserve">
-        <source>Blocklist: %@</source>
-        <target state="translated">封鎖清單：%@</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Business &amp; productivity" xml:space="preserve">
-        <source>Business &amp; productivity</source>
-        <target state="translated">商務與生產力</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Cache" xml:space="preserve">
-        <source>Cache</source>
-        <target state="translated">快取</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Cache (optimizer)" xml:space="preserve">
-        <source>Cache (optimizer)</source>
-        <target state="translated">快取（優化器）</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Cached" xml:space="preserve">
-        <source>Cached</source>
-        <target state="translated">已快取</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Cached: %@" xml:space="preserve">
-        <source>Cached: %@</source>
-        <target state="translated">已快取：%@</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Chart" xml:space="preserve">
-        <source>Chart</source>
-        <target state="translated">圖表</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Client IP" xml:space="preserve">
-        <source>Client IP</source>
-        <target state="translated">客戶端 IP</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Client Name" xml:space="preserve">
-        <source>Client Name</source>
-        <target state="translated">客戶端名稱</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Clients" xml:space="preserve">
-        <source>Clients</source>
-        <target state="translated">客戶端</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Combine instances" xml:space="preserve">
-        <source>Combine instances</source>
-        <target state="translated">合併實例</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Communication" xml:space="preserve">
-        <source>Communication</source>
-        <target state="translated">通訊</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Compact mode" xml:space="preserve">
-        <source>Compact mode</source>
-        <target state="translated">精簡模式</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Content delivery networks" xml:space="preserve">
-        <source>Content delivery networks</source>
-        <target state="translated">內容傳遞網路</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Control blocking of services on your Pi-hole. (Requires PHR+)" xml:space="preserve">
-        <source>Control blocking of services on your Pi-hole. (Requires PHR+)</source>
-        <target state="translated">控制 Pi-hole 上的服務封鎖。（需要 PHR+）</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Core" xml:space="preserve">
-        <source>Core</source>
-        <target state="translated">Core</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Core version: %@." xml:space="preserve">
-        <source>Core version: %@.</source>
-        <target state="translated">Core 版本：%@。</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Date" xml:space="preserve">
-        <source>Date</source>
-        <target state="translated">日期</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Dating services" xml:space="preserve">
-        <source>Dating services</source>
-        <target state="translated">交友服務</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Deny-list" xml:space="preserve">
-        <source>Deny-list</source>
-        <target state="translated">拒絕清單</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Denylist" xml:space="preserve">
-        <source>Denylist</source>
-        <target state="translated">拒絕清單</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Domain" xml:space="preserve">
-        <source>Domain</source>
-        <target state="translated">網域</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Domains" xml:space="preserve">
-        <source>Domains</source>
-        <target state="translated">網域</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Duration" xml:space="preserve">
-        <source>Duration</source>
-        <target state="translated">持續時間</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Enable Blocking" xml:space="preserve">
-        <source>Enable Blocking</source>
-        <target state="translated">啟用封鎖</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Enable blocking" xml:space="preserve">
-        <source>Enable blocking</source>
-        <target state="translated">啟用封鎖</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Enable to block the service, disable to unblock it." xml:space="preserve">
-        <source>Enable to block the service, disable to unblock it.</source>
-        <target state="translated">啟用以封鎖服務，停用以解除封鎖。</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Exact" xml:space="preserve">
-        <source>Exact</source>
-        <target state="translated">精確</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="FTL" xml:space="preserve">
-        <source>FTL</source>
-        <target state="translated">FTL</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="FTL version: %@." xml:space="preserve">
-        <source>FTL version: %@.</source>
-        <target state="translated">FTL 版本：%@。</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="File hosting" xml:space="preserve">
-        <source>File hosting</source>
-        <target state="translated">檔案託管</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Forwarded" xml:space="preserve">
-        <source>Forwarded</source>
-        <target state="translated">已轉發</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Forwarded: %@" xml:space="preserve">
-        <source>Forwarded: %@</source>
-        <target state="translated">已轉發：%@</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Gambling &amp; betting" xml:space="preserve">
-        <source>Gambling &amp; betting</source>
-        <target state="translated">博弈與投注</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Gaming" xml:space="preserve">
-        <source>Gaming</source>
-        <target state="translated">遊戲</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Get Pi-hole Blocking Status" xml:space="preserve">
-        <source>Get Pi-hole Blocking Status</source>
-        <target state="translated">取得 Pi-hole 封鎖狀態</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Get blocking status for ${instance}" xml:space="preserve">
-        <source>Get blocking status for ${instance}</source>
-        <target state="translated">取得 ${instance} 的封鎖狀態</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Get the blocking status of your Pi-hole. Returns 'true' is blocking is enabled, otherwise returns 'false'. If you select 'All Instances', this will only return 'true' if blocking is enabled on all instances." xml:space="preserve">
-        <source>Get the blocking status of your Pi-hole. Returns 'true' is blocking is enabled, otherwise returns 'false'. If you select 'All Instances', this will only return 'true' if blocking is enabled on all instances.</source>
-        <target state="translated">取得 Pi-hole 的封鎖狀態。如果封鎖已啟用則返回 'true'，否則返回 'false'。如果您選擇「所有實例」，則僅當所有實例都啟用封鎖時才返回 'true'。</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Home" xml:space="preserve">
-        <source>Home</source>
-        <target state="translated">首頁</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="In Progress" xml:space="preserve">
-        <source>In Progress</source>
-        <target state="translated">進行中</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Indefinitely" xml:space="preserve">
-        <source>Indefinitely</source>
-        <target state="translated">無限期</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Info" xml:space="preserve">
-        <source>Info</source>
-        <target state="translated">資訊</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Instance" xml:space="preserve">
-        <source>Instance</source>
-        <target state="translated">實例</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Instances" xml:space="preserve">
-        <source>Instances</source>
-        <target state="translated">實例</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Last Updated" xml:space="preserve">
-        <source>Last Updated</source>
-        <target state="translated">最後更新</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Media sharing" xml:space="preserve">
-        <source>Media sharing</source>
-        <target state="translated">媒體分享</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Multiple" xml:space="preserve">
-        <source>Multiple</source>
-        <target state="translated">多個</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="No Instances" xml:space="preserve">
-        <source>No Instances</source>
-        <target state="translated">沒有實例</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="No connection" xml:space="preserve">
-        <source>No connection</source>
-        <target state="translated">無連線</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Only visible if 'Combine instances' is turned off." xml:space="preserve">
-        <source>Only visible if 'Combine instances' is turned off.</source>
-        <target state="translated">僅當「合併實例」關閉時可見。</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="PHR+ is required to use this feature." xml:space="preserve">
-        <source>PHR+ is required to use this feature.</source>
-        <target state="translated">使用此功能需要 PHR+。</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Pi-hole Remote" xml:space="preserve">
-        <source>Pi-hole Remote</source>
-        <target state="translated">Pi-hole Remote</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Queries" xml:space="preserve">
-        <source>Queries</source>
-        <target state="translated">查詢</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Queries: %@" xml:space="preserve">
-        <source>Queries: %@</source>
-        <target state="translated">查詢：%@</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Query Types" xml:space="preserve">
-        <source>Query Types</source>
-        <target state="translated">查詢類型</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Refreshing" xml:space="preserve">
-        <source>Refreshing</source>
-        <target state="translated">正在重新整理</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="RegEx" xml:space="preserve">
-        <source>RegEx</source>
-        <target state="translated">RegEx</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Retried" xml:space="preserve">
-        <source>Retried</source>
-        <target state="translated">已重試</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Retried | DNSSEC" xml:space="preserve">
-        <source>Retried | DNSSEC</source>
-        <target state="translated">已重試 | DNSSEC</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Selected" xml:space="preserve">
-        <source>Selected</source>
-        <target state="translated">已選擇</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Service" xml:space="preserve">
-        <source>Service</source>
-        <target state="translated">服務</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Services" xml:space="preserve">
-        <source>Services</source>
-        <target state="translated">服務</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Settings" xml:space="preserve">
-        <source>Settings</source>
-        <target state="translated">設定</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Shopping" xml:space="preserve">
-        <source>Shopping</source>
-        <target state="translated">購物</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Show Blocklist Last Updated" xml:space="preserve">
-        <source>Show Blocklist Last Updated</source>
-        <target state="translated">顯示封鎖清單最後更新時間</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Show chart" xml:space="preserve">
-        <source>Show chart</source>
-        <target state="translated">顯示圖表</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Show hostname" xml:space="preserve">
-        <source>Show hostname</source>
-        <target state="translated">顯示主機名稱</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Show legend" xml:space="preserve">
-        <source>Show legend</source>
-        <target state="translated">顯示圖例</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Show metrics" xml:space="preserve">
-        <source>Show metrics</source>
-        <target state="translated">顯示指標</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Show version" xml:space="preserve">
-        <source>Show version</source>
-        <target state="translated">顯示版本</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Social networks" xml:space="preserve">
-        <source>Social networks</source>
-        <target state="translated">社群網路</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Software &amp; updates" xml:space="preserve">
-        <source>Software &amp; updates</source>
-        <target state="translated">軟體與更新</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Something went wrong." xml:space="preserve">
-        <source>Something went wrong.</source>
-        <target state="translated">發生錯誤。</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Something went wrong: %@" xml:space="preserve">
-        <source>Something went wrong: %@</source>
-        <target state="translated">發生錯誤：%@</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Special Domain" xml:space="preserve">
-        <source>Special Domain</source>
-        <target state="translated">特殊網域</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Specify which group(s) to control." xml:space="preserve">
-        <source>Specify which group(s) to control.</source>
-        <target state="translated">指定要控制的群組。</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Specify which instance(s) to check." xml:space="preserve">
-        <source>Specify which instance(s) to check.</source>
-        <target state="translated">指定要檢查的實例。</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Specify which instance(s) to control." xml:space="preserve">
-        <source>Specify which instance(s) to control.</source>
-        <target state="translated">指定要控制的實例。</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Specify which service(s) to toggle." xml:space="preserve">
-        <source>Specify which service(s) to toggle.</source>
-        <target state="translated">指定要切換的服務。</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Statistics" xml:space="preserve">
-        <source>Statistics</source>
-        <target state="translated">統計</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Streaming services" xml:space="preserve">
-        <source>Streaming services</source>
-        <target state="translated">串流服務</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Successfully disabled blocking for %@." xml:space="preserve">
-        <source>Successfully disabled blocking for %@.</source>
-        <target state="translated">已成功停用 %@ 的封鎖。</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Successfully enabled blocking for %@." xml:space="preserve">
-        <source>Successfully enabled blocking for %@.</source>
-        <target state="translated">已成功啟用 %@ 的封鎖。</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Target Groups" xml:space="preserve">
-        <source>Target Groups</source>
-        <target state="translated">目標群組</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Toggle Blocked Services" xml:space="preserve">
-        <source>Toggle Blocked Services</source>
-        <target state="translated">切換已封鎖服務</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Top Clients" xml:space="preserve">
-        <source>Top Clients</source>
-        <target state="translated">熱門客戶端</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Top Domains" xml:space="preserve">
-        <source>Top Domains</source>
-        <target state="translated">熱門網域</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Total" xml:space="preserve">
-        <source>Total</source>
-        <target state="translated">總計</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Total: %@" xml:space="preserve">
-        <source>Total: %@</source>
-        <target state="translated">總計：%@</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Unknown" xml:space="preserve">
-        <source>Unknown</source>
-        <target state="translated">未知</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Unknown error." xml:space="preserve">
-        <source>Unknown error.</source>
-        <target state="translated">未知錯誤。</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Until tomorrow" xml:space="preserve">
-        <source>Until tomorrow</source>
-        <target state="translated">直到明天</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Update available for Core: %@. Select for changelog." xml:space="preserve">
-        <source>Update available for Core: %@. Select for changelog.</source>
-        <target state="translated">Core 有可用更新：%@。選擇以查看更新日誌。</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Update available for FTL: %@. Select for changelog." xml:space="preserve">
-        <source>Update available for FTL: %@. Select for changelog.</source>
-        <target state="translated">FTL 有可用更新：%@。選擇以查看更新日誌。</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Update available for Web: %@. Select for changelog." xml:space="preserve">
-        <source>Update available for Web: %@. Select for changelog.</source>
-        <target state="translated">Web 有可用更新：%@。選擇以查看更新日誌。</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Update available: %@." xml:space="preserve">
-        <source>Update available: %@.</source>
-        <target state="translated">有可用更新：%@。</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Upstream Servers" xml:space="preserve">
-        <source>Upstream Servers</source>
-        <target state="translated">上游伺服器</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Version" xml:space="preserve">
-        <source>Version</source>
-        <target state="translated">版本</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Web" xml:space="preserve">
-        <source>Web</source>
-        <target state="translated">Web</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Web version: %@." xml:space="preserve">
-        <source>Web version: %@.</source>
-        <target state="translated">Web 版本：%@。</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="appintent_disableblocking_description" xml:space="preserve">
-        <source>appintent_disableblocking_description</source>
-        <target state="translated">Disable Pi-hole blocking on one or all of your instances for a specific duration.</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="appintent_disableblocking_summary_${instance}" xml:space="preserve">
-        <source>appintent_disableblocking_summary_${instance}</source>
-        <target state="translated">Disable Pi-hole blocking for ${instance}</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="appintent_duration_description" xml:space="preserve">
-        <source>appintent_duration_description</source>
-        <target state="translated">Specifies the duration to disable for, in minutes. Set to '0' to disable indefinitely.</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="appintent_enableblocking_description" xml:space="preserve">
-        <source>appintent_enableblocking_description</source>
-        <target state="translated">Enable Pi-hole blocking on one or all of your instances.</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="appintent_enableblocking_summary_${instance}" xml:space="preserve">
-        <source>appintent_enableblocking_summary_${instance}</source>
-        <target state="translated">Enable Pi-hole blocking for ${instance}</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="appintent_instance_description" xml:space="preserve">
-        <source>appintent_instance_description</source>
-        <target state="translated">Specifies which instance(s) to use.</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="home_disable_blocking" xml:space="preserve">
-        <source>home_disable_blocking</source>
-        <target state="translated">禁用封鎖</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="home_disable_blocking_pihole" xml:space="preserve">
-        <source>home_disable_blocking_pihole</source>
-        <target state="translated">禁用 Pi-hole 封鎖</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="home_enable_blocking" xml:space="preserve">
-        <source>home_enable_blocking</source>
-        <target state="translated">啟用封鎖</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="home_enable_blocking_pihole" xml:space="preserve">
-        <source>home_enable_blocking_pihole</source>
-        <target state="translated">啟用 Pi-hole 封鎖</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="instance" xml:space="preserve">
-        <source>instance</source>
-        <target state="translated">Instance</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="keyNotFound" xml:space="preserve">
-        <source>keyNotFound</source>
-        <target state="translated">keyNotFound</target>
-        <note>ParsingError</note>
-      </trans-unit>
-      <trans-unit id="something_went_wrong" xml:space="preserve">
-        <source>something_went_wrong</source>
-        <target state="translated">Something went wrong.</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="typeMismatch" xml:space="preserve">
-        <source>typeMismatch</source>
-        <target state="translated">typeMismatch</target>
-        <note>ParsingError</note>
-      </trans-unit>
-      <trans-unit id="valueNotFound" xml:space="preserve">
-        <source>valueNotFound</source>
-        <target state="translated">valueNotFound</target>
-        <note>ParsingError</note>
-      </trans-unit>
-    </body>
-  </file>
   <file original="Pi-hole Remote tvOS App/Pi-hole-Remote-tvOS-App-InfoPlist.xcstrings" source-language="en" target-language="zh-Hant" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
         <source>Pi-hole Remote</source>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
         <source>Pi-hole Remote tvOS App</source>
         <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
+        <source>Pi-hole Remote uses the local network to connect with your Pi-hole instances.</source>
+        <note>Privacy - Local Network Usage Description</note>
       </trans-unit>
     </body>
   </file>
   <file original="Pi-hole Remote Watch App/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="zh-Hant">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -910,7 +162,7 @@
   </file>
   <file original="Pi-hole Remote Widgets/Base.lproj/StatWidget.intentdefinition" source-language="en" target-language="zh-Hant" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
     </header>
     <body>
       <trans-unit id="2C0IPw-Ixk02y" xml:space="preserve">
@@ -1376,7 +628,7 @@
   </file>
   <file original="Pi-hole Remote Widgets/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="zh-Hant">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -1391,7 +643,7 @@
   </file>
   <file original="Pi-hole Remote/Localization/InfoPlist.xcstrings" source-language="en" target-language="zh-Hant" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
@@ -1431,7 +683,7 @@
   </file>
   <file original="Pi-hole Remote/Localization/Localizable.xcstrings" source-language="en" target-language="zh-Hant" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
     </header>
     <body>
       <trans-unit id="" translate="no" xml:space="preserve">
@@ -1522,6 +774,40 @@
         <target state="translated">(已停用)</target>
         <note>Displayed next to an adlist when it's disabled.</note>
       </trans-unit>
+      <trans-unit id="**0 (default)**&#10;Don't hide anything, all statistics are available.&#10;&#10;**1**&#10;Hide domains. This setting disables Top Domains and Top Ads&#10;&#10;**2**&#10;Hide domains and clients. This setting disables Top Domains, Top Ads, Top Clients and Clients over time.&#10;&#10;**3**&#10;Anonymize everything. This setting disables almost any statistics and query analysis. There will be no long-term database logging and no Query Log. You will also lose most regex features.&#10;&#10;Changing this setting will trigger a restart of FTL." xml:space="preserve">
+        <source>**0 (default)**
+Don't hide anything, all statistics are available.
+
+**1**
+Hide domains. This setting disables Top Domains and Top Ads
+
+**2**
+Hide domains and clients. This setting disables Top Domains, Top Ads, Top Clients and Clients over time.
+
+**3**
+Anonymize everything. This setting disables almost any statistics and query analysis. There will be no long-term database logging and no Query Log. You will also lose most regex features.
+
+Changing this setting will trigger a restart of FTL.</source>
+        <target state="translated">**0（預設）**
+不隱藏任何內容，所有統計資料均可用。
+
+**1**
+隱藏網域。此設定會停用熱門網域和熱門廣告
+
+**2**
+隱藏網域和用戶端。此設定會停用熱門網域、熱門廣告、熱門用戶端和隨時間變化的用戶端。
+
+**3**
+匿名化所有內容。此設定會停用幾乎所有統計資料和查詢分析。將不會有長期資料庫記錄和查詢日誌。您還會失去大部分正規表達式功能。
+
+變更此設定將觸發 FTL 重新啟動。</target>
+        <note>Used on the 'System Settings' screen.</note>
+      </trans-unit>
+      <trans-unit id="0 (default)" xml:space="preserve">
+        <source>0 (default)</source>
+        <target state="translated">0（預設）</target>
+        <note>Used on the 'System Settings' screen.</note>
+      </trans-unit>
       <trans-unit id="0 decimals" xml:space="preserve">
         <source>0 decimals</source>
         <target state="translated">0 decimals</target>
@@ -1532,9 +818,9 @@
         <target state="translated">1 decimal</target>
         <note>Displays in the metrics decimals picker.</note>
       </trans-unit>
-      <trans-unit id="1. Open the Pi-hole web interface" xml:space="preserve">
-        <source>1. Open the Pi-hole web interface</source>
-        <target state="translated">1. 開啟 the Pi-hole web interface</target>
+      <trans-unit id="1. Go to the **Settings-tab**" xml:space="preserve">
+        <source>1. Go to the **Settings-tab**</source>
+        <target state="translated">1. 前往**設定**分頁</target>
         <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
       </trans-unit>
       <trans-unit id="1h" xml:space="preserve">
@@ -1547,29 +833,19 @@
         <target state="translated">2 decimals</target>
         <note>Displays in the metrics decimals picker.</note>
       </trans-unit>
-      <trans-unit id="2. In the sidebar, go to **Settings &gt; System**" xml:space="preserve">
-        <source>2. In the sidebar, go to **Settings &gt; System**</source>
-        <target state="translated">2. In the sidebar, go to **設定 &gt; 系統**</target>
+      <trans-unit id="2. Tap on your instance at the top" xml:space="preserve">
+        <source>2. Tap on your instance at the top</source>
+        <target state="translated">2. 點擊頂部的實例</target>
         <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
       </trans-unit>
-      <trans-unit id="3. In the top-right corner, turn on **Expert**" xml:space="preserve">
-        <source>3. In the top-right corner, turn on **Expert**</source>
-        <target state="translated">3. In the top-right corner, turn on **Expert**</target>
+      <trans-unit id="3. Tap on **System Settings**" xml:space="preserve">
+        <source>3. Tap on **System Settings**</source>
+        <target state="translated">3. 點擊**系統設定**</target>
         <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
       </trans-unit>
-      <trans-unit id="4. Then, go to **Settings &gt; All settings** in the sidebar." xml:space="preserve">
-        <source>4. Then, go to **Settings &gt; All settings** in the sidebar.</source>
-        <target state="translated">4. Then, go to **設定 &gt; 全部 設定** in the sidebar.</target>
-        <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
-      </trans-unit>
-      <trans-unit id="5. Select **Webserver and API**, and scroll to the very bottom of the page" xml:space="preserve">
-        <source>5. Select **Webserver and API**, and scroll to the very bottom of the page</source>
-        <target state="translated">5. 選擇 **Web伺服器 and API**, and scroll to the very bottom of the page</target>
-        <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
-      </trans-unit>
-      <trans-unit id="6. Under the card labeled `webserver.api.temp.unit`, choose your preferred temperature unit" xml:space="preserve">
-        <source>6. Under the card labeled `webserver.api.temp.unit`, choose your preferred temperature unit</source>
-        <target state="translated">6. Under the card labeled `web伺服器.API.temp.unit`, choose your preferred 溫度 unit</target>
+      <trans-unit id="4. You can find the settings in the **Webserver** section" xml:space="preserve">
+        <source>4. You can find the settings in the **Webserver** section</source>
+        <target state="translated">4. 您可以在**網頁伺服器**部分找到設定</target>
         <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
       </trans-unit>
       <trans-unit id="60" translate="no" xml:space="preserve">
@@ -1621,6 +897,11 @@
       <trans-unit id="API path" xml:space="preserve">
         <source>API path</source>
         <target state="translated">API path</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="About" xml:space="preserve">
+        <source>About</source>
+        <target state="translated">關於</target>
         <note/>
       </trans-unit>
       <trans-unit id="Acknowledgements" xml:space="preserve">
@@ -1777,9 +1058,24 @@
         <target state="translated">新增 to denylist...</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Add to favorites" xml:space="preserve">
+        <source>Add to favorites</source>
+        <target state="translated">Add to favorites</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Add to list" xml:space="preserve">
         <source>Add to list</source>
         <target state="translated">新增 to list</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add your Pi-hole instances on an iOS, iPadOS, or macOS device with version 6.2 or higher and make sure iCloud is enabled." xml:space="preserve">
+        <source>Add your Pi-hole instances on an iOS, iPadOS, or macOS device with version 6.2 or higher and make sure iCloud is enabled.</source>
+        <target state="translated">在 iOS、iPadOS 或 macOS 裝置（版本 6.2 或更高版本）上添加您的 Pi-hole 實例，並確保已啟用 iCloud。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add your Pi-hole instances on an iOS, iPadOS, or macOS device." xml:space="preserve">
+        <source>Add your Pi-hole instances on an iOS, iPadOS, or macOS device.</source>
+        <target state="translated">從 iOS、iPadOS 或 macOS 裝置新增您的 Pi-hole 實例。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add your Pi-hole instances to control them and view statistics." xml:space="preserve">
@@ -1862,6 +1158,11 @@
         <target state="translated">全部</target>
         <note/>
       </trans-unit>
+      <trans-unit id="All Groups" xml:space="preserve">
+        <source>All Groups</source>
+        <target state="translated">所有群組</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="All Instances" xml:space="preserve">
         <source>All Instances</source>
         <target state="translated">全部 實例</target>
@@ -1912,6 +1213,11 @@
         <target state="translated">允許list</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Allowlists" xml:space="preserve">
+        <source>Allowlists</source>
+        <target state="translated">允許清單</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Allows only queries from devices that are at most one hop away (local devices)" xml:space="preserve">
         <source>Allows only queries from devices that are at most one hop away (local devices)</source>
         <target state="translated">允許s only 查詢 from devices that are at most one hop away (local devices)</target>
@@ -1946,6 +1252,11 @@
         <source>App Tint</source>
         <target state="translated">App Tint</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Apple TV features" xml:space="preserve">
+        <source>Apple TV features</source>
+        <target state="translated">Apple TV 功能</target>
+        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="Application Password" xml:space="preserve">
         <source>Application Password</source>
@@ -2036,6 +1347,11 @@
         <target state="translated">Bind only to interface</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Block" xml:space="preserve">
+        <source>Block</source>
+        <target state="translated">封鎖</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Block All" xml:space="preserve">
         <source>Block All</source>
         <target state="translated">全部封鎖</target>
@@ -2045,6 +1361,11 @@
         <source>Block clients making more than %1$@ requests within %2$@ seconds. </source>
         <target state="translated">封鎖 客戶端 making 更多 than %1$@ 請求 within %2$@ 秒. </target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Block entire services across your network with a single toggle." xml:space="preserve">
+        <source>Block entire services across your network with a single toggle.</source>
+        <target state="translated">只需一個開關，即可在您的網路中封鎖整個服務。</target>
+        <note>Explainer for Blocked Services</note>
       </trans-unit>
       <trans-unit id="Blocked" xml:space="preserve">
         <source>Blocked</source>
@@ -2192,6 +1513,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">封鎖list: %@</target>
         <note>Displayed in the simple one-line Lock Screen widget.</note>
       </trans-unit>
+      <trans-unit id="Blocklists" xml:space="preserve">
+        <source>Blocklists</source>
+        <target state="translated">封鎖清單</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Blue" xml:space="preserve">
         <source>Blue</source>
         <target state="translated">Blue</target>
@@ -2250,6 +1576,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">已快取: %@</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Calculate client history globally" xml:space="preserve">
+        <source>Calculate client history globally</source>
+        <target state="translated">全域計算用戶端歷史記錄</target>
+        <note>Used on the 'System Settings' screen.</note>
+      </trans-unit>
       <trans-unit id="Can't be edited." xml:space="preserve">
         <source>Can't be edited.</source>
         <target state="translated">Can't be 編輯ed.</target>
@@ -2275,6 +1606,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">Cards</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Celsius" xml:space="preserve">
+        <source>Celsius</source>
+        <target state="translated">攝氏</target>
+        <note>Used on the 'System Settings' screen.</note>
+      </trans-unit>
       <trans-unit id="Change the disable duration presets of the widgets that have disable-buttons on them, like the 'Disable' and 'Statistics &amp; Disable' widgets. To add new presets to choose from, go to Settings &gt; Preferences &gt; Home &gt; Duration Presets." xml:space="preserve">
         <source>Change the disable duration presets of the widgets that have disable-buttons on them, like the 'Disable' and 'Statistics &amp; Disable' widgets. To add new presets to choose from, go to Settings &gt; Preferences &gt; Home &gt; Duration Presets.</source>
         <target state="translated">Change the 停用 duration p重置s of the 小工具 that have 停用-buttons on them, like the '停用' and '統計 &amp; 停用' 小工具. To 新增 new p重置s to choose from, go to 設定 &gt; Preferences &gt; 首頁 &gt; Duration P重置s.</target>
@@ -2284,6 +1620,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>Changing App Tint on macOS requires an app restart to take effect.</source>
         <target state="translated">Changing App Tint on MacOS requires an app 重新啟動 to take effect.</target>
         <note>Displayed on the App Tint Settings screen.</note>
+      </trans-unit>
+      <trans-unit id="Changing this setting requires a force restart of the app." xml:space="preserve">
+        <source>Changing this setting requires a force restart of the app.</source>
+        <target state="translated">更改此設定需要強制重新啟動應用程式。</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Chart" xml:space="preserve">
         <source>Chart</source>
@@ -2303,6 +1644,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       <trans-unit id="Client" xml:space="preserve">
         <source>Client</source>
         <target state="translated">客戶端</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Client History" xml:space="preserve">
+        <source>Client History</source>
+        <target state="translated">用戶端歷史記錄</target>
         <note/>
       </trans-unit>
       <trans-unit id="Client ID" xml:space="preserve">
@@ -2499,6 +1845,11 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <target state="translated">複製 URL</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Copy domain" xml:space="preserve">
+        <source>Copy domain</source>
+        <target state="translated">複製網域</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Copy email" xml:space="preserve">
         <source>Copy email</source>
         <target state="translated">複製電子郵件</target>
@@ -2516,6 +1867,11 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       <trans-unit id="Core version: %@." xml:space="preserve">
         <source>Core version: %@.</source>
         <target state="translated">Core 版本: %@.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Couldn't fetch config" xml:space="preserve">
+        <source>Couldn't fetch config</source>
+        <target state="translated">無法取得設定</target>
         <note/>
       </trans-unit>
       <trans-unit id="Couldn't find your instance." xml:space="preserve">
@@ -3024,6 +2380,11 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <target state="translated">FTL 版本: %@.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Fahrenheit" xml:space="preserve">
+        <source>Fahrenheit</source>
+        <target state="translated">華氏</target>
+        <note>Used on the 'System Settings' screen.</note>
+      </trans-unit>
       <trans-unit id="Favorites" xml:space="preserve">
         <source>Favorites</source>
         <target state="translated">Favorites</target>
@@ -3148,6 +2509,11 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <source>Get Lifetime PHR+</source>
         <target state="translated">取得終身 PHR+</target>
         <note>Used on the PHR+ purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="Get PHR+ Lifetime — %@" xml:space="preserve">
+        <source>Get PHR+ Lifetime — %@</source>
+        <target state="translated">取得 PHR+ 終身版 — %@</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Get Pi-hole Blocking Status" xml:space="preserve">
         <source>Get Pi-hole Blocking Status</source>
@@ -3276,6 +2642,11 @@ Please do not share this code with others.</source>
         <target state="translated">首頁</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Home Preferences" xml:space="preserve">
+        <source>Home Preferences</source>
+        <target state="translated">首頁偏好設定</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Host" xml:space="preserve">
         <source>Host</source>
         <target state="translated">主機</target>
@@ -3295,6 +2666,19 @@ Please do not share this code with others.</source>
         <source>Hostname or IP address</source>
         <target state="translated">Hostname or IP 新增ress</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="How should the API compute the most active clients? &#10;&#10;If enabled, the API will return the clients with the most queries globally (within 24 hours). &#10;&#10;If disabled, the API will return the clients with the most queries per time slot individually." xml:space="preserve">
+        <source>How should the API compute the most active clients? 
+
+If enabled, the API will return the clients with the most queries globally (within 24 hours). 
+
+If disabled, the API will return the clients with the most queries per time slot individually.</source>
+        <target state="translated">API 應如何計算最活躍的用戶端？ 
+
+如果啟用，API 將回傳全域中查詢次數最多的用戶端（24 小時內）。 
+
+如果停用，API 將按每個時段分別回傳查詢次數最多的用戶端。</target>
+        <note>Used on the 'System Settings' screen.</note>
       </trans-unit>
       <trans-unit id="How to change" xml:space="preserve">
         <source>How to change</source>
@@ -3446,6 +2830,11 @@ It should be 備註d that this option is 否t a security feature, as 客戶端 c
         <target state="translated">無效 URL. Did you enter the correct host, 連接埠, and API path?</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Kelvin" xml:space="preserve">
+        <source>Kelvin</source>
+        <target state="translated">克耳文</target>
+        <note>Used on the 'System Settings' screen.</note>
+      </trans-unit>
       <trans-unit id="Kind" xml:space="preserve">
         <source>Kind</source>
         <target state="translated">Kind</target>
@@ -3525,6 +2914,11 @@ It should be 備註d that this option is 否t a security feature, as 客戶端 c
         <source>Leave the netmask field empty to have Pi-hole infer it from the configured IP address of your device. If you want to specify a netmask, you can use the format 255.255.255.0.</source>
         <target state="translated">Leave the netmask field empty to have Pi-hole infer it from the 設定d IP 新增ress of your device. If you want to specify a netmask, you can use the format 255.255.255.0.</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Level of detail for statistics" xml:space="preserve">
+        <source>Level of detail for statistics</source>
+        <target state="translated">統計資料的詳細程度</target>
+        <note>Used on the 'System Settings' screen.</note>
       </trans-unit>
       <trans-unit id="Lifetime PHR %@" xml:space="preserve">
         <source>Lifetime PHR %@</source>
@@ -3666,6 +3060,11 @@ It should be 備註d that this option is 否t a security feature, as 客戶端 c
         <target state="translated">Mint</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Miscellaneous" xml:space="preserve">
+        <source>Miscellaneous</source>
+        <target state="translated">其他</target>
+        <note>Used on the 'System Settings' screen.</note>
+      </trans-unit>
       <trans-unit id="Model" xml:space="preserve">
         <source>Model</source>
         <target state="translated">Model</target>
@@ -3800,6 +3199,11 @@ It should be 備註d that this option is 否t a security feature, as 客戶端 c
         <target state="translated">無訊息</target>
         <note/>
       </trans-unit>
+      <trans-unit id="No Queries" xml:space="preserve">
+        <source>No Queries</source>
+        <target state="translated">沒有查詢</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="No Watch Paired" xml:space="preserve">
         <source>No Watch Paired</source>
         <target state="translated">否 手錶 Paired</target>
@@ -3830,11 +3234,6 @@ It should be 備註d that this option is 否t a security feature, as 客戶端 c
         <target state="translated">否 實例.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="No instances found." xml:space="preserve">
-        <source>No instances found.</source>
-        <target state="translated">否 實例 found.</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="No leases found." xml:space="preserve">
         <source>No leases found.</source>
         <target state="translated">否 leases found.</target>
@@ -3855,9 +3254,19 @@ It should be 備註d that this option is 否t a security feature, as 客戶端 c
         <target state="translated">否 matching 網域 found.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="No matching groups or clients found." xml:space="preserve">
+        <source>No matching groups or clients found.</source>
+        <target state="translated">找不到匹配的群組或用戶端。</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="No queries found" xml:space="preserve">
         <source>No queries found</source>
         <target state="translated">否 查詢 found</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No recent queries found." xml:space="preserve">
+        <source>No recent queries found.</source>
+        <target state="translated">找不到最近的查詢。</target>
         <note/>
       </trans-unit>
       <trans-unit id="No widgetFamily found" xml:space="preserve">
@@ -3880,6 +3289,16 @@ It should be 備註d that this option is 否t a security feature, as 客戶端 c
         <target state="translated">無.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Normalize CPU" xml:space="preserve">
+        <source>Normalize CPU</source>
+        <target state="translated">標準化 CPU</target>
+        <note>Used on the 'System Settings' screen.</note>
+      </trans-unit>
+      <trans-unit id="Normalize reported CPU usage" xml:space="preserve">
+        <source>Normalize reported CPU usage</source>
+        <target state="translated">標準化回報的 CPU 使用率</target>
+        <note>Used on the 'System Settings' screen.</note>
+      </trans-unit>
       <trans-unit id="Note: adlist &amp; domain entries that are inserted will be added to the group &quot;default&quot; only." xml:space="preserve">
         <source>Note: adlist &amp; domain entries that are inserted will be added to the group "default" only.</source>
         <target state="translated">備註: 廣告清單 &amp; 網域 entries that are inserted will be 新增ed to the 群組 "預設" only.</target>
@@ -3893,6 +3312,11 @@ It should be 備註d that this option is 否t a security feature, as 客戶端 c
       <trans-unit id="Notifications..." xml:space="preserve">
         <source>Notifications...</source>
         <target state="translated">通知...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Number of Domains" xml:space="preserve">
+        <source>Number of Domains</source>
+        <target state="translated">網域數量</target>
         <note/>
       </trans-unit>
       <trans-unit id="Number of clients" xml:space="preserve">
@@ -3929,6 +3353,15 @@ It should be 備註d that this option is 否t a security feature, as 客戶端 c
         <source>OK</source>
         <target state="translated">確定</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="On multi-core systems, a high workload can lead to CPU usage numbers exceeding 100% (e.g., 200% on a quad-core system if two out of four cores are fully utilized). This may look alarming at first glance even though the system is not actually overloaded. Enabling this setting will divide the CPU usage by the number of cores, leading to more intuitive numbers (e.g., 50% for the same load on a quad-core system).&#10;&#10;Note that this setting only affects how CPU usage is *reported*, it does not change the actual CPU usage." xml:space="preserve">
+        <source>On multi-core systems, a high workload can lead to CPU usage numbers exceeding 100% (e.g., 200% on a quad-core system if two out of four cores are fully utilized). This may look alarming at first glance even though the system is not actually overloaded. Enabling this setting will divide the CPU usage by the number of cores, leading to more intuitive numbers (e.g., 50% for the same load on a quad-core system).
+
+Note that this setting only affects how CPU usage is *reported*, it does not change the actual CPU usage.</source>
+        <target state="translated">在多核心系統上，高工作負載可能導致 CPU 使用率數字超過 100%（例如，在四核心系統上，如果四個核心中有兩個被完全利用，則為 200%）。這乍看之下可能令人擔憂，儘管系統實際上並未過載。啟用此設定將把 CPU 使用率除以核心數量，從而得到更直觀的數字（例如，在四核心系統上相同負載為 50%）。
+
+請注意，此設定僅影響 CPU 使用率的*回報*方式，不會改變實際的 CPU 使用率。</target>
+        <note>Used on the 'System Settings' screen.</note>
       </trans-unit>
       <trans-unit id="One-tap button" xml:space="preserve">
         <source>One-tap button</source>
@@ -3975,6 +3408,11 @@ It should be 備註d that this option is 否t a security feature, as 客戶端 c
         <target state="translated">開啟 設定 to 允許 通知</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Open URL" xml:space="preserve">
+        <source>Open URL</source>
+        <target state="translated">開啟網址</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Open technical documentation" xml:space="preserve">
         <source>Open technical documentation</source>
         <target state="translated">開啟 technical documentation</target>
@@ -3993,6 +3431,11 @@ It should be 備註d that this option is 否t a security feature, as 客戶端 c
       <trans-unit id="Orange" xml:space="preserve">
         <source>Orange</source>
         <target state="translated">Orange</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Other" xml:space="preserve">
+        <source>Other</source>
+        <target state="translated">其他</target>
         <note/>
       </trans-unit>
       <trans-unit id="Overwrite" xml:space="preserve">
@@ -4183,10 +3626,25 @@ It should be 備註d that this option is 否t a security feature, as 客戶端 c
         <target state="translated">P重置s</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Prevent screensaver start" xml:space="preserve">
+        <source>Prevent screensaver start</source>
+        <target state="translated">防止螢幕保護程式啟動</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Privacy Level" xml:space="preserve">
+        <source>Privacy Level</source>
+        <target state="translated">隱私等級</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Privacy Policy" xml:space="preserve">
         <source>Privacy Policy</source>
         <target state="translated">隱私權政策</target>
         <note>Used on the PHR+ purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="Privacy level" xml:space="preserve">
+        <source>Privacy level</source>
+        <target state="translated">隱私等級</target>
+        <note>Used on the 'System Settings' screen.</note>
       </trans-unit>
       <trans-unit id="Processed" xml:space="preserve">
         <source>Processed</source>
@@ -4259,9 +3717,19 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">速率-limiting</target>
         <note>Displayed on the DNS Settings screen.</note>
       </trans-unit>
+      <trans-unit id="Recent Queries" xml:space="preserve">
+        <source>Recent Queries</source>
+        <target state="translated">最近查詢</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Red" xml:space="preserve">
         <source>Red</source>
         <target state="translated">Red</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Refresh" xml:space="preserve">
+        <source>Refresh</source>
+        <target state="translated">Refresh</target>
         <note/>
       </trans-unit>
       <trans-unit id="Refreshing" xml:space="preserve">
@@ -4301,6 +3769,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       <trans-unit id="Remove TTL" xml:space="preserve">
         <source>Remove TTL</source>
         <target state="translated">移除 TTL</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Remove from favorites" xml:space="preserve">
+        <source>Remove from favorites</source>
+        <target state="translated">Remove from favorites</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remove limits, unlock all settings, and more..." xml:space="preserve">
@@ -4358,6 +3831,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">還原購買</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
+      <trans-unit id="Restore Purchases" xml:space="preserve">
+        <source>Restore Purchases</source>
+        <target state="translated">恢復購買</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Retried" xml:space="preserve">
         <source>Retried</source>
         <target state="translated">Retried</target>
@@ -4410,6 +3888,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <source>Seconds</source>
         <target state="translated">秒</target>
         <note>Used on the 'Add new disable preset' screen</note>
+      </trans-unit>
+      <trans-unit id="See live DNS queries streaming through your Pi-hole in real time." xml:space="preserve">
+        <source>See live DNS queries streaming through your Pi-hole in real time.</source>
+        <target state="translated">即時查看 DNS 查詢串流通過您的 Pi-hole。</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Select an Instance" xml:space="preserve">
         <source>Select an Instance</source>
@@ -4473,6 +3956,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       <trans-unit id="Show 'Indefinitely'" xml:space="preserve">
         <source>Show 'Indefinitely'</source>
         <target state="translated">顯示 'Indefinitely'</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show 'Recent Queries' card" xml:space="preserve">
+        <source>Show 'Recent Queries' card</source>
+        <target state="translated">顯示「最近查詢」卡片</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show 'Until tomorrow'" xml:space="preserve">
@@ -4723,7 +4211,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       <trans-unit id="System Settings" xml:space="preserve">
         <source>System Settings</source>
         <target state="translated">系統 設定</target>
-        <note/>
+        <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
       <trans-unit id="TOTP" xml:space="preserve">
         <source>TOTP</source>
@@ -4748,6 +4236,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       <trans-unit id="TTL (optional)" xml:space="preserve">
         <source>TTL (optional)</source>
         <target state="translated">TTL (選填)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tabiko - Japan Journey Log" xml:space="preserve">
+        <source>Tabiko - Japan Journey Log</source>
+        <target state="translated">Tabiko - 日本旅行日誌</target>
         <note/>
       </trans-unit>
       <trans-unit id="Take Pi-hole Remote to the next level &amp; support future developement." xml:space="preserve">
@@ -4799,6 +4292,11 @@ If Conditional Forwarding is enabled, unticking this box may cause a partial DNS
 If Conditional Forwarding is 已啟用, unticking this box may cause a partial DNS loop under certain circumstances (e.g. if a 客戶端 would send TLD DNSSEC 查詢).</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Temp unit" xml:space="preserve">
+        <source>Temp unit</source>
+        <target state="translated">溫度單位</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Temperature" xml:space="preserve">
         <source>Temperature</source>
         <target state="translated">溫度</target>
@@ -4807,7 +4305,12 @@ If Conditional Forwarding is 已啟用, unticking this box may cause a partial D
       <trans-unit id="Temperature unit" xml:space="preserve">
         <source>Temperature unit</source>
         <target state="translated">溫度 unit</target>
-        <note/>
+        <note>Used on the 'System Settings' screen.</note>
+      </trans-unit>
+      <trans-unit id="Temperatures above this limit will be shown as 'hot'" xml:space="preserve">
+        <source>Temperatures above this limit will be shown as 'hot'</source>
+        <target state="translated">超過此限制的溫度將顯示為「過熱」</target>
+        <note>Used on the 'System Settings' screen.</note>
       </trans-unit>
       <trans-unit id="Temporarily disabled blocking? Get notified when it's re-enabled. Use notification actions to quickly extend the blocking period." xml:space="preserve">
         <source>Temporarily disabled blocking? Get notified when it's re-enabled. Use notification actions to quickly extend the blocking period.</source>
@@ -5027,6 +4530,13 @@ In return, I would really appreciate it if you could leave a review in the App S
         <target state="translated">Try for free!</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Turn a service ON to block it.&#10;Turn it OFF to allow access." xml:space="preserve">
+        <source>Turn a service ON to block it.
+Turn it OFF to allow access.</source>
+        <target state="translated">開啟服務以封鎖它。
+關閉服務以允許存取。</target>
+        <note>Explainer for Blocked Services</note>
+      </trans-unit>
       <trans-unit id="Type" xml:space="preserve">
         <source>Type</source>
         <target state="translated">類型</target>
@@ -5051,6 +4561,11 @@ In return, I would really appreciate it if you could leave a review in the App S
         <source>Unblock All</source>
         <target state="translated">全部解除封鎖</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Unit used for temperatures processed by FTL" xml:space="preserve">
+        <source>Unit used for temperatures processed by FTL</source>
+        <target state="translated">FTL 處理溫度所使用的單位</target>
+        <note>Used on the 'System Settings' screen.</note>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>Unknown</source>
@@ -5087,6 +4602,11 @@ In return, I would really appreciate it if you could leave a review in the App S
         <target state="translated">更新 available for Web: %@. 選擇 for change日誌.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Update available: %@." xml:space="preserve">
+        <source>Update available: %@.</source>
+        <target state="translated">有可用更新：%@。</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Update available: %@. Select for changelog." xml:space="preserve">
         <source>Update available: %@. Select for changelog.</source>
         <target state="translated">更新 available: %@. 選擇 for change日誌.</target>
@@ -5096,6 +4616,21 @@ In return, I would really appreciate it if you could leave a review in the App S
         <source>Update gravity</source>
         <target state="translated">更新 Gravity</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Upgrade to PHR+" xml:space="preserve">
+        <source>Upgrade to PHR+</source>
+        <target state="translated">升級至 PHR+</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Upper temp limit" xml:space="preserve">
+        <source>Upper temp limit</source>
+        <target state="translated">溫度上限</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Upper temperature limit" xml:space="preserve">
+        <source>Upper temperature limit</source>
+        <target state="translated">溫度上限</target>
+        <note>Used on the 'System Settings' screen.</note>
       </trans-unit>
       <trans-unit id="Upstream" xml:space="preserve">
         <source>Upstream</source>
@@ -5162,6 +4697,11 @@ In return, I would really appreciate it if you could leave a review in the App S
         <target state="translated">Visible on 首頁-tab</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Waiting for queries..." xml:space="preserve">
+        <source>Waiting for queries...</source>
+        <target state="translated">正在等待查詢...</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Watch App Not Installed" xml:space="preserve">
         <source>Watch App Not Installed</source>
         <target state="translated">手錶 App 否t Inst全部ed</target>
@@ -5175,6 +4715,11 @@ In return, I would really appreciate it if you could leave a review in the App S
         <source>Web version: %@.</source>
         <target state="translated">Web 版本: %@.</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Webserver" xml:space="preserve">
+        <source>Webserver</source>
+        <target state="translated">網頁伺服器</target>
+        <note>Used on the 'System Settings' screen.</note>
       </trans-unit>
       <trans-unit id="Welcome!" xml:space="preserve">
         <source>Welcome!</source>
@@ -5253,6 +4798,11 @@ The 預設 location of your certificate is on your device: /etc/pihole/tls.pem. 
         <source>Your Pi-hole has no diagnosis messages.</source>
         <target state="translated">您的 Pi-hole 沒有診斷訊息。</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Your ultimate companion for exploring Japan." xml:space="preserve">
+        <source>Your ultimate companion for exploring Japan.</source>
+        <target state="translated">探索日本的終極旅伴。</target>
+        <note>Subtitle under 'Tabiko' app on the Made by RocketScience screen.</note>
       </trans-unit>
       <trans-unit id="`/api` by default" xml:space="preserve">
         <source>`/api` by default</source>
@@ -5587,6 +5137,11 @@ The 預設 location of your certificate is on your device: /etc/pihole/tls.pem. 
         <target state="translated">manage 網域 &amp; 廣告清單.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="manage system settings." xml:space="preserve">
+        <source>manage system settings.</source>
+        <target state="translated">manage 系統設定.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="one person only" xml:space="preserve">
         <source>one person only</source>
         <target state="translated">僅一人</target>
@@ -5867,7 +5422,7 @@ Joost</target>
   </file>
   <file original="WidgetInstance/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="zh-Hant">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -5877,33 +5432,6 @@ Joost</target>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>WidgetInstance</source>
         <note>Bundle name</note>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="WidgetInstance/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="zh-Hant">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
-    </header>
-    <body>
-      <trans-unit id="Info" xml:space="preserve">
-        <source>Info</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Instances" xml:space="preserve">
-        <source>Instances</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Only visible if 'Combine instances' is turned off." xml:space="preserve">
-        <source>Only visible if 'Combine instances' is turned off.</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Statistics" xml:space="preserve">
-        <source>Statistics</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Version" xml:space="preserve">
-        <source>Version</source>
-        <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
   </file>

@@ -16,6 +16,9 @@
     "@PiHoleRemote on X" : {
       "comment" : "Displayed on the support screen."
     },
+    "**0 (default)**\nDon't hide anything, all statistics are available.\n\n**1**\nHide domains. This setting disables Top Domains and Top Ads\n\n**2**\nHide domains and clients. This setting disables Top Domains, Top Ads, Top Clients and Clients over time.\n\n**3**\nAnonymize everything. This setting disables almost any statistics and query analysis. There will be no long-term database logging and no Query Log. You will also lose most regex features.\n\nChanging this setting will trigger a restart of FTL." : {
+      "comment" : "Used on the 'System Settings' screen."
+    },
     "# queries" : {
       "comment" : "Option for the blocking-card, used on the Preferences > Home screen."
     },
@@ -106,13 +109,16 @@
     "`/api` by default" : {
 
     },
+    "0 (default)" : {
+      "comment" : "Used on the 'System Settings' screen."
+    },
     "0 decimals" : {
       "comment" : "Displays in the metrics decimals picker."
     },
     "1 decimal" : {
       "comment" : "Displays in the metrics decimals picker."
     },
-    "1. Open the Pi-hole web interface" : {
+    "1. Go to the **Settings-tab**" : {
       "comment" : "Used on Preferences > Home to explain how to change the temperature unit."
     },
     "1h" : {
@@ -121,19 +127,13 @@
     "2 decimals" : {
       "comment" : "Displays in the metrics decimals picker."
     },
-    "2. In the sidebar, go to **Settings > System**" : {
+    "2. Tap on your instance at the top" : {
       "comment" : "Used on Preferences > Home to explain how to change the temperature unit."
     },
-    "3. In the top-right corner, turn on **Expert**" : {
+    "3. Tap on **System Settings**" : {
       "comment" : "Used on Preferences > Home to explain how to change the temperature unit."
     },
-    "4. Then, go to **Settings > All settings** in the sidebar." : {
-      "comment" : "Used on Preferences > Home to explain how to change the temperature unit."
-    },
-    "5. Select **Webserver and API**, and scroll to the very bottom of the page" : {
-      "comment" : "Used on Preferences > Home to explain how to change the temperature unit."
-    },
-    "6. Under the card labeled `webserver.api.temp.unit`, choose your preferred temperature unit" : {
+    "4. You can find the settings in the **Webserver** section" : {
       "comment" : "Used on Preferences > Home to explain how to change the temperature unit."
     },
     "60" : {
@@ -157,6 +157,9 @@
 
     },
     "A yearly recurring payment" : {
+
+    },
+    "About" : {
 
     },
     "Acknowledgements" : {
@@ -256,10 +259,19 @@
     "Add to denylist..." : {
 
     },
+    "Add to favorites" : {
+
+    },
     "Add to list" : {
 
     },
     "Add TTL" : {
+
+    },
+    "Add your Pi-hole instances on an iOS, iPadOS, or macOS device with version 6.2 or higher and make sure iCloud is enabled." : {
+
+    },
+    "Add your Pi-hole instances on an iOS, iPadOS, or macOS device." : {
 
     },
     "Add your Pi-hole instances to control them and view statistics." : {
@@ -319,6 +331,9 @@
     "All entries" : {
 
     },
+    "All Groups" : {
+
+    },
     "All instances" : {
 
     },
@@ -344,6 +359,9 @@
 
     },
     "Allowlist" : {
+
+    },
+    "Allowlists" : {
 
     },
     "Allows only queries from devices that are at most one hop away (local devices)" : {
@@ -434,6 +452,9 @@
     "appintents_state" : {
       "shouldTranslate" : false
     },
+    "Apple TV features" : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
     "Application Password" : {
 
     },
@@ -488,6 +509,9 @@
     "Bind only to interface" : {
 
     },
+    "Block" : {
+
+    },
     "Block All" : {
 
     },
@@ -500,6 +524,9 @@
           }
         }
       }
+    },
+    "Block entire services across your network with a single toggle." : {
+      "comment" : "Explainer for Blocked Services"
     },
     "Blocked" : {
 
@@ -664,6 +691,9 @@
     "Blocklist: %@" : {
       "comment" : "Displayed in the simple one-line Lock Screen widget."
     },
+    "Blocklists" : {
+
+    },
     "Blue" : {
 
     },
@@ -691,6 +721,9 @@
     "Cached: %@" : {
 
     },
+    "Calculate client history globally" : {
+      "comment" : "Used on the 'System Settings' screen."
+    },
     "Can't be edited." : {
 
     },
@@ -705,6 +738,9 @@
     },
     "Cards" : {
 
+    },
+    "Celsius" : {
+      "comment" : "Used on the 'System Settings' screen."
     },
     "Change the disable duration presets of the widgets that have disable-buttons on them, like the 'Disable' and 'Statistics & Disable' widgets. To add new presets to choose from, go to Settings > Preferences > Home > Duration Presets." : {
 
@@ -823,6 +859,9 @@
     "Changing App Tint on macOS requires an app restart to take effect." : {
       "comment" : "Displayed on the App Tint Settings screen."
     },
+    "Changing this setting requires a force restart of the app." : {
+
+    },
     "Chart" : {
 
     },
@@ -833,6 +872,9 @@
 
     },
     "Client" : {
+
+    },
+    "Client History" : {
 
     },
     "Client ID" : {
@@ -956,6 +998,9 @@
     "Copy" : {
 
     },
+    "Copy domain" : {
+
+    },
     "Copy email" : {
       "comment" : "Used on the PHR+ purchase screen."
     },
@@ -987,6 +1032,9 @@
       "shouldTranslate" : false
     },
     "Core version: %@." : {
+
+    },
+    "Couldn't fetch config" : {
 
     },
     "Couldn't find your instance." : {
@@ -1491,6 +1539,9 @@
     "Explore all queries on your network and quickly block domains." : {
       "comment" : "Displayed in the onboarding."
     },
+    "Fahrenheit" : {
+      "comment" : "Used on the 'System Settings' screen."
+    },
     "fast address assignment" : {
 
     },
@@ -1578,6 +1629,9 @@
     "Get Lifetime PHR+" : {
       "comment" : "Used on the PHR+ purchase screen."
     },
+    "Get PHR+ Lifetime — %@" : {
+
+    },
     "Get Pi-hole Blocking Status" : {
 
     },
@@ -1650,6 +1704,9 @@
       "comment" : "Accessibility hint for show/hide statistics cards."
     },
     "Home" : {
+
+    },
+    "Home Preferences" : {
 
     },
     "home_disable" : {
@@ -1743,6 +1800,9 @@
     },
     "Hostname or IP address" : {
 
+    },
+    "How should the API compute the most active clients? \n\nIf enabled, the API will return the clients with the most queries globally (within 24 hours). \n\nIf disabled, the API will return the clients with the most queries per time slot individually." : {
+      "comment" : "Used on the 'System Settings' screen."
     },
     "How to change" : {
       "comment" : "Used on Preferences > Home to explain how to change the temperature unit."
@@ -1857,6 +1917,9 @@
     "IPv6 support" : {
 
     },
+    "Kelvin" : {
+      "comment" : "Used on the 'System Settings' screen."
+    },
     "key" : {
 
     },
@@ -1913,6 +1976,9 @@
     },
     "Leave the netmask field empty to have Pi-hole infer it from the configured IP address of your device. If you want to specify a netmask, you can use the format 255.255.255.0." : {
 
+    },
+    "Level of detail for statistics" : {
+      "comment" : "Used on the 'System Settings' screen."
     },
     "Lifetime PHR %@" : {
 
@@ -1990,6 +2056,9 @@
     "Manage Subscription" : {
       "comment" : "Used on the PHR+ purchase screen."
     },
+    "manage system settings." : {
+
+    },
     "ManGo - Anime & Manga Tracker" : {
 
     },
@@ -2019,6 +2088,9 @@
     },
     "Mint" : {
 
+    },
+    "Miscellaneous" : {
+      "comment" : "Used on the 'System Settings' screen."
     },
     "Model" : {
       "comment" : "Model of the device running the instance, used on the instance detail screen."
@@ -2110,9 +2182,6 @@
     "No Instances Found" : {
 
     },
-    "No instances found." : {
-
-    },
     "No Interfaces" : {
 
     },
@@ -2128,10 +2197,19 @@
     "No matching domains found." : {
 
     },
+    "No matching groups or clients found." : {
+
+    },
     "No Messages" : {
 
     },
+    "No Queries" : {
+
+    },
     "No queries found" : {
+
+    },
+    "No recent queries found." : {
 
     },
     "No Watch Paired" : {
@@ -2149,6 +2227,12 @@
     "None." : {
 
     },
+    "Normalize CPU" : {
+      "comment" : "Used on the 'System Settings' screen."
+    },
+    "Normalize reported CPU usage" : {
+      "comment" : "Used on the 'System Settings' screen."
+    },
     "Note: adlist & domain entries that are inserted will be added to the group \"default\" only." : {
 
     },
@@ -2162,6 +2246,9 @@
 
     },
     "Number of domains" : {
+
+    },
+    "Number of Domains" : {
 
     },
     "Number of queries" : {
@@ -2178,6 +2265,9 @@
     },
     "OK" : {
 
+    },
+    "On multi-core systems, a high workload can lead to CPU usage numbers exceeding 100% (e.g., 200% on a quad-core system if two out of four cores are fully utilized). This may look alarming at first glance even though the system is not actually overloaded. Enabling this setting will divide the CPU usage by the number of cores, leading to more intuitive numbers (e.g., 50% for the same load on a quad-core system).\n\nNote that this setting only affects how CPU usage is *reported*, it does not change the actual CPU usage." : {
+      "comment" : "Used on the 'System Settings' screen."
     },
     "one person only" : {
       "comment" : "Used on the PHR+ purchase screen."
@@ -2250,6 +2340,9 @@
     "Open technical documentation" : {
       "comment" : "Displayed on the DNS Settings screen."
     },
+    "Open URL" : {
+
+    },
     "Options" : {
 
     },
@@ -2260,6 +2353,9 @@
 
     },
     "original_enddate" : {
+
+    },
+    "Other" : {
 
     },
     "out of %@" : {
@@ -2393,6 +2489,15 @@
     "Presets" : {
 
     },
+    "Prevent screensaver start" : {
+
+    },
+    "Privacy level" : {
+      "comment" : "Used on the 'System Settings' screen."
+    },
+    "Privacy Level" : {
+
+    },
     "Privacy Policy" : {
       "comment" : "Used on the PHR+ purchase screen."
     },
@@ -2438,6 +2543,9 @@
     "Rate-limiting" : {
       "comment" : "Displayed on the DNS Settings screen."
     },
+    "Recent Queries" : {
+
+    },
     "Red" : {
 
     },
@@ -2450,6 +2558,9 @@
           }
         }
       }
+    },
+    "Refresh" : {
+
     },
     "Refreshing" : {
 
@@ -2467,6 +2578,9 @@
 
     },
     "Remove Custom Service" : {
+
+    },
+    "Remove from favorites" : {
 
     },
     "Remove Instance" : {
@@ -2507,6 +2621,9 @@
     },
     "Restore Purchase" : {
       "comment" : "Used on the PHR+ purchase screen."
+    },
+    "Restore Purchases" : {
+
     },
     "Retried" : {
 
@@ -2638,6 +2755,9 @@
     "Seconds" : {
       "comment" : "Used on the 'Add new disable preset' screen"
     },
+    "See live DNS queries streaming through your Pi-hole in real time." : {
+
+    },
     "Select an Instance" : {
 
     },
@@ -2705,6 +2825,9 @@
 
     },
     "Show 'Indefinitely'" : {
+
+    },
+    "Show 'Recent Queries' card" : {
 
     },
     "Show 'Until tomorrow'" : {
@@ -2876,6 +2999,9 @@
       "comment" : "Sysname of the device running the instance, used on the instance detail screen."
     },
     "System Settings" : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "Tabiko - Japan Journey Log" : {
 
     },
     "Take Pi-hole Remote to the next level & support future developement." : {
@@ -2924,11 +3050,17 @@
     "Tells Pi-hole to never forward A or AAAA queries for plain names, without dots or domain parts, to upstream nameservers. If the name is not known from /etc/hosts or DHCP then a \"not found\" answer is returned.\n\nIf Conditional Forwarding is enabled, unticking this box may cause a partial DNS loop under certain circumstances (e.g. if a client would send TLD DNSSEC queries)." : {
 
     },
+    "Temp unit" : {
+
+    },
     "Temperature" : {
       "comment" : "Used on Preferences > Home."
     },
     "Temperature unit" : {
-
+      "comment" : "Used on the 'System Settings' screen."
+    },
+    "Temperatures above this limit will be shown as 'hot'" : {
+      "comment" : "Used on the 'System Settings' screen."
     },
     "Temporarily disabled blocking? Get notified when it's re-enabled. Use notification actions to quickly extend the blocking period." : {
 
@@ -3221,6 +3353,9 @@
     "TTL (optional)" : {
 
     },
+    "Turn a service ON to block it.\nTurn it OFF to allow access." : {
+      "comment" : "Explainer for Blocked Services"
+    },
     "Type" : {
 
     },
@@ -3236,6 +3371,9 @@
     },
     "Unblock All" : {
 
+    },
+    "Unit used for temperatures processed by FTL" : {
+      "comment" : "Used on the 'System Settings' screen."
     },
     "Unknown" : {
 
@@ -3255,6 +3393,9 @@
     "Update available for Web: %@. Select for changelog." : {
 
     },
+    "Update available: %@." : {
+
+    },
     "Update available: %@. Select for changelog." : {
 
     },
@@ -3266,6 +3407,15 @@
     },
     "updated %@" : {
 
+    },
+    "Upgrade to PHR+" : {
+
+    },
+    "Upper temp limit" : {
+
+    },
+    "Upper temperature limit" : {
+      "comment" : "Used on the 'System Settings' screen."
     },
     "Upstream" : {
 
@@ -3319,6 +3469,9 @@
     "Visible on Home-tab" : {
 
     },
+    "Waiting for queries..." : {
+
+    },
     "Watch App Not Installed" : {
       "comment" : "Displayed on the support screen on the 'Force Watch Sync' button."
     },
@@ -3358,6 +3511,9 @@
     },
     "Web version: %@." : {
 
+    },
+    "Webserver" : {
+      "comment" : "Used on the 'System Settings' screen."
     },
     "Welcome!" : {
       "comment" : "Onboarding subtitle."
@@ -3460,6 +3616,9 @@
     },
     "Your Pi-hole has no diagnosis messages." : {
 
+    },
+    "Your ultimate companion for exploring Japan." : {
+      "comment" : "Subtitle under 'Tabiko' app on the Made by RocketScience screen."
     }
   },
   "version" : "1.0"
