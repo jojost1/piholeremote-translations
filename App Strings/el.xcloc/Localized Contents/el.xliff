@@ -1014,6 +1014,11 @@ Changing this setting will trigger a restart of FTL.</source>
         <target state="translated">Προσθήκη προσαρμοσμένης κεφαλίδας</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Add domain" xml:space="preserve">
+        <source>Add domain</source>
+        <target state="translated">Προσθήκη domain</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Add new adlist" xml:space="preserve">
         <source>Add new adlist</source>
         <target state="translated">Προσθήκη νέας λίστας διαφημίσεων</target>
@@ -1247,6 +1252,11 @@ Changing this setting will trigger a restart of FTL.</source>
       <trans-unit id="Already in sync." xml:space="preserve">
         <source>Already in sync.</source>
         <target state="translated">Ήδη συγχρονισμένο.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Also hide from Live Log" xml:space="preserve">
+        <source>Also hide from Live Log</source>
+        <target state="translated">Απόκρυψη και από το Live Log</target>
         <note/>
       </trans-unit>
       <trans-unit id="Always Dark" xml:space="preserve">
@@ -2637,6 +2647,11 @@ Please do not share this code with others.</source>
 Μην μοιραστείτε αυτόν τον κωδικό.</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
+      <trans-unit id="Hidden domains..." xml:space="preserve">
+        <source>Hidden domains...</source>
+        <target state="translated">Κρυμμένα domains...</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Hidden on Home-tab" xml:space="preserve">
         <source>Hidden on Home-tab</source>
         <target state="translated">Κρυφό στην καρτέλα Αρχικής</target>
@@ -2652,9 +2667,34 @@ Please do not share this code with others.</source>
         <target state="translated">Απόκρυψη εγγραφών 'Αποκλεισμένων υπηρεσιών'</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Hide Domain" xml:space="preserve">
+        <source>Hide Domain</source>
+        <target state="translated">Απόκρυψη domain</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hide Domains" xml:space="preserve">
+        <source>Hide Domains</source>
+        <target state="translated">Απόκρυψη domains</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hide domains" xml:space="preserve">
+        <source>Hide domains</source>
+        <target state="translated">Απόκρυψη domains</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hide domains..." xml:space="preserve">
+        <source>Hide domains...</source>
+        <target state="translated">Απόκρυψη domains...</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Hide on Home-tab" xml:space="preserve">
         <source>Hide on Home-tab</source>
         <target state="translated">Απόκρυψη στην καρτέλα Αρχικής</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hide queries matching (part of) certain domains from the Query Log and Live Log. Useful to reduce noise in the logs when a certain domain is queried constantly. Requires PHR+." xml:space="preserve">
+        <source>Hide queries matching (part of) certain domains from the Query Log and Live Log. Useful to reduce noise in the logs when a certain domain is queried constantly. Requires PHR+.</source>
+        <target state="translated">Απόκρυψη ερωτημάτων που ταιριάζουν (μέρος) ορισμένων domains από το αρχείο ερωτημάτων και το Live Log. Χρήσιμο για τη μείωση του θορύβου στα αρχεία καταγραφής όταν ένα domain ερωτάται συνεχώς. Απαιτεί PHR+.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide the %@ %@ card" xml:space="preserve">
@@ -3714,6 +3754,26 @@ Note that this setting only affects how CPU usage is *reported*, it does not cha
       <trans-unit id="Queries" xml:space="preserve">
         <source>Queries</source>
         <target state="translated">Ερωτήματα</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Queries matching (part of) these domains will not be shown in the Query Log or Live Log." xml:space="preserve">
+        <source>Queries matching (part of) these domains will not be shown in the Query Log or Live Log.</source>
+        <target state="translated">Τα ερωτήματα που ταιριάζουν (μέρος) αυτών των domains δεν θα εμφανίζονται στο αρχείο ερωτημάτων ή στο Live Log.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Queries matching (part of) these domains will not be shown in the Query Log." xml:space="preserve">
+        <source>Queries matching (part of) these domains will not be shown in the Query Log.</source>
+        <target state="translated">Τα ερωτήματα που ταιριάζουν (μέρος) αυτών των domains δεν θα εμφανίζονται στο αρχείο ερωτημάτων.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Queries matching (part of) this domain will not be shown in the Query Log or Live Log." xml:space="preserve">
+        <source>Queries matching (part of) this domain will not be shown in the Query Log or Live Log.</source>
+        <target state="translated">Τα ερωτήματα που ταιριάζουν (μέρος) αυτού του domain δεν θα εμφανίζονται στο αρχείο ερωτημάτων ή στο Live Log.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Queries matching (part of) this domain will not be shown in the Query Log." xml:space="preserve">
+        <source>Queries matching (part of) this domain will not be shown in the Query Log.</source>
+        <target state="translated">Τα ερωτήματα που ταιριάζουν (μέρος) αυτού του domain δεν θα εμφανίζονται στο αρχείο ερωτημάτων.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Queries: %@" xml:space="preserve">

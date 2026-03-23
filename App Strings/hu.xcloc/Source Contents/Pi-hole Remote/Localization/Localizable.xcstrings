@@ -223,6 +223,9 @@
     "Add Custom Services" : {
 
     },
+    "Add domain" : {
+
+    },
     "Add Instance" : {
 
     },
@@ -374,6 +377,9 @@
 
     },
     "Already in sync." : {
+
+    },
+    "Also hide from Live Log" : {
 
     },
     "Always Dark" : {
@@ -1677,6 +1683,9 @@
     "Hi there, if you're seeing this it means that somehow the button to give you Lifetime PHR+ for free didn't work and you had to contact me. Sorry for that! To get access anyways, please enter the code I gave you here.\n\nPlease do not share this code with others." : {
       "comment" : "Used on the PHR+ purchase screen."
     },
+    "Hidden domains..." : {
+
+    },
     "Hidden on Home-tab" : {
 
     },
@@ -1686,7 +1695,22 @@
     "Hide 'Blocked Services' entries" : {
 
     },
+    "Hide Domain" : {
+
+    },
+    "Hide domains" : {
+
+    },
+    "Hide Domains" : {
+
+    },
+    "Hide domains..." : {
+
+    },
     "Hide on Home-tab" : {
+
+    },
+    "Hide queries matching (part of) certain domains from the Query Log and Live Log. Useful to reduce noise in the logs when a certain domain is queried constantly. Requires PHR+." : {
 
     },
     "Hide the %@ %@ card" : {
@@ -2514,6 +2538,18 @@
 
     },
     "Queries" : {
+
+    },
+    "Queries matching (part of) these domains will not be shown in the Query Log or Live Log." : {
+
+    },
+    "Queries matching (part of) these domains will not be shown in the Query Log." : {
+
+    },
+    "Queries matching (part of) this domain will not be shown in the Query Log or Live Log." : {
+
+    },
+    "Queries matching (part of) this domain will not be shown in the Query Log." : {
 
     },
     "Queries: %@" : {

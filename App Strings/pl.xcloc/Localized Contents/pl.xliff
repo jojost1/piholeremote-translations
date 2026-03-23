@@ -1003,6 +1003,11 @@ Zmiana tego ustawienia spowoduje ponowne uruchomienie FTL.</target>
         <target state="translated">Dodaj Niestandardowy header</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Add domain" xml:space="preserve">
+        <source>Add domain</source>
+        <target state="translated">Dodaj domenę</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Add new adlist" xml:space="preserve">
         <source>Add new adlist</source>
         <target state="translated">Dodaj new Lista reklam</target>
@@ -1236,6 +1241,11 @@ Zmiana tego ustawienia spowoduje ponowne uruchomienie FTL.</target>
       <trans-unit id="Already in sync." xml:space="preserve">
         <source>Already in sync.</source>
         <target state="translated">Already in sync.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Also hide from Live Log" xml:space="preserve">
+        <source>Also hide from Live Log</source>
+        <target state="translated">Ukryj także w dzienniku na żywo</target>
         <note/>
       </trans-unit>
       <trans-unit id="Always Dark" xml:space="preserve">
@@ -2607,6 +2617,11 @@ Please do not share this code with others.</source>
 Proszę nie udostępniaj tego kodu.</target>
         <note>Used on the PHR+ purchase screen.</note>
       </trans-unit>
+      <trans-unit id="Hidden domains..." xml:space="preserve">
+        <source>Hidden domains...</source>
+        <target state="translated">Ukryte domeny...</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Hidden on Home-tab" xml:space="preserve">
         <source>Hidden on Home-tab</source>
         <target state="translated">Hidden on Strona główna-tab</target>
@@ -2622,9 +2637,34 @@ Proszę nie udostępniaj tego kodu.</target>
         <target state="translated">Ukryj 'ZablOKowane Services' entries</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Hide Domain" xml:space="preserve">
+        <source>Hide Domain</source>
+        <target state="translated">Ukryj domenę</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hide Domains" xml:space="preserve">
+        <source>Hide Domains</source>
+        <target state="translated">Ukryj domeny</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hide domains" xml:space="preserve">
+        <source>Hide domains</source>
+        <target state="translated">Ukryj domeny</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hide domains..." xml:space="preserve">
+        <source>Hide domains...</source>
+        <target state="translated">Ukryj domeny...</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Hide on Home-tab" xml:space="preserve">
         <source>Hide on Home-tab</source>
         <target state="translated">Ukryj on Strona główna-tab</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hide queries matching (part of) certain domains from the Query Log and Live Log. Useful to reduce noise in the logs when a certain domain is queried constantly. Requires PHR+." xml:space="preserve">
+        <source>Hide queries matching (part of) certain domains from the Query Log and Live Log. Useful to reduce noise in the logs when a certain domain is queried constantly. Requires PHR+.</source>
+        <target state="translated">Ukryj zapytania pasujące do (części) określonych domen z dziennika zapytań i dziennika na żywo. Przydatne do redukcji szumu w dziennikach, gdy określona domena jest stale odpytywana. Wymaga PHR+.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hide the %@ %@ card" xml:space="preserve">
@@ -3669,6 +3709,26 @@ Zauważ, że to ustawienie wpływa tylko na to, jak użycie CPU jest *raportowan
       <trans-unit id="Queries" xml:space="preserve">
         <source>Queries</source>
         <target state="translated">Zapytania</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Queries matching (part of) these domains will not be shown in the Query Log or Live Log." xml:space="preserve">
+        <source>Queries matching (part of) these domains will not be shown in the Query Log or Live Log.</source>
+        <target state="translated">Zapytania pasujące do (części) tych domen nie będą wyświetlane w dzienniku zapytań ani w dzienniku na żywo.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Queries matching (part of) these domains will not be shown in the Query Log." xml:space="preserve">
+        <source>Queries matching (part of) these domains will not be shown in the Query Log.</source>
+        <target state="translated">Zapytania pasujące do (części) tych domen nie będą wyświetlane w dzienniku zapytań.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Queries matching (part of) this domain will not be shown in the Query Log or Live Log." xml:space="preserve">
+        <source>Queries matching (part of) this domain will not be shown in the Query Log or Live Log.</source>
+        <target state="translated">Zapytania pasujące do (części) tej domeny nie będą wyświetlane w dzienniku zapytań ani w dzienniku na żywo.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Queries matching (part of) this domain will not be shown in the Query Log." xml:space="preserve">
+        <source>Queries matching (part of) this domain will not be shown in the Query Log.</source>
+        <target state="translated">Zapytania pasujące do (części) tej domeny nie będą wyświetlane w dzienniku zapytań.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Queries: %@" xml:space="preserve">
