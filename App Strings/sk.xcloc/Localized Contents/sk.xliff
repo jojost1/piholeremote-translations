@@ -755,6 +755,11 @@
         <target state="translated">%@d/min</target>
         <note/>
       </trans-unit>
+      <trans-unit id="%lld groups matched, %lld will be created." xml:space="preserve">
+        <source>%1$lld groups matched, %2$lld will be created.</source>
+        <target state="translated">%1$lld skupín spárovaných, %2$lld bude vytvorených.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="%lld regex entries|==|plural.few" xml:space="preserve">
         <source>%lld regex entries</source>
         <target state="translated">%lld regex záznamy</target>
@@ -778,6 +783,11 @@
         <source>%lld total</source>
         <target state="translated">%lld celkom</target>
         <note>Displays the number of total clients in the Home-tab 'Clients' card.</note>
+      </trans-unit>
+      <trans-unit id="%lld · %lld" xml:space="preserve">
+        <source>%lld · %lld</source>
+        <target state="translated">%lld · %lld</target>
+        <note/>
       </trans-unit>
       <trans-unit id="'Add 5 min' feature" xml:space="preserve">
         <source>'Add 5 min' feature</source>
@@ -1181,6 +1191,11 @@ Zmena tohto nastavenia spustí reštart FTL.</target>
       <trans-unit id="All" xml:space="preserve">
         <source>All</source>
         <target state="translated">Všetko</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="All %lld groups matched." xml:space="preserve">
+        <source>All %lld groups matched.</source>
+        <target state="translated">Všetkých %lld skupín spárovaných.</target>
         <note/>
       </trans-unit>
       <trans-unit id="All Groups" xml:space="preserve">
@@ -2257,11 +2272,6 @@ Upozorňujeme, že rozpoznávanie klientov podľa IP adries (vrátane rozsahov p
         <target state="translated">Prednastavenia trvania</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Duration in seconds" xml:space="preserve">
-        <source>Duration in seconds</source>
-        <target state="translated">Trvanie v sekundách</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Dutch Color Scheme" xml:space="preserve">
         <source>Dutch Color Scheme</source>
         <target state="translated">Holandská farebná schéma</target>
@@ -2605,6 +2615,21 @@ Upozorňujeme, že rozpoznávanie klientov podľa IP adries (vrátane rozsahov p
       <trans-unit id="Groups" xml:space="preserve">
         <source>Groups</source>
         <target state="translated">Skupiny</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Groups &amp; Clients" xml:space="preserve">
+        <source>Groups &amp; Clients</source>
+        <target state="translated">Skupiny a klienti</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Groups are matched by name. Client group assignments are remapped automatically." xml:space="preserve">
+        <source>Groups are matched by name. Client group assignments are remapped automatically.</source>
+        <target state="translated">Skupiny sa párujú podľa názvu. Priradenia skupín klientov sa automaticky premaujú.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Groups: %@" xml:space="preserve">
+        <source>Groups: %@</source>
+        <target state="translated">Skupiny: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="HTTP" translate="no" xml:space="preserve">
@@ -3099,6 +3124,11 @@ Poznámka: Keď je táto funkcia povolená, budete musieť manuálne nakonfiguro
         <target state="translated">Označiť ako 'Časovo citlivé'</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Matched groups" xml:space="preserve">
+        <source>Matched groups</source>
+        <target state="translated">Spárované skupiny</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Media sharing" xml:space="preserve">
         <source>Media sharing</source>
         <target state="translated">Zdieľanie médií</target>
@@ -3234,9 +3264,29 @@ Poznámka: Keď je táto funkcia povolená, budete musieť manuálne nakonfiguro
         <target state="translated">Nová služba</target>
         <note/>
       </trans-unit>
+      <trans-unit id="New clients (destination)" xml:space="preserve">
+        <source>New clients (destination)</source>
+        <target state="translated">Noví klienti (cieľ)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New clients (source)" xml:space="preserve">
+        <source>New clients (source)</source>
+        <target state="translated">Noví klienti (zdroj)</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="New custom blocked service" xml:space="preserve">
         <source>New custom blocked service</source>
         <target state="translated">Nová vlastná blokovaná služba</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New groups (destination)" xml:space="preserve">
+        <source>New groups (destination)</source>
+        <target state="translated">Nové skupiny (cieľ)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New groups (source)" xml:space="preserve">
+        <source>New groups (source)</source>
+        <target state="translated">Nové skupiny (zdroj)</target>
         <note/>
       </trans-unit>
       <trans-unit id="NextDNS Remote" translate="no" xml:space="preserve">
@@ -4316,9 +4366,9 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">Synchronizovať inštancie</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Sync adlists, domains, and local DNS records between instances." xml:space="preserve">
-        <source>Sync adlists, domains, and local DNS records between instances.</source>
-        <target state="translated">Synchronizujte zoznamy reklám, domény a lokálne DNS záznamy medzi inštanciami.</target>
+      <trans-unit id="Sync adlists, domains, local DNS records, and clients &amp; groups between instances." xml:space="preserve">
+        <source>Sync adlists, domains, local DNS records, and clients &amp; groups between instances.</source>
+        <target state="translated">Synchronizovať zoznamy, domény, lokálne DNS záznamy a klientov a skupiny medzi inštanciami.</target>
         <note/>
       </trans-unit>
       <trans-unit id="System" xml:space="preserve">
@@ -4683,6 +4733,11 @@ Vypnite ju na povolenie prístupu.</target>
       <trans-unit id="Unblock All" xml:space="preserve">
         <source>Unblock All</source>
         <target state="translated">Odblokovať všetko</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unit" xml:space="preserve">
+        <source>Unit</source>
+        <target state="translated">Jednotka</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unit used for temperatures processed by FTL" xml:space="preserve">

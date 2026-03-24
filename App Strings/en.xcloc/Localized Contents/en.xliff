@@ -791,6 +791,11 @@
         <target state="new">%@q/min</target>
         <note/>
       </trans-unit>
+      <trans-unit id="%lld groups matched, %lld will be created." xml:space="preserve">
+        <source>%1$lld groups matched, %2$lld will be created.</source>
+        <target state="translated">%1$lld groups matched, %2$lld will be created.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="%lld regex entries|==|plural.one" xml:space="preserve">
         <source>%lld regex entry</source>
         <target state="translated">%lld regex entry</target>
@@ -805,6 +810,11 @@
         <source>%lld total</source>
         <target state="new">%lld total</target>
         <note>Displays the number of total clients in the Home-tab 'Clients' card.</note>
+      </trans-unit>
+      <trans-unit id="%lld · %lld" xml:space="preserve">
+        <source>%lld · %lld</source>
+        <target state="translated">%lld · %lld</target>
+        <note/>
       </trans-unit>
       <trans-unit id="'Add 5 min' feature" xml:space="preserve">
         <source>'Add 5 min' feature</source>
@@ -1208,6 +1218,11 @@ Changing this setting will trigger a restart of FTL.</target>
       <trans-unit id="All" xml:space="preserve">
         <source>All</source>
         <target state="new">All</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="All %lld groups matched." xml:space="preserve">
+        <source>All %lld groups matched.</source>
+        <target state="new">All %lld groups matched.</target>
         <note/>
       </trans-unit>
       <trans-unit id="All Groups" xml:space="preserve">
@@ -2284,11 +2299,6 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
         <target state="new">Duration Presets</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Duration in seconds" xml:space="preserve">
-        <source>Duration in seconds</source>
-        <target state="new">Duration in seconds</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Dutch Color Scheme" xml:space="preserve">
         <source>Dutch Color Scheme</source>
         <target state="new">Dutch Color Scheme</target>
@@ -2632,6 +2642,21 @@ Note that client recognition by IP addresses (incl. subnet ranges) are preferred
       <trans-unit id="Groups" xml:space="preserve">
         <source>Groups</source>
         <target state="new">Groups</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Groups &amp; Clients" xml:space="preserve">
+        <source>Groups &amp; Clients</source>
+        <target state="new">Groups &amp; Clients</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Groups are matched by name. Client group assignments are remapped automatically." xml:space="preserve">
+        <source>Groups are matched by name. Client group assignments are remapped automatically.</source>
+        <target state="new">Groups are matched by name. Client group assignments are remapped automatically.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Groups: %@" xml:space="preserve">
+        <source>Groups: %@</source>
+        <target state="new">Groups: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="HTTP" translate="no" xml:space="preserve">
@@ -3126,6 +3151,11 @@ Note: When this feature is enabled you will need to configure new clients manual
         <target state="new">Mark as 'Time Sensitive'</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Matched groups" xml:space="preserve">
+        <source>Matched groups</source>
+        <target state="new">Matched groups</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Media sharing" xml:space="preserve">
         <source>Media sharing</source>
         <target state="new">Media sharing</target>
@@ -3261,9 +3291,29 @@ Note: When this feature is enabled you will need to configure new clients manual
         <target state="new">New Service</target>
         <note/>
       </trans-unit>
+      <trans-unit id="New clients (destination)" xml:space="preserve">
+        <source>New clients (destination)</source>
+        <target state="new">New clients (destination)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New clients (source)" xml:space="preserve">
+        <source>New clients (source)</source>
+        <target state="new">New clients (source)</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="New custom blocked service" xml:space="preserve">
         <source>New custom blocked service</source>
         <target state="new">New custom blocked service</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New groups (destination)" xml:space="preserve">
+        <source>New groups (destination)</source>
+        <target state="new">New groups (destination)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New groups (source)" xml:space="preserve">
+        <source>New groups (source)</source>
+        <target state="new">New groups (source)</target>
         <note/>
       </trans-unit>
       <trans-unit id="NextDNS Remote" translate="no" xml:space="preserve">
@@ -4343,9 +4393,9 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="new">Sync Instances</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Sync adlists, domains, and local DNS records between instances." xml:space="preserve">
-        <source>Sync adlists, domains, and local DNS records between instances.</source>
-        <target state="new">Sync adlists, domains, and local DNS records between instances.</target>
+      <trans-unit id="Sync adlists, domains, local DNS records, and clients &amp; groups between instances." xml:space="preserve">
+        <source>Sync adlists, domains, local DNS records, and clients &amp; groups between instances.</source>
+        <target state="new">Sync adlists, domains, local DNS records, and clients &amp; groups between instances.</target>
         <note/>
       </trans-unit>
       <trans-unit id="System" xml:space="preserve">
@@ -4710,6 +4760,11 @@ Turn it OFF to allow access.</target>
       <trans-unit id="Unblock All" xml:space="preserve">
         <source>Unblock All</source>
         <target state="new">Unblock All</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unit" xml:space="preserve">
+        <source>Unit</source>
+        <target state="new">Unit</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unit used for temperatures processed by FTL" xml:space="preserve">

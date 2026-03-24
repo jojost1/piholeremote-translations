@@ -754,6 +754,11 @@
         <target state="translated">%@ Anf./Min</target>
         <note/>
       </trans-unit>
+      <trans-unit id="%lld groups matched, %lld will be created." xml:space="preserve">
+        <source>%1$lld groups matched, %2$lld will be created.</source>
+        <target state="translated">%1$lld Gruppen zugeordnet, %2$lld werden erstellt.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="%lld regex entries|==|plural.one" xml:space="preserve">
         <source>%lld regex entry</source>
         <target state="translated">%lld Regex-Eintrag</target>
@@ -768,6 +773,11 @@
         <source>%lld total</source>
         <target state="translated">%lld gesamt</target>
         <note>Displays the number of total clients in the Home-tab 'Clients' card.</note>
+      </trans-unit>
+      <trans-unit id="%lld · %lld" xml:space="preserve">
+        <source>%lld · %lld</source>
+        <target state="translated">%lld · %lld</target>
+        <note/>
       </trans-unit>
       <trans-unit id="'Add 5 min' feature" xml:space="preserve">
         <source>'Add 5 min' feature</source>
@@ -1166,6 +1176,11 @@ Das Ändern dieser Einstellung löst einen Neustart von FTL aus.</target>
       <trans-unit id="All" xml:space="preserve">
         <source>All</source>
         <target state="translated">Alle</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="All %lld groups matched." xml:space="preserve">
+        <source>All %lld groups matched.</source>
+        <target state="translated">Alle %lld Gruppen zugeordnet.</target>
         <note/>
       </trans-unit>
       <trans-unit id="All Groups" xml:space="preserve">
@@ -2224,11 +2239,6 @@ Die Erkennung über IP-Adressen (inkl. Subnetze) wird bevorzugt, da MAC-Adresse,
         <target state="translated">Dauer-Voreinstellungen</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Duration in seconds" xml:space="preserve">
-        <source>Duration in seconds</source>
-        <target state="translated">Dauer in Sekunden</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Dutch Color Scheme" xml:space="preserve">
         <source>Dutch Color Scheme</source>
         <target state="translated">Niederländisches Farbschema</target>
@@ -2571,6 +2581,21 @@ Die Erkennung über IP-Adressen (inkl. Subnetze) wird bevorzugt, da MAC-Adresse,
       <trans-unit id="Groups" xml:space="preserve">
         <source>Groups</source>
         <target state="translated">Gruppen</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Groups &amp; Clients" xml:space="preserve">
+        <source>Groups &amp; Clients</source>
+        <target state="translated">Gruppen &amp; Clients</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Groups are matched by name. Client group assignments are remapped automatically." xml:space="preserve">
+        <source>Groups are matched by name. Client group assignments are remapped automatically.</source>
+        <target state="translated">Gruppen werden nach Name zugeordnet. Client-Gruppenzuweisungen werden automatisch angepasst.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Groups: %@" xml:space="preserve">
+        <source>Groups: %@</source>
+        <target state="translated">Gruppen: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="HTTP" translate="no" xml:space="preserve">
@@ -3064,6 +3089,11 @@ Hinweis: Wenn diese Funktion aktiviert ist, musst du neue Clients manuell in dhc
         <target state="translated">Als 'Zeitkritisch' markieren</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Matched groups" xml:space="preserve">
+        <source>Matched groups</source>
+        <target state="translated">Zugeordnete Gruppen</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Media sharing" xml:space="preserve">
         <source>Media sharing</source>
         <target state="translated">Medienfreigabe</target>
@@ -3199,9 +3229,29 @@ Hinweis: Wenn diese Funktion aktiviert ist, musst du neue Clients manuell in dhc
         <target state="translated">Neuer Dienst</target>
         <note/>
       </trans-unit>
+      <trans-unit id="New clients (destination)" xml:space="preserve">
+        <source>New clients (destination)</source>
+        <target state="translated">Neue Clients (Ziel)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New clients (source)" xml:space="preserve">
+        <source>New clients (source)</source>
+        <target state="translated">Neue Clients (Quelle)</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="New custom blocked service" xml:space="preserve">
         <source>New custom blocked service</source>
         <target state="translated">Neuer benutzerdefinierter blockierter Dienst</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New groups (destination)" xml:space="preserve">
+        <source>New groups (destination)</source>
+        <target state="translated">Neue Gruppen (Ziel)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New groups (source)" xml:space="preserve">
+        <source>New groups (source)</source>
+        <target state="translated">Neue Gruppen (Quelle)</target>
         <note/>
       </trans-unit>
       <trans-unit id="NextDNS Remote" translate="no" xml:space="preserve">
@@ -4264,9 +4314,9 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">Instanzen synchronisieren</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Sync adlists, domains, and local DNS records between instances." xml:space="preserve">
-        <source>Sync adlists, domains, and local DNS records between instances.</source>
-        <target state="translated">Adlists, Domains und lokale DNS-Einträge zwischen Instanzen synchronisieren.</target>
+      <trans-unit id="Sync adlists, domains, local DNS records, and clients &amp; groups between instances." xml:space="preserve">
+        <source>Sync adlists, domains, local DNS records, and clients &amp; groups between instances.</source>
+        <target state="translated">Adlists, Domains, lokale DNS-Einträge und Clients &amp; Gruppen zwischen Instanzen synchronisieren.</target>
         <note/>
       </trans-unit>
       <trans-unit id="System" xml:space="preserve">
@@ -4626,6 +4676,11 @@ Schalte ihn AUS, um den Zugriff zu erlauben.</target>
       <trans-unit id="Unblock All" xml:space="preserve">
         <source>Unblock All</source>
         <target state="translated">Alle freigeben</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unit" xml:space="preserve">
+        <source>Unit</source>
+        <target state="translated">Einheit</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unit used for temperatures processed by FTL" xml:space="preserve">

@@ -754,6 +754,11 @@
         <target state="translated">%@q/min</target>
         <note/>
       </trans-unit>
+      <trans-unit id="%lld groups matched, %lld will be created." xml:space="preserve">
+        <source>%1$lld groups matched, %2$lld will be created.</source>
+        <target state="translated">%1$lld grup eşleşti, %2$lld oluşturulacak.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="%lld regex entries" xml:space="preserve">
         <source>%lld regex entries</source>
         <target state="translated">%lld regex entries</target>
@@ -763,6 +768,11 @@
         <source>%lld total</source>
         <target state="translated">%lld Toplam</target>
         <note>Displays the number of total clients in the Home-tab 'Clients' card.</note>
+      </trans-unit>
+      <trans-unit id="%lld · %lld" xml:space="preserve">
+        <source>%lld · %lld</source>
+        <target state="translated">%lld · %lld</target>
+        <note/>
       </trans-unit>
       <trans-unit id="'Add 5 min' feature" xml:space="preserve">
         <source>'Add 5 min' feature</source>
@@ -1161,6 +1171,11 @@ Bu ayarın değiştirilmesi FTL'nin yeniden başlatılmasını tetikler.</target
       <trans-unit id="All" xml:space="preserve">
         <source>All</source>
         <target state="translated">Tümü</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="All %lld groups matched." xml:space="preserve">
+        <source>All %lld groups matched.</source>
+        <target state="translated">Tüm %lld grup eşleşti.</target>
         <note/>
       </trans-unit>
       <trans-unit id="All Groups" xml:space="preserve">
@@ -2221,11 +2236,6 @@ Hayırt that İstemci recognition by IP Ekleresses (incl. subnet ranges) are pre
         <target state="translated">Duration PSıfırlas</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Duration in seconds" xml:space="preserve">
-        <source>Duration in seconds</source>
-        <target state="translated">Duration in saniye</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Dutch Color Scheme" xml:space="preserve">
         <source>Dutch Color Scheme</source>
         <target state="translated">Dutch Color Scheme</target>
@@ -2568,6 +2578,21 @@ Hayırt that İstemci recognition by IP Ekleresses (incl. subnet ranges) are pre
       <trans-unit id="Groups" xml:space="preserve">
         <source>Groups</source>
         <target state="translated">Gruplar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Groups &amp; Clients" xml:space="preserve">
+        <source>Groups &amp; Clients</source>
+        <target state="translated">Gruplar ve istemciler</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Groups are matched by name. Client group assignments are remapped automatically." xml:space="preserve">
+        <source>Groups are matched by name. Client group assignments are remapped automatically.</source>
+        <target state="translated">Gruplar isme göre eşleştirilir. İstemci grup atamaları otomatik olarak yeniden eşlenir.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Groups: %@" xml:space="preserve">
+        <source>Groups: %@</source>
+        <target state="translated">Gruplar: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="HTTP" translate="no" xml:space="preserve">
@@ -3060,6 +3085,11 @@ Hayırt: When this feature is Etkin you will need to YAPIlandır new İstemciler
         <target state="translated">Mark as 'Time Sensitive'</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Matched groups" xml:space="preserve">
+        <source>Matched groups</source>
+        <target state="translated">Eşleşen gruplar</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Media sharing" xml:space="preserve">
         <source>Media sharing</source>
         <target state="translated">Medya paylaşımı</target>
@@ -3195,9 +3225,29 @@ Hayırt: When this feature is Etkin you will need to YAPIlandır new İstemciler
         <target state="translated">New Service</target>
         <note/>
       </trans-unit>
+      <trans-unit id="New clients (destination)" xml:space="preserve">
+        <source>New clients (destination)</source>
+        <target state="translated">Yeni istemciler (hedef)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New clients (source)" xml:space="preserve">
+        <source>New clients (source)</source>
+        <target state="translated">Yeni istemciler (kaynak)</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="New custom blocked service" xml:space="preserve">
         <source>New custom blocked service</source>
         <target state="translated">New Özel Engellendi service</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New groups (destination)" xml:space="preserve">
+        <source>New groups (destination)</source>
+        <target state="translated">Yeni gruplar (hedef)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New groups (source)" xml:space="preserve">
+        <source>New groups (source)</source>
+        <target state="translated">Yeni gruplar (kaynak)</target>
         <note/>
       </trans-unit>
       <trans-unit id="NextDNS Remote" translate="no" xml:space="preserve">
@@ -4258,9 +4308,9 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">Sync Örnekler</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Sync adlists, domains, and local DNS records between instances." xml:space="preserve">
-        <source>Sync adlists, domains, and local DNS records between instances.</source>
-        <target state="translated">Sync Reklam listeleri, Alan adları, and local DNS records between Örnekler.</target>
+      <trans-unit id="Sync adlists, domains, local DNS records, and clients &amp; groups between instances." xml:space="preserve">
+        <source>Sync adlists, domains, local DNS records, and clients &amp; groups between instances.</source>
+        <target state="translated">Listeler, alan adları, yerel DNS kayıtları ve istemciler &amp; grupları sunucular arasında senkronize edin.</target>
         <note/>
       </trans-unit>
       <trans-unit id="System" xml:space="preserve">
@@ -4620,6 +4670,11 @@ Erişime izin vermek için KAPATIN.</target>
       <trans-unit id="Unblock All" xml:space="preserve">
         <source>Unblock All</source>
         <target state="translated">Tümünün engelini kaldır</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unit" xml:space="preserve">
+        <source>Unit</source>
+        <target state="translated">Birim</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unit used for temperatures processed by FTL" xml:space="preserve">

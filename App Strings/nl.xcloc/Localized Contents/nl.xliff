@@ -754,6 +754,11 @@
         <target state="translated">%@q/min</target>
         <note/>
       </trans-unit>
+      <trans-unit id="%lld groups matched, %lld will be created." xml:space="preserve">
+        <source>%1$lld groups matched, %2$lld will be created.</source>
+        <target state="translated">%1$lld groepen gematcht, %2$lld worden aangemaakt.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="%lld regex entries|==|plural.one" xml:space="preserve">
         <source>%lld regex entry</source>
         <target state="translated">%lld regex item</target>
@@ -768,6 +773,11 @@
         <source>%lld total</source>
         <target state="translated">%lld totaal</target>
         <note>Displays the number of total clients in the Home-tab 'Clients' card.</note>
+      </trans-unit>
+      <trans-unit id="%lld · %lld" xml:space="preserve">
+        <source>%lld · %lld</source>
+        <target state="translated">%lld · %lld</target>
+        <note/>
       </trans-unit>
       <trans-unit id="'Add 5 min' feature" xml:space="preserve">
         <source>'Add 5 min' feature</source>
@@ -1170,6 +1180,11 @@ Het wijzigen van deze instelling veroorzaakt een herstart van FTL.</target>
       <trans-unit id="All" xml:space="preserve">
         <source>All</source>
         <target state="translated">Alle</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="All %lld groups matched." xml:space="preserve">
+        <source>All %lld groups matched.</source>
+        <target state="translated">Alle %lld groepen gematcht.</target>
         <note/>
       </trans-unit>
       <trans-unit id="All Groups" xml:space="preserve">
@@ -2240,11 +2255,6 @@ Let op: het herkennen van clients op basis van IP-adressen (inclusief subnetbere
         <target state="translated">Duur preset</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Duration in seconds" xml:space="preserve">
-        <source>Duration in seconds</source>
-        <target state="translated">Duur in seconden</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Dutch Color Scheme" xml:space="preserve">
         <source>Dutch Color Scheme</source>
         <target state="translated">Nederlands kleurenpallet</target>
@@ -2587,6 +2597,21 @@ Let op: het herkennen van clients op basis van IP-adressen (inclusief subnetbere
       <trans-unit id="Groups" xml:space="preserve">
         <source>Groups</source>
         <target state="translated">Groepen</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Groups &amp; Clients" xml:space="preserve">
+        <source>Groups &amp; Clients</source>
+        <target state="translated">Groepen &amp; clients</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Groups are matched by name. Client group assignments are remapped automatically." xml:space="preserve">
+        <source>Groups are matched by name. Client group assignments are remapped automatically.</source>
+        <target state="translated">Groepen worden gematcht op naam. Groepstoewijzingen van clients worden automatisch herverdeeld.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Groups: %@" xml:space="preserve">
+        <source>Groups: %@</source>
+        <target state="translated">Groepen: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="HTTP" translate="no" xml:space="preserve">
@@ -3079,6 +3104,11 @@ Opmerking: Wanneer deze functie is ingeschakeld, moet je nieuwe clients handmati
         <target state="translated">Markeren als ‘Tijdgevoelig’</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Matched groups" xml:space="preserve">
+        <source>Matched groups</source>
+        <target state="translated">Gematchte groepen</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Media sharing" xml:space="preserve">
         <source>Media sharing</source>
         <target state="translated">Media delen</target>
@@ -3214,9 +3244,29 @@ Opmerking: Wanneer deze functie is ingeschakeld, moet je nieuwe clients handmati
         <target state="translated">Nieuwe dienst</target>
         <note/>
       </trans-unit>
+      <trans-unit id="New clients (destination)" xml:space="preserve">
+        <source>New clients (destination)</source>
+        <target state="translated">Nieuwe clients (bestemming)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New clients (source)" xml:space="preserve">
+        <source>New clients (source)</source>
+        <target state="translated">Nieuwe clients (bron)</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="New custom blocked service" xml:space="preserve">
         <source>New custom blocked service</source>
         <target state="translated">Nieuwe custom dienst</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New groups (destination)" xml:space="preserve">
+        <source>New groups (destination)</source>
+        <target state="translated">Nieuwe groepen (bestemming)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New groups (source)" xml:space="preserve">
+        <source>New groups (source)</source>
+        <target state="translated">Nieuwe groepen (bron)</target>
         <note/>
       </trans-unit>
       <trans-unit id="NextDNS Remote" translate="no" xml:space="preserve">
@@ -4285,9 +4335,9 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">Sync instanties</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Sync adlists, domains, and local DNS records between instances." xml:space="preserve">
-        <source>Sync adlists, domains, and local DNS records between instances.</source>
-        <target state="translated">Synchroniseer adlists, domeinen en lokale DNS-records tussen instanties.</target>
+      <trans-unit id="Sync adlists, domains, local DNS records, and clients &amp; groups between instances." xml:space="preserve">
+        <source>Sync adlists, domains, local DNS records, and clients &amp; groups between instances.</source>
+        <target state="translated">Synchroniseer adlists, domeinen, lokale DNS-records en clients &amp; groepen tussen instanties.</target>
         <note/>
       </trans-unit>
       <trans-unit id="System" xml:space="preserve">
@@ -4652,6 +4702,11 @@ Zet hem UIT om toegang toe te staan.</target>
       <trans-unit id="Unblock All" xml:space="preserve">
         <source>Unblock All</source>
         <target state="translated">Alles deblokkeren</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unit" xml:space="preserve">
+        <source>Unit</source>
+        <target state="translated">Eenheid</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unit used for temperatures processed by FTL" xml:space="preserve">

@@ -78,6 +78,26 @@
     "%@q/min" : {
 
     },
+    "%lld · %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld · %lld"
+          }
+        }
+      }
+    },
+    "%lld groups matched, %lld will be created." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld groups matched, %2$lld will be created."
+          }
+        }
+      }
+    },
     "%lld regex entries" : {
       "localizations" : {
         "en" : {
@@ -331,6 +351,9 @@
     "All" : {
 
     },
+    "All %lld groups matched." : {
+
+    },
     "All entries" : {
 
     },
@@ -510,7 +533,7 @@
 
     },
     "BETA" : {
-
+      "extractionState" : "stale"
     },
     "Bind only to interface" : {
 
@@ -1291,7 +1314,7 @@
 
     },
     "Destination Instance" : {
-
+      "extractionState" : "stale"
     },
     "Details" : {
 
@@ -1438,9 +1461,6 @@
 
     },
     "Duration (minutes)" : {
-
-    },
-    "Duration in seconds" : {
 
     },
     "Duration Presets" : {
@@ -1660,6 +1680,15 @@
 
     },
     "Groups" : {
+
+    },
+    "Groups & Clients" : {
+
+    },
+    "Groups are matched by name. Client group assignments are remapped automatically." : {
+
+    },
+    "Groups: %@" : {
 
     },
     "Hardware Address" : {
@@ -2089,6 +2118,9 @@
     "Mark as 'Time Sensitive'" : {
 
     },
+    "Matched groups" : {
+      "extractionState" : "stale"
+    },
     "Media sharing" : {
 
     },
@@ -2155,6 +2187,12 @@
     "New Client" : {
 
     },
+    "New clients (destination)" : {
+      "extractionState" : "stale"
+    },
+    "New clients (source)" : {
+      "extractionState" : "stale"
+    },
     "New custom blocked service" : {
 
     },
@@ -2163,6 +2201,12 @@
     },
     "New Groups" : {
 
+    },
+    "New groups (destination)" : {
+      "extractionState" : "stale"
+    },
+    "New groups (source)" : {
+      "extractionState" : "stale"
     },
     "New Instance" : {
 
@@ -2969,7 +3013,7 @@
 
     },
     "Source Instance" : {
-
+      "extractionState" : "stale"
     },
     "Special Domain" : {
 
@@ -3025,7 +3069,7 @@
     "Support Development" : {
 
     },
-    "Sync adlists, domains, and local DNS records between instances." : {
+    "Sync adlists, domains, local DNS records, and clients & groups between instances." : {
 
     },
     "Sync Instances" : {
@@ -3406,6 +3450,9 @@
 
     },
     "Unblock All" : {
+
+    },
+    "Unit" : {
 
     },
     "Unit used for temperatures processed by FTL" : {
