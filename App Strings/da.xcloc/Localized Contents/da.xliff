@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Base.lproj/Intents.intentdefinition" source-language="en" target-language="da" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
     </header>
     <body>
       <trans-unit id="5NF9k6" xml:space="preserve">
@@ -94,7 +94,7 @@
   </file>
   <file original="en.lproj/Pi-hole Remote Widgets copy-InfoPlist.strings" datatype="plaintext" source-language="en" target-language="da">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -109,7 +109,7 @@
   </file>
   <file original="Pi-hole Remote Share Extension/InfoPlist.xcstrings" source-language="en" target-language="da" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -128,7 +128,7 @@
   </file>
   <file original="Pi-hole Remote tvOS App/Pi-hole-Remote-tvOS-App-InfoPlist.xcstrings" source-language="en" target-language="da" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -147,7 +147,7 @@
   </file>
   <file original="Pi-hole Remote Watch App/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="da">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -162,7 +162,7 @@
   </file>
   <file original="Pi-hole Remote Widgets/Base.lproj/StatWidget.intentdefinition" source-language="en" target-language="da" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
     </header>
     <body>
       <trans-unit id="2C0IPw-Ixk02y" xml:space="preserve">
@@ -628,7 +628,7 @@
   </file>
   <file original="Pi-hole Remote Widgets/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="da">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -643,7 +643,7 @@
   </file>
   <file original="Pi-hole Remote/Localization/InfoPlist.xcstrings" source-language="en" target-language="da" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
@@ -679,11 +679,15 @@
         <target state="translated">Pi-hole Remote bruger det lokale netværk til at oprette forbindelse til dine Pi-hole-instanser.</target>
         <note>Privacy - Local Network Usage Description</note>
       </trans-unit>
+      <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
+        <source>Pi-hole Remote uses your location to detect your Wi-Fi network name, so it can automatically connect to your Pi-hole using the correct address. Your location is never stored or transmitted.</source>
+        <note>Privacy - Location When In Use Usage Description</note>
+      </trans-unit>
     </body>
   </file>
   <file original="Pi-hole Remote/Localization/Localizable.xcstrings" source-language="en" target-language="da" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
     </header>
     <body>
       <trans-unit id="" translate="no" xml:space="preserve">
@@ -968,6 +972,10 @@ Anonymiser alt. Denne indstilling deaktiverer næsten alle statistikker og fores
         <target state="translated">Tilføj 5 minutter</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Add Current Wi-Fi (%@)" xml:space="preserve">
+        <source>Add Current Wi-Fi (%@)</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Add Custom Services" xml:space="preserve">
         <source>Add Custom Services</source>
         <target state="translated">Tilføj Brugerdefineret Services</target>
@@ -1053,6 +1061,10 @@ Anonymiser alt. Denne indstilling deaktiverer næsten alle statistikker og fores
         <target state="translated">Tilføj new pNulstil</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
+      <trans-unit id="Add the Wi-Fi networks where the 'Home Connection' settings (local IP) should be used." xml:space="preserve">
+        <source>Add the Wi-Fi networks where the 'Home Connection' settings (local IP) should be used.</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Add to allow-list..." xml:space="preserve">
         <source>Add to allow-list...</source>
         <target state="translated">Tilføj to Tillad-list...</target>
@@ -1096,6 +1108,10 @@ Anonymiser alt. Denne indstilling deaktiverer næsten alle statistikker og fores
       <trans-unit id="Add your Pi-hole instances to control them and view statistics." xml:space="preserve">
         <source>Add your Pi-hole instances to control them and view statistics.</source>
         <target state="translated">Tilføj your Pi-hole Instanser to control them and Vis Statistik.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add..." xml:space="preserve">
+        <source>Add...</source>
         <note/>
       </trans-unit>
       <trans-unit id="Added on" xml:space="preserve">
@@ -1213,6 +1229,10 @@ Anonymiser alt. Denne indstilling deaktiverer næsten alle statistikker og fores
         <target state="translated">Tillad</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Allow Location Access" xml:space="preserve">
+        <source>Allow Location Access</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Allow only local requests" xml:space="preserve">
         <source>Allow only local requests</source>
         <target state="translated">Tillad only local Anmodninger</target>
@@ -1288,6 +1308,14 @@ Anonymiser alt. Denne indstilling deaktiverer næsten alle statistikker og fores
         <target state="translated">Application Adgangskode</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Apply different connection settings when you’re away from home. Works really well with a VPN (like WireGuard or Tailscale) that automatically enables based on your Wi-Fi network.&#10;&#10;Specify the SSID(s) of your local Wi-Fi networks where the default 'Home Connection' settings (previous screen) should be used. When you're not on any of these networks, the connection settings below under 'Away Connection' will be used instead.&#10;&#10;Your default 'Home Connection' will then be used on home network(s) and on devices that don’t support overrides (macOS, Apple Watch, Apple TV, widgets)." xml:space="preserve">
+        <source>Apply different connection settings when you’re away from home. Works really well with a VPN (like WireGuard or Tailscale) that automatically enables based on your Wi-Fi network.
+
+Specify the SSID(s) of your local Wi-Fi networks where the default 'Home Connection' settings (previous screen) should be used. When you're not on any of these networks, the connection settings below under 'Away Connection' will be used instead.
+
+Your default 'Home Connection' will then be used on home network(s) and on devices that don’t support overrides (macOS, Apple Watch, Apple TV, widgets).</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Are you sure you want to delete the adlist&#10;%@?" xml:space="preserve">
         <source>Are you sure you want to delete the adlist
 %@?</source>
@@ -1320,6 +1348,10 @@ Anonymiser alt. Denne indstilling deaktiverer næsten alle statistikker og fores
       <trans-unit id="Are you sure you want to remove %@?" xml:space="preserve">
         <source>Are you sure you want to remove %@?</source>
         <target state="translated">Are you sure you want to Fjern %@?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to remove the away connection? The default home connection will be used everywhere." xml:space="preserve">
+        <source>Are you sure you want to remove the away connection? The default home connection will be used everywhere.</source>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure you want to remove this instance?" xml:space="preserve">
@@ -1360,6 +1392,14 @@ Anonymiser alt. Denne indstilling deaktiverer næsten alle statistikker og fores
       <trans-unit id="Automatically generated" xml:space="preserve">
         <source>Automatically generated</source>
         <target state="translated">AutomatiskAlley geneRated</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Automatically use a different hostname/IP when away from home, for example in combination with a VPN." xml:space="preserve">
+        <source>Automatically use a different hostname/IP when away from home, for example in combination with a VPN.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Away Connection" xml:space="preserve">
+        <source>Away Connection</source>
         <note/>
       </trans-unit>
       <trans-unit id="BETA" xml:space="preserve">
@@ -1883,6 +1923,10 @@ Bemærk that Klient recognition by IP Tilføjresses (incl. subnet ranges) are pr
       <trans-unit id="Copy full response" xml:space="preserve">
         <source>Copy full response</source>
         <target state="translated">Kopiér full Svar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copy host" xml:space="preserve">
+        <source>Copy host</source>
         <note/>
       </trans-unit>
       <trans-unit id="Core" translate="no" xml:space="preserve">
@@ -2707,9 +2751,17 @@ Del venligst ikke denne kode.</target>
         <target state="translated">Hjem</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Home Connection" xml:space="preserve">
+        <source>Home Connection</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Home Preferences" xml:space="preserve">
         <source>Home Preferences</source>
         <target state="translated">Startskærmindstillinger</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Home Wi-Fi Networks" xml:space="preserve">
+        <source>Home Wi-Fi Networks</source>
         <note/>
       </trans-unit>
       <trans-unit id="Host" xml:space="preserve">
@@ -3040,6 +3092,14 @@ Bemærk: When this feature is Aktiveret you will need to Konfigurér new Kliente
         <target state="translated">Local Records</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Location Permission Required" xml:space="preserve">
+        <source>Location Permission Required</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Location access was previously denied. Please enable it in Settings." xml:space="preserve">
+        <source>Location access was previously denied. Please enable it in Settings.</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Logs" xml:space="preserve">
         <source>Logs</source>
         <target state="translated">Logs</target>
@@ -3073,6 +3133,10 @@ Bemærk: When this feature is Aktiveret you will need to Konfigurér new Kliente
       <trans-unit id="ManGo - Anime &amp; Manga Tracker" xml:space="preserve">
         <source>ManGo - Anime &amp; Manga Tracker</source>
         <target state="translated">ManGo - Anime &amp; Manga Tracker</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Manage Away Connection" xml:space="preserve">
+        <source>Manage Away Connection</source>
         <note/>
       </trans-unit>
       <trans-unit id="Manage Subscription" xml:space="preserve">
@@ -3866,6 +3930,10 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">Fjern</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Remove Away Connection" xml:space="preserve">
+        <source>Remove Away Connection</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Remove Custom Service" xml:space="preserve">
         <source>Remove Custom Service</source>
         <target state="translated">Fjern Brugerdefineret Service</target>
@@ -4303,6 +4371,14 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">SupPort Development</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Switches to 'Away' when not connected to Wi-Fi SSID: %@" xml:space="preserve">
+        <source>Switches to 'Away' when not connected to Wi-Fi SSID: %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Switches to 'Home' when connected to Wi-Fi SSID: %@" xml:space="preserve">
+        <source>Switches to 'Home' when connected to Wi-Fi SSID: %@</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Sync Instances" xml:space="preserve">
         <source>Sync Instances</source>
         <target state="translated">Sync Instanser</target>
@@ -4520,6 +4596,10 @@ Til gengæld ville jeg sætte pris på en anmeldelse i App Store eller en lille 
         <target state="translated">The red options are dangerous on devices directly forbundet to the Internet such as cloud Instanser and are only safe if your Pi-hole is properly firewAlleed. In a typical at-Hjem setup where your Pi-hole is located within your local Netværk (and you have Nejt videresendt Port 53 in your router!) they are safe to use.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="These settings are used when you're not on any of the home Wi-Fi networks above (e.g. cellular, VPN, or other Wi-Fi)." xml:space="preserve">
+        <source>These settings are used when you're not on any of the home Wi-Fi networks above (e.g. cellular, VPN, or other Wi-Fi).</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="This action is final and cannot be undone." xml:space="preserve">
         <source>This action is final and cannot be undone.</source>
         <target state="translated">This action is final and canNejt be unFærdig.</target>
@@ -4548,6 +4628,12 @@ Til gengæld ville jeg sætte pris på en anmeldelse i App Store eller en lille 
       <trans-unit id="Tip Jar" xml:space="preserve">
         <source>Tip Jar</source>
         <target state="translated">Tip Jar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="To detect your Wi-Fi network name, Apple requires 'While Using App' location permission. This is a system requirement for reading Wi-Fi information.&#10;&#10;Your location is never stored or transmitted by Pi-hole Remote." xml:space="preserve">
+        <source>To detect your Wi-Fi network name, Apple requires 'While Using App' location permission. This is a system requirement for reading Wi-Fi information.
+
+Your location is never stored or transmitted by Pi-hole Remote.</source>
         <note/>
       </trans-unit>
       <trans-unit id="To re-sync after purging, edit &amp; save an instance." xml:space="preserve">
@@ -4737,6 +4823,10 @@ Slå den FRA for at give adgang.</target>
         <target state="translated">Opgrader til PHR+</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Upgrade to PHR+ to automatically use a different hostname/IP when away from home, for example in combination with a VPN." xml:space="preserve">
+        <source>Upgrade to PHR+ to automatically use a different hostname/IP when away from home, for example in combination with a VPN.</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Upper temp limit" xml:space="preserve">
         <source>Upper temp limit</source>
         <target state="translated">Øvre temperaturgrænse</target>
@@ -4770,6 +4860,10 @@ Slå den FRA for at give adgang.</target>
       <trans-unit id="Use NextDNS? Have I got an app for you." xml:space="preserve">
         <source>Use NextDNS? Have I got an app for you.</source>
         <target state="translated">Use NextDNS? Have I got an app for you.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Used when **not** connected to Wi-Fi SSID: %@" xml:space="preserve">
+        <source>Used when **not** connected to Wi-Fi SSID: %@</source>
         <note/>
       </trans-unit>
       <trans-unit id="Users who purchased the app while it was paid upfront instead of free with in-app purchases, can get PHR+ Lifetime for free as a thank you. Please press the button below to let the app check if you're entitled to it. This will show a native iOS alert to restore the purchase." xml:space="preserve">
@@ -4862,6 +4956,10 @@ The default location of your certificate is on your device: /etc/pihole/tls.pem.
         <target state="translated">When you use HTTPS you must make sure to instAlle the certificate to your device first. If you don't do this, the app might Nejt be able to establish a secure connection to your Pi-hole.
 
 The Standard location of your certificate is on your device: /etc/pihole/tls.pem. Mail the file to yourself and Åbn it on your device to instAlle it.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Wi-Fi network name (SSID)" xml:space="preserve">
+        <source>Wi-Fi network name (SSID)</source>
         <note/>
       </trans-unit>
       <trans-unit id="Widgets" xml:space="preserve">
@@ -5537,7 +5635,7 @@ Joost</target>
   </file>
   <file original="WidgetInstance/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="da">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
