@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Base.lproj/Intents.intentdefinition" source-language="en" target-language="hu" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="5NF9k6" xml:space="preserve">
@@ -94,7 +94,7 @@
   </file>
   <file original="en.lproj/Pi-hole Remote Widgets copy-InfoPlist.strings" datatype="plaintext" source-language="en" target-language="hu">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -109,11 +109,11 @@
   </file>
   <file original="Pi-hole Remote Share Extension/InfoPlist.xcstrings" source-language="en" target-language="hu" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
-        <source>Pi-hole Remote Share Extension</source>
+        <source>Pi-hole Remote</source>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
@@ -128,7 +128,7 @@
   </file>
   <file original="Pi-hole Remote tvOS App/Pi-hole-Remote-tvOS-App-InfoPlist.xcstrings" source-language="en" target-language="hu" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -147,7 +147,7 @@
   </file>
   <file original="Pi-hole Remote Watch App/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="hu">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -162,7 +162,7 @@
   </file>
   <file original="Pi-hole Remote Widgets/Base.lproj/StatWidget.intentdefinition" source-language="en" target-language="hu" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="2C0IPw-Ixk02y" xml:space="preserve">
@@ -628,7 +628,7 @@
   </file>
   <file original="Pi-hole Remote Widgets/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="hu">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -643,7 +643,7 @@
   </file>
   <file original="Pi-hole Remote/Localization/InfoPlist.xcstrings" source-language="en" target-language="hu" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
@@ -681,13 +681,14 @@
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
         <source>Pi-hole Remote uses your location to detect your Wi-Fi network name, so it can automatically connect to your Pi-hole using the correct address. Your location is never stored or transmitted.</source>
+        <target state="translated">A Pi-hole Remote a tartózkodási helyét használja a Wi-Fi hálózat nevének azonosítására, hogy automatikusan csatlakozhasson a Pi-hole-hoz a megfelelő cím használatával. A tartózkodási helye soha nem kerül tárolásra vagy továbbításra.</target>
         <note>Privacy - Location When In Use Usage Description</note>
       </trans-unit>
     </body>
   </file>
   <file original="Pi-hole Remote/Localization/Localizable.xcstrings" source-language="en" target-language="hu" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="" translate="no" xml:space="preserve">
@@ -713,6 +714,11 @@
         <source>%1$@ %2$@</source>
         <target state="translated">%1$@ %2$@</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="%@ - Pi-hole Remote" xml:space="preserve">
+        <source>%@ - Pi-hole Remote</source>
+        <target state="translated">%@ - Pi-hole Remote</target>
+        <note>Title used as the share-sheet preview heading and the subject of an email when sharing a Pi-hole stats image. The placeholder is the instance name, 'Combined', or 'Pi-hole' when anonymise is enabled.</note>
       </trans-unit>
       <trans-unit id="%@ OFF" xml:space="preserve">
         <source>%@ OFF</source>
@@ -764,6 +770,16 @@
         <target state="translated">%1$lld csoport párosítva, %2$lld lesz létrehozva.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="%lld instances|==|plural.one" xml:space="preserve">
+        <source>%lld instance</source>
+        <target state="translated">%lld példány</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld instances|==|plural.other" xml:space="preserve">
+        <source>%lld instances</source>
+        <target state="translated">%lld példány</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="%lld regex entries|==|plural.one" xml:space="preserve">
         <source>%lld regex entry</source>
         <target state="translated">%lld regex bejegyzés</target>
@@ -778,6 +794,11 @@
         <source>%lld total</source>
         <target state="translated">%lld összesen</target>
         <note>Displays the number of total clients in the Home-tab 'Clients' card.</note>
+      </trans-unit>
+      <trans-unit id="%lld will be added · %lld duplicates ignored" xml:space="preserve">
+        <source>%1$lld will be added · %2$lld duplicates ignored</source>
+        <target state="translated">%lld hozzáadásra kerül · %lld másolat figyelmen kívül hagyva</target>
+        <note/>
       </trans-unit>
       <trans-unit id="%lld · %lld" xml:space="preserve">
         <source>%lld · %lld</source>
@@ -868,6 +889,21 @@ Ennek a beállításnak a módosítása az FTL újraindítását váltja ki.</ta
         <target state="translated">4. A beállításokat a **Webszerver** részben találod</target>
         <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
       </trans-unit>
+      <trans-unit id="6h" xml:space="preserve">
+        <source>6h</source>
+        <target state="translated">6 ó</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="12h" xml:space="preserve">
+        <source>12h</source>
+        <target state="translated">12 ó</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="24h" xml:space="preserve">
+        <source>24h</source>
+        <target state="translated">24 ó</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="60" translate="no" xml:space="preserve">
         <source>60</source>
         <target state="translated">60</target>
@@ -902,6 +938,11 @@ Ennek a beállításnak a módosítása az FTL újraindítását váltja ki.</ta
         <source>A monthly recurring payment</source>
         <target state="translated">Havi ismétlődő fizetés</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="A standard notification will appear when blocking re-enables." xml:space="preserve">
+        <source>A standard notification will appear when blocking re-enables.</source>
+        <target state="translated">Szabványos értesítés jelenik meg, amikor a blokkolás újraaktiválódik.</target>
+        <note>Used on the Notifications-settings screen.</note>
       </trans-unit>
       <trans-unit id="A yearly recurring payment" xml:space="preserve">
         <source>A yearly recurring payment</source>
@@ -985,6 +1026,7 @@ Ennek a beállításnak a módosítása az FTL újraindítását váltja ki.</ta
       </trans-unit>
       <trans-unit id="Add Current Wi-Fi (%@)" xml:space="preserve">
         <source>Add Current Wi-Fi (%@)</source>
+        <target state="translated">Jelenlegi Wi-Fi hozzáadása (%@)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add Custom Services" xml:space="preserve">
@@ -1074,6 +1116,7 @@ Ennek a beállításnak a módosítása az FTL újraindítását váltja ki.</ta
       </trans-unit>
       <trans-unit id="Add the Wi-Fi networks where the 'Home Connection' settings (local IP) should be used." xml:space="preserve">
         <source>Add the Wi-Fi networks where the 'Home Connection' settings (local IP) should be used.</source>
+        <target state="translated">Add meg azokat a Wi-Fi hálózatokat, ahol az 'Otthoni kapcsolat' beállításait (helyi IP) kell használni.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add to allow-list..." xml:space="preserve">
@@ -1123,6 +1166,7 @@ Ennek a beállításnak a módosítása az FTL újraindítását váltja ki.</ta
       </trans-unit>
       <trans-unit id="Add..." xml:space="preserve">
         <source>Add...</source>
+        <target state="translated">Hozzáadás...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Added on" xml:space="preserve">
@@ -1170,6 +1214,11 @@ Ennek a beállításnak a módosítása az FTL újraindítását váltja ki.</ta
         <target state="translated">Hirdetéslista</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Adlist URLs" xml:space="preserve">
+        <source>Adlist URLs</source>
+        <target state="translated">Tiltólista-URL-ek</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Adlists" xml:space="preserve">
         <source>Adlists</source>
         <target state="translated">Hirdetéslisták</target>
@@ -1193,6 +1242,26 @@ Ennek a beállításnak a módosítása az FTL újraindítását váltja ki.</ta
       <trans-unit id="Advertise DNS server multiple times to clients. Some devices will add their own proprietary DNS servers to the list of DNS servers, which can cause issues with Pi-hole. This option will advertise the Pi-hole DNS server multiple times to clients, which should prevent this from happening." xml:space="preserve">
         <source>Advertise DNS server multiple times to clients. Some devices will add their own proprietary DNS servers to the list of DNS servers, which can cause issues with Pi-hole. This option will advertise the Pi-hole DNS server multiple times to clients, which should prevent this from happening.</source>
         <target state="translated">A DNS-kiszolgáló többszöri hirdetése a klienseknek. Egyes eszközök hozzáadják saját DNS-kiszolgálóikat a DNS-kiszolgálók listájához, ami problémákat okozhat a Pi-hole-lal. Ez az opció többször hirdeti a Pi-hole DNS-kiszolgálót a klienseknek, ami megakadályozza ezt.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Alarm" xml:space="preserve">
+        <source>Alarm</source>
+        <target state="translated">Riasztás</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Alarms require PHR+." xml:space="preserve">
+        <source>Alarms require PHR+.</source>
+        <target state="translated">A riasztásokhoz PHR+ szükséges.</target>
+        <note>Used on the Notifications-settings screen.</note>
+      </trans-unit>
+      <trans-unit id="Alarms take over the screen when blocking re-enables, with sound that ignores silent mode." xml:space="preserve">
+        <source>Alarms take over the screen when blocking re-enables, with sound that ignores silent mode.</source>
+        <target state="translated">A riasztások átveszik a képernyőt, amikor a blokkolás újraaktiválódik, olyan hanggal, amely figyelmen kívül hagyja a néma módot.</target>
+        <note>Used on the Notifications-settings screen.</note>
+      </trans-unit>
+      <trans-unit id="Alert Style" xml:space="preserve">
+        <source>Alert Style</source>
+        <target state="translated">Riasztás stílusa</target>
         <note/>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
@@ -1242,6 +1311,7 @@ Ennek a beállításnak a módosítása az FTL újraindítását váltja ki.</ta
       </trans-unit>
       <trans-unit id="Allow Location Access" xml:space="preserve">
         <source>Allow Location Access</source>
+        <target state="translated">Helyadat-hozzáférés engedélyezése</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allow only local requests" xml:space="preserve">
@@ -1299,6 +1369,11 @@ Ennek a beállításnak a módosítása az FTL újraindítását váltja ki.</ta
         <target state="translated">Mindig sötét</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Anonymise" xml:space="preserve">
+        <source>Anonymise</source>
+        <target state="translated">Anonimizálás</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="App Icon" xml:space="preserve">
         <source>App Icon</source>
         <target state="translated">Alkalmazás ikon</target>
@@ -1319,12 +1394,21 @@ Ennek a beállításnak a módosítása az FTL újraindítását váltja ki.</ta
         <target state="translated">Alkalmazásjelszó</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Apply different connection settings when you’re away from home. Works really well with a VPN (like WireGuard or Tailscale) that automatically enables based on your Wi-Fi network.&#10;&#10;Specify the SSID(s) of your local Wi-Fi networks where the default 'Home Connection' settings (previous screen) should be used. When you're not on any of these networks, the connection settings below under 'Away Connection' will be used instead.&#10;&#10;Your default 'Home Connection' will then be used on home network(s) and on devices that don’t support overrides (macOS, Apple Watch, Apple TV, widgets)." xml:space="preserve">
+      <trans-unit id="Apply different connection settings when you’re away from home. Works really well with a VPN (like WireGuard or Tailscale) that automatically enables based on your Wi-Fi network.&#10;&#10;Specify the SSID(s) of your local Wi-Fi networks where the default 'Home Connection' settings (previous screen) should be used. When you're not on any of these networks, the connection settings below under 'Away Connection' will be used instead.&#10;&#10;The Away Connection must reach the **same Pi-hole** as your Home Connection — just via a different address (e.g. a public hostname or VPN IP). Pointing it at a different Pi-hole will cause repeated sign-outs.&#10;&#10;Your default 'Home Connection' will then be used on home network(s) and on devices that don’t support overrides (macOS, Apple Watch, Apple TV, widgets)." xml:space="preserve">
         <source>Apply different connection settings when you’re away from home. Works really well with a VPN (like WireGuard or Tailscale) that automatically enables based on your Wi-Fi network.
 
 Specify the SSID(s) of your local Wi-Fi networks where the default 'Home Connection' settings (previous screen) should be used. When you're not on any of these networks, the connection settings below under 'Away Connection' will be used instead.
 
+The Away Connection must reach the **same Pi-hole** as your Home Connection — just via a different address (e.g. a public hostname or VPN IP). Pointing it at a different Pi-hole will cause repeated sign-outs.
+
 Your default 'Home Connection' will then be used on home network(s) and on devices that don’t support overrides (macOS, Apple Watch, Apple TV, widgets).</source>
+        <target state="translated">Különböző kapcsolati beállításokat alkalmazz, ha otthonon kívül vagy. Nagyon jól működik egy VPN-nel (például WireGuard vagy Tailscale), amely automatikusan aktiválódik a Wi-Fi hálózatod alapján.
+
+Add meg a helyi Wi-Fi hálózataid SSID-jét/SSID-jeit, ahol az alapértelmezett ‘Otthoni kapcsolat’ beállításokat (előző képernyő) kell használni. Ha egyik ilyen hálózaton sem vagy, helyette a ‘Külső kapcsolat’ alatti kapcsolati beállítások kerülnek felhasználásra.
+
+A ‘Külső kapcsolatnak’ **ugyanazt a Pi-hole-t** kell elérnie, mint az ‘Otthoni kapcsolatnak’ — csak egy másik címen keresztül (pl. nyilvános gépnév vagy VPN-IP). Ha egy másik Pi-hole-ra irányítod, az ismételt kijelentkezéseket okoz.
+
+Az alapértelmezett ‘Otthoni kapcsolat’ ezután az otthoni hálózat(ok)on és az átírást nem támogató eszközökön (macOS, Apple Watch, Apple TV, widgetek) lesz használva.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete the adlist&#10;%@?" xml:space="preserve">
@@ -1363,6 +1447,7 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
       </trans-unit>
       <trans-unit id="Are you sure you want to remove the away connection? The default home connection will be used everywhere." xml:space="preserve">
         <source>Are you sure you want to remove the away connection? The default home connection will be used everywhere.</source>
+        <target state="translated">Biztosan el szeretnéd távolítani a külső kapcsolatot? Az alapértelmezett otthoni kapcsolat lesz mindenhol használva.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure you want to remove this instance?" xml:space="preserve">
@@ -1373,6 +1458,11 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
       <trans-unit id="Are you sure?" xml:space="preserve">
         <source>Are you sure?</source>
         <target state="translated">Biztosan?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Aspect ratio" xml:space="preserve">
+        <source>Aspect ratio</source>
+        <target state="translated">Képarány</target>
         <note/>
       </trans-unit>
       <trans-unit id="Assigned to %lld groups" xml:space="preserve">
@@ -1407,15 +1497,12 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
       </trans-unit>
       <trans-unit id="Automatically use a different hostname/IP when away from home, for example in combination with a VPN." xml:space="preserve">
         <source>Automatically use a different hostname/IP when away from home, for example in combination with a VPN.</source>
+        <target state="translated">Automatikusan használj más állomásnevet/IP-t, ha otthonon kívül vagy, például VPN-nel kombinálva.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Away Connection" xml:space="preserve">
         <source>Away Connection</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="BETA" xml:space="preserve">
-        <source>BETA</source>
-        <target state="translated">BÉTA</target>
+        <target state="translated">Külső kapcsolat</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bind only to interface" xml:space="preserve">
@@ -1714,6 +1801,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">Diagram</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Chart range" xml:space="preserve">
+        <source>Chart range</source>
+        <target state="translated">Diagram tartomány</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Clear all filters" xml:space="preserve">
         <source>Clear all filters</source>
         <target state="translated">Összes szűrő törlése</target>
@@ -1828,6 +1920,11 @@ Vedd figyelembe, hogy a kliensfelismerés IP-cím alapján (beleértve az alhál
         <target state="translated">Példányok összevonása</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Combined" xml:space="preserve">
+        <source>Combined</source>
+        <target state="translated">Kombinált</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Comment" xml:space="preserve">
         <source>Comment</source>
         <target state="translated">Megjegyzés</target>
@@ -1888,6 +1985,26 @@ Vedd figyelembe, hogy a kliensfelismerés IP-cím alapján (beleértve az alhál
         <target state="translated">Konvertálva: (\\.|^)%@$</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Copied %lld allowlist URL(s) to the clipboard as a comma-separated list." xml:space="preserve">
+        <source>Copied %lld allowlist URLs to the clipboard as a comma-separated list.</source>
+        <target state="translated">%lld engedélyezett URL kimásolva a vágólapra vesszővel elválasztott listaként.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copied %lld allowlist domain(s) to the clipboard as a comma-separated list." xml:space="preserve">
+        <source>Copied %lld allowlist domains to the clipboard as a comma-separated list.</source>
+        <target state="translated">%lld engedélyezett domain kimásolva a vágólapra vesszővel elválasztott listaként.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copied %lld blocklist URL(s) to the clipboard as a comma-separated list." xml:space="preserve">
+        <source>Copied %lld blocklist URLs to the clipboard as a comma-separated list.</source>
+        <target state="translated">%lld tiltólistás URL kimásolva a vágólapra vesszővel elválasztott listaként.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copied %lld denylist domain(s) to the clipboard as a comma-separated list." xml:space="preserve">
+        <source>Copied %lld denylist domains to the clipboard as a comma-separated list.</source>
+        <target state="translated">%lld tiltólistás domain kimásolva a vágólapra vesszővel elválasztott listaként.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Copy" xml:space="preserve">
         <source>Copy</source>
         <target state="translated">Másolás</target>
@@ -1911,11 +2028,6 @@ Vedd figyelembe, hogy a kliensfelismerés IP-cím alapján (beleértve az alhál
       <trans-unit id="Copy MAC address" xml:space="preserve">
         <source>Copy MAC address</source>
         <target state="translated">MAC-cím másolása</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Copy Message" xml:space="preserve">
-        <source>Copy Message</source>
-        <target state="translated">Üzenet másolása</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy UNIX timestamp" xml:space="preserve">
@@ -1945,6 +2057,12 @@ Vedd figyelembe, hogy a kliensfelismerés IP-cím alapján (beleértve az alhál
       </trans-unit>
       <trans-unit id="Copy host" xml:space="preserve">
         <source>Copy host</source>
+        <target state="translated">Állomás másolása</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copy message" xml:space="preserve">
+        <source>Copy message</source>
+        <target state="translated">Üzenet másolása</target>
         <note/>
       </trans-unit>
       <trans-unit id="Core" translate="no" xml:space="preserve">
@@ -2077,6 +2195,11 @@ Vedd figyelembe, hogy a kliensfelismerés IP-cím alapján (beleértve az alhál
         <target state="translated">Sötét</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Dark background" xml:space="preserve">
+        <source>Dark background</source>
+        <target state="translated">Sötét háttér</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
         <source>Date</source>
         <target state="translated">Dátum</target>
@@ -2167,11 +2290,6 @@ Vedd figyelembe, hogy a kliensfelismerés IP-cím alapján (beleértve az alhál
         <target state="translated">Célhely</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Destination Instance" xml:space="preserve">
-        <source>Destination Instance</source>
-        <target state="translated">Cél példány</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Details" xml:space="preserve">
         <source>Details</source>
         <target state="translated">Részletek</target>
@@ -2190,6 +2308,11 @@ Vedd figyelembe, hogy a kliensfelismerés IP-cím alapján (beleértve az alhál
       <trans-unit id="Disable" xml:space="preserve">
         <source>Disable</source>
         <target state="translated">Letiltás</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Disable 5 more minutes" xml:space="preserve">
+        <source>Disable 5 more minutes</source>
+        <target state="translated">Még 5 percre kikapcsolás</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disable Widget" xml:space="preserve">
@@ -2292,6 +2415,31 @@ Vedd figyelembe, hogy a kliensfelismerés IP-cím alapján (beleértve az alhál
         <target state="translated">Kész</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Download" xml:space="preserve">
+        <source>Download</source>
+        <target state="translated">Letöltés</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Download config backup" xml:space="preserve">
+        <source>Download config backup</source>
+        <target state="translated">Konfigurációs biztonsági mentés letöltése</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Downloading…" xml:space="preserve">
+        <source>Downloading…</source>
+        <target state="translated">Letöltés…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Duplicate" xml:space="preserve">
+        <source>Duplicate</source>
+        <target state="translated">Másolat</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Duplicates already exist on %@ for the selected list type and will be skipped." xml:space="preserve">
+        <source>Duplicates already exist on %@ for the selected list type and will be skipped.</source>
+        <target state="translated">A %@ kiválasztott listatípusán már léteznek másolatok, amelyek kihagyásra kerülnek.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Duration" xml:space="preserve">
         <source>Duration</source>
         <target state="translated">Időtartam</target>
@@ -2310,6 +2458,11 @@ Vedd figyelembe, hogy a kliensfelismerés IP-cím alapján (beleértve az alhál
       <trans-unit id="Dutch Color Scheme" xml:space="preserve">
         <source>Dutch Color Scheme</source>
         <target state="translated">Holland színséma</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Each domain will be converted to RegEx to involve all subdomains." xml:space="preserve">
+        <source>Each domain will be converted to RegEx to involve all subdomains.</source>
+        <target state="translated">Minden tartomány RegEx-szé lesz konvertálva, hogy minden altartomány érintett legyen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
@@ -2392,6 +2545,11 @@ Vedd figyelembe, hogy a kliensfelismerés IP-cím alapján (beleértve az alhál
         <target state="translated">Ennek engedélyezése az összes domaint RegEx-re konvertálja az összes aldomain bevonásához.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Enabling this will convert each domain to RegEx to involve all subdomains." xml:space="preserve">
+        <source>Enabling this will convert each domain to RegEx to involve all subdomains.</source>
+        <target state="translated">Ennek bekapcsolása minden tartományt RegEx-szé alakít, hogy minden altartomány érintett legyen.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Enabling this will convert the domain to RegEx to involve all subdomains." xml:space="preserve">
         <source>Enabling this will convert the domain to RegEx to involve all subdomains.</source>
         <target state="translated">Ennek engedélyezése a domaint RegEx-re konvertálja az összes aldomain bevonásához.</target>
@@ -2425,6 +2583,11 @@ Vedd figyelembe, hogy a kliensfelismerés IP-cím alapján (beleértve az alhál
       <trans-unit id="Error: %@" xml:space="preserve">
         <source>Error: %@</source>
         <target state="translated">Hiba: %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Errors" xml:space="preserve">
+        <source>Errors</source>
+        <target state="translated">Hibák</target>
         <note/>
       </trans-unit>
       <trans-unit id="Every 5 seconds" xml:space="preserve">
@@ -2462,9 +2625,34 @@ Vedd figyelembe, hogy a kliensfelismerés IP-cím alapján (beleértve az alhál
         <target state="translated">Fedezd fel az összes lekérdezést a hálózatodon és gyorsan blokkolj domaineket.</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
+      <trans-unit id="Export" xml:space="preserve">
+        <source>Export</source>
+        <target state="translated">Exportálás</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Export Adlists" xml:space="preserve">
+        <source>Export Adlists</source>
+        <target state="translated">Hirdetési listák exportálása</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Export Domains" xml:space="preserve">
+        <source>Export Domains</source>
+        <target state="translated">Domainek exportálása</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Export Pi-hole configuration" xml:space="preserve">
+        <source>Export Pi-hole configuration</source>
+        <target state="translated">Pi-hole konfiguráció exportálása</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="FTL" translate="no" xml:space="preserve">
         <source>FTL</source>
         <target state="translated">FTL</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="FTL logs" xml:space="preserve">
+        <source>FTL logs</source>
+        <target state="translated">FTL naplók</target>
         <note/>
       </trans-unit>
       <trans-unit id="FTL version: %@." xml:space="preserve">
@@ -2500,6 +2688,11 @@ Vedd figyelembe, hogy a kliensfelismerés IP-cím alapján (beleértve az alhál
       <trans-unit id="Filter &amp; Sort" xml:space="preserve">
         <source>Filter &amp; Sort</source>
         <target state="translated">Szűrés és rendezés</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Filter by priority" xml:space="preserve">
+        <source>Filter by priority</source>
+        <target state="translated">Szűrés prioritás szerint</target>
         <note/>
       </trans-unit>
       <trans-unit id="Filter by status" xml:space="preserve">
@@ -2586,6 +2779,11 @@ Vedd figyelembe, hogy a kliensfelismerés IP-cím alapján (beleértve az alhál
         <source>Free</source>
         <target state="translated">Ingyenes</target>
         <note>Used on the PHR+ purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="Free on the App Store" xml:space="preserve">
+        <source>Free on the App Store</source>
+        <target state="translated">Ingyenes az App Store-ban</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Gambling &amp; betting" xml:space="preserve">
         <source>Gambling &amp; betting</source>
@@ -2776,6 +2974,11 @@ Kérlek, ne oszd meg ezt a kódot.</target>
         <target state="translated">%@ kártya elrejtése</target>
         <note>Accessibility hint for show/hide statistics cards.</note>
       </trans-unit>
+      <trans-unit id="Hides instance name" xml:space="preserve">
+        <source>Hides instance name</source>
+        <target state="translated">Elrejti a példány nevét</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Home" xml:space="preserve">
         <source>Home</source>
         <target state="translated">Kezdőlap</target>
@@ -2783,6 +2986,7 @@ Kérlek, ne oszd meg ezt a kódot.</target>
       </trans-unit>
       <trans-unit id="Home Connection" xml:space="preserve">
         <source>Home Connection</source>
+        <target state="translated">Otthoni kapcsolat</target>
         <note/>
       </trans-unit>
       <trans-unit id="Home Preferences" xml:space="preserve">
@@ -2792,6 +2996,7 @@ Kérlek, ne oszd meg ezt a kódot.</target>
       </trans-unit>
       <trans-unit id="Home Wi-Fi Networks" xml:space="preserve">
         <source>Home Wi-Fi Networks</source>
+        <target state="translated">Otthoni Wi-Fi hálózatok</target>
         <note/>
       </trans-unit>
       <trans-unit id="Host" xml:space="preserve">
@@ -2902,9 +3107,39 @@ Megjegyzés: Ha ez a funkció engedélyezve van, az új klienseket manuálisan k
         <target state="translated">Ismeretlen DHCP kliensek figyelmen kívül hagyása</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Import" xml:space="preserve">
+        <source>Import</source>
+        <target state="translated">Importálás</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Import &amp; Export Filters" xml:space="preserve">
+        <source>Import &amp; Export Filters</source>
+        <target state="translated">Szűrők importálása és exportálása</target>
+        <note>Used on the PHR+ purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="Import Adlists" xml:space="preserve">
+        <source>Import Adlists</source>
+        <target state="translated">Tiltólisták importálása</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Import Domains" xml:space="preserve">
+        <source>Import Domains</source>
+        <target state="translated">Domének importálása</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Import or Export" xml:space="preserve">
+        <source>Import or Export</source>
+        <target state="translated">Importálás vagy exportálás</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="In Progress" xml:space="preserve">
         <source>In Progress</source>
         <target state="translated">Folyamatban</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Include chart" xml:space="preserve">
+        <source>Include chart</source>
+        <target state="translated">Diagram hozzáadása</target>
         <note/>
       </trans-unit>
       <trans-unit id="Indefinitely" xml:space="preserve">
@@ -2972,9 +3207,19 @@ Megjegyzés: Ha ez a funkció engedélyezve van, az új klienseket manuálisan k
         <target state="translated">Interfészek</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Invalid URL" xml:space="preserve">
+        <source>Invalid URL</source>
+        <target state="translated">Érvénytelen URL</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Invalid URL. Did you enter the correct host, port, and API path?" xml:space="preserve">
         <source>Invalid URL. Did you enter the correct host, port, and API path?</source>
         <target state="translated">Érvénytelen URL. A helyes hosztot, portot és API útvonalat adtad meg?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Invalid entries are not http(s):// or file:// URLs and will be skipped." xml:space="preserve">
+        <source>Invalid entries are not http(s):// or file:// URLs and will be skipped.</source>
+        <target state="translated">Az érvénytelen bejegyzések nem http(s):// vagy file:// URL-ek, ezért ki lesznek hagyva.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Kelvin" xml:space="preserve">
@@ -2990,6 +3235,11 @@ Megjegyzés: Ha ez a funkció engedélyezve van, az új klienseket manuálisan k
       <trans-unit id="Kind of list" xml:space="preserve">
         <source>Kind of list</source>
         <target state="translated">Lista típusa</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Landscape" xml:space="preserve">
+        <source>Landscape</source>
+        <target state="translated">Fekvő</target>
         <note/>
       </trans-unit>
       <trans-unit id="Last Updated" xml:space="preserve">
@@ -3124,10 +3374,12 @@ Megjegyzés: Ha ez a funkció engedélyezve van, az új klienseket manuálisan k
       </trans-unit>
       <trans-unit id="Location Permission Required" xml:space="preserve">
         <source>Location Permission Required</source>
+        <target state="translated">Helyadat-engedély szükséges</target>
         <note/>
       </trans-unit>
       <trans-unit id="Location access was previously denied. Please enable it in Settings." xml:space="preserve">
         <source>Location access was previously denied. Please enable it in Settings.</source>
+        <target state="translated">A helyadat-hozzáférés korábban el lett utasítva. Kérjük, engedélyezd a Beállításokban.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Logs" xml:space="preserve">
@@ -3167,6 +3419,7 @@ Megjegyzés: Ha ez a funkció engedélyezve van, az új klienseket manuálisan k
       </trans-unit>
       <trans-unit id="Manage Away Connection" xml:space="preserve">
         <source>Manage Away Connection</source>
+        <target state="translated">Külső kapcsolat kezelése</target>
         <note/>
       </trans-unit>
       <trans-unit id="Manage Subscription" xml:space="preserve">
@@ -3177,11 +3430,6 @@ Megjegyzés: Ha ez a funkció engedélyezve van, az új klienseket manuálisan k
       <trans-unit id="Mark as 'Time Sensitive'" xml:space="preserve">
         <source>Mark as 'Time Sensitive'</source>
         <target state="translated">Jelölés 'Időérzékenyként'</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Matched groups" xml:space="preserve">
-        <source>Matched groups</source>
-        <target state="translated">Párosított csoportok</target>
         <note/>
       </trans-unit>
       <trans-unit id="Media sharing" xml:space="preserve">
@@ -3197,11 +3445,6 @@ Megjegyzés: Ha ez a funkció engedélyezve van, az új klienseket manuálisan k
       <trans-unit id="Merge" xml:space="preserve">
         <source>Merge</source>
         <target state="translated">Egyesítés</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Messages" xml:space="preserve">
-        <source>Messages</source>
-        <target state="translated">Üzenetek</target>
         <note/>
       </trans-unit>
       <trans-unit id="Metrics" xml:space="preserve">
@@ -3253,6 +3496,11 @@ Megjegyzés: Ha ez a funkció engedélyezve van, az új klienseket manuálisan k
         <source>Must be unique.</source>
         <target state="translated">Egyedinek kell lennie.</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="My Pi-hole stats, shared with Pi-hole Remote https://apps.apple.com/app/id1515445551" xml:space="preserve">
+        <source>My Pi-hole stats, shared with Pi-hole Remote https://apps.apple.com/app/id1515445551</source>
+        <target state="translated">Pi-hole statisztikáim, megosztva Pi-hole Remote segítségével https://apps.apple.com/app/id1515445551</target>
+        <note>Pre-filled message body when sharing a Pi-hole stats image to apps that accept text (Messages, Mail, social apps). Includes the App Store link as a soft CTA.</note>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
         <source>Name</source>
@@ -3319,29 +3567,9 @@ Megjegyzés: Ha ez a funkció engedélyezve van, az új klienseket manuálisan k
         <target state="translated">Új szolgáltatás</target>
         <note/>
       </trans-unit>
-      <trans-unit id="New clients (destination)" xml:space="preserve">
-        <source>New clients (destination)</source>
-        <target state="translated">Új kliensek (cél)</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="New clients (source)" xml:space="preserve">
-        <source>New clients (source)</source>
-        <target state="translated">Új kliensek (forrás)</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="New custom blocked service" xml:space="preserve">
         <source>New custom blocked service</source>
         <target state="translated">Új egyéni blokkolt szolgáltatás</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="New groups (destination)" xml:space="preserve">
-        <source>New groups (destination)</source>
-        <target state="translated">Új csoportok (cél)</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="New groups (source)" xml:space="preserve">
-        <source>New groups (source)</source>
-        <target state="translated">Új csoportok (forrás)</target>
         <note/>
       </trans-unit>
       <trans-unit id="NextDNS Remote" translate="no" xml:space="preserve">
@@ -3424,6 +3652,16 @@ Megjegyzés: Ha ez a funkció engedélyezve van, az új klienseket manuálisan k
         <target state="translated">Nem találhatók bérletek.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="No log lines match the current filter." xml:space="preserve">
+        <source>No log lines match the current filter.</source>
+        <target state="translated">Egyetlen naplóbejegyzés sem felel meg a jelenlegi szűrőnek.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No log lines yet." xml:space="preserve">
+        <source>No log lines yet.</source>
+        <target state="translated">Még nincsenek naplóbejegyzések.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="No matching adlists found." xml:space="preserve">
         <source>No matching adlists found.</source>
         <target state="translated">Nem található egyező hirdetéslista.</target>
@@ -3489,10 +3727,20 @@ Megjegyzés: Ha ez a funkció engedélyezve van, az új klienseket manuálisan k
         <target state="translated">Megjegyzés: a beillesztett hirdetéslista- és domain-bejegyzések csak a "default" csoporthoz lesznek hozzáadva.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Notification" xml:space="preserve">
+        <source>Notification</source>
+        <target state="translated">Értesítés</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Notifications" xml:space="preserve">
         <source>Notifications</source>
         <target state="translated">Értesítések</target>
         <note>Used on the Notifications-settings screen.</note>
+      </trans-unit>
+      <trans-unit id="Notifications &amp; Alarms" xml:space="preserve">
+        <source>Notifications &amp; Alarms</source>
+        <target state="translated">Értesítések és riasztások</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Notifications..." xml:space="preserve">
         <source>Notifications...</source>
@@ -3568,6 +3816,11 @@ Vegye figyelembe, hogy ez a beállítás csak azt befolyásolja, hogyan *jelenti
         <target state="translated">Egyérintéses letiltási időtartam</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Only available for a single instance." xml:space="preserve">
+        <source>Only available for a single instance.</source>
+        <target state="translated">Csak egyetlen példányhoz érhető el.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Only change these settings if you know what you're doing." xml:space="preserve">
         <source>Only change these settings if you know what you're doing.</source>
         <target state="translated">Csak akkor módosítsd ezeket a beállításokat, ha tudod, mit csinálsz.</target>
@@ -3591,6 +3844,11 @@ Vegye figyelembe, hogy ez a beállítás csak azt befolyásolja, hogyan *jelenti
       <trans-unit id="Open Settings to allow 'Time Sensitive Notifications'" xml:space="preserve">
         <source>Open Settings to allow 'Time Sensitive Notifications'</source>
         <target state="translated">Nyisd meg a Beállításokat az 'Időérzékeny értesítések' engedélyezéséhez</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open Settings to allow Alarms" xml:space="preserve">
+        <source>Open Settings to allow Alarms</source>
+        <target state="translated">Beállítások megnyitása a riasztások engedélyezéséhez</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open Settings to allow banners" xml:space="preserve">
@@ -3700,6 +3958,16 @@ Vegye figyelembe, hogy ez a beállítás csak azt befolyásolja, hogyan *jelenti
         <target state="translated">Beillesztés</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Paste a comma-separated list of adlist URLs. Newlines and spaces are also accepted as separators." xml:space="preserve">
+        <source>Paste a comma-separated list of adlist URLs. Newlines and spaces are also accepted as separators.</source>
+        <target state="translated">Illesszen be egy vesszővel elválasztott tiltólista-URL-listát. Sortörés és szóköz is elfogadható elválasztóként.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Paste a comma-separated list of domains. Newlines and spaces are also accepted as separators." xml:space="preserve">
+        <source>Paste a comma-separated list of domains. Newlines and spaces are also accepted as separators.</source>
+        <target state="translated">Illesszen be egy vesszővel elválasztott tartománylistát. Sortörés és szóköz is elfogadható elválasztóként.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Permit all origins" xml:space="preserve">
         <source>Permit all origins</source>
         <target state="translated">Összes forrás engedélyezése</target>
@@ -3735,9 +4003,9 @@ Vegye figyelembe, hogy ez a beállítás csak azt befolyásolja, hogyan *jelenti
         <target state="translated">Pi-hole domain név</target>
         <note>Displayed on the DNS Settings screen.</note>
       </trans-unit>
-      <trans-unit id="Pi-hole v6.0+ Required" xml:space="preserve">
-        <source>Pi-hole v6.0+ Required</source>
-        <target state="translated">Pi-hole v6.0+ szükséges</target>
+      <trans-unit id="Pick instance" xml:space="preserve">
+        <source>Pick instance</source>
+        <target state="translated">Példány kiválasztása</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pink" xml:space="preserve">
@@ -3760,11 +4028,6 @@ Vegye figyelembe, hogy ez a beállítás csak azt befolyásolja, hogyan *jelenti
         <target state="translated">Kérlek, adj hozzá egy példányt az iPhone alkalmazásban. Ha ezt már megtetted, próbáld meg a 'Beállítások' &gt; 'Súgó és visszajelzés' &gt; 'Kényszerített óra szinkronizálás' opciót, és kényszerítsd le az óra alkalmazást.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Please choose two different instances." xml:space="preserve">
-        <source>Please choose two different instances.</source>
-        <target state="translated">Kérlek, válassz két különböző példányt.</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Please enter a valid URL." xml:space="preserve">
         <source>Please enter a valid URL.</source>
         <target state="translated">Kérlek, adj meg egy érvényes URL-t.</target>
@@ -3775,11 +4038,6 @@ Vegye figyelembe, hogy ez a beállítás csak azt befolyásolja, hogyan *jelenti
         <target state="translated">Kérlek, írj e-mailt hibákkal vagy fejlesztési javaslatokkal kapcsolatos visszajelzéseddel a developer@rocketscience-it.nl címre!</target>
         <note>Displayed in an alert on the support screen when someone has no email client installed.</note>
       </trans-unit>
-      <trans-unit id="Please note that Pi-hole v6.0 or higher is required for the app to work. If you're running an older version of Pi-hole, please update your Pi-hole first by running " xml:space="preserve">
-        <source>Please note that Pi-hole v6.0 or higher is required for the app to work. If you're running an older version of Pi-hole, please update your Pi-hole first by running </source>
-        <target state="translated">Vedd figyelembe, hogy az alkalmazás működéséhez Pi-hole v6.0 vagy újabb szükséges. Ha régebbi Pi-hole verziót futtatsz, kérlek, először frissítsd a Pi-hole-odat a következő futtatásával: </target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Please use English or Dutch for support requests!" xml:space="preserve">
         <source>Please use English or Dutch for support requests!</source>
         <target state="translated">Kérlek, angolul vagy hollandul írj a támogatási kérésekben!</target>
@@ -3788,6 +4046,11 @@ Vegye figyelembe, hogy ez a beállítás csak azt befolyásolja, hogyan *jelenti
       <trans-unit id="Port" xml:space="preserve">
         <source>Port</source>
         <target state="translated">Port</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Portrait" xml:space="preserve">
+        <source>Portrait</source>
+        <target state="translated">Álló</target>
         <note/>
       </trans-unit>
       <trans-unit id="Powerful Pi-hole Client &amp; Group management." xml:space="preserve">
@@ -3978,6 +4241,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Remove Away Connection" xml:space="preserve">
         <source>Remove Away Connection</source>
+        <target state="translated">Külső kapcsolat eltávolítása</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remove Custom Service" xml:space="preserve">
@@ -4165,9 +4429,29 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">Beállítások</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Share" xml:space="preserve">
+        <source>Share</source>
+        <target state="translated">Megosztás</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Share Pi-hole Remote" xml:space="preserve">
         <source>Share Pi-hole Remote</source>
         <target state="translated">Pi-hole Remote megosztása</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Share Statistics" xml:space="preserve">
+        <source>Share Statistics</source>
+        <target state="translated">Statisztikák megosztása</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Share statistics" xml:space="preserve">
+        <source>Share statistics</source>
+        <target state="translated">Statisztikák megosztása</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sharing statistics is not available on this platform." xml:space="preserve">
+        <source>Sharing statistics is not available on this platform.</source>
+        <target state="translated">A statisztikák megosztása nem érhető el ezen a platformon.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Shopping" xml:space="preserve">
@@ -4245,6 +4529,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">Jelmagyarázat megjelenítése</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Show logs" xml:space="preserve">
+        <source>Show logs</source>
+        <target state="translated">Naplók megjelenítése</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Show metrics" xml:space="preserve">
         <source>Show metrics</source>
         <target state="translated">Metrikák megjelenítése</target>
@@ -4263,6 +4552,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       <trans-unit id="Show response time" xml:space="preserve">
         <source>Show response time</source>
         <target state="translated">Válaszidő megjelenítése</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show share button" xml:space="preserve">
+        <source>Show share button</source>
+        <target state="translated">Megosztás gomb megjelenítése</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show the %@ %@ card" xml:space="preserve">
@@ -4325,11 +4619,6 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">Forrás</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Source Instance" xml:space="preserve">
-        <source>Source Instance</source>
-        <target state="translated">Forrás példány</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Special Domain" xml:space="preserve">
         <source>Special Domain</source>
         <target state="translated">Speciális domain</target>
@@ -4360,6 +4649,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">Sebesség</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Square" xml:space="preserve">
+        <source>Square</source>
+        <target state="translated">Négyzet</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Statistics" xml:space="preserve">
         <source>Statistics</source>
         <target state="translated">Statisztikák</target>
@@ -4383,6 +4677,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       <trans-unit id="Status" xml:space="preserve">
         <source>Status</source>
         <target state="translated">Állapot</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Stop" xml:space="preserve">
+        <source>Stop</source>
+        <target state="translated">Leállítás</target>
         <note/>
       </trans-unit>
       <trans-unit id="Stop Live Activity" xml:space="preserve">
@@ -4420,12 +4719,19 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">Fejlesztés támogatása</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Swap source and destination" xml:space="preserve">
+        <source>Swap source and destination</source>
+        <target state="translated">Forrás és cél felcserélése</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Switches to 'Away' when not connected to Wi-Fi SSID: %@" xml:space="preserve">
         <source>Switches to 'Away' when not connected to Wi-Fi SSID: %@</source>
+        <target state="translated">'Külsőre' vált, ha nem csatlakozik a Wi-Fi SSID-hez: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Switches to 'Home' when connected to Wi-Fi SSID: %@" xml:space="preserve">
         <source>Switches to 'Home' when connected to Wi-Fi SSID: %@</source>
+        <target state="translated">'Otthonikra' vált, ha csatlakozik a Wi-Fi SSID-hez: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sync Instances" xml:space="preserve">
@@ -4650,13 +4956,23 @@ Cserébe nagyra értékelném egy véleményt az App Store-ban vagy egy kis adom
         <target state="translated">A piros opciók veszélyesek az internethez közvetlenül csatlakozó eszközökön, mint a felhőpéldányok, és csak akkor biztonságosak, ha a Pi-hole-od megfelelően tűzfalazott. Egy tipikus otthoni beállításban, ahol a Pi-hole a helyi hálózaton belül van (és nem továbbítottad az 53-as portot a routereden!), biztonságosan használhatók.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="These settings are used when you're not on any of the home Wi-Fi networks above (e.g. cellular, VPN, or other Wi-Fi)." xml:space="preserve">
-        <source>These settings are used when you're not on any of the home Wi-Fi networks above (e.g. cellular, VPN, or other Wi-Fi).</source>
+      <trans-unit id="These settings are used when you're not on any of the home Wi-Fi networks above (e.g. cellular, VPN, or other Wi-Fi). Must point to the **same Pi-hole** as your Home Connection, not a different server." xml:space="preserve">
+        <source>These settings are used when you're not on any of the home Wi-Fi networks above (e.g. cellular, VPN, or other Wi-Fi). Must point to the **same Pi-hole** as your Home Connection, not a different server.</source>
+        <target state="translated">Ezek a beállítások akkor érvényesek, amikor a fenti otthoni Wi-Fi hálózatok egyikén sem vagy (pl. mobilhálózat, VPN vagy más Wi-Fi). **Ugyanarra a Pi-hole-ra** kell mutatnia, mint az ‘Otthoni kapcsolatnak’, nem egy másik kiszolgálóra.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This action is final and cannot be undone." xml:space="preserve">
         <source>This action is final and cannot be undone.</source>
         <target state="translated">Ez a művelet végleges és nem vonható vissza.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="This archive contains sensitive information about your Pi-hole installation, such as your 2FA-TOTP secret if enabled. Be careful with this file and do not share it with anyone, even if they claim to help you.&#10;&#10;Your long-term history database (pihole-FTL.db) must be backed up separately." xml:space="preserve">
+        <source>This archive contains sensitive information about your Pi-hole installation, such as your 2FA-TOTP secret if enabled. Be careful with this file and do not share it with anyone, even if they claim to help you.
+
+Your long-term history database (pihole-FTL.db) must be backed up separately.</source>
+        <target state="translated">Ez az archívum érzékeny információkat tartalmaz a Pi-hole telepítéséről, például a 2FA-TOTP titkot, ha engedélyezve van. Legyen óvatos ezzel a fájllal, és ne ossza meg senkivel, még akkor sem, ha segítséget ajánlanak.
+
+A hosszú távú előzményadatbázist (pihole-FTL.db) külön kell biztonsági másolatot készíteni.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This device is probably not using Pi-hole, because no queries were found." xml:space="preserve">
@@ -4688,6 +5004,9 @@ Cserébe nagyra értékelném egy véleményt az App Store-ban vagy egy kis adom
         <source>To detect your Wi-Fi network name, Apple requires 'While Using App' location permission. This is a system requirement for reading Wi-Fi information.
 
 Your location is never stored or transmitted by Pi-hole Remote.</source>
+        <target state="translated">A Wi-Fi hálózatneved felismeréséhez az Apple a 'Az alkalmazás használata közben' helyadat-engedélyt igényli. Ez egy rendszerkövetelmény a Wi-Fi-adatok olvasásához.
+
+A tartózkodási helyed soha nem kerül tárolásra vagy továbbításra a Pi-hole Remote által.</target>
         <note/>
       </trans-unit>
       <trans-unit id="To re-sync after purging, edit &amp; save an instance." xml:space="preserve">
@@ -4879,6 +5198,7 @@ Kapcsold KI a hozzáférés engedélyezéséhez.</target>
       </trans-unit>
       <trans-unit id="Upgrade to PHR+ to automatically use a different hostname/IP when away from home, for example in combination with a VPN." xml:space="preserve">
         <source>Upgrade to PHR+ to automatically use a different hostname/IP when away from home, for example in combination with a VPN.</source>
+        <target state="translated">Frissíts PHR+-ra, hogy automatikusan más állomásnevet/IP-t használhass, ha otthonon kívül vagy, például VPN-nel kombinálva.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Upper temp limit" xml:space="preserve">
@@ -4918,6 +5238,7 @@ Kapcsold KI a hozzáférés engedélyezéséhez.</target>
       </trans-unit>
       <trans-unit id="Used when **not** connected to Wi-Fi SSID: %@" xml:space="preserve">
         <source>Used when **not** connected to Wi-Fi SSID: %@</source>
+        <target state="translated">Akkor használatos, ha **nem** csatlakozik a Wi-Fi SSID-hez: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Users who purchased the app while it was paid upfront instead of free with in-app purchases, can get PHR+ Lifetime for free as a thank you. Please press the button below to let the app check if you're entitled to it. This will show a native iOS alert to restore the purchase." xml:space="preserve">
@@ -4955,6 +5276,21 @@ Kapcsold KI a hozzáférés engedélyezéséhez.</target>
         <target state="translated">Verziók</target>
         <note/>
       </trans-unit>
+      <trans-unit id="View FTL logs" xml:space="preserve">
+        <source>View FTL logs</source>
+        <target state="translated">FTL naplók megtekintése</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="View Webserver logs" xml:space="preserve">
+        <source>View Webserver logs</source>
+        <target state="translated">Webszerver naplók megtekintése</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="View dnsmasq logs" xml:space="preserve">
+        <source>View dnsmasq logs</source>
+        <target state="translated">dnsmasq naplók megtekintése</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Visible on Home-tab" xml:space="preserve">
         <source>Visible on Home-tab</source>
         <target state="translated">Látható a Kezdőlapon</target>
@@ -4963,6 +5299,11 @@ Kapcsold KI a hozzáférés engedélyezéséhez.</target>
       <trans-unit id="Waiting for queries..." xml:space="preserve">
         <source>Waiting for queries...</source>
         <target state="translated">Várakozás a lekérdezésekre...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Warnings" xml:space="preserve">
+        <source>Warnings</source>
+        <target state="translated">Figyelmeztetések</target>
         <note/>
       </trans-unit>
       <trans-unit id="Watch App Not Installed" xml:space="preserve">
@@ -4984,6 +5325,11 @@ Kapcsold KI a hozzáférés engedélyezéséhez.</target>
         <source>Webserver</source>
         <target state="translated">Webszerver</target>
         <note>Used on the 'System Settings' screen.</note>
+      </trans-unit>
+      <trans-unit id="Webserver logs" xml:space="preserve">
+        <source>Webserver logs</source>
+        <target state="translated">Webszerver naplók</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Welcome!" xml:space="preserve">
         <source>Welcome!</source>
@@ -5015,6 +5361,7 @@ A tanúsítvány alapértelmezett helye az eszközödön: /etc/pihole/tls.pem. K
       </trans-unit>
       <trans-unit id="Wi-Fi network name (SSID)" xml:space="preserve">
         <source>Wi-Fi network name (SSID)</source>
+        <target state="translated">Wi-Fi hálózatnév (SSID)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Widgets" xml:space="preserve">
@@ -5295,6 +5642,15 @@ A tanúsítvány alapértelmezett helye az eszközödön: /etc/pihole/tls.pem. K
       <trans-unit id="dismiss" xml:space="preserve">
         <source>Dismiss</source>
         <target state="translated">Dismiss</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dnsmasq" translate="no" xml:space="preserve">
+        <source>dnsmasq</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dnsmasq logs" xml:space="preserve">
+        <source>dnsmasq logs</source>
+        <target state="translated">dnsmasq naplók</target>
         <note/>
       </trans-unit>
       <trans-unit id="enable more than 1 Blocked Service." xml:space="preserve">
@@ -5695,7 +6051,7 @@ Joost</target>
   </file>
   <file original="WidgetInstance/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="hu">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">

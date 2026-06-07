@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Base.lproj/Intents.intentdefinition" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="5NF9k6" xml:space="preserve">
@@ -94,7 +94,7 @@
   </file>
   <file original="en.lproj/Pi-hole Remote Widgets copy-InfoPlist.strings" datatype="plaintext" source-language="en" target-language="it">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -109,11 +109,11 @@
   </file>
   <file original="Pi-hole Remote Share Extension/InfoPlist.xcstrings" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
-        <source>Pi-hole Remote Share Extension</source>
+        <source>Pi-hole Remote</source>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
@@ -128,7 +128,7 @@
   </file>
   <file original="Pi-hole Remote tvOS App/Pi-hole-Remote-tvOS-App-InfoPlist.xcstrings" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -147,7 +147,7 @@
   </file>
   <file original="Pi-hole Remote Watch App/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="it">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -162,7 +162,7 @@
   </file>
   <file original="Pi-hole Remote Widgets/Base.lproj/StatWidget.intentdefinition" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="2C0IPw-Ixk02y" xml:space="preserve">
@@ -628,7 +628,7 @@
   </file>
   <file original="Pi-hole Remote Widgets/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="it">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -643,7 +643,7 @@
   </file>
   <file original="Pi-hole Remote/Localization/InfoPlist.xcstrings" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
@@ -681,13 +681,14 @@
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
         <source>Pi-hole Remote uses your location to detect your Wi-Fi network name, so it can automatically connect to your Pi-hole using the correct address. Your location is never stored or transmitted.</source>
+        <target state="translated">Pi-hole Remote usa la tua posizione per rilevare il nome della rete Wi-Fi, in modo da potersi connettere automaticamente al tuo Pi-hole usando l'indirizzo corretto. La tua posizione non viene mai memorizzata o trasmessa.</target>
         <note>Privacy - Location When In Use Usage Description</note>
       </trans-unit>
     </body>
   </file>
   <file original="Pi-hole Remote/Localization/Localizable.xcstrings" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="" translate="no" xml:space="preserve">
@@ -714,6 +715,11 @@
         <source>%1$@ %2$@</source>
         <target state="translated">%@ %@</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="%@ - Pi-hole Remote" xml:space="preserve">
+        <source>%@ - Pi-hole Remote</source>
+        <target state="translated">%@ - Pi-hole Remote</target>
+        <note>Title used as the share-sheet preview heading and the subject of an email when sharing a Pi-hole stats image. The placeholder is the instance name, 'Combined', or 'Pi-hole' when anonymise is enabled.</note>
       </trans-unit>
       <trans-unit id="%@ OFF" xml:space="preserve">
         <source>%@ OFF</source>
@@ -765,6 +771,16 @@
         <target state="translated">%1$lld gruppi abbinati, %2$lld verranno creati.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="%lld instances|==|plural.one" xml:space="preserve">
+        <source>%lld instance</source>
+        <target state="translated">%lld istanza</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld instances|==|plural.other" xml:space="preserve">
+        <source>%lld instances</source>
+        <target state="translated">%lld istanze</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="%lld regex entries" xml:space="preserve">
         <source>%lld regex entries</source>
         <target state="translated">%lld voci regex</target>
@@ -774,6 +790,11 @@
         <source>%lld total</source>
         <target state="translated">%lld totali</target>
         <note>Displays the number of total clients in the Home-tab 'Clients' card.</note>
+      </trans-unit>
+      <trans-unit id="%lld will be added · %lld duplicates ignored" xml:space="preserve">
+        <source>%1$lld will be added · %2$lld duplicates ignored</source>
+        <target state="translated">%lld saranno aggiunti · %lld duplicati ignorati</target>
+        <note/>
       </trans-unit>
       <trans-unit id="%lld · %lld" xml:space="preserve">
         <source>%lld · %lld</source>
@@ -864,6 +885,21 @@ La modifica di questa impostazione attiverà un riavvio di FTL.</target>
         <target state="translated">4. Puoi trovare le impostazioni nella sezione **Webserver**</target>
         <note>Used on Preferences &gt; Home to explain how to change the temperature unit.</note>
       </trans-unit>
+      <trans-unit id="6h" xml:space="preserve">
+        <source>6h</source>
+        <target state="translated">6 h</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="12h" xml:space="preserve">
+        <source>12h</source>
+        <target state="translated">12 h</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="24h" xml:space="preserve">
+        <source>24h</source>
+        <target state="translated">24 h</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="60" translate="no" xml:space="preserve">
         <source>60</source>
         <target state="translated">60</target>
@@ -898,6 +934,11 @@ La modifica di questa impostazione attiverà un riavvio di FTL.</target>
         <source>A monthly recurring payment</source>
         <target state="translated">Un pagamento mensile ricorrente</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="A standard notification will appear when blocking re-enables." xml:space="preserve">
+        <source>A standard notification will appear when blocking re-enables.</source>
+        <target state="translated">Apparirà una notifica standard quando il blocco si riattiva.</target>
+        <note>Used on the Notifications-settings screen.</note>
       </trans-unit>
       <trans-unit id="A yearly recurring payment" xml:space="preserve">
         <source>A yearly recurring payment</source>
@@ -981,6 +1022,7 @@ La modifica di questa impostazione attiverà un riavvio di FTL.</target>
       </trans-unit>
       <trans-unit id="Add Current Wi-Fi (%@)" xml:space="preserve">
         <source>Add Current Wi-Fi (%@)</source>
+        <target state="translated">Aggiungi Wi-Fi corrente (%@)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add Custom Services" xml:space="preserve">
@@ -1070,6 +1112,7 @@ La modifica di questa impostazione attiverà un riavvio di FTL.</target>
       </trans-unit>
       <trans-unit id="Add the Wi-Fi networks where the 'Home Connection' settings (local IP) should be used." xml:space="preserve">
         <source>Add the Wi-Fi networks where the 'Home Connection' settings (local IP) should be used.</source>
+        <target state="translated">Aggiungi le reti Wi-Fi in cui devono essere usate le impostazioni di 'Connessione casa' (IP locale).</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add to allow-list..." xml:space="preserve">
@@ -1119,6 +1162,7 @@ La modifica di questa impostazione attiverà un riavvio di FTL.</target>
       </trans-unit>
       <trans-unit id="Add..." xml:space="preserve">
         <source>Add...</source>
+        <target state="translated">Aggiungi...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Added on" xml:space="preserve">
@@ -1166,6 +1210,11 @@ La modifica di questa impostazione attiverà un riavvio di FTL.</target>
         <target state="translated">Adlist</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Adlist URLs" xml:space="preserve">
+        <source>Adlist URLs</source>
+        <target state="translated">URL liste di blocco</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Adlists" xml:space="preserve">
         <source>Adlists</source>
         <target state="translated">Adlist</target>
@@ -1189,6 +1238,26 @@ La modifica di questa impostazione attiverà un riavvio di FTL.</target>
       <trans-unit id="Advertise DNS server multiple times to clients. Some devices will add their own proprietary DNS servers to the list of DNS servers, which can cause issues with Pi-hole. This option will advertise the Pi-hole DNS server multiple times to clients, which should prevent this from happening." xml:space="preserve">
         <source>Advertise DNS server multiple times to clients. Some devices will add their own proprietary DNS servers to the list of DNS servers, which can cause issues with Pi-hole. This option will advertise the Pi-hole DNS server multiple times to clients, which should prevent this from happening.</source>
         <target state="translated">Annuncia il server DNS più volte ai client. Alcuni dispositivi aggiungono i propri server DNS proprietari alla lista dei server DNS, il che può causare problemi con Pi-hole. Questa opzione annuncerà il server DNS Pi-hole più volte ai client, prevenendo questo problema.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Alarm" xml:space="preserve">
+        <source>Alarm</source>
+        <target state="translated">Allarme</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Alarms require PHR+." xml:space="preserve">
+        <source>Alarms require PHR+.</source>
+        <target state="translated">Gli allarmi richiedono PHR+.</target>
+        <note>Used on the Notifications-settings screen.</note>
+      </trans-unit>
+      <trans-unit id="Alarms take over the screen when blocking re-enables, with sound that ignores silent mode." xml:space="preserve">
+        <source>Alarms take over the screen when blocking re-enables, with sound that ignores silent mode.</source>
+        <target state="translated">Gli allarmi prendono il controllo dello schermo quando il blocco si riattiva, con un suono che ignora la modalità silenziosa.</target>
+        <note>Used on the Notifications-settings screen.</note>
+      </trans-unit>
+      <trans-unit id="Alert Style" xml:space="preserve">
+        <source>Alert Style</source>
+        <target state="translated">Stile dell'avviso</target>
         <note/>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
@@ -1238,6 +1307,7 @@ La modifica di questa impostazione attiverà un riavvio di FTL.</target>
       </trans-unit>
       <trans-unit id="Allow Location Access" xml:space="preserve">
         <source>Allow Location Access</source>
+        <target state="translated">Consenti accesso alla posizione</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allow only local requests" xml:space="preserve">
@@ -1295,6 +1365,11 @@ La modifica di questa impostazione attiverà un riavvio di FTL.</target>
         <target state="translated">Sempre scuro</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Anonymise" xml:space="preserve">
+        <source>Anonymise</source>
+        <target state="translated">Anonimizza</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="App Icon" xml:space="preserve">
         <source>App Icon</source>
         <target state="translated">Icona app</target>
@@ -1315,12 +1390,21 @@ La modifica di questa impostazione attiverà un riavvio di FTL.</target>
         <target state="translated">Password applicazione</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Apply different connection settings when you’re away from home. Works really well with a VPN (like WireGuard or Tailscale) that automatically enables based on your Wi-Fi network.&#10;&#10;Specify the SSID(s) of your local Wi-Fi networks where the default 'Home Connection' settings (previous screen) should be used. When you're not on any of these networks, the connection settings below under 'Away Connection' will be used instead.&#10;&#10;Your default 'Home Connection' will then be used on home network(s) and on devices that don’t support overrides (macOS, Apple Watch, Apple TV, widgets)." xml:space="preserve">
+      <trans-unit id="Apply different connection settings when you’re away from home. Works really well with a VPN (like WireGuard or Tailscale) that automatically enables based on your Wi-Fi network.&#10;&#10;Specify the SSID(s) of your local Wi-Fi networks where the default 'Home Connection' settings (previous screen) should be used. When you're not on any of these networks, the connection settings below under 'Away Connection' will be used instead.&#10;&#10;The Away Connection must reach the **same Pi-hole** as your Home Connection — just via a different address (e.g. a public hostname or VPN IP). Pointing it at a different Pi-hole will cause repeated sign-outs.&#10;&#10;Your default 'Home Connection' will then be used on home network(s) and on devices that don’t support overrides (macOS, Apple Watch, Apple TV, widgets)." xml:space="preserve">
         <source>Apply different connection settings when you’re away from home. Works really well with a VPN (like WireGuard or Tailscale) that automatically enables based on your Wi-Fi network.
 
 Specify the SSID(s) of your local Wi-Fi networks where the default 'Home Connection' settings (previous screen) should be used. When you're not on any of these networks, the connection settings below under 'Away Connection' will be used instead.
 
+The Away Connection must reach the **same Pi-hole** as your Home Connection — just via a different address (e.g. a public hostname or VPN IP). Pointing it at a different Pi-hole will cause repeated sign-outs.
+
 Your default 'Home Connection' will then be used on home network(s) and on devices that don’t support overrides (macOS, Apple Watch, Apple TV, widgets).</source>
+        <target state="translated">Applica impostazioni di connessione diverse quando sei fuori casa. Funziona molto bene con una VPN (come WireGuard o Tailscale) che si attiva automaticamente in base alla tua rete Wi-Fi.
+
+Specifica l’SSID (o gli SSID) delle tue reti Wi-Fi locali dove devono essere usate le impostazioni predefinite di ‘Connessione casa’ (schermata precedente). Quando non sei su nessuna di queste reti, verranno invece utilizzate le impostazioni di connessione di seguito sotto ‘Connessione esterna’.
+
+La ‘Connessione esterna’ deve raggiungere lo **stesso Pi-hole** della tua ‘Connessione casa’ — semplicemente tramite un indirizzo diverso (ad es. un nome host pubblico o un IP VPN). Puntarla a un Pi-hole diverso causerà disconnessioni ripetute.
+
+La tua ‘Connessione casa’ predefinita verrà quindi utilizzata sulla/sulle rete/reti domestica/domestiche e sui dispositivi che non supportano le sostituzioni (macOS, Apple Watch, Apple TV, widget).</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete the adlist&#10;%@?" xml:space="preserve">
@@ -1359,6 +1443,7 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
       </trans-unit>
       <trans-unit id="Are you sure you want to remove the away connection? The default home connection will be used everywhere." xml:space="preserve">
         <source>Are you sure you want to remove the away connection? The default home connection will be used everywhere.</source>
+        <target state="translated">Sei sicuro di voler rimuovere la connessione esterna? La connessione casa predefinita verrà usata ovunque.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure you want to remove this instance?" xml:space="preserve">
@@ -1369,6 +1454,11 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
       <trans-unit id="Are you sure?" xml:space="preserve">
         <source>Are you sure?</source>
         <target state="translated">Sei sicuro?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Aspect ratio" xml:space="preserve">
+        <source>Aspect ratio</source>
+        <target state="translated">Proporzioni</target>
         <note/>
       </trans-unit>
       <trans-unit id="Assigned to %lld groups" xml:space="preserve">
@@ -1403,15 +1493,12 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
       </trans-unit>
       <trans-unit id="Automatically use a different hostname/IP when away from home, for example in combination with a VPN." xml:space="preserve">
         <source>Automatically use a different hostname/IP when away from home, for example in combination with a VPN.</source>
+        <target state="translated">Usa automaticamente un nome host/IP diverso quando sei fuori casa, ad esempio in combinazione con una VPN.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Away Connection" xml:space="preserve">
         <source>Away Connection</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="BETA" xml:space="preserve">
-        <source>BETA</source>
-        <target state="translated">BETA</target>
+        <target state="translated">Connessione esterna</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bind only to interface" xml:space="preserve">
@@ -1705,6 +1792,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">Grafico</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Chart range" xml:space="preserve">
+        <source>Chart range</source>
+        <target state="translated">Intervallo grafico</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Clear all filters" xml:space="preserve">
         <source>Clear all filters</source>
         <target state="translated">Cancella tutti i filtri</target>
@@ -1819,6 +1911,11 @@ Il riconoscimento tramite IP (inclusi intervalli di sottorete) è preferito risp
         <target state="translated">Combina istanze</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Combined" xml:space="preserve">
+        <source>Combined</source>
+        <target state="translated">Combinato</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Comment" xml:space="preserve">
         <source>Comment</source>
         <target state="translated">Commento</target>
@@ -1879,6 +1976,46 @@ Il riconoscimento tramite IP (inclusi intervalli di sottorete) è preferito risp
         <target state="translated">Convertito in: (\\.|^)%@$</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Copied %lld allowlist URL(s) to the clipboard as a comma-separated list.|==|plural.one" xml:space="preserve">
+        <source>Copied %lld allowlist URL to the clipboard as a comma-separated list.</source>
+        <target state="translated">%lld URL della lista consentita copiato negli appunti come elenco separato da virgole.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copied %lld allowlist URL(s) to the clipboard as a comma-separated list.|==|plural.other" xml:space="preserve">
+        <source>Copied %lld allowlist URLs to the clipboard as a comma-separated list.</source>
+        <target state="translated">%lld URL della lista consentita copiati negli appunti come elenco separato da virgole.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copied %lld allowlist domain(s) to the clipboard as a comma-separated list.|==|plural.one" xml:space="preserve">
+        <source>Copied %lld allowlist domain to the clipboard as a comma-separated list.</source>
+        <target state="translated">%lld dominio della lista consentita copiato negli appunti come elenco separato da virgole.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copied %lld allowlist domain(s) to the clipboard as a comma-separated list.|==|plural.other" xml:space="preserve">
+        <source>Copied %lld allowlist domains to the clipboard as a comma-separated list.</source>
+        <target state="translated">%lld domini della lista consentita copiati negli appunti come elenco separato da virgole.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copied %lld blocklist URL(s) to the clipboard as a comma-separated list.|==|plural.one" xml:space="preserve">
+        <source>Copied %lld blocklist URL to the clipboard as a comma-separated list.</source>
+        <target state="translated">%lld URL della lista bloccata copiato negli appunti come elenco separato da virgole.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copied %lld blocklist URL(s) to the clipboard as a comma-separated list.|==|plural.other" xml:space="preserve">
+        <source>Copied %lld blocklist URLs to the clipboard as a comma-separated list.</source>
+        <target state="translated">%lld URL della lista bloccata copiati negli appunti come elenco separato da virgole.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copied %lld denylist domain(s) to the clipboard as a comma-separated list.|==|plural.one" xml:space="preserve">
+        <source>Copied %lld denylist domain to the clipboard as a comma-separated list.</source>
+        <target state="translated">%lld dominio della lista negata copiato negli appunti come elenco separato da virgole.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copied %lld denylist domain(s) to the clipboard as a comma-separated list.|==|plural.other" xml:space="preserve">
+        <source>Copied %lld denylist domains to the clipboard as a comma-separated list.</source>
+        <target state="translated">%lld domini della lista negata copiati negli appunti come elenco separato da virgole.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Copy" xml:space="preserve">
         <source>Copy</source>
         <target state="translated">Copia</target>
@@ -1902,11 +2039,6 @@ Il riconoscimento tramite IP (inclusi intervalli di sottorete) è preferito risp
       <trans-unit id="Copy MAC address" xml:space="preserve">
         <source>Copy MAC address</source>
         <target state="translated">Copia indirizzo MAC</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Copy Message" xml:space="preserve">
-        <source>Copy Message</source>
-        <target state="translated">Copia messaggio</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy UNIX timestamp" xml:space="preserve">
@@ -1936,6 +2068,12 @@ Il riconoscimento tramite IP (inclusi intervalli di sottorete) è preferito risp
       </trans-unit>
       <trans-unit id="Copy host" xml:space="preserve">
         <source>Copy host</source>
+        <target state="translated">Copia host</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copy message" xml:space="preserve">
+        <source>Copy message</source>
+        <target state="translated">Copia messaggio</target>
         <note/>
       </trans-unit>
       <trans-unit id="Core" translate="no" xml:space="preserve">
@@ -2068,6 +2206,11 @@ Il riconoscimento tramite IP (inclusi intervalli di sottorete) è preferito risp
         <target state="translated">Scuro</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Dark background" xml:space="preserve">
+        <source>Dark background</source>
+        <target state="translated">Sfondo scuro</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
         <source>Date</source>
         <target state="translated">Data</target>
@@ -2158,11 +2301,6 @@ Il riconoscimento tramite IP (inclusi intervalli di sottorete) è preferito risp
         <target state="translated">Destinazione</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Destination Instance" xml:space="preserve">
-        <source>Destination Instance</source>
-        <target state="translated">Istanza di destinazione</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Details" xml:space="preserve">
         <source>Details</source>
         <target state="translated">Dettagli</target>
@@ -2181,6 +2319,11 @@ Il riconoscimento tramite IP (inclusi intervalli di sottorete) è preferito risp
       <trans-unit id="Disable" xml:space="preserve">
         <source>Disable</source>
         <target state="translated">Disabilita</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Disable 5 more minutes" xml:space="preserve">
+        <source>Disable 5 more minutes</source>
+        <target state="translated">Disattiva per altri 5 minuti</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disable Widget" xml:space="preserve">
@@ -2278,6 +2421,31 @@ Il riconoscimento tramite IP (inclusi intervalli di sottorete) è preferito risp
         <target state="translated">Fatto</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Download" xml:space="preserve">
+        <source>Download</source>
+        <target state="translated">Scarica</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Download config backup" xml:space="preserve">
+        <source>Download config backup</source>
+        <target state="translated">Scarica backup della configurazione</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Downloading…" xml:space="preserve">
+        <source>Downloading…</source>
+        <target state="translated">Download in corso…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Duplicate" xml:space="preserve">
+        <source>Duplicate</source>
+        <target state="translated">Duplicato</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Duplicates already exist on %@ for the selected list type and will be skipped." xml:space="preserve">
+        <source>Duplicates already exist on %@ for the selected list type and will be skipped.</source>
+        <target state="translated">Duplicati già presenti su %@ per il tipo di lista selezionato saranno ignorati.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Duration" xml:space="preserve">
         <source>Duration</source>
         <target state="translated">Durata</target>
@@ -2296,6 +2464,11 @@ Il riconoscimento tramite IP (inclusi intervalli di sottorete) è preferito risp
       <trans-unit id="Dutch Color Scheme" xml:space="preserve">
         <source>Dutch Color Scheme</source>
         <target state="translated">Schema colori olandese</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Each domain will be converted to RegEx to involve all subdomains." xml:space="preserve">
+        <source>Each domain will be converted to RegEx to involve all subdomains.</source>
+        <target state="translated">Ogni dominio sarà convertito in RegEx per includere tutti i sottodomini.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
@@ -2378,6 +2551,11 @@ Il riconoscimento tramite IP (inclusi intervalli di sottorete) è preferito risp
         <target state="translated">Abilitando questa opzione tutti i domini saranno convertiti in RegEx per includere tutti i sottodomini.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Enabling this will convert each domain to RegEx to involve all subdomains." xml:space="preserve">
+        <source>Enabling this will convert each domain to RegEx to involve all subdomains.</source>
+        <target state="translated">L'attivazione convertirà ogni dominio in RegEx per includere tutti i sottodomini.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Enabling this will convert the domain to RegEx to involve all subdomains." xml:space="preserve">
         <source>Enabling this will convert the domain to RegEx to involve all subdomains.</source>
         <target state="translated">Abilitando questa opzione il dominio sarà convertito in RegEx per includere tutti i sottodomini.</target>
@@ -2411,6 +2589,11 @@ Il riconoscimento tramite IP (inclusi intervalli di sottorete) è preferito risp
       <trans-unit id="Error: %@" xml:space="preserve">
         <source>Error: %@</source>
         <target state="translated">Errore: %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Errors" xml:space="preserve">
+        <source>Errors</source>
+        <target state="translated">Errori</target>
         <note/>
       </trans-unit>
       <trans-unit id="Every 5 seconds" xml:space="preserve">
@@ -2448,9 +2631,34 @@ Il riconoscimento tramite IP (inclusi intervalli di sottorete) è preferito risp
         <target state="translated">Esplora tutte le query sulla tua rete e blocca rapidamente i domini.</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
+      <trans-unit id="Export" xml:space="preserve">
+        <source>Export</source>
+        <target state="translated">Esporta</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Export Adlists" xml:space="preserve">
+        <source>Export Adlists</source>
+        <target state="translated">Esporta liste di annunci</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Export Domains" xml:space="preserve">
+        <source>Export Domains</source>
+        <target state="translated">Esporta domini</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Export Pi-hole configuration" xml:space="preserve">
+        <source>Export Pi-hole configuration</source>
+        <target state="translated">Esporta configurazione Pi-hole</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="FTL" translate="no" xml:space="preserve">
         <source>FTL</source>
         <target state="translated">FTL</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="FTL logs" xml:space="preserve">
+        <source>FTL logs</source>
+        <target state="translated">Log FTL</target>
         <note/>
       </trans-unit>
       <trans-unit id="FTL version: %@." xml:space="preserve">
@@ -2486,6 +2694,11 @@ Il riconoscimento tramite IP (inclusi intervalli di sottorete) è preferito risp
       <trans-unit id="Filter &amp; Sort" xml:space="preserve">
         <source>Filter &amp; Sort</source>
         <target state="translated">Filtra e ordina</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Filter by priority" xml:space="preserve">
+        <source>Filter by priority</source>
+        <target state="translated">Filtra per priorità</target>
         <note/>
       </trans-unit>
       <trans-unit id="Filter by status" xml:space="preserve">
@@ -2572,6 +2785,11 @@ Il riconoscimento tramite IP (inclusi intervalli di sottorete) è preferito risp
         <source>Free</source>
         <target state="translated">Gratis</target>
         <note>Used on the PHR+ purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="Free on the App Store" xml:space="preserve">
+        <source>Free on the App Store</source>
+        <target state="translated">Gratuito sull'App Store</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Gambling &amp; betting" xml:space="preserve">
         <source>Gambling &amp; betting</source>
@@ -2762,6 +2980,11 @@ Per favore non condividere questo codice.</target>
         <target state="translated">Nascondi la scheda %@</target>
         <note>Accessibility hint for show/hide statistics cards.</note>
       </trans-unit>
+      <trans-unit id="Hides instance name" xml:space="preserve">
+        <source>Hides instance name</source>
+        <target state="translated">Nasconde il nome dell'istanza</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Home" xml:space="preserve">
         <source>Home</source>
         <target state="translated">Home</target>
@@ -2769,6 +2992,7 @@ Per favore non condividere questo codice.</target>
       </trans-unit>
       <trans-unit id="Home Connection" xml:space="preserve">
         <source>Home Connection</source>
+        <target state="translated">Connessione casa</target>
         <note/>
       </trans-unit>
       <trans-unit id="Home Preferences" xml:space="preserve">
@@ -2778,6 +3002,7 @@ Per favore non condividere questo codice.</target>
       </trans-unit>
       <trans-unit id="Home Wi-Fi Networks" xml:space="preserve">
         <source>Home Wi-Fi Networks</source>
+        <target state="translated">Reti Wi-Fi di casa</target>
         <note/>
       </trans-unit>
       <trans-unit id="Host" xml:space="preserve">
@@ -2888,9 +3113,39 @@ Nota: quando questa funzione è abilitata, dovrai configurare manualmente i nuov
         <target state="translated">Ignora client DHCP sconosciuti</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Import" xml:space="preserve">
+        <source>Import</source>
+        <target state="translated">Importa</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Import &amp; Export Filters" xml:space="preserve">
+        <source>Import &amp; Export Filters</source>
+        <target state="translated">Importa ed esporta filtri</target>
+        <note>Used on the PHR+ purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="Import Adlists" xml:space="preserve">
+        <source>Import Adlists</source>
+        <target state="translated">Importa liste di blocco</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Import Domains" xml:space="preserve">
+        <source>Import Domains</source>
+        <target state="translated">Importa domini</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Import or Export" xml:space="preserve">
+        <source>Import or Export</source>
+        <target state="translated">Importa o esporta</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="In Progress" xml:space="preserve">
         <source>In Progress</source>
         <target state="translated">In corso</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Include chart" xml:space="preserve">
+        <source>Include chart</source>
+        <target state="translated">Includi grafico</target>
         <note/>
       </trans-unit>
       <trans-unit id="Indefinitely" xml:space="preserve">
@@ -2958,9 +3213,19 @@ Nota: quando questa funzione è abilitata, dovrai configurare manualmente i nuov
         <target state="translated">Interfacce</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Invalid URL" xml:space="preserve">
+        <source>Invalid URL</source>
+        <target state="translated">URL non valido</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Invalid URL. Did you enter the correct host, port, and API path?" xml:space="preserve">
         <source>Invalid URL. Did you enter the correct host, port, and API path?</source>
         <target state="translated">URL non valido. Hai inserito l'host, la porta e il percorso API corretti?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Invalid entries are not http(s):// or file:// URLs and will be skipped." xml:space="preserve">
+        <source>Invalid entries are not http(s):// or file:// URLs and will be skipped.</source>
+        <target state="translated">Le voci non valide non sono URL http(s):// o file:// e saranno ignorate.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Kelvin" xml:space="preserve">
@@ -2976,6 +3241,11 @@ Nota: quando questa funzione è abilitata, dovrai configurare manualmente i nuov
       <trans-unit id="Kind of list" xml:space="preserve">
         <source>Kind of list</source>
         <target state="translated">Tipo di lista</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Landscape" xml:space="preserve">
+        <source>Landscape</source>
+        <target state="translated">Orizzontale</target>
         <note/>
       </trans-unit>
       <trans-unit id="Last Updated" xml:space="preserve">
@@ -3110,10 +3380,12 @@ Nota: quando questa funzione è abilitata, dovrai configurare manualmente i nuov
       </trans-unit>
       <trans-unit id="Location Permission Required" xml:space="preserve">
         <source>Location Permission Required</source>
+        <target state="translated">Autorizzazione posizione richiesta</target>
         <note/>
       </trans-unit>
       <trans-unit id="Location access was previously denied. Please enable it in Settings." xml:space="preserve">
         <source>Location access was previously denied. Please enable it in Settings.</source>
+        <target state="translated">L'accesso alla posizione è stato precedentemente negato. Abilitalo in Impostazioni.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Logs" xml:space="preserve">
@@ -3153,6 +3425,7 @@ Nota: quando questa funzione è abilitata, dovrai configurare manualmente i nuov
       </trans-unit>
       <trans-unit id="Manage Away Connection" xml:space="preserve">
         <source>Manage Away Connection</source>
+        <target state="translated">Gestisci connessione esterna</target>
         <note/>
       </trans-unit>
       <trans-unit id="Manage Subscription" xml:space="preserve">
@@ -3163,11 +3436,6 @@ Nota: quando questa funzione è abilitata, dovrai configurare manualmente i nuov
       <trans-unit id="Mark as 'Time Sensitive'" xml:space="preserve">
         <source>Mark as 'Time Sensitive'</source>
         <target state="translated">Segna come 'Urgente'</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Matched groups" xml:space="preserve">
-        <source>Matched groups</source>
-        <target state="translated">Gruppi abbinati</target>
         <note/>
       </trans-unit>
       <trans-unit id="Media sharing" xml:space="preserve">
@@ -3183,11 +3451,6 @@ Nota: quando questa funzione è abilitata, dovrai configurare manualmente i nuov
       <trans-unit id="Merge" xml:space="preserve">
         <source>Merge</source>
         <target state="translated">Unisci</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Messages" xml:space="preserve">
-        <source>Messages</source>
-        <target state="translated">Messaggi</target>
         <note/>
       </trans-unit>
       <trans-unit id="Metrics" xml:space="preserve">
@@ -3239,6 +3502,11 @@ Nota: quando questa funzione è abilitata, dovrai configurare manualmente i nuov
         <source>Must be unique.</source>
         <target state="translated">Deve essere unico.</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="My Pi-hole stats, shared with Pi-hole Remote https://apps.apple.com/app/id1515445551" xml:space="preserve">
+        <source>My Pi-hole stats, shared with Pi-hole Remote https://apps.apple.com/app/id1515445551</source>
+        <target state="translated">Le mie statistiche Pi-hole, condivise con Pi-hole Remote https://apps.apple.com/app/id1515445551</target>
+        <note>Pre-filled message body when sharing a Pi-hole stats image to apps that accept text (Messages, Mail, social apps). Includes the App Store link as a soft CTA.</note>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
         <source>Name</source>
@@ -3305,29 +3573,9 @@ Nota: quando questa funzione è abilitata, dovrai configurare manualmente i nuov
         <target state="translated">Nuovo servizio</target>
         <note/>
       </trans-unit>
-      <trans-unit id="New clients (destination)" xml:space="preserve">
-        <source>New clients (destination)</source>
-        <target state="translated">Nuovi client (destinazione)</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="New clients (source)" xml:space="preserve">
-        <source>New clients (source)</source>
-        <target state="translated">Nuovi client (origine)</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="New custom blocked service" xml:space="preserve">
         <source>New custom blocked service</source>
         <target state="translated">Nuovo servizio bloccato personalizzato</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="New groups (destination)" xml:space="preserve">
-        <source>New groups (destination)</source>
-        <target state="translated">Nuovi gruppi (destinazione)</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="New groups (source)" xml:space="preserve">
-        <source>New groups (source)</source>
-        <target state="translated">Nuovi gruppi (origine)</target>
         <note/>
       </trans-unit>
       <trans-unit id="NextDNS Remote" translate="no" xml:space="preserve">
@@ -3410,6 +3658,16 @@ Nota: quando questa funzione è abilitata, dovrai configurare manualmente i nuov
         <target state="translated">Nessun lease trovato.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="No log lines match the current filter." xml:space="preserve">
+        <source>No log lines match the current filter.</source>
+        <target state="translated">Nessuna riga di log corrisponde al filtro corrente.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No log lines yet." xml:space="preserve">
+        <source>No log lines yet.</source>
+        <target state="translated">Nessuna riga di log ancora.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="No matching adlists found." xml:space="preserve">
         <source>No matching adlists found.</source>
         <target state="translated">Nessuna adlist corrispondente trovata.</target>
@@ -3475,10 +3733,20 @@ Nota: quando questa funzione è abilitata, dovrai configurare manualmente i nuov
         <target state="translated">Nota: le voci adlist e dominio inserite saranno aggiunte solo al gruppo "default".</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Notification" xml:space="preserve">
+        <source>Notification</source>
+        <target state="translated">Notifica</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Notifications" xml:space="preserve">
         <source>Notifications</source>
         <target state="translated">Notifiche</target>
         <note>Used on the Notifications-settings screen.</note>
+      </trans-unit>
+      <trans-unit id="Notifications &amp; Alarms" xml:space="preserve">
+        <source>Notifications &amp; Alarms</source>
+        <target state="translated">Notifiche e allarmi</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Notifications..." xml:space="preserve">
         <source>Notifications...</source>
@@ -3544,6 +3812,11 @@ Si noti che questa impostazione influisce solo sul modo in cui l'utilizzo della 
         <target state="translated">Durata disabilitazione singolo tocco</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Only available for a single instance." xml:space="preserve">
+        <source>Only available for a single instance.</source>
+        <target state="translated">Disponibile solo per una singola istanza.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Only change these settings if you know what you're doing." xml:space="preserve">
         <source>Only change these settings if you know what you're doing.</source>
         <target state="translated">Modifica queste impostazioni solo se sai cosa stai facendo.</target>
@@ -3567,6 +3840,11 @@ Si noti che questa impostazione influisce solo sul modo in cui l'utilizzo della 
       <trans-unit id="Open Settings to allow 'Time Sensitive Notifications'" xml:space="preserve">
         <source>Open Settings to allow 'Time Sensitive Notifications'</source>
         <target state="translated">Apri Impostazioni per consentire 'Notifiche urgenti'</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open Settings to allow Alarms" xml:space="preserve">
+        <source>Open Settings to allow Alarms</source>
+        <target state="translated">Apri Impostazioni per consentire gli allarmi</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open Settings to allow banners" xml:space="preserve">
@@ -3676,6 +3954,16 @@ Si noti che questa impostazione influisce solo sul modo in cui l'utilizzo della 
         <target state="translated">Incolla</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Paste a comma-separated list of adlist URLs. Newlines and spaces are also accepted as separators." xml:space="preserve">
+        <source>Paste a comma-separated list of adlist URLs. Newlines and spaces are also accepted as separators.</source>
+        <target state="translated">Incolla un elenco di URL di liste di blocco separati da virgole. Anche i ritorni a capo e gli spazi sono accettati come separatori.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Paste a comma-separated list of domains. Newlines and spaces are also accepted as separators." xml:space="preserve">
+        <source>Paste a comma-separated list of domains. Newlines and spaces are also accepted as separators.</source>
+        <target state="translated">Incolla un elenco di domini separati da virgole. Anche i ritorni a capo e gli spazi sono accettati come separatori.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Permit all origins" xml:space="preserve">
         <source>Permit all origins</source>
         <target state="translated">Permetti tutte le origini</target>
@@ -3711,9 +3999,9 @@ Si noti che questa impostazione influisce solo sul modo in cui l'utilizzo della 
         <target state="translated">Nome dominio Pi-hole</target>
         <note>Displayed on the DNS Settings screen.</note>
       </trans-unit>
-      <trans-unit id="Pi-hole v6.0+ Required" xml:space="preserve">
-        <source>Pi-hole v6.0+ Required</source>
-        <target state="translated">Richiesto Pi-hole v6.0+</target>
+      <trans-unit id="Pick instance" xml:space="preserve">
+        <source>Pick instance</source>
+        <target state="translated">Seleziona istanza</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pink" xml:space="preserve">
@@ -3736,11 +4024,6 @@ Si noti che questa impostazione influisce solo sul modo in cui l'utilizzo della 
         <target state="translated">Per favore aggiungi un'istanza nell'app iPhone. Se l'hai già fatto, prova 'Impostazioni' &gt; 'Aiuto e feedback' &gt; 'Forza sincronizzazione Watch' e forza la chiusura dell'app Watch.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Please choose two different instances." xml:space="preserve">
-        <source>Please choose two different instances.</source>
-        <target state="translated">Per favore scegli due istanze diverse.</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Please enter a valid URL." xml:space="preserve">
         <source>Please enter a valid URL.</source>
         <target state="translated">Per favore inserisci un URL valido.</target>
@@ -3751,11 +4034,6 @@ Si noti che questa impostazione influisce solo sul modo in cui l'utilizzo della 
         <target state="translated">Per favore inviami feedback su bug o miglioramenti a developer@rocketscience-it.nl!</target>
         <note>Displayed in an alert on the support screen when someone has no email client installed.</note>
       </trans-unit>
-      <trans-unit id="Please note that Pi-hole v6.0 or higher is required for the app to work. If you're running an older version of Pi-hole, please update your Pi-hole first by running " xml:space="preserve">
-        <source>Please note that Pi-hole v6.0 or higher is required for the app to work. If you're running an older version of Pi-hole, please update your Pi-hole first by running </source>
-        <target state="translated">Nota che è richiesto Pi-hole v6.0 o superiore per far funzionare l'app. Se stai usando una versione più vecchia di Pi-hole, per favore aggiorna prima il tuo Pi-hole eseguendo </target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Please use English or Dutch for support requests!" xml:space="preserve">
         <source>Please use English or Dutch for support requests!</source>
         <target state="translated">Per favore usa inglese o olandese per le richieste di supporto!</target>
@@ -3764,6 +4042,11 @@ Si noti che questa impostazione influisce solo sul modo in cui l'utilizzo della 
       <trans-unit id="Port" xml:space="preserve">
         <source>Port</source>
         <target state="translated">Porta</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Portrait" xml:space="preserve">
+        <source>Portrait</source>
+        <target state="translated">Verticale</target>
         <note/>
       </trans-unit>
       <trans-unit id="Powerful Pi-hole Client &amp; Group management." xml:space="preserve">
@@ -3954,6 +4237,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Remove Away Connection" xml:space="preserve">
         <source>Remove Away Connection</source>
+        <target state="translated">Rimuovi connessione esterna</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remove Custom Service" xml:space="preserve">
@@ -4141,9 +4425,29 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">Impostazioni</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Share" xml:space="preserve">
+        <source>Share</source>
+        <target state="translated">Condividi</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Share Pi-hole Remote" xml:space="preserve">
         <source>Share Pi-hole Remote</source>
         <target state="translated">Condividi Pi-hole Remote</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Share Statistics" xml:space="preserve">
+        <source>Share Statistics</source>
+        <target state="translated">Condividi statistiche</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Share statistics" xml:space="preserve">
+        <source>Share statistics</source>
+        <target state="translated">Condividi statistiche</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sharing statistics is not available on this platform." xml:space="preserve">
+        <source>Sharing statistics is not available on this platform.</source>
+        <target state="translated">La condivisione delle statistiche non è disponibile su questa piattaforma.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Shopping" xml:space="preserve">
@@ -4221,6 +4525,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">Mostra legenda</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Show logs" xml:space="preserve">
+        <source>Show logs</source>
+        <target state="translated">Mostra log</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Show metrics" xml:space="preserve">
         <source>Show metrics</source>
         <target state="translated">Mostra metriche</target>
@@ -4239,6 +4548,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       <trans-unit id="Show response time" xml:space="preserve">
         <source>Show response time</source>
         <target state="translated">Mostra tempo di risposta</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show share button" xml:space="preserve">
+        <source>Show share button</source>
+        <target state="translated">Mostra pulsante Condividi</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show the %@ %@ card" xml:space="preserve">
@@ -4301,11 +4615,6 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">Origine</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Source Instance" xml:space="preserve">
-        <source>Source Instance</source>
-        <target state="translated">Istanza di origine</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Special Domain" xml:space="preserve">
         <source>Special Domain</source>
         <target state="translated">Dominio speciale</target>
@@ -4336,6 +4645,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">Velocità</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Square" xml:space="preserve">
+        <source>Square</source>
+        <target state="translated">Quadrato</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Statistics" xml:space="preserve">
         <source>Statistics</source>
         <target state="translated">Statistiche</target>
@@ -4359,6 +4673,11 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       <trans-unit id="Status" xml:space="preserve">
         <source>Status</source>
         <target state="translated">Stato</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Stop" xml:space="preserve">
+        <source>Stop</source>
+        <target state="translated">Interrompi</target>
         <note/>
       </trans-unit>
       <trans-unit id="Stop Live Activity" xml:space="preserve">
@@ -4396,12 +4715,19 @@ Displayed in the simple rectangular Lock Screen widget.</note>
         <target state="translated">Supporta lo sviluppo</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Swap source and destination" xml:space="preserve">
+        <source>Swap source and destination</source>
+        <target state="translated">Scambia origine e destinazione</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Switches to 'Away' when not connected to Wi-Fi SSID: %@" xml:space="preserve">
         <source>Switches to 'Away' when not connected to Wi-Fi SSID: %@</source>
+        <target state="translated">Passa a 'Esterno' quando non connesso al Wi-Fi SSID: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Switches to 'Home' when connected to Wi-Fi SSID: %@" xml:space="preserve">
         <source>Switches to 'Home' when connected to Wi-Fi SSID: %@</source>
+        <target state="translated">Passa a 'Casa' quando connesso al Wi-Fi SSID: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sync Instances" xml:space="preserve">
@@ -4621,13 +4947,23 @@ In cambio, apprezzerei una recensione nell'App Store o una piccola donazione �
         <target state="translated">Le opzioni rosse sono pericolose su dispositivi connessi direttamente a Internet come istanze cloud e sono sicure solo se il tuo Pi-hole è protetto da un firewall adeguato. In una tipica configurazione domestica dove il tuo Pi-hole si trova nella tua rete locale (e non hai inoltrato la porta 53 nel tuo router!) sono sicure da usare.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="These settings are used when you're not on any of the home Wi-Fi networks above (e.g. cellular, VPN, or other Wi-Fi)." xml:space="preserve">
-        <source>These settings are used when you're not on any of the home Wi-Fi networks above (e.g. cellular, VPN, or other Wi-Fi).</source>
+      <trans-unit id="These settings are used when you're not on any of the home Wi-Fi networks above (e.g. cellular, VPN, or other Wi-Fi). Must point to the **same Pi-hole** as your Home Connection, not a different server." xml:space="preserve">
+        <source>These settings are used when you're not on any of the home Wi-Fi networks above (e.g. cellular, VPN, or other Wi-Fi). Must point to the **same Pi-hole** as your Home Connection, not a different server.</source>
+        <target state="translated">Queste impostazioni vengono usate quando non sei su nessuna delle reti Wi-Fi di casa sopra elencate (ad es. rete cellulare, VPN o altro Wi-Fi). Deve puntare allo **stesso Pi-hole** della tua ‘Connessione casa’, non a un server diverso.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This action is final and cannot be undone." xml:space="preserve">
         <source>This action is final and cannot be undone.</source>
         <target state="translated">Questa azione è definitiva e non può essere annullata.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="This archive contains sensitive information about your Pi-hole installation, such as your 2FA-TOTP secret if enabled. Be careful with this file and do not share it with anyone, even if they claim to help you.&#10;&#10;Your long-term history database (pihole-FTL.db) must be backed up separately." xml:space="preserve">
+        <source>This archive contains sensitive information about your Pi-hole installation, such as your 2FA-TOTP secret if enabled. Be careful with this file and do not share it with anyone, even if they claim to help you.
+
+Your long-term history database (pihole-FTL.db) must be backed up separately.</source>
+        <target state="translated">Questo archivio contiene informazioni sensibili sulla tua installazione Pi-hole, come il segreto 2FA-TOTP se abilitato. Fai attenzione con questo file e non condividerlo con nessuno, anche se affermano di aiutarti.
+
+Il database della cronologia a lungo termine (pihole-FTL.db) deve essere sottoposto a backup separatamente.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This device is probably not using Pi-hole, because no queries were found." xml:space="preserve">
@@ -4659,6 +4995,9 @@ In cambio, apprezzerei una recensione nell'App Store o una piccola donazione �
         <source>To detect your Wi-Fi network name, Apple requires 'While Using App' location permission. This is a system requirement for reading Wi-Fi information.
 
 Your location is never stored or transmitted by Pi-hole Remote.</source>
+        <target state="translated">Per rilevare il nome della tua rete Wi-Fi, Apple richiede l'autorizzazione alla posizione 'Durante l'utilizzo'. Questo è un requisito di sistema per leggere le informazioni Wi-Fi.
+
+La tua posizione non viene mai memorizzata o trasmessa da Pi-hole Remote.</target>
         <note/>
       </trans-unit>
       <trans-unit id="To re-sync after purging, edit &amp; save an instance." xml:space="preserve">
@@ -4850,6 +5189,7 @@ Disattivalo per consentire l'accesso.</target>
       </trans-unit>
       <trans-unit id="Upgrade to PHR+ to automatically use a different hostname/IP when away from home, for example in combination with a VPN." xml:space="preserve">
         <source>Upgrade to PHR+ to automatically use a different hostname/IP when away from home, for example in combination with a VPN.</source>
+        <target state="translated">Passa a PHR+ per usare automaticamente un nome host/IP diverso quando sei fuori casa, ad esempio in combinazione con una VPN.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Upper temp limit" xml:space="preserve">
@@ -4889,6 +5229,7 @@ Disattivalo per consentire l'accesso.</target>
       </trans-unit>
       <trans-unit id="Used when **not** connected to Wi-Fi SSID: %@" xml:space="preserve">
         <source>Used when **not** connected to Wi-Fi SSID: %@</source>
+        <target state="translated">Usato quando **non** connesso al Wi-Fi SSID: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Users who purchased the app while it was paid upfront instead of free with in-app purchases, can get PHR+ Lifetime for free as a thank you. Please press the button below to let the app check if you're entitled to it. This will show a native iOS alert to restore the purchase." xml:space="preserve">
@@ -4926,6 +5267,21 @@ Disattivalo per consentire l'accesso.</target>
         <target state="translated">Versioni</target>
         <note/>
       </trans-unit>
+      <trans-unit id="View FTL logs" xml:space="preserve">
+        <source>View FTL logs</source>
+        <target state="translated">Visualizza i log di FTL</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="View Webserver logs" xml:space="preserve">
+        <source>View Webserver logs</source>
+        <target state="translated">Visualizza i log del webserver</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="View dnsmasq logs" xml:space="preserve">
+        <source>View dnsmasq logs</source>
+        <target state="translated">Visualizza i log di dnsmasq</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Visible on Home-tab" xml:space="preserve">
         <source>Visible on Home-tab</source>
         <target state="translated">Visibile nella scheda Home</target>
@@ -4934,6 +5290,11 @@ Disattivalo per consentire l'accesso.</target>
       <trans-unit id="Waiting for queries..." xml:space="preserve">
         <source>Waiting for queries...</source>
         <target state="translated">In attesa di query...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Warnings" xml:space="preserve">
+        <source>Warnings</source>
+        <target state="translated">Avvisi</target>
         <note/>
       </trans-unit>
       <trans-unit id="Watch App Not Installed" xml:space="preserve">
@@ -4955,6 +5316,11 @@ Disattivalo per consentire l'accesso.</target>
         <source>Webserver</source>
         <target state="translated">Webserver</target>
         <note>Used on the 'System Settings' screen.</note>
+      </trans-unit>
+      <trans-unit id="Webserver logs" xml:space="preserve">
+        <source>Webserver logs</source>
+        <target state="translated">Log del server web</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Welcome!" xml:space="preserve">
         <source>Welcome!</source>
@@ -4986,6 +5352,7 @@ La posizione predefinita del tuo certificato è sul tuo dispositivo: /etc/pihole
       </trans-unit>
       <trans-unit id="Wi-Fi network name (SSID)" xml:space="preserve">
         <source>Wi-Fi network name (SSID)</source>
+        <target state="translated">Nome rete Wi-Fi (SSID)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Widgets" xml:space="preserve">
@@ -5266,6 +5633,15 @@ La posizione predefinita del tuo certificato è sul tuo dispositivo: /etc/pihole
       <trans-unit id="dismiss" xml:space="preserve">
         <source>Dismiss</source>
         <target state="translated">Anulla</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dnsmasq" translate="no" xml:space="preserve">
+        <source>dnsmasq</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dnsmasq logs" xml:space="preserve">
+        <source>dnsmasq logs</source>
+        <target state="translated">Log dnsmasq</target>
         <note/>
       </trans-unit>
       <trans-unit id="enable more than 1 Blocked Service." xml:space="preserve">
@@ -5666,7 +6042,7 @@ Joost</target>
   </file>
   <file original="WidgetInstance/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="it">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">

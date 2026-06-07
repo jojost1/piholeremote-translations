@@ -3,10 +3,10 @@
   "project" : "Pi-hole Remote.xcodeproj",
   "targetLocale" : "vi",
   "toolInfo" : {
-    "toolBuildNumber" : "17E192",
+    "toolBuildNumber" : "17F42",
     "toolID" : "com.apple.dt.xcode",
     "toolName" : "Xcode",
-    "toolVersion" : "26.4"
+    "toolVersion" : "26.5"
   },
   "version" : "1.0"
 }

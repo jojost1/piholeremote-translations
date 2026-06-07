@@ -25,6 +25,9 @@
     "% blocked" : {
       "comment" : "Option for the blocking-card, used on the Preferences > Home screen."
     },
+    "%@ - Pi-hole Remote" : {
+      "comment" : "Title used as the share-sheet preview heading and the subject of an email when sharing a Pi-hole stats image. The placeholder is the instance name, 'Combined', or 'Pi-hole' when anonymise is enabled."
+    },
     "%@ %@" : {
       "localizations" : {
         "en" : {
@@ -98,6 +101,28 @@
         }
       }
     },
+    "%lld instances" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld instance"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld instances"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "%lld regex entries" : {
       "localizations" : {
         "en" : {
@@ -122,6 +147,16 @@
     },
     "%lld total" : {
       "comment" : "Displays the number of total clients in the Home-tab 'Clients' card."
+    },
+    "%lld will be added · %lld duplicates ignored" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld will be added · %2$lld duplicates ignored"
+          }
+        }
+      }
     },
     "• Client & Group Management\n• Change DHCP & DNS Settings\n• Custom Blocked Services\n• Interactive Widgets\n• Multiple Instances\n• And much more!" : {
       "comment" : "Displayed in the onboarding."
@@ -156,6 +191,36 @@
     "4. You can find the settings in the **Webserver** section" : {
       "comment" : "Used on Preferences > Home to explain how to change the temperature unit."
     },
+    "6h" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "6h"
+          }
+        }
+      }
+    },
+    "12h" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "12h"
+          }
+        }
+      }
+    },
+    "24h" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "24h"
+          }
+        }
+      }
+    },
     "60" : {
       "comment" : "Placeholder for the dnsRateLimitInterval textfield on the DNS settings screen.",
       "shouldTranslate" : false
@@ -175,6 +240,9 @@
     },
     "A monthly recurring payment" : {
 
+    },
+    "A standard notification will appear when blocking re-enables." : {
+      "comment" : "Used on the Notifications-settings screen."
     },
     "A yearly recurring payment" : {
 
@@ -339,6 +407,9 @@
     "Adlist" : {
 
     },
+    "Adlist URLs" : {
+
+    },
     "Adlists" : {
       "comment" : "Option for the blocklist-card, used on the Preferences > Home screen."
     },
@@ -355,6 +426,18 @@
 
     },
     "AI services" : {
+
+    },
+    "Alarm" : {
+
+    },
+    "Alarms require PHR+." : {
+      "comment" : "Used on the Notifications-settings screen."
+    },
+    "Alarms take over the screen when blocking re-enables, with sound that ignores silent mode." : {
+      "comment" : "Used on the Notifications-settings screen."
+    },
+    "Alert Style" : {
 
     },
     "All" : {
@@ -419,6 +502,16 @@
     },
     "Always Dark" : {
 
+    },
+    "Anonymise" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anonymise"
+          }
+        }
+      }
     },
     "API path" : {
 
@@ -499,7 +592,7 @@
     "Application Password" : {
 
     },
-    "Apply different connection settings when you’re away from home. Works really well with a VPN (like WireGuard or Tailscale) that automatically enables based on your Wi-Fi network.\n\nSpecify the SSID(s) of your local Wi-Fi networks where the default 'Home Connection' settings (previous screen) should be used. When you're not on any of these networks, the connection settings below under 'Away Connection' will be used instead.\n\nYour default 'Home Connection' will then be used on home network(s) and on devices that don’t support overrides (macOS, Apple Watch, Apple TV, widgets)." : {
+    "Apply different connection settings when you’re away from home. Works really well with a VPN (like WireGuard or Tailscale) that automatically enables based on your Wi-Fi network.\n\nSpecify the SSID(s) of your local Wi-Fi networks where the default 'Home Connection' settings (previous screen) should be used. When you're not on any of these networks, the connection settings below under 'Away Connection' will be used instead.\n\nThe Away Connection must reach the **same Pi-hole** as your Home Connection — just via a different address (e.g. a public hostname or VPN IP). Pointing it at a different Pi-hole will cause repeated sign-outs.\n\nYour default 'Home Connection' will then be used on home network(s) and on devices that don’t support overrides (macOS, Apple Watch, Apple TV, widgets)." : {
 
     },
     "Are you sure you want to delete the adlist\n%@?" : {
@@ -529,6 +622,16 @@
     "Are you sure?" : {
 
     },
+    "Aspect ratio" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aspect ratio"
+          }
+        }
+      }
+    },
     "Assigned to %lld groups" : {
       "comment" : "Accessibility label."
     },
@@ -555,9 +658,6 @@
     },
     "Away Connection" : {
 
-    },
-    "BETA" : {
-      "extractionState" : "stale"
     },
     "Bind only to interface" : {
 
@@ -918,6 +1018,16 @@
     "Chart" : {
 
     },
+    "Chart range" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chart range"
+          }
+        }
+      }
+    },
     "Clear all filters" : {
 
     },
@@ -1001,6 +1111,16 @@
     "Combine Instances" : {
 
     },
+    "Combined" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Combined"
+          }
+        }
+      }
+    },
     "Comment" : {
 
     },
@@ -1036,6 +1156,94 @@
     },
     "Converted to: (\\\\.|^)%@$" : {
 
+    },
+    "Copied %lld allowlist domain(s) to the clipboard as a comma-separated list." : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Copied %lld allowlist domain to the clipboard as a comma-separated list."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Copied %lld allowlist domains to the clipboard as a comma-separated list."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Copied %lld allowlist URL(s) to the clipboard as a comma-separated list." : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Copied %lld allowlist URL to the clipboard as a comma-separated list."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Copied %lld allowlist URLs to the clipboard as a comma-separated list."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Copied %lld blocklist URL(s) to the clipboard as a comma-separated list." : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Copied %lld blocklist URL to the clipboard as a comma-separated list."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Copied %lld blocklist URLs to the clipboard as a comma-separated list."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Copied %lld denylist domain(s) to the clipboard as a comma-separated list." : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Copied %lld denylist domain to the clipboard as a comma-separated list."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Copied %lld denylist domains to the clipboard as a comma-separated list."
+                }
+              }
+            }
+          }
+        }
+      }
     },
     "copy" : {
       "comment" : "MARK: Context Menus",
@@ -1075,7 +1283,7 @@
     "Copy MAC address" : {
 
     },
-    "Copy Message" : {
+    "Copy message" : {
 
     },
     "Copy UNIX timestamp" : {
@@ -1125,6 +1333,16 @@
     },
     "Dark" : {
 
+    },
+    "Dark background" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dark background"
+          }
+        }
+      }
     },
     "Date" : {
 
@@ -1340,9 +1558,6 @@
     "Destination" : {
 
     },
-    "Destination Instance" : {
-      "extractionState" : "stale"
-    },
     "Details" : {
 
     },
@@ -1371,6 +1586,9 @@
 
     },
     "Disable" : {
+
+    },
+    "Disable 5 more minutes" : {
 
     },
     "Disable blocking for a certain duration." : {
@@ -1454,6 +1672,12 @@
     "DNS: %@" : {
       "shouldTranslate" : false
     },
+    "dnsmasq" : {
+      "shouldTranslate" : false
+    },
+    "dnsmasq logs" : {
+
+    },
     "DNSSEC" : {
 
     },
@@ -1484,6 +1708,21 @@
     "Done" : {
 
     },
+    "Download" : {
+
+    },
+    "Download config backup" : {
+
+    },
+    "Downloading…" : {
+
+    },
+    "Duplicate" : {
+
+    },
+    "Duplicates already exist on %@ for the selected list type and will be skipped." : {
+
+    },
     "Duration" : {
 
     },
@@ -1494,6 +1733,9 @@
 
     },
     "Dutch Color Scheme" : {
+
+    },
+    "Each domain will be converted to RegEx to involve all subdomains." : {
 
     },
     "Edit" : {
@@ -1547,6 +1789,9 @@
     "Enabling this will convert all domains to RegEx to involve all subdomains." : {
 
     },
+    "Enabling this will convert each domain to RegEx to involve all subdomains." : {
+
+    },
     "Enabling this will convert the domain to RegEx to involve all subdomains." : {
 
     },
@@ -1566,6 +1811,9 @@
 
     },
     "Error: %@" : {
+
+    },
+    "Errors" : {
 
     },
     "Every 5 seconds" : {
@@ -1592,6 +1840,39 @@
     "Explore all queries on your network and quickly block domains." : {
       "comment" : "Displayed in the onboarding."
     },
+    "Export" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export"
+          }
+        }
+      }
+    },
+    "Export Adlists" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export Adlists"
+          }
+        }
+      }
+    },
+    "Export Domains" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export Domains"
+          }
+        }
+      }
+    },
+    "Export Pi-hole configuration" : {
+
+    },
     "Fahrenheit" : {
       "comment" : "Used on the 'System Settings' screen."
     },
@@ -1611,6 +1892,9 @@
 
     },
     "Filter & Sort" : {
+
+    },
+    "Filter by priority" : {
 
     },
     "Filter by status" : {
@@ -1664,8 +1948,21 @@
     "Free" : {
       "comment" : "Used on the PHR+ purchase screen."
     },
+    "Free on the App Store" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Free on the App Store"
+          }
+        }
+      }
+    },
     "FTL" : {
       "shouldTranslate" : false
+    },
+    "FTL logs" : {
+
     },
     "FTL version: %@." : {
 
@@ -1782,6 +2079,16 @@
     },
     "Hide the %@ card" : {
       "comment" : "Accessibility hint for show/hide statistics cards."
+    },
+    "Hides instance name" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hides instance name"
+          }
+        }
+      }
     },
     "Home" : {
 
@@ -1923,8 +2230,33 @@
     "Ignore unknown DHCP clients" : {
 
     },
+    "Import" : {
+
+    },
+    "Import & Export Filters" : {
+      "comment" : "Used on the PHR+ purchase screen."
+    },
+    "Import Adlists" : {
+
+    },
+    "Import Domains" : {
+
+    },
+    "Import or Export" : {
+
+    },
     "In Progress" : {
 
+    },
+    "Include chart" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Include chart"
+          }
+        }
+      }
     },
     "indefinitely" : {
       "localizations" : {
@@ -1985,6 +2317,12 @@
     "Interfaces" : {
 
     },
+    "Invalid entries are not http(s):// or file:// URLs and will be skipped." : {
+
+    },
+    "Invalid URL" : {
+
+    },
     "Invalid URL. Did you enter the correct host, port, and API path?" : {
 
     },
@@ -2020,6 +2358,16 @@
     },
     "lan" : {
       "shouldTranslate" : false
+    },
+    "Landscape" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Landscape"
+          }
+        }
+      }
     },
     "Last fetched" : {
 
@@ -2160,9 +2508,6 @@
     "Mark as 'Time Sensitive'" : {
 
     },
-    "Matched groups" : {
-      "extractionState" : "stale"
-    },
     "Media sharing" : {
 
     },
@@ -2171,9 +2516,6 @@
     },
     "Merge" : {
 
-    },
-    "Messages" : {
-      "extractionState" : "stale"
     },
     "Metrics" : {
 
@@ -2205,6 +2547,17 @@
     "Must be unique." : {
 
     },
+    "My Pi-hole stats, shared with Pi-hole Remote https://apps.apple.com/app/id1515445551" : {
+      "comment" : "Pre-filled message body when sharing a Pi-hole stats image to apps that accept text (Messages, Mail, social apps). Includes the App Store link as a soft CTA.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My Pi-hole stats, shared with Pi-hole Remote https://apps.apple.com/app/id1515445551"
+          }
+        }
+      }
+    },
     "Name" : {
 
     },
@@ -2229,12 +2582,6 @@
     "New Client" : {
 
     },
-    "New clients (destination)" : {
-      "extractionState" : "stale"
-    },
-    "New clients (source)" : {
-      "extractionState" : "stale"
-    },
     "New custom blocked service" : {
 
     },
@@ -2243,12 +2590,6 @@
     },
     "New Groups" : {
 
-    },
-    "New groups (destination)" : {
-      "extractionState" : "stale"
-    },
-    "New groups (source)" : {
-      "extractionState" : "stale"
     },
     "New Instance" : {
 
@@ -2296,6 +2637,12 @@
 
     },
     "No leases found." : {
+
+    },
+    "No log lines match the current filter." : {
+
+    },
+    "No log lines yet." : {
 
     },
     "No matching adlists found." : {
@@ -2346,8 +2693,14 @@
     "Note: adlist & domain entries that are inserted will be added to the group \"default\" only." : {
 
     },
+    "Notification" : {
+
+    },
     "Notifications" : {
       "comment" : "Used on the Notifications-settings screen."
+    },
+    "Notifications & Alarms" : {
+
     },
     "Notifications..." : {
 
@@ -2426,6 +2779,16 @@
         }
       }
     },
+    "Only available for a single instance." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Only available for a single instance."
+          }
+        }
+      }
+    },
     "Only change these settings if you know what you're doing." : {
 
     },
@@ -2439,6 +2802,9 @@
 
     },
     "Open Settings to allow 'Time Sensitive Notifications'" : {
+
+    },
+    "Open Settings to allow Alarms" : {
 
     },
     "Open Settings to allow banners" : {
@@ -2487,6 +2853,12 @@
 
     },
     "Paste" : {
+
+    },
+    "Paste a comma-separated list of adlist URLs. Newlines and spaces are also accepted as separators." : {
+
+    },
+    "Paste a comma-separated list of domains. Newlines and spaces are also accepted as separators." : {
 
     },
     "Permit all origins" : {
@@ -2539,11 +2911,11 @@
       "comment" : "Used in the Settings-tab.",
       "shouldTranslate" : false
     },
-    "Pi-hole v6.0+ Required" : {
-      "extractionState" : "stale"
-    },
     "pi.hole" : {
       "comment" : "Placeholder for the hostname textfield on the instance settings screen."
+    },
+    "Pick instance" : {
+
     },
     "pihole -up" : {
       "extractionState" : "stale",
@@ -2561,23 +2933,27 @@
     "Please add an instance in the iPhone app. If you did that already, please try 'Settings' > 'Help & Feedback' > 'Force Watch Sync' and do a force quit of the Watch app." : {
 
     },
-    "Please choose two different instances." : {
-
-    },
     "Please enter a valid URL." : {
 
     },
     "Please mail me with any feedback about bugs or improvements at developer@rocketscience-it.nl!" : {
       "comment" : "Displayed in an alert on the support screen when someone has no email client installed."
     },
-    "Please note that Pi-hole v6.0 or higher is required for the app to work. If you're running an older version of Pi-hole, please update your Pi-hole first by running " : {
-      "extractionState" : "stale"
-    },
     "Please use English or Dutch for support requests!" : {
       "comment" : "Displayed on the support screen."
     },
     "Port" : {
 
+    },
+    "Portrait" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Portrait"
+          }
+        }
+      }
     },
     "Powerful Pi-hole Client & Group management." : {
       "comment" : "Displayed in the onboarding."
@@ -2941,8 +3317,48 @@
         }
       }
     },
+    "Share" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share"
+          }
+        }
+      }
+    },
     "Share Pi-hole Remote" : {
 
+    },
+    "Share statistics" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share statistics"
+          }
+        }
+      }
+    },
+    "Share Statistics" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share Statistics"
+          }
+        }
+      }
+    },
+    "Sharing statistics is not available on this platform." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sharing statistics is not available on this platform."
+          }
+        }
+      }
     },
     "Shopping" : {
 
@@ -2989,6 +3405,9 @@
     "Show Live Log" : {
 
     },
+    "Show logs" : {
+
+    },
     "Show metrics" : {
 
     },
@@ -3000,6 +3419,16 @@
     },
     "Show response time" : {
 
+    },
+    "Show share button" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show share button"
+          }
+        }
+      }
     },
     "Show the %@ %@ card" : {
       "comment" : "Accessibility hint for show/hide statistics cards.",
@@ -3058,9 +3487,6 @@
     "Source" : {
 
     },
-    "Source Instance" : {
-      "extractionState" : "stale"
-    },
     "Special Domain" : {
 
     },
@@ -3079,6 +3505,16 @@
     "Speed" : {
 
     },
+    "Square" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Square"
+          }
+        }
+      }
+    },
     "Statistics" : {
 
     },
@@ -3092,6 +3528,9 @@
 
     },
     "Status" : {
+
+    },
+    "Stop" : {
 
     },
     "Stop Live Activity" : {
@@ -3113,6 +3552,9 @@
 
     },
     "Support Development" : {
+
+    },
+    "Swap source and destination" : {
 
     },
     "Switches to 'Away' when not connected to Wi-Fi SSID: %@" : {
@@ -3248,10 +3690,13 @@
     "The red options are dangerous on devices directly connected to the Internet such as cloud instances and are only safe if your Pi-hole is properly firewalled. In a typical at-home setup where your Pi-hole is located within your local network (and you have not forwarded port 53 in your router!) they are safe to use." : {
 
     },
-    "These settings are used when you're not on any of the home Wi-Fi networks above (e.g. cellular, VPN, or other Wi-Fi)." : {
+    "These settings are used when you're not on any of the home Wi-Fi networks above (e.g. cellular, VPN, or other Wi-Fi). Must point to the **same Pi-hole** as your Home Connection, not a different server." : {
 
     },
     "This action is final and cannot be undone." : {
+
+    },
+    "This archive contains sensitive information about your Pi-hole installation, such as your 2FA-TOTP secret if enabled. Be careful with this file and do not share it with anyone, even if they claim to help you.\n\nYour long-term history database (pihole-FTL.db) must be backed up separately." : {
 
     },
     "This device is probably not using Pi-hole, because no queries were found." : {
@@ -3610,13 +4055,25 @@
     "Versions" : {
 
     },
+    "View dnsmasq logs" : {
+
+    },
+    "View FTL logs" : {
+
+    },
     "view more queries." : {
+
+    },
+    "View Webserver logs" : {
 
     },
     "Visible on Home-tab" : {
 
     },
     "Waiting for queries..." : {
+
+    },
+    "Warnings" : {
 
     },
     "Watch App Not Installed" : {
@@ -3661,6 +4118,9 @@
     },
     "Webserver" : {
       "comment" : "Used on the 'System Settings' screen."
+    },
+    "Webserver logs" : {
+
     },
     "Welcome!" : {
       "comment" : "Onboarding subtitle."
