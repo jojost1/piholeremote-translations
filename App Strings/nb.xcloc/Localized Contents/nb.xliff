@@ -144,6 +144,7 @@
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
         <source>Pi-hole Remote uses the local network to connect with your Pi-hole instances.</source>
+        <target state="translated">Pi-hole Remote bruker det lokale nettverket for å koble til Pi-hole-instansene dine.</target>
         <note>Privacy - Local Network Usage Description</note>
       </trans-unit>
     </body>
@@ -709,6 +710,7 @@
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
         <source>Pi-hole Remote uses your location to detect your Wi-Fi network name, so it can automatically connect to your Pi-hole using the correct address. Your location is never stored or transmitted.</source>
+        <target state="translated">Pi-hole Remote bruker posisjonen din til å oppdage navnet på Wi‑Fi-nettverket ditt, slik at appen automatisk kan koble til Pi-hole-enheten din ved hjelp av riktig adresse. Posisjonen din blir aldri lagret eller sendt videre.</target>
         <note>Privacy - Location When In Use Usage Description</note>
       </trans-unit>
     </body>
@@ -1008,6 +1010,7 @@ Endring av denne innstillingen vil utløse en omstart av FTL.</target>
       </trans-unit>
       <trans-unit id="Add Current Wi-Fi (%@)" xml:space="preserve">
         <source>Add Current Wi-Fi (%@)</source>
+        <target state="translated">Legg til gjeldende Wi‑Fi (%@)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add Custom Services" xml:space="preserve">
@@ -1097,6 +1100,7 @@ Endring av denne innstillingen vil utløse en omstart av FTL.</target>
       </trans-unit>
       <trans-unit id="Add the Wi-Fi networks where the 'Home Connection' settings (local IP) should be used." xml:space="preserve">
         <source>Add the Wi-Fi networks where the 'Home Connection' settings (local IP) should be used.</source>
+        <target state="translated">Legg til Wi‑Fi-nettverkene der innstillingene for «Hjemmetilkobling» (lokal IP-adresse) skal brukes.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add to allow-list..." xml:space="preserve">
@@ -1146,6 +1150,7 @@ Endring av denne innstillingen vil utløse en omstart av FTL.</target>
       </trans-unit>
       <trans-unit id="Add..." xml:space="preserve">
         <source>Add...</source>
+        <target state="translated">Legg til...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Added on" xml:space="preserve">
@@ -1265,6 +1270,7 @@ Endring av denne innstillingen vil utløse en omstart av FTL.</target>
       </trans-unit>
       <trans-unit id="Allow Location Access" xml:space="preserve">
         <source>Allow Location Access</source>
+        <target state="translated">Tillat posisjonstilgang</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allow only local requests" xml:space="preserve">
@@ -1348,6 +1354,11 @@ Endring av denne innstillingen vil utløse en omstart av FTL.</target>
 Specify the SSID(s) of your local Wi-Fi networks where the default 'Home Connection' settings (previous screen) should be used. When you're not on any of these networks, the connection settings below under 'Away Connection' will be used instead.
 
 Your default 'Home Connection' will then be used on home network(s) and on devices that don’t support overrides (macOS, Apple Watch, Apple TV, widgets).</source>
+        <target state="translated">Bruk ulike tilkoblingsinnstillinger når du er borte fra hjemmet. Fungerer veldig godt med en VPN (som WireGuard eller Tailscale) som automatisk aktiveres basert på Wi-Fi-nettverket ditt.
+
+Angi SSID-ene til de lokale Wi-Fi-nettverkene der standardinnstillingene for «Hjemmetilkobling» (forrige skjerm) skal brukes. Når du ikke er på noen av disse nettverkene, vil tilkoblingsinnstillingene nedenfor under «Bortetilkobling» bli brukt i stedet.
+
+Standard «Hjemmetilkobling» vil da bli brukt på hjemmenettverk og på enheter som ikke støtter overstyring (macOS, Apple Watch, Apple TV, widgeter).</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete the adlist&#10;%@?" xml:space="preserve">
@@ -1386,6 +1397,7 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
       </trans-unit>
       <trans-unit id="Are you sure you want to remove the away connection? The default home connection will be used everywhere." xml:space="preserve">
         <source>Are you sure you want to remove the away connection? The default home connection will be used everywhere.</source>
+        <target state="translated">Er du sikker på at du vil fjerne bortetilkoblingen? Standard hjemmetilkobling vil da bli brukt overalt.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are you sure you want to remove this instance?" xml:space="preserve">
@@ -1430,10 +1442,12 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
       </trans-unit>
       <trans-unit id="Automatically use a different hostname/IP when away from home, for example in combination with a VPN." xml:space="preserve">
         <source>Automatically use a different hostname/IP when away from home, for example in combination with a VPN.</source>
+        <target state="translated">Bruk automatisk et annet vertsnavn/IP-adresse når du er borte fra hjemmet, for eksempel i kombinasjon med en VPN.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Away Connection" xml:space="preserve">
         <source>Away Connection</source>
+        <target state="translated">Bortetilkobling</target>
         <note/>
       </trans-unit>
       <trans-unit id="BETA" xml:space="preserve">
@@ -1966,6 +1980,7 @@ Merk at gjenkjenning via IP-adresser (inkludert subnett) foretrekkes fremfor MAC
       </trans-unit>
       <trans-unit id="Copy host" xml:space="preserve">
         <source>Copy host</source>
+        <target state="translated">Kopier vert</target>
         <note/>
       </trans-unit>
       <trans-unit id="Core" translate="no" xml:space="preserve">
@@ -2797,6 +2812,7 @@ Del ikke denne koden med andre.</target>
       </trans-unit>
       <trans-unit id="Home Connection" xml:space="preserve">
         <source>Home Connection</source>
+        <target state="translated">Hjemmetilkobling</target>
         <note/>
       </trans-unit>
       <trans-unit id="Home Preferences" xml:space="preserve">
@@ -2806,6 +2822,7 @@ Del ikke denne koden med andre.</target>
       </trans-unit>
       <trans-unit id="Home Wi-Fi Networks" xml:space="preserve">
         <source>Home Wi-Fi Networks</source>
+        <target state="translated">Hjemme-Wi-Fi-nettverk</target>
         <note/>
       </trans-unit>
       <trans-unit id="Host" xml:space="preserve">
@@ -3138,10 +3155,12 @@ Merk: Når denne funksjonen er aktivert, må du konfigurere nye klienter manuelt
       </trans-unit>
       <trans-unit id="Location Permission Required" xml:space="preserve">
         <source>Location Permission Required</source>
+        <target state="translated">Posisjonstillatelse kreves</target>
         <note/>
       </trans-unit>
       <trans-unit id="Location access was previously denied. Please enable it in Settings." xml:space="preserve">
         <source>Location access was previously denied. Please enable it in Settings.</source>
+        <target state="translated">Posisjonstilgang ble tidligere avslått. Vennligst aktiver den i Innstillinger.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Logs" xml:space="preserve">
@@ -3181,6 +3200,7 @@ Merk: Når denne funksjonen er aktivert, må du konfigurere nye klienter manuelt
       </trans-unit>
       <trans-unit id="Manage Away Connection" xml:space="preserve">
         <source>Manage Away Connection</source>
+        <target state="translated">Administrer bortetilkobling</target>
         <note/>
       </trans-unit>
       <trans-unit id="Manage Subscription" xml:space="preserve">
@@ -3983,6 +4003,7 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Remove Away Connection" xml:space="preserve">
         <source>Remove Away Connection</source>
+        <target state="translated">Fjern bortetilkobling</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remove Custom Service" xml:space="preserve">
@@ -4424,10 +4445,12 @@ Displayed in the simple rectangular Lock Screen widget.</note>
       </trans-unit>
       <trans-unit id="Switches to 'Away' when not connected to Wi-Fi SSID: %@" xml:space="preserve">
         <source>Switches to 'Away' when not connected to Wi-Fi SSID: %@</source>
+        <target state="translated">Bytter til «Borte» når du ikke er koblet til Wi-Fi-SSID: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Switches to 'Home' when connected to Wi-Fi SSID: %@" xml:space="preserve">
         <source>Switches to 'Home' when connected to Wi-Fi SSID: %@</source>
+        <target state="translated">Bytter til «Hjem» når du er koblet til Wi-Fi-SSID: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sync Instances" xml:space="preserve">
@@ -4654,6 +4677,7 @@ Til gjengjeld hadde jeg satt stor pris på om du legger igjen en vurdering i App
       </trans-unit>
       <trans-unit id="These settings are used when you're not on any of the home Wi-Fi networks above (e.g. cellular, VPN, or other Wi-Fi)." xml:space="preserve">
         <source>These settings are used when you're not on any of the home Wi-Fi networks above (e.g. cellular, VPN, or other Wi-Fi).</source>
+        <target state="translated">Disse innstillingene brukes når du ikke er på noen av hjemme-Wi-Fi-nettverkene ovenfor (f.eks. mobilnett, VPN eller annet Wi-Fi).</target>
         <note/>
       </trans-unit>
       <trans-unit id="This action is final and cannot be undone." xml:space="preserve">
@@ -4690,6 +4714,9 @@ Til gjengjeld hadde jeg satt stor pris på om du legger igjen en vurdering i App
         <source>To detect your Wi-Fi network name, Apple requires 'While Using App' location permission. This is a system requirement for reading Wi-Fi information.
 
 Your location is never stored or transmitted by Pi-hole Remote.</source>
+        <target state="translated">For å oppdage navnet på Wi-Fi-nettverket ditt krever Apple tillatelsen «Mens appen er i bruk» for posisjon. Dette er et systemkrav for å kunne lese Wi-Fi-informasjon.
+
+Posisjonen din blir aldri lagret eller sendt videre av Pi-hole Remote.</target>
         <note/>
       </trans-unit>
       <trans-unit id="To re-sync after purging, edit &amp; save an instance." xml:space="preserve">
@@ -4881,6 +4908,7 @@ Slå den AV for å tillate tilgang.</target>
       </trans-unit>
       <trans-unit id="Upgrade to PHR+ to automatically use a different hostname/IP when away from home, for example in combination with a VPN." xml:space="preserve">
         <source>Upgrade to PHR+ to automatically use a different hostname/IP when away from home, for example in combination with a VPN.</source>
+        <target state="translated">Oppgrader til PHR+ for automatisk å bruke et annet vertsnavn/IP-adresse når du er borte fra hjemmet, for eksempel i kombinasjon med en VPN.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Upper temp limit" xml:space="preserve">
@@ -4920,6 +4948,7 @@ Slå den AV for å tillate tilgang.</target>
       </trans-unit>
       <trans-unit id="Used when **not** connected to Wi-Fi SSID: %@" xml:space="preserve">
         <source>Used when **not** connected to Wi-Fi SSID: %@</source>
+        <target state="translated">Brukes når du **ikke** er koblet til Wi-Fi-SSID: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Users who purchased the app while it was paid upfront instead of free with in-app purchases, can get PHR+ Lifetime for free as a thank you. Please press the button below to let the app check if you're entitled to it. This will show a native iOS alert to restore the purchase." xml:space="preserve">
@@ -5016,6 +5045,7 @@ Standardplasseringen for sertifikatet er på enheten din: /etc/pihole/tls.pem. S
       </trans-unit>
       <trans-unit id="Wi-Fi network name (SSID)" xml:space="preserve">
         <source>Wi-Fi network name (SSID)</source>
+        <target state="translated">Wi-Fi-nettverksnavn (SSID)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Widgets" xml:space="preserve">
